@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="Cache-control" content="public">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <!-- site info -->
+    <meta name="author" content="Jeremy Warner">
+    <meta name="robots" content="index, follow">
+    <meta name="keywords" content="jeremy warner, berkeley, human computer interaction, online education, computer science, hci">
+    <meta name="description" content="I am an EECS Ph.D. student at UC Berkeley, and am advised by Björn Hartmann. My research focuses on systems-building human computer interaction work - check out some of my projects. Before this, I attended the University of Rochester, where I worked with Philip Guo.
+">
+    <title>
+      
+        jeremy warner - rubys any and all in js
+      
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/src/css/main.css">
+    <link rel="stylesheet" href="/src/css/syntax.css">
+    <link rel="alternate" type="application/rss+xml" title="Bakery Store RSS" href="/feed.xml">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+    <!-- JS -->
+    <script type="text/javascript" src="/src/js/ga.js" async></script>
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/src/img/logo.png">
+    <link rel="shortcut icon" href="/src/img/favicon.ico">
+
+    <!-- Facebook -->
+    <meta property="og:site_name"   content="Jeremy Warner"/>
+    <meta property="og:description" content=" I am an EECS Ph.D. student at UC Berkeley, and am advised by Björn Hartmann. My research focuses on systems-building human computer interaction work - check out some of my projects. Before this, I attended the University of Rochester, where I worked with Philip Guo.
+ " />
+    <meta property="og:title"       content="Jeremy Warner  - rubys any and all in js "/>
+    <meta property="og:image"       content="  " />
+  </head>
+  <body>
+
+    <div class="wrap">
+      <!-- responsive masthead -->
+      <div class="masthead">
+        <div class="container">
+          <div class="nav">
+            <a href="/" title="home">home</a>
+            <a href="/blog" title="blog">blog</a>
+            <a href="https://twitter.com/jeremywrnr" target="_blank" title="twitter">twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="post-header">
+    <h1 class="post-title" >Rubys Any And All In Js</h1>
+    <span class="post-meta">written feb 21, 2016</span>
+    </br> <span class="post-meta"> by <a href="/">jeremy b. warner</a></span>
+</div>
+
+<p>I wrote a simple implementation of Ruby’s
+<a href="http://ruby-doc.org/core-2.3.0/Enumerable.html#method-i-all-3F">Enumerable#all?</a> and
+<a href="http://ruby-doc.org/core-2.3.0/Enumerable.html#method-i-any-3F">Enumerable#any?</a>
+in Javascript, using <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce">Array.prototype.reduce</a>.
+They are a nice way to check if a condition holds for all or any elements in an
+array, respectively. In Ruby, you would call the method on the object (e.g.
+<code class="highlighter-rouge">[0,1].any? {|x| x == 1}</code>), but my first JS implementation required that you
+pass the array and testing function as arguments to either function.
+<code class="highlighter-rouge">Array.prototype.reduce</code> takes 2 arguments:</p>
+
+<ol>
+  <li>a function to be applied to each element</li>
+  <li>an optional initial value for the array</li>
+</ol>
+
+<p>The arguments to the reducing function are the stored value (the return value
+of the last iteration, or the initialization value), and the current element.
+Here is my first all implementation:</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">any</span><span class="p">(</span><span class="nx">ary</span><span class="p">,</span> <span class="nx">fn</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">ary</span><span class="p">.</span><span class="nx">reduce</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">o</span><span class="p">,</span> <span class="nx">n</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nx">o</span> <span class="o">||</span> <span class="nx">fn</span><span class="p">(</span><span class="nx">n</span><span class="p">)</span>
+  <span class="p">},</span> <span class="kc">false</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="kd">function</span> <span class="nx">all</span><span class="p">(</span><span class="nx">ary</span><span class="p">,</span> <span class="nx">fn</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nx">ary</span><span class="p">.</span><span class="nx">reduce</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">o</span><span class="p">,</span> <span class="nx">n</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nx">o</span> <span class="o">&amp;&amp;</span> <span class="nx">fn</span><span class="p">(</span><span class="nx">n</span><span class="p">)</span>
+  <span class="p">},</span> <span class="kc">true</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+
+<p>An example usage: <code class="highlighter-rouge">any([0,1], function(x){ return x == 1 })</code></p>
+
+<p><code class="highlighter-rouge">any</code> is initialized with false, and will only return true if any of the
+elements caused the test function to return truthy. This is from the logical OR
+function, which returns true when any of operands are true (eg true OR false ==
+true). <code class="highlighter-rouge">all</code> is initialized with true, and conversely uses AND to ensure the
+final value is true only when it returns truthy for every value in the array.</p>
+
+<p>You can add these functions to the Array.prototype so that they are even more
+similar to the Ruby implementation (a method that belongs to a
+object/prototype, rather than a method that accepts one as arguments):</p>
+
+<div class="language-js highlighter-rouge"><pre class="highlight"><code><span class="nb">Array</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">any</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">fn</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">reduce</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">o</span><span class="p">,</span> <span class="nx">n</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nx">o</span> <span class="o">||</span> <span class="nx">fn</span><span class="p">(</span><span class="nx">n</span><span class="p">)</span>
+  <span class="p">},</span> <span class="kc">false</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="nb">Array</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">all</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">fn</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">reduce</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">o</span><span class="p">,</span> <span class="nx">n</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="nx">o</span> <span class="o">&amp;&amp;</span> <span class="nx">fn</span><span class="p">(</span><span class="nx">n</span><span class="p">)</span>
+  <span class="p">},</span> <span class="kc">true</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+
+<p>Prototyped example: <code class="highlighter-rouge">[0,1].any(function(x){ return x == 1 })</code></p>
+
+
+
+<!--sort and link the separate posts chronologically-->
+
+
+
+
+
+<script>
+document.body.onkeyup = function(e) {
+  if (e.keyCode == '37') { window.location = '/post/m4a-to-mp3-conversion/'; }
+  if (e.keyCode == '39') { window.location = '/post/ruby-gems-starter-guide/'; }
+};
+</script>
+
+<span class="post-meta">
+    <a href="mailto:jeremy.warner@berkeley.edu">email</a> /
+    <a href="https://twitter.com/jeremywrnr">tweet</a>
+</span>
+
+<div class="masthead">
+   <a href="/post/m4a-to-mp3-conversion/" class="prev">prev</a> 
+  <a href="/blog">all</a>
+   <a href="/post/ruby-gems-starter-guide/" class="nxt">next</a>
+</div>
+
+
+      </div>
+    </div>
+
+  </body>
+</html>

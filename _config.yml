@@ -1,0 +1,32 @@
+# dependencies / links
+highlighter: rouge
+permalink: pretty
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+
+# setup
+# access this data with site.date. eg: {{ site.title }}
+# baseurl: https://jeremywrnr.com
+
+title: Jeremy Warner
+dev_url: localhost:4000
+keywords: jeremy warner, berkeley, human computer interaction, online education, computer science, hci
+desc: >
+  I am an EECS Ph.D. student at UC Berkeley, and am advised by Björn Hartmann.
+  My research focuses on systems-building human computer interaction work -
+  check out some of my projects. Before this, I attended the University of
+  Rochester, where I worked with Philip Guo.
+
+# owner
+author:
+  name: jeremy b. warner
+  email: jeremy.warner@berkeley.edu
+  github: https://github.com/jeremywrnr
+  twitter: https://twitter.com/jeremywrnr
+
+# site data
+collections:
+  post: {output: true}
+  project: {output: true}
