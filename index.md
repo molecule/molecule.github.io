@@ -3,74 +3,6 @@ title: about
 layout: default
 projects:
     -
-        name: 'CodePilot'
-        link: /project/codepilot
-        imag: /src/img/gitlogo2.gif
-        tags: [res, app]
-        desc: collaborative IDE with GitHub integration
-    -
-        name: mewsician
-        link: /project/mewsician
-        imag: /src/img/mewsician.png
-        tags: [em, app, iot]
-        desc: your friendly musical education companion
-    -
-        name: copernicium
-        link: https://jeremywrnr.com/copernicium/html/
-        imag: /src/img/cn.png
-        tags: [cli]
-        desc: distributed version control system (ruby)
-    -
-        name: tv.rb
-        link: http://github.com/jeremywrnr/tv.rb
-        desc: a fuzzy retro tv emulator in your shell
-        tags: [cli]
-        bkup: /src/img/tv.jpg
-        imag: https://camo.githubusercontent.com/4710696a4de77540e0532b2513476ef0dbc2b52d/687474703a2f2f692e696d6775722e636f6d2f69325a557059682e676966
-    -
-        name: mr. coffi
-        link: /mrcoffi
-        imag: /src/img/mrcoffi.png
-        tags: [em, iot]
-        desc: wirelessly controlled smart coffee maker
-    -
-        name: booker
-        link: https://github.com/jeremywrnr/booker
-        desc: tab complete + open chrome bookmarks
-        imag: https://camo.githubusercontent.com/d5bcff9b2f68f340f445fd1e24df4fc4cb9bcd62/687474703a2f2f692e696d6775722e636f6d2f7979647162336d2e676966
-        tags: [cli]
-        bkup: /src/img/booker.jpg
-    -
-        name: wampum
-        link: /project/wampum
-        imag: /src/img/wampum-hand.jpg
-        tags: [em, iot]
-        desc: adhoc network of heart-rate monitors
-    -
-        name: life of the party
-        link: /project/lotp
-        desc: motion-controlled dance party led arrays
-        tags: [em, iot]
-        imag: /src/img/lotp.png
-    -
-        name: unrobot
-        link: http://challengepost.com/software/oh-my-myo
-        imag: /src/img/unrobot.png
-        tags: [em]
-        desc: robot arm controlled by myo armband
-    -
-        name: myo-cart
-        link: http://challengepost.com/software/m-aah-yo-kart
-        imag: /src/img/myocart.jpg
-        tags: [iot]
-        desc: arm driving racing, uses oculus rift/myo
-    -
-        name: tictactoe.r
-        link: https://github.com/jeremywrnr/tictactoe.r
-        desc: tictactoe AI in R
-        tags: [cli]
-        imag: /src/img/tictactoe.jpg
-    -
         name: 24 Second Food + Fitness
         link: https://mollynicholas.wordpress.com/projects/
         desc: Prototype for a line of products that provide an activity (fitness, meditation, math problems, etc) during the time that food is being prepared.
@@ -78,16 +10,10 @@ projects:
         imag: /src/img/24-second-food-and-fitness.jpg
     -
         name: GitHub
-        link: https://github.com/jeremywrnr
+        link: https://github.com/molecule
         imag: /src/img/github.png
         tags: []
         desc: fresh open-source repos of code
-    -
-        name: Ruby Gems
-        link: https://rubygems.org/profiles/jeremywrnr
-        imag: /src/img/rubygem.png
-        tags: []
-        desc: all hosted on rubygems.org
     -
         name: Demo Videos
         link: https://www.youtube.com/playlist?list=PL3iSl6720Vm7j3O9ex-FjVuZ9ZaiL4ph0
