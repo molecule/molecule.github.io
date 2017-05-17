@@ -97,7 +97,11 @@ hidden:
 
 
 <div class="clearfix">
-<img id="prof" alt="Gaze upon my Face, ye mighty, and despair. " src="/src/img/general-molly.jpg">
+
+<div style="float: left; text-align:center; width:240px; padding:10px; font-size:8px; line-height:8px">
+<img src="/src/img/general-molly.jpg"/>
+<span style="display:block;"> Fig. a) The author, depicted as a great military leader. </span>
+</div>
 
 <h3>
 <a href="/cv">resume</a> —
