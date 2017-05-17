@@ -117,7 +117,7 @@ hidden:
 ---
 
 
-# jeremy b. warner
+# molly jane nicholas
 
 <div class="clearfix">
 <img id="prof" alt="Look on my Face, ye mighty, and despair. " src="/src/img/hills.jpg">
