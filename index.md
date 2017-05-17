@@ -120,7 +120,7 @@ hidden:
 # molly jane nicholas
 
 <div class="clearfix">
-<img id="prof" alt="Look on my Face, ye mighty, and despair. " src="/src/img/hills.jpg">
+<img id="prof" alt="Look on my Face, ye mighty, and despair. " src="/src/img/general-molly.jpg">
 
 <h3>
 <a href="/cv">resume</a> —
@@ -129,7 +129,7 @@ hidden:
 </h3>
 
 <p> Molly Jane Nicholas is a PhD student studying Human Computer Interaction 
-  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how issues of identity, expression, and experience intersect with new media studies and performance studies.  Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She is also a dancer, <a href="http://www.lunfan.com/">Hired Hand with Liebe Wetzel's Lunatique Fantastique</a>, <a href="http://circuscenter.org/clown">Clown Conservatory-trained clown</a>, singer, and casual contortionist living in Berkeley, CA.  Molly received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
+  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how issues of identity, expression, and experience intersect with new media studies and performance studies.  Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She is also a dancer, <a href="http://www.lunfan.com/">Hired Hand with Liebe Wetzel's Lunatique Fantastique</a>, <a href="http://circuscenter.org/clown">Clown Conservatory-trained clown</a>, singer, and casual contortionist living in Berkeley, CA.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
 
 </div><!--clearfix-->
 

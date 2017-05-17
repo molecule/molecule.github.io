@@ -21,7 +21,7 @@ title: posts
 
 [pg]:http://pgbovine.net
 [cs]:http://www.cs.rochester.edu
-[cal]:http://www.eecs.berkeley.edu/
+[cal]:http://www.cs.berkeley.edu/
 [rss]:/feed.xml
-[mail]:mailto:jeremy.warner@berkeley.edu
+[mail]:mailto:molecule@berkeley.edu
 
