@@ -99,8 +99,7 @@ hidden:
 <div id="tags">
   <span class="tag res">research</span>
   <span class="tag cla">class project</span>
-  <span class="tag iot">iot / wireless</span>
-  <span class="tag per">personal</span>
+  <span class="tag per">personal projects</span>
   <span class="tag wear">wearable</span>
   <span class="tag win">award-winning</span>
 </div>
