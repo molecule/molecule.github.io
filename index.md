@@ -5,7 +5,6 @@ projects:
     
     -
         name: Qbadge
-        link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per, win]
         imag: /src/img/qbadge.jpg
