@@ -71,11 +71,11 @@ projects:
         tags: [cli]
         imag: /src/img/tictactoe.jpg
     -
-        name: tarr
-        link: https://github.com/jeremywrnr/util/blob/master/tarr
-        desc: simple, easy-to-use wrapper for tar
-        tags: [cli]
-        imag: /src/img/mind-cat.jpg
+        name: 24 Second Food + Fitness
+        link: https://mollynicholas.wordpress.com/projects/
+        desc: Prototype for a line of products that provide an activity (fitness, meditation, math problems, etc) during the time that food is being prepared.
+        tags: [cla]
+        imag: /src/img/24-second-food-and-fitness.jpg
     -
         name: GitHub
         link: https://github.com/jeremywrnr
