@@ -31,19 +31,19 @@ projects:
         name: sketchboard
         link: https://mollynicholas.wordpress.com/projects/
         desc: Class project
-        tags: [cli]
+        tags: [cla]
         imag: /src/img/sketchboard-underbelly.jpg
     -
         name: adVenture
         link: https://mollynicholas.wordpress.com/projects/
         desc: Class project
-        tags: [cli]
+        tags: [cla]
         imag: /src/img/adventure.jpg
     -
         name: 24 Second Food + Fitness
         link: https://mollynicholas.wordpress.com/projects/
         desc: Class project
-        tags: [cli]
+        tags: [cla]
         imag: /src/img/24-second-food-and-fitness.jpg
     -
         name: GitHub
