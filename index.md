@@ -47,7 +47,7 @@ hidden:
 # molly jane nicholas
 
 <div class="clearfix">
-<img id="prof" alt="Look on my Face, ye mighty, and despair. " src="/src/img/general-molly.jpg">
+<img id="prof" alt="Gaze upon my Face, ye mighty, and despair. " src="/src/img/general-molly.jpg">
 
 <h3>
 <a href="/cv">resume</a> —
