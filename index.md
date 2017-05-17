@@ -128,8 +128,8 @@ hidden:
 <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#106;&#101;&#114;&#101;&#109;&#121;&#046;&#119;&#097;&#114;&#110;&#101;&#114;&#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117;">email</a>
 </h3>
 
-<p> Molly Nicholas is a PhD student studying Human Computer Interaction 
-  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how issues of identity, expression, and experience intersect with new media studies and performance studies.  Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She is also a dancer, <a href="http://www.lunfan.com/">Hired Hand with Liebe Wetzel's Lunatique Fantastique</a>, <a href="http://circuscenter.org/clown">Clown Conservatory-trained clown</a>, singer, and casual contortionist living in Berkeley, CA.  Molly received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014.
+<p> Molly Jane Nicholas is a PhD student studying Human Computer Interaction 
+  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how issues of identity, expression, and experience intersect with new media studies and performance studies.  Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She is also a dancer, <a href="http://www.lunfan.com/">Hired Hand with Liebe Wetzel's Lunatique Fantastique</a>, <a href="http://circuscenter.org/clown">Clown Conservatory-trained clown</a>, singer, and casual contortionist living in Berkeley, CA.  Molly received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014.</p>
 
 </div><!--clearfix-->
 
