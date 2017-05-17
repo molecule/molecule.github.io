@@ -5,9 +5,10 @@ projects:
     -
         name: 24 Second Food + Fitness
         link: https://mollynicholas.wordpress.com/projects/
-        desc: Prototype for a line of products that provide an activity (fitness, meditation, math problems, etc) during the time that food is being prepared.
+        desc: Class project
         tags: [cli]
         imag: /src/img/24-second-food-and-fitness.jpg
+        disc: Prototype for a line of products that provide an activity (fitness, meditation, math problems, etc) during the time that food is being prepared.
     -
         name: GitHub
         link: https://github.com/molecule
@@ -80,6 +81,8 @@ hidden:
   <div class="project-tags">
   {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
   {% endfor %}</div>
+  <div class="project-description">
+  <h5>{{ project.disc }} </h5>
 </div>
 {% endfor %}
 </div>
