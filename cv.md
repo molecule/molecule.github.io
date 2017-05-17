@@ -5,7 +5,7 @@ layout: page
 
 # molly jane nicholas
 
-### [about](/) -- [pdf](/molly-jane-nicholas.pdf){:target="_blank"}
+### [about](/) -- [cv as pdf](/molly-jane-nicholas.pdf){:target="_blank"}
 
 <!--Welcome to my CV-->
 
@@ -40,174 +40,90 @@ Language Achievement Certificate
 <br>
 
 
-### Experience
+### Professional Experience
+##### Engineer, Qualcomm Research and Development <ra>June 2014 - August 2016</ra>
+Developed the new robot control system for FIRST Tech Challenge, creating two Android apps to interface with custom hardware. Invented, designed and developed the [Qbadge][qbadge], a wearable device to facilitate engaging interactive experiences, and enable further hardware exploration.
 
+[qbadge]: https://github.com/molecule/Qbadge
 
-[Debugging on the Hardware-Software Boundary with Salami.][tswm16] William
-McGrath, __Jeremy Warner__, Daniel Drew, David Mellis, Bjoern Hartmann.
-Presented at the TerraSwarm annual meeting. 26, October, 2016.
+##### Puppeteer, Liebe Wetzel's Lunatique Fantastique <ra>June 2008 - September 2008</ra>
+*[Chicken Stock.][chicken]* 3d live animation using found-object puppets to tell the story of Avian Flu
+from the birds’ point of view. Bunraku-style puppetry involves three people on one puppet.
 
-[tswm16]:https://www.terraswarm.org/pubs/872.html
+[chicken]:https://www.lunfan.com/shows/2008_chicken.html
 
-[A Large-Scale Study of Interactive Digital Textbook Usage.][ncur15] __Jeremy
-Warner__. Awarded the Dean's Award for Engineering & Applied Sciences Research.
-Presented at both National Conference on Undergraduate Research ([NCUR][ncur])
-and the University of Rochester's Undergraduate [Research Expo][urexpo], 2015.
+### Events
+#### Grace Hopper <ra> October 2016 </ra>
+Qualcomm Qnnect (Qbadge event): event lead, speaker.
 
-[ncur15]:https://ncurdb.cur.org/ncur2015/search/Display_NCUR.aspx?id=93709
-[urexpo]: http://www.rochester.edu/college/ugresearch/expo.html
-[ncur]:http://www.cur.org/ncur_2015/
+#### Qualcomm QWCC Conference <ra> January 2016 </ra>
+Sewable Circuits Workshop: workshop lead.
 
+#### Latina Giving Circle <ra> January 2016 </ra>
+Circuit Stickers Workshop: workshop lead.
+Tech Talk: speaker.
+
+#### Qualcomm DECA Conference <ra> January 2016 </ra>
+Sewable Circuits Workshop: workshop lead.
+Mentor.
+
+#### Grace Hopper <ra> October 2015 </ra>
+Qualcomm HardWEAR Shindig (Qbadge event): event lead, speaker.
+Student Opportunity Lab: You++ [Resume Critique]: speaker.
+
+#### EmpowHERment Conference, Qualcomm  <ra> August 2015 </ra>
+Hackathon mentor, speaker
 
 ### Technical Skills
 
-*Programming Languages* <ra class="skill">Ruby, C, Python, Javascript, R, Bash, C++, SQL, Perl, Java </ra>
+*Languages* <ra class="skill">Java, Python, Arduino, bash, Czech </ra>
 
-*Hardware Experience* <ra class="skill">Oculus Rift, Arduino, RPi, Particle, PCB design, SMD soldering</ra>
+*Hardware Experience* <ra class="skill">Arduino, Particle, PCB design, SMD soldering</ra>
 
-*Development Tools* <ra class="skill">Version control, Unix CLI tools, Eagle, Travis CI, Heroku, Adobe CS</ra>
-
-
-### Professional Experience
-
-##### ROC HCI Researcher <ra>Aug. 2014 - May 2016</ra>
-Rochester Human Computer Interaction Group, with Professor Philip Guo. Worked
-in University of Washington and Microsoft Seattle offices in summer 2015.
-
-##### Engineering Intern, Teradyne <ra>Summer 2014</ra>
-Developed tools to perform large-scale semiconductor test program upgrades.
-Presented new tools at the annual company international QA conference.
-
-##### WCNG Researcher <ra>Jan. 2013 - May 2014</ra>
-Rochester Wireless Communications and Networking Group, with Professor Wendi
-Heinzelman. Set up a wireless Arduino control system to augment RFID field
-testing. Particpated in NSF's Research Experiences for Undergraduates (REU)
-program in summer 2013.
-
-
-### Teaching Experience
-
-##### [ECE 112][e112] - TA, Logic Design <ra>Spring 2013,14,15</ra>
-Taught at the University of Rochester by Professor Victor Derefinko.
-Collaborated with professor to plan and run lab sessions, graded lab student
-reports and homework, and ran exam review sessions.
-
-##### [ECE 230][e230] - TA, Electromagnetic Waves <ra>Fall 2014</ra>
-Taught at the University of Rochester by Professor Roman Sobolweski.
-Coordinated and ran student lab sessions, and graded lab reports.
-
-[e112]:http://skedgeur.com/?q=ece+112
-[e230]:http://skedgeur.com/?q=ece+230
+*Development Tools* <ra class="skill">Version control, Unix CLI tools, Android Studio</ra>
 
 
 ### Selected Coursework
 
 ##### UC Berkeley
 
+- History and Theory of New Media <ra>NWMEDIA 200</ra>
+- Learning for Cooperation and the DARPA Spectrum Collaboration Challenge <ra>CS 294-133</ra>
 - Algorithmic Human Robotic Interaction <ra> <a href="https://people.eecs.berkeley.edu/~anca/AHRI.html" target="_blank">CS 294-115</a> </ra>
-- Interactive Device Design             <ra> <a href="https://bcourses.berkeley.edu/courses/1376830/" target="_blank">CS 294-084</a> </ra>
-- Computer Vision                       <ra> <a href="https://inst.eecs.berkeley.edu/~cs280/sp16/" target="_blank">CS 280</a> </ra>
 - Critical Making                       <ra> <a href="http://make.berkeley.edu" target="_blank">NWMEDIA C203</a> </ra>
 
-##### Rochester
-
-- Human Computer Interaction            <ra> <a href="http://skedgeur.com/?q=csc+412" target="_blank">CSC 412</a> </ra>
-- Dynamic Software Development          <ra> <a href="http://skedgeur.com/?q=csc+453" target="_blank">CSC 453</a> </ra>
-- PL Design & Implementation            <ra> <a href="http://skedgeur.com/?q=csc+454" target="_blank">CSC 454</a> </ra>
-- SW Analysis and Improvement           <ra> <a href="http://skedgeur.com/?q=csc+455" target="_blank">CSC 455</a> </ra>
-- Computational Intro to Statistics     <ra> <a href="http://skedgeur.com/?q=csc+462" target="_blank">CSC 462</a> </ra>
-- Web Application Development           <ra> <a href="http://skedgeur.com/?q=csc+210" target="_blank">CSC 210</a> </ra>
-- Artificial Intelligence               <ra> <a href="http://skedgeur.com/?q=csc+242" target="_blank">CSC 242</a> </ra>
-- Wireless Communications               <ra> <a href="http://skedgeur.com/?q=ece+245" target="_blank">ECE 245</a> </ra>
-- Communication Systems                 <ra> <a href="http://skedgeur.com/?q=ece+242" target="_blank">ECE 242</a> </ra>
-- Computer Organization                 <ra> <a href="http://skedgeur.com/?q=ece+200" target="_blank">ECE 200</a> </ra>
-- Integrated Circuits                   <ra> <a href="http://skedgeur.com/?q=ece+222" target="_blank">ECE 222</a> </ra>
-- Signals & Systems                     <ra> <a href="http://skedgeur.com/?q=ece+241" target="_blank">ECE 241</a> </ra>
-- Microprocessors                       <ra> <a href="http://skedgeur.com/?q=ece+216" target="_blank">ECE 216</a> </ra>
-
-
-### Certification
-
-##### NEECS Fundamentals of Engineering<ra>Jan. 2015</ra>
-Electrical and Computer Engineering, recognized by the NY Board.
 
 ### Awards
 
-##### Barnard Engineering Award <ra>April 2015</ra>
-Annually awarded to eight graduating seniors at the University of Rochester in
-the Hajim School of Engineering that demonstrate good personal qualities and
-high achievement.
+##### BCNM 2017 Summer Research Award <ra>May 2017</ra>
+[This award][bcnm-summer2017-research] is given to a select number of students based on promising academic research proposals.
 
-##### CS Games 2015 Finalist <ra>March 2015</ra>
-Placed [5th][csg] out of 30 schools, representing the University of Rochester
-in the databases, operating systems, and embedded programming competitions.
-
-[csg]:http://csgames.org/corpo/registration/?page=scores
-
-##### Alice D. Simone Award <ra>Jan. 2015</ra>
-Awarded to six out of nearly 3,000 eligible students. This award is presented
-to students whose contributions to co-curricular life at the University have
-strengthened community spirit and involvement. It recognizes dedication,
-enthusiasm, collaboration, and positive role modeling as leadership traits that
-help promote and maintain a strong quality of life for all.
-
-##### IEEE National Power and Energy Society Scholarship <ra>Oct. 2014</ra>
-
-##### IEEE Rochester Section Scholarship <ra>April 2014</ra>
-
-##### University of Rochester Dean's Scholarship <ra>June 2011</ra>
+[bcnm-summer2017-research]:http://bcnm.berkeley.edu/2017/04/06/announcing-our-2017-summer-research-award-recipients/
 
 
-### Honor Societies
+##### EECS Excellence Award <ra>August 2016</ra>
+Awarded to a select number of students based on outstanding academic record.
 
-- Phi Beta Kappa <ra> <a href="https://www.pbk.org/WEB/PBK_Member/About_PBK/PBK_History/PBK_Member/PBK_History.aspx" target="_blank">Spring 2015</a> </ra>
-- Tau Beta Pi    <ra> <a href="https://www.tbp.org/about.cfm" target="_blank">Fall 2013</a> </ra>
-- Golden Key     <ra> <a href="https://www.goldenkey.org/about-us/overview/" target="_blank">Fall 2013</a> </ra>
+##### Achievement Rewards for College Scientists Fellowship <ra>August 2016</ra>
+This fellowship, the result of a highly competitive process, is presented only to Berkeley's top admitted doctoral students. The nomination, as submitted by a faculty member in your program, underwent rigorous review by a campus-wide faculty committee charged with identifying the very best nominees.
 
 
-### Campus Life
+##### Qualstar <ra>March 2016</ra>
+For outstanding contributions at Qualcomm, Inc. "For organizing the wearable technology workshop for our team and enthusiastically taking us through each part of the class including wiring, sewing, and programming our arduino core. Thank you for your time and efforts." (Michael DiBattista)
 
-##### UR Men's Rowing Team <ra>2011 - 2015</ra>
-Competed at regattas all across the eastern coast, including racing in the V4+
-at the American Collegiate Rowing Association (ACRA) National Championships,
-and was named to the All-Academic Team in 2014/15.
+##### Qualstar <ra>December 2015</ra>
+For outstanding contributions at Qualcomm, Inc. "Thanks for leading the Wearables Workshop in partnership with the Learning Center!" (Maritza Borunda)
 
-##### UR IEEE, President, *Elected* <ra>2014 - 2015</ra>
-Elected Vice President 2013 - 2014. Organized events of interest to students in
-ECE/AME (guitar pedal projects, soldering lessons). Attended student leadership
-conference in Newark, NJ. Helped build user base, and began collaboration with
-similar clubs (CSUG, WRUR, Robotics).
+##### Qualstar <ra>November 2015</ra>
+For outstanding contributions at Qualcomm, Inc. "I'd like to award Molly for her contribution to Grace Hopper 2015. She was responsible for the successful Qbadge event. She came up with the innovative idea and led the task to completion. The event was well received in the conference." (Fang Chen)
 
-##### Computer Science Undergraduate Group <ra>2014 - 2015</ra>
+##### Qualstar <ra>August 2015</ra>
+For outstanding contributions at Qualcomm, Inc. "Molly's brainchild developed Qbadge prototype which played huge role in making Tinkering Workshop and QBUDS Closing event a great success. She is innovative problem solver, hard working, enthusiastic, great team player and technically very strong." (Rinachi Garg)
 
-##### Urban Exploring Club, President, *Elected* <ra>2012 - 2015</ra>
-Planned and ran excursions into Rochester. Trips included Rochester Subway,
-Artisan Works, Times Square and Sibley Building. Worked with <a
-href="https://www.artawake.org/">ArtAwake</a> organizers to interview
-directors, and locate event site. Helped organize revival of Wild Goose Chase,
-the Wilson Day scavenger hunt.
+##### Qualstar <ra>October 2014</ra>
+For outstanding contributions at Qualcomm, Inc. "Thanks for all of your hard work to make our presence at Grace Hopper a success!" (Vito Bica)
 
-### Motivation
-I enjoy making things for my own sake, but I also enjoy making things that help
-other people make things, and understand what they are making. I am concerned
-with both the context of how makers get to make, and exactly *who* gets to
-make. I want to invent tools that address issues in current processes while
-maintaining awareness of my situated position and perspective inside this
-domain. Broadly speaking, I am motivated by a shift from consumerism to
-creator-centric exploration (*creationism*, if you will) and the so-called
-[democratization of technology](https://en.wikipedia.org/wiki/Democratization_of_technology).
-
-### Personal
-
-Hi Mom! I was born and raised in sunny eastern Long Island, NY. I enjoy playing
-guitar, running, bouldering, and home-brewing beer. In Rochester, my favorite
-diner was James Brown's Place (I miss it dearly), and I never ate a garbage
-plate. When it wasn't snowing, I could often be found on the Genesee River
-pushing water around (and, sometimes when it was snowing). Since moving to
-California, I've been biking more actively, playing on Cal's club ultimate
-frisbee team, [Thugmo](http://www.ugmo.org/thugmo), and eating burritos at a
-fairly considerable frequency (just consider).
 
 <small> &copy; {{ site.time | date: '%Y' }} / [{{ site.author.name }}](/) / [license](/mit-license) / [email](mailto:{{ site.author.email }})</small>
 
-[gh]:http://github.com/jeremywrnr
+[gh]:http://github.com/molecule
