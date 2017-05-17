@@ -4,6 +4,12 @@ layout: default
 projects:
     
     -
+        name: Qbadge
+        link: https://mollynicholas.wordpress.com/projects/
+        desc: Personal project
+        tags: [per, win]
+        imag: /src/img/qbadge.png
+    -
         name: Lightning Cloud
         link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
