@@ -2,6 +2,43 @@
 title: about
 layout: default
 projects:
+    
+    -
+        name: Lightning Cloud
+        link: https://mollynicholas.wordpress.com/projects/
+        desc: Personal project
+        tags: [per, win]
+        imag: /src/img/lightning-cloud.jpg
+    -
+        name: Wearable Neopixel Sparkle
+        link: https://mollynicholas.wordpress.com/projects/
+        desc: Personal project
+        tags: [per, wear]
+        imag: /src/img/wearable-sparkle.jpg
+    -
+        name: InfraRed Receiver
+        link: https://mollynicholas.wordpress.com/projects/
+        desc: Personal project
+        tags: [per]
+        imag: /src/img/ir-receiver.jpg
+    -
+        name: Photo Wall
+        link: https://mollynicholas.wordpress.com/projects/
+        desc: Personal project
+        tags: [per]
+        imag: /src/img/photo-wall.jpg
+    -
+        name: sketchboard
+        link: https://mollynicholas.wordpress.com/projects/
+        desc: Class project
+        tags: [cli]
+        imag: /src/img/sketch-underbelly.jpg
+    -
+        name: adVenture
+        link: https://mollynicholas.wordpress.com/projects/
+        desc: Class project
+        tags: [cli]
+        imag: /src/img/adventure.jpg
     -
         name: 24 Second Food + Fitness
         link: https://mollynicholas.wordpress.com/projects/
@@ -61,10 +98,11 @@ hidden:
 
 <div id="tags">
   <span class="tag res">research</span>
-  <span class="tag cli">cli tool</span>
+  <span class="tag cla">class project</span>
   <span class="tag iot">iot / wireless</span>
-  <span class="tag em">embedded</span>
-  <span class="tag app">webapp</span>
+  <span class="tag per">personal</span>
+  <span class="tag wear">wearable</span>
+  <span class="tag win">award-winning</span>
 </div>
 
 <div id='projects'>
