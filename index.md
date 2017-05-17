@@ -18,7 +18,7 @@ projects:
         link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per, win]
-        imag: /src/img/lightning-cloud.gif
+        imag: /src/img/lightning-cloud-crop.gif
     -
         name: Wearable Neopixel Sparkle
         link: https://mollynicholas.wordpress.com/projects/
