@@ -336,7 +336,7 @@ code.highlighter-rouge {
   border-radius: 12px;
   position: absolute;
   padding: 7px;
-  margin: 0;
+  margin: auto;
   bottom: 0;
   right: 0;
   left: 0;
@@ -390,5 +390,48 @@ code.highlighter-rouge {
 .project:hover > .project-tags > .tag,
 .project-tags > .tag.active {
   opacity: 1;
+}
+#project_details {
+  text-align: left;
+  border: 3px solid #6f664b;
+  position: relative;
+  top: -1px;
+  padding: 8px;
+  border-radius: 16px;
+}
+#project_details:after {
+  content: '';
+  position: absolute;
+  height: 5px;
+  background-color: #fff;
+  top: -5px;
+  width: 314px;
+}
+#project_details.c03 {
+  border-top-left-radius: 0;
+}
+#project_details.c03:after {
+  left: 0px;
+}
+#project_details.c13:after {
+  left: 326px;
+}
+#project_details.c23 {
+  border-top-right-radius: 0;
+}
+#project_details.c23:after {
+  left: 652px;
+}
+#project_details_wrapper {
+  padding: 8px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+#project_details_title {
+  font-family: Roboto, sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 32px;
+  color: #cd0f22;
 }
 
