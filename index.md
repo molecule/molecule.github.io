@@ -81,8 +81,6 @@ hidden:
   <div class="project-tags">
   {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
   {% endfor %}</div>
-  <div class="project-description">
-  <h5>{{ project.disc }} </h5>
 </div>
 {% endfor %}
 </div>
