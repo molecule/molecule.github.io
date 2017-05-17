@@ -29,14 +29,15 @@ Professional Clown Certificate<br>
 
 ### Publications
 
-<img style="float: right;" src="https://github.com/molecule/molecule.github.io/blob/master/src/img/ia-thumbnail.jpg">
+![Illumination Aesthetics][ia-image]
 [Illumination Aesthetics: Light as a Creative Material within Computational Design][chi17cp] Cesar Torres, Jasper O’Leary, __Molly Nicholas__, Eric Paulos. ACM Conference on
 Human Factors in Computing Systems ([CHI][chi17]), May 2017.<br>
 [Teaser Video]
 
+[ia-image]: https://github.com/molecule/molecule.github.io/blob/master/src/img/ia-thumbnail.jpg
 [Teaser Video]:https://www.youtube.com/watch?time_continue=1&v=P4xLN5ezXHs
 [chi17]:https://chi2017.acm.org/
-[chi17cp]:/papers/CodePilot-collaborative-programming-IDE_CHI-2017.pdf
+[chi17cp]:/papers/IlluminationAesthetics-chi2017.pdf
 
 [CodePilot: Real Time Collaborative Programming with Asynchronous Version
 Control Support.][ms-thesis] __Jeremy B. Warner__. Master of Science (MS)
