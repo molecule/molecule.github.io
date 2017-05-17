@@ -3,32 +3,38 @@ title: resume
 layout: page
 ---
 
-# jeremy b. warner
+# molly jane nicholas
 
-### [about](/) -- [pdf](/jeremy-warner.pdf){:target="_blank"}
+### [about](/) -- [pdf](/molly-jane-nicholas.pdf){:target="_blank"}
 
-<!--Welcome to my resume, though exactly what it is resuming is to be seen.-->
+<!--Welcome to my CV-->
 
 ### Education
 
-##### University of California, Berkeley <ra>Aug. 2016 - </ra>
+##### University of California, Berkeley <ra>Aug. 2016 - Present</ra>
 Ph.D. in Computer Science
 
-##### University of Rochester <ra>May 2016</ra>
-M.S. in Computer Science<br>
-<!--Thesis: CodePilot: Real Time Collaborative Programming with Asynchronous Version-->
+##### University of California, Berkeley <ra>Sept 2011 - May 2014</ra>
+B.A. in Computer Science and Cognitive Science<br>
+*GPA: 3.591*
 
-##### University of Rochester <ra>May 2015</ra>
-B.S. in Electrical and Computer Engineering<br>
-*Graduated cum laude with high distinction*
+##### Clown Conservatory, San Francisco Circus Center <ra>August 2007 - May 2009</ra>
+Professional Clown Certificate<br>
+
+##### Knox College <ra>August 2005 - June 2007</ra>
+*GPA: 3.69*
+
+##### Gymnazium Lud'ka Pika, Plze&#328;, Czech Republic <ra>August 2003 - May 2004</ra>
 
 
 ### Publications
 
-[CodePilot: Scaffolding End-to-End Collaborative Software Development for
-Novice Programmers.][chi17cp] __Jeremy Warner__ and Philip J. Guo. ACM Conference on
-Human Factors in Computing Systems ([CHI][chi17]), May 2017.
+<img style="float: right;" src="https://github.com/molecule/molecule.github.io/blob/master/src/img/ia-thumbnail.jpg">
+[Illumination Aesthetics: Light as a Creative Material within Computational Design][chi17cp] Cesar Torres, Jasper O’Leary, __Molly Nicholas__, Eric Paulos. ACM Conference on
+Human Factors in Computing Systems ([CHI][chi17]), May 2017.<br>
+[Teaser Video]
 
+[Teaser Video]:https://www.youtube.com/watch?time_continue=1&v=P4xLN5ezXHs
 [chi17]:https://chi2017.acm.org/
 [chi17cp]:/papers/CodePilot-collaborative-programming-IDE_CHI-2017.pdf
 
