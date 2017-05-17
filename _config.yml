@@ -8,7 +8,7 @@ kramdown:
 
 # setup
 # access this data with site.date. eg: {{ site.title }}
-# baseurl: https://jeremywrnr.com
+# baseurl: https://molecule.github.io
 
 title: Molly Jane Nicholas
 dev_url: localhost:4000
