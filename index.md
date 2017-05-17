@@ -8,7 +8,6 @@ projects:
         desc: Class project
         tags: [cli]
         imag: /src/img/24-second-food-and-fitness.jpg
-        disc: Prototype for a line of products that provide an activity (fitness, meditation, math problems, etc) during the time that food is being prepared.
     -
         name: GitHub
         link: https://github.com/molecule
