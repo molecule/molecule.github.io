@@ -10,21 +10,28 @@ kramdown:
 # access this data with site.date. eg: {{ site.title }}
 # baseurl: https://jeremywrnr.com
 
-title: Jeremy Warner
+title: Molly Jane Nicholas
 dev_url: localhost:4000
-keywords: jeremy warner, berkeley, human computer interaction, online education, computer science, hci
+keywords: Molly Jane Nicholas, berkeley, human computer interaction, performance, puppeteering, computer science, hci
 desc: >
-  I am an EECS Ph.D. student at UC Berkeley, and am advised by Björn Hartmann.
-  My research focuses on systems-building human computer interaction work -
-  check out some of my projects. Before this, I attended the University of
-  Rochester, where I worked with Philip Guo.
+  Molly Nicholas is a PhD student studying Human Computer Interaction 
+  with Eric Paulos in the Computer Science department at UC Berkeley. 
+  She is particularly interested in exploring how issues of politics, 
+  identity, and education intersect with new media studies and 
+  erformance studies.  Previously, she worked for two years as a 
+  Software Engineer at Qualcomm, where she developed FIRST Robotics’ 
+  new robotics platform. She is also a dancer, puppeteer, Clown 
+  Conservatory-trained clown, singer, and casual contortionist living 
+  in Berkeley, CA.  Molly received her B.A. from the University of 
+  California, Berkeley with a double major in Computer Science and C
+  ognitive Science in 2014.
 
 # owner
 author:
-  name: jeremy b. warner
-  email: jeremy.warner@berkeley.edu
-  github: https://github.com/jeremywrnr
-  twitter: https://twitter.com/jeremywrnr
+  name: Molly Jane Nicholas
+  email: molecule@berkeley.edu
+  github: https://github.com/molecule
+  twitter: https://twitter.com/FakepaperClips
 
 # site data
 collections:

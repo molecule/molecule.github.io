@@ -120,7 +120,7 @@ hidden:
 # jeremy b. warner
 
 <div class="clearfix">
-<img id="prof" alt="a depiction of jeremy's body/face" src="/src/img/hills.jpg">
+<img id="prof" alt="Look on my Face, ye mighty, and despair. " src="/src/img/hills.jpg">
 
 <h3>
 <a href="/cv">resume</a> —
