@@ -4,9 +4,14 @@ layout: default
 projects:
     
     -
+        name: Illumination Aesthetics
+        desc: Light as a Creative Material within Computational Design. CHI 2017
+        tags: [res, win]
+        imag: /src/img/ia-thumbnail.jpg
+    -
         name: Qbadge
         desc: Personal project
-        tags: [per, win]
+        tags: [per, win, wear]
         imag: /src/img/qbadge.jpg
     -
         name: Lightning Cloud
