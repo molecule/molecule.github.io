@@ -85,6 +85,8 @@ hidden:
 <div class="clearfix">
 <img id="prof" alt="Gaze upon my Face, ye mighty, and despair. " src="/src/img/general-molly.jpg">
 
+[//]: # ( m &#109 )
+
 <h3>
 <a href="/cv">resume</a> —
 <a href="/papers">papers</a> —
