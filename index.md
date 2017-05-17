@@ -32,7 +32,7 @@ projects:
         link: https://mollynicholas.wordpress.com/projects/
         desc: Class project
         tags: [cli]
-        imag: /src/img/sketch-underbelly.jpg
+        imag: /src/img/sketchboard-underbelly.jpg
     -
         name: adVenture
         link: https://mollynicholas.wordpress.com/projects/
