@@ -74,7 +74,7 @@ projects:
         name: 24 Second Food + Fitness
         link: https://mollynicholas.wordpress.com/projects/
         desc: Prototype for a line of products that provide an activity (fitness, meditation, math problems, etc) during the time that food is being prepared.
-        tags: [cla]
+        tags: [cli]
         imag: /src/img/24-second-food-and-fitness.jpg
     -
         name: GitHub
