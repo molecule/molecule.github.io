@@ -502,6 +502,22 @@ code.highlighter-rouge {
   background-color: cyan;
 }
 
+.per > a > .project-info {
+  height: 100%;
+  opacity: 1;
+}
+.wear > a > .project-info {
+  height: 100%;
+  opacity: 1;
+}
+.res > a > .project-info {
+  height: 100%;
+  opacity: 1;
+}
+.cla > a > .project-info {
+  height: 100%;
+  opacity: 1;
+}
 .win > a > .project-info {
   height: 100%;
   opacity: 1;
