@@ -131,6 +131,8 @@ hidden:
   <small>{{ project.desc }}</small>
   </div>
   </a>
+
+  
   <div class="project-tags">
   {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
   {% endfor %}</div>
