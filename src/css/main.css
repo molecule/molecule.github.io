@@ -270,6 +270,8 @@ code.highlighter-rouge {
 /* savagely stolen from the savage savage internet */
 /*because-it-looks-so-good*/
 
+
+
 .hide {
   display: none;
 }
@@ -295,17 +297,110 @@ code.highlighter-rouge {
   -o-user-select: none;
   user-select: none;
 }
-.tag:hover {
-  background-color: #bae;
-  color: white;
+.tag.res {
+  color: #f797a1;
+  background-color: #cd0f22;
+  border-color: #9d0c1a;
 }
-.tag.active {
-  box-shadow: 0px 0px 0px 2px white;
-  background-color: cyan;
-  color: #313131;
+.tag.cla {
+  color: #f0d1c2;
+  background-color: #c63;
+  border-color: #a35229;
 }
-.tag.active:hover {
-  color: #bae;
+.tag.per {
+  color: #fff9e5;
+  background-color: #fecd33;
+  border-color: #fdc001;
+}
+.tag.wear {
+  color: #9fdf9f;
+  background-color: #393;
+  border-color: #267326;
+}
+.tag.win {
+  color: #9fbfdf;
+  background-color: #369;
+  border-color: #264c73;
+}
+.tag.viz {
+  color: #bf9fdf;
+  background-color: #639;
+  border-color: #4c2673;
+}
+.tag.res:hover {
+  color: #f67f8b;
+  background-color: #b50d1e;
+  border-color: #860a16;
+}
+.tag.cla:hover {
+  color: #ebc2ad;
+  background-color: #b85c2e;
+  border-color: #8f4724;
+}
+.tag.per:hover {
+  color: #fff2cb;
+  background-color: #fec71a;
+  border-color: #e3ad01;
+}
+.tag.wear:hover {
+  color: #8cd98c;
+  background-color: #2d862d;
+  border-color: #206020;
+}
+.tag.win:hover {
+  color: #8cb2d9;
+  background-color: #2d5986;
+  border-color: #204060;
+}
+.tag.res.active {
+  color: #f0384a;
+  background-color: #6e0812;
+  border-color: #3e050a;
+}
+.tag.cla.active {
+  color: #db9470;
+  background-color: #7a3d1f;
+  border-color: #522914;
+}
+.tag.per.active {
+  color: #fee07f;
+  background-color: #ca9901;
+  border-color: #977301;
+}
+.tag.wear.active {
+  color: #53c653;
+  background-color: #194d19;
+  border-color: #0d260d;
+}
+.tag.win.active {
+  color: #538cc6;
+  background-color: #19334d;
+  border-color: #0d1926;
+}
+.tag.res.active:hover {
+  color: #ef2035;
+  background-color: #56060e;
+  border-color: #270306;
+}
+.tag.cla.active:hover {
+  color: #d6855c;
+  background-color: #663319;
+  border-color: #3d1f0f;
+}
+.tag.per.active:hover {
+  color: #fed966;
+  background-color: #b18601;
+  border-color: #7e6001;
+}
+.tag.wear.active:hover {
+  color: #40bf40;
+  background-color: #133913;
+  border-color: #061306;
+}
+.tag.win.active:hover {
+  color: #407fbf;
+  background-color: #132639;
+  border-color: #060d13;
 }
 #projects {
   text-align: center;
@@ -324,6 +419,21 @@ code.highlighter-rouge {
   position: relative;
   cursor: pointer;
 }
+
+.project.selected {
+  border: 3px solid #6f664b;
+}
+.project-wrapper {
+  padding: 7px;
+  width: 314px;
+  height: 314px;
+  border-radius: 12px;
+  position: relative;
+  cursor: pointer;
+}
+.project.selected > .project-wrapper {
+  border-radius: 12px 12px 0 0;
+}
 .project-image {
   border: 1px solid #000;
   border-radius: 12px;
@@ -335,7 +445,23 @@ code.highlighter-rouge {
   left: 0;
   top: 0;
 }
-
+.project-title {
+  position: absolute;
+  bottom: 7px;
+  text-align: left;
+  width: calc(100% - 14px);
+  background-color: rgba(255, 255, 255, 0.7);
+  height: 50px;
+  opacity: 0;
+  padding: 8px;
+  border-radius: 0 0 10px 10px;
+  transition: height 100ms, opacity 100ms;
+  color: #cd0f22;
+  font-family: Roboto, sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 32px;
+}
 .project-info {
   position: absolute;
   text-align: left;

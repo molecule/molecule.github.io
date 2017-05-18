@@ -2,67 +2,66 @@
 title: about
 layout: default
 projects:
-    
     -
-        name: Illumination Aesthetics
+        title: Illumination Aesthetics
         desc: Light as a Creative Material within Computational Design. CHI 2017
         tags: [res, win]
         imag: /src/img/ia-thumbnail.jpg
     -
-        name: Qbadge
+        title: Qbadge
         desc: Personal project
         tags: [per, win, wear]
         imag: /src/img/qbadge.jpg
     -
-        name: Lightning Cloud
+        title: Lightning Cloud
         link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per, win]
         imag: /src/img/lightning-cloud-crop.gif
     -
-        name: Wearable Neopixel Sparkle
+        title: Wearable Neopixel Sparkle
         link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per, wear]
         imag: /src/img/wearable-sparkle.jpg
     -
-        name: InfraRed Receiver
+        title: InfraRed Receiver
         link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per]
         imag: /src/img/ir-receiver.jpg
     -
-        name: Photo Wall
+        title: Photo Wall
         link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per]
         imag: /src/img/photo-wall.jpg
     -
-        name: sketchboard
+        title: sketchboard
         link: https://mollynicholas.wordpress.com/projects/
         desc: Class project
         tags: [cla]
         imag: /src/img/sketchboard-underbelly.jpg
     -
-        name: adVenture
+        title: adVenture
         link: https://mollynicholas.wordpress.com/projects/
         desc: Class project
         tags: [cla]
         imag: /src/img/adventure.jpg
     -
-        name: 24 Second Food + Fitness
+        title: 24 Second Food + Fitness
         link: https://mollynicholas.wordpress.com/projects/
         desc: Class project
         tags: [cla]
         imag: /src/img/24-second-food-and-fitness.jpg
     -
-        name: GitHub
+        title: GitHub
         link: https://github.com/molecule
         imag: /src/img/github.png
         tags: []
         desc: fresh open-source repos of code
     -
-        name: Demo Videos
+        title: Demo Videos
         link: https://www.youtube.com/playlist?list=PL3iSl6720Vm7j3O9ex-FjVuZ9ZaiL4ph0
         imag: /src/img/youtube.png
         tags: []
@@ -128,7 +127,7 @@ hidden:
   <a href="{{ project.link }}">
   <img src="{{ project.imag }}" class="project-image"/>
   <div class="project-info">
-  <h3>{{ project.name }} </h3>
+  <h4>{{ project.title }} </h4>
   <small>{{ project.desc }}</small>
   </div>
   </a>
@@ -142,9 +141,14 @@ hidden:
 
 <p style="margin: 0.5em 0em 10em 0em;">
 <small><i>
+
+<script src="/src/js/index.js"> </script>
+
+
 <!--<a href="/mit-license">license</a> --->
 updated {{ site.time | date: "%b %-d, %Y"}} </i></small>
 </p>
+
 
 <footer>
 <script src="/src/js/project.js" async>
