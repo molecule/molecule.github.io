@@ -298,73 +298,65 @@ code.highlighter-rouge {
   user-select: none;
 }
 .tag.res {
-  color: #f797a1;
-  background-color: #cd0f22;
+  color: #BBF0E9;
+  background-color: #A8D0CB;
   border-color: #9d0c1a;
 }
 .tag.cla {
-  color: #f0d1c2;
-  background-color: #c63;
+  color: #F8E8CB;
+  background-color: #F8CC81;
   border-color: #a35229;
 }
 .tag.per {
   color: #fff9e5;
-  background-color: #fecd33;
+  background-color: #EEA198;
   border-color: #fdc001;
 }
 .tag.wear {
-  color: #9fdf9f;
-  background-color: #393;
+  color: #f797a1;
+  background-color: #CD83A0;
   border-color: #267326;
 }
 .tag.win {
-  color: #9fbfdf;
-  background-color: #369;
+  color: #BFBFBF;
+  background-color: #969696;
   border-color: #264c73;
 }
 .tag.res:hover {
-  color: #f67f8b;
-  background-color: #b50d1e;
+  background-color: #15D0B9;
   border-color: #860a16;
 }
 .tag.cla:hover {
-  color: #ebc2ad;
-  background-color: #b85c2e;
+  background-color: #F0A82B;
   border-color: #8f4724;
 }
 .tag.per:hover {
-  color: #fff2cb;
-  background-color: #fec71a;
+  background-color: #CF665A;
   border-color: #e3ad01;
 }
 .tag.wear:hover {
-  color: #8cd98c;
-  background-color: #2d862d;
+  background-color: #CD3370;
   border-color: #206020;
 }
 .tag.win:hover {
-  color: #8cb2d9;
-  background-color: #2d5986;
+  background-color: #262626;
   border-color: #204060;
 }
 .tag.res.active {
-  color: #f0384a;
-  background-color: #6e0812;
+  color: #15D0B9;
+  background-color: #048575;
   border-color: #3e050a;
 }
 .tag.cla.active {
-  color: #db9470;
-  background-color: #7a3d1f;
+  background-color: #F09A05;
   border-color: #522914;
 }
 .tag.per.active {
-  color: #fee07f;
-  background-color: #ca9901;
+  background-color: #DB4432;
   border-color: #977301;
 }
 .tag.wear.active {
-  color: #53c653;
-  background-color: #194d19;
+  background-color: #B0235A;
   border-color: #0d260d;
 }
 .tag.win.active {
@@ -373,8 +365,8 @@ code.highlighter-rouge {
   border-color: #0d1926;
 }
 .tag.res.active:hover {
-  color: #ef2035;
-  background-color: #56060e;
+  color: #15D0B9;
+  background-color: #036358;
   border-color: #270306;
 }
 .tag.cla.active:hover {
@@ -504,24 +496,28 @@ code.highlighter-rouge {
 
 .per > a > .project-info {
   height: 50%;
-  opacity: 1;
+  opacity: 0.5;
+  background-color: #E27499;
 }
 .wear > a > .project-info {
   height: 50%;
-  opacity: 1;
+  opacity: 0.5;
+  background-color: #E20070;
 }
 .res > a > .project-info {
   height: 50%;
-  opacity: 1;
+  opacity: 0.5;
+  background-color: #5C0078;
 }
 .cla > a > .project-info {
   height: 50%;
-  opacity: 1;
+  opacity: 0.5;
+  background-color: #BB4B98;
 }
 .win > a > .project-info {
   height: 50%;
   opacity: 0.5;
-  background-color: #FF6BE8;
+  background-color: #C20B39;
 }
 
 .project:hover > a > .project-info {
