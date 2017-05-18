@@ -322,11 +322,6 @@ code.highlighter-rouge {
   background-color: #369;
   border-color: #264c73;
 }
-.tag.viz {
-  color: #bf9fdf;
-  background-color: #639;
-  border-color: #4c2673;
-}
 .tag.res:hover {
   color: #f67f8b;
   background-color: #b50d1e;
@@ -402,6 +397,9 @@ code.highlighter-rouge {
   background-color: #132639;
   border-color: #060d13;
 }
+
+/* end tags */
+
 #projects {
   text-align: center;
   margin: 0px auto 0 auto;
@@ -462,6 +460,20 @@ code.highlighter-rouge {
   font-style: italic;
   font-size: 32px;
 }
+
+.project-wrapper:hover > .project-title {
+  height: 150px;
+  opacity: 1;
+}
+
+.project-wrapper:hover > .project-tags > .tag,
+.project-tags > .tag.active {
+  opacity: 1;
+}
+.project-description {
+  display: none;
+}
+
 .project-info {
   position: absolute;
   text-align: left;
@@ -489,6 +501,12 @@ code.highlighter-rouge {
 .project.active {
   background-color: cyan;
 }
+
+.win > a > .project-info {
+  height: 100%;
+  opacity: 1;
+}
+
 .project:hover > a > .project-info {
   height: 100%;
   opacity: 1;
