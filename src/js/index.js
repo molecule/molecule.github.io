@@ -31,12 +31,14 @@
   }
 
   function activateTag(tagName) {
+    console.log("activate Tag!", tagName)
     var tagSelector = '#tags > .tag.' + tagName;
     $(tagSelector).classList.add('active');
     var projectTagSelector = '.project-tags > .tag.' + tagName;
     $$(projectTagSelector).forEach(function($tag) {
       $tag.classList.add('active');
       var $wrapper = $tag.parentNode.parentNode;
+      console.log("wrapper: ", $wrapper)
       $wrapper.classList.add(tagName);
     });
   }
