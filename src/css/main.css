@@ -313,7 +313,7 @@ code.highlighter-rouge {
   border-color: #fdc001;
 }
 .tag.wear {
-  color: #f797a1;
+  color: #FFC7DD;
   background-color: #CD83A0;
   border-color: #267326;
 }
@@ -497,27 +497,22 @@ code.highlighter-rouge {
 .per > a > .project-info {
   height: 50%;
   opacity: 0.5;
-  background-color: #E27499;
 }
 .wear > a > .project-info {
   height: 50%;
   opacity: 0.5;
-  background-color: #E20070;
 }
 .res > a > .project-info {
   height: 50%;
   opacity: 0.5;
-  background-color: #5C0078;
 }
 .cla > a > .project-info {
   height: 50%;
   opacity: 0.5;
-  background-color: #BB4B98;
 }
 .win > a > .project-info {
   height: 50%;
   opacity: 0.5;
-  background-color: #C20B39;
 }
 
 .project:hover > a > .project-info {
