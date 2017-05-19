@@ -4,12 +4,12 @@ layout: default
 projects:
     -
         title: Illumination Aesthetics
-        desc: Light as a Creative Material within Computational Design. CHI 2017
+        desc: CHI 2017
         tags: [res, win]
         imag: /src/img/ia-thumbnail.jpg
     -
         title: Qbadge
-        desc: Personal project
+        desc: Qualcomm
         tags: [per, win, wear]
         imag: /src/img/qbadge.jpg
     -
@@ -39,19 +39,19 @@ projects:
     -
         title: sketchboard
         link: https://mollynicholas.wordpress.com/projects/
-        desc: Class project
+        desc: Critical Making
         tags: [cla]
         imag: /src/img/sketchboard-underbelly.jpg
     -
         title: adVenture
         link: https://mollynicholas.wordpress.com/projects/
-        desc: Class project
+        desc: Critical Making
         tags: [cla]
         imag: /src/img/adventure.jpg
     -
         title: 24 Second Food + Fitness
         link: https://mollynicholas.wordpress.com/projects/
-        desc: Class project
+        desc: Critical Making
         tags: [cla]
         imag: /src/img/24-second-food-and-fitness.jpg
     -
@@ -132,7 +132,7 @@ hidden:
   </div>
   </a>
 
-  
+
   <div class="project-tags">
   {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
   {% endfor %}</div>
