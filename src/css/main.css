@@ -352,7 +352,7 @@ code.highlighter-rouge {
   border-color: #522914;
 }
 .tag.per.active {
-  background-color: #DB4432;
+  background-color: #C96458;
   border-color: #977301;
 }
 .tag.wear.active {
@@ -360,8 +360,8 @@ code.highlighter-rouge {
   border-color: #0d260d;
 }
 .tag.win.active {
-  color: #538cc6;
-  background-color: #19334d;
+  color: #969696;
+  background-color: #383838;
   border-color: #0d1926;
 }
 .tag.res.active:hover {
@@ -376,17 +376,17 @@ code.highlighter-rouge {
 }
 .tag.per.active:hover {
   color: #fed966;
-  background-color: #b18601;
+  background-color: #C9584B;
   border-color: #7e6001;
 }
 .tag.wear.active:hover {
-  color: #40bf40;
-  background-color: #133913;
+  color: #CD3370;
+  background-color: #B0235A;
   border-color: #061306;
 }
 .tag.win.active:hover {
-  color: #407fbf;
-  background-color: #132639;
+  color: #3D3D3D;
+  background-color: #171717;
   border-color: #060d13;
 }
 
