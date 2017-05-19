@@ -496,23 +496,23 @@ code.highlighter-rouge {
 
 .per > a > .project-info {
   height: 50%;
-  opacity: 0.5;
+  opacity: 1;
 }
 .wear > a > .project-info {
   height: 50%;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .res > a > .project-info {
   height: 50%;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .cla > a > .project-info {
   height: 50%;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .win > a > .project-info {
   height: 50%;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 .project:hover > a > .project-info {
