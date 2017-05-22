@@ -144,14 +144,10 @@ hidden:
 <p style="margin: 0.5em 0em 10em 0em;">
 <small><i>
 
+<script language="JavaScript" type="text/javascript" src="/js/jquery.min.js"></script>
 <script src="/src/js/index.js"> </script>
 
 
 <!--<a href="/mit-license">license</a> --->
 updated {{ site.time | date: "%b %-d, %Y"}} </i></small>
 </p>
-
-
-<footer>
-<script src="/src/js/project.js" async>
-</footer>

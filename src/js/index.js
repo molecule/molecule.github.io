@@ -14,7 +14,6 @@
       console.log("title: ", $title)
 
   // TAG SELECTION
-
   function getTagName($tag) {
     return $tag.classList[1];
   }
@@ -113,3 +112,13 @@
     }, false);
   });
 })();
+
+
+//Self-calling function.
+(function () {
+  $('a.hohoho').click(function() {
+            alert('ho ho ho');
+  });
+})();
+
+
