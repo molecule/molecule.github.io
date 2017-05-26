@@ -84,6 +84,7 @@
   for (var offset = 0; offset < perRow; offset++) {
     offsetClasses.push(getOffsetClass(offset));
   }
+  /*
   $projects.forEach(function($project, i) {
     
     var j = getInsertBeforeIndex(i);
@@ -111,13 +112,15 @@
       $project.classList.add('selected');
     }, false);
   });
+*/
 })();
 
 
 //Self-calling function.
+//look up jquery stuff for getting div instead of a
 (function () {
-  $('a.hohoho').click(function() {
-            alert('ho ho ho');
+  $('.project-info').click(function() {
+            console.log("this", this)
   });
 })();
 
