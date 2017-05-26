@@ -124,15 +124,11 @@ hidden:
 <div id='projects'>
 {% for project in page.projects %}
 <div class="project">
-  <a href="{{ project.link }}">
   <img src="{{ project.imag }}" class="project-image"/>
   <div class="project-info">
   <h4>{{ project.title }} </h4>
   <small>{{ project.desc }}</small>
   </div>
-  </a>
-
-
   <div class="project-tags">
   {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
   {% endfor %}</div>
@@ -144,7 +140,7 @@ hidden:
 <p style="margin: 0.5em 0em 10em 0em;">
 <small><i>
 
-<script language="JavaScript" type="text/javascript" src="/js/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="/src/js/index.js"> </script>
 
 
