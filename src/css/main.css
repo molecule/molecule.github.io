@@ -494,28 +494,28 @@ code.highlighter-rouge {
   background-color: cyan;
 }
 
-.per > a > .project-info {
+.per > .project-info {
   height: 50%;
   opacity: 1;
 }
-.wear > a > .project-info {
+.wear > .project-info {
   height: 50%;
   opacity: 0.8;
 }
-.res > a > .project-info {
+.res > .project-info {
   height: 50%;
   opacity: 0.8;
 }
-.cla > a > .project-info {
+.cla > .project-info {
   height: 50%;
   opacity: 0.8;
 }
-.win > a > .project-info {
+.win > .project-info {
   height: 50%;
   opacity: 0.8;
 }
 
-.project:hover > a > .project-info {
+.project:hover > .project-info {
   height: 100%;
   opacity: 1;
   background-color: rgba(255, 255, 255, 0.7);
