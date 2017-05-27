@@ -5,16 +5,19 @@ projects:
     -
         title: Illumination Aesthetics
         desc: CHI 2017
+        description: This is a long description of the Illumination Aesthetics project.
         tags: [res, win]
         imag: /src/img/ia-thumbnail.jpg
     -
         title: Qbadge
         desc: Qualcomm
+        description: This is a longer description of the Qbadge project.
         tags: [per, win, wear]
         imag: /src/img/qbadge.jpg
     -
         title: Lightning Cloud
         link: https://mollynicholas.wordpress.com/projects/
+        description: This is a longer description of the Qbadge project.
         desc: Personal project
         tags: [per, win]
         imag: /src/img/lightning-cloud-crop.gif
@@ -124,7 +127,8 @@ hidden:
 <div id='projects'>
 {% for project in page.projects %}
 <div class="project">
-  <img src="{{ project.imag }}" class="project-image"/>
+  <div class="project-wrapper">
+    <img src="{{ project.imag }}" class="project-image"/>
   <div class="project-info">
   <h4>{{ project.title }} </h4>
   <small>{{ project.desc }}</small>
@@ -132,7 +136,15 @@ hidden:
   <div class="project-tags">
   {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
   {% endfor %}</div>
+  </div>
+  
 </div>
+
+<div id="project_details">
+    <div id="project_details_title">{{ project.title }}</div>
+    <div id="project_details_description">{{ project.description }}</div>
+</div>
+
 {% endfor %}
 </div>
 
@@ -140,7 +152,7 @@ hidden:
 <p style="margin: 0.5em 0em 10em 0em;">
 <small><i>
 
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="/src/js/index.js"> </script>
 
 

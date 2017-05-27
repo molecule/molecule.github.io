@@ -84,9 +84,7 @@
   for (var offset = 0; offset < perRow; offset++) {
     offsetClasses.push(getOffsetClass(offset));
   }
-  /*
   $projects.forEach(function($project, i) {
-    
     var j = getInsertBeforeIndex(i);
     console.log("adding listener to each project: ", j, i)
     var offsetClass = getOffsetClass(i % 3);
@@ -112,16 +110,30 @@
       $project.classList.add('selected');
     }, false);
   });
-*/
+//addProjectListener($projects);
 })();
 
-
-//Self-calling function.
-//look up jquery stuff for getting div instead of a
-(function () {
-  $('.project-info').click(function() {
-            console.log("this", this)
+/*
+function addProjectListener($projects) {
+  console.log("addProjectListener...")
+  $projects.forEach(function($project, i) {
+    $project.addEventListener('click', function() {
+      $projects.forEach(function($project) {
+        $project.classList.remove('selected');
+      });
+      $project.classList.add('selected');
+    }, false);
   });
-})();
+}
+
+$(document).ready(function(){
+    $(".project-info").click(function(){
+      console.log("this", this)
+      console.log("parent", $(this).parent())
+      console.log("selected", $(this).parent().nextElementSibling)
+        $("#project_details").slideToggle("slow");
+    });
+});
+*/
 
 
