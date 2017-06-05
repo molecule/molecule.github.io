@@ -7,11 +7,13 @@
       $tags = $$('#tags > .tag'),
       $projectsParent = $id('projects'),
       $projects = $$('#projects > .project'),
+      $projectInfo = $('.project-info'),
       $projectTags = $$('.project-tags > .tag'),
       $details = $id('project_details'),
       $title = $id('project_details_title'),
       $description = $id('project_details_description');
       console.log("title: ", $title)
+      console.log("projectInfo: ", $projectInfo)
 
   // TAG SELECTION
   function getTagName($tag) {
@@ -89,10 +91,10 @@
     console.log("adding listener to each project: ", j, i)
     var offsetClass = getOffsetClass(i % 3);
     $project.addEventListener('click', function() {
-      console.log("textContent of project: ", $project.textContent)
-      var title = $project.textContent;
+      console.log("$project: ", $project)
+      var title = $project.querySelector('.project-info').textContent;
+      var description = $project.querySelector('.project-description').innerHTML;
       console.log("title: ", title)
-      var description = $project.innerText;
       console.log("description: ", description)
       $title.textContent = title;
       $description.innerHTML = description;
@@ -101,6 +103,7 @@
       } else {
         $projectsParent.insertBefore($details, $projects[j]);
       }
+      console.log("details", $details)
       $details.classList.remove('hide');
       $details.classList.remove.apply($details.classList, offsetClasses);
       $details.classList.add(offsetClass);

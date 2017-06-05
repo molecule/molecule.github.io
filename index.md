@@ -17,7 +17,7 @@ projects:
     -
         title: Lightning Cloud
         link: https://mollynicholas.wordpress.com/projects/
-        description: This is a longer description of the Qbadge project.
+        description: This is a longer description of the cloud project.
         desc: Personal project
         tags: [per, win]
         imag: /src/img/lightning-cloud-crop.gif
@@ -112,7 +112,7 @@ hidden:
 </h3>
 
 <p> Molly Jane Nicholas is a PhD student studying Human Computer Interaction 
-  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how issues of identity, expression, and experience intersect with new media studies and performance studies.  Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She is also a dancer, <a href="http://www.lunfan.com/">Hired Hand with Liebe Wetzel's Lunatique Fantastique</a>, <a href="http://circuscenter.org/clown">Clown Conservatory-trained clown</a>, singer, and casual contortionist living in Berkeley, CA.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
+  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
 
 </div><!--clearfix-->
 
@@ -134,10 +134,10 @@ hidden:
   <small>{{ project.desc }}</small>
   </div>
   <div class="project-tags">
-  {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
-  {% endfor %}</div>
+    {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
+    {% endfor %}</div>
   </div>
-  
+  <div class="project-description"> {{project.description}} </div>
 </div>
 
 <div id="project_details">
