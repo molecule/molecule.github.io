@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2014-06-02
+date: 2017-06-13
 ---
 
 This is a collection of helpful videos that I used while I was learning to solder.
