@@ -5,7 +5,18 @@ title: posts
 
 # posts
 
-Nothing here yet... check back soon!
+Click below for various blog posts I've written.
+
+<ul class="post-list">
+{% for post in site.post reversed %}
+<li>
+<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+{{ post.title }}</a>
+</li>
+{% endfor %}
+</ul>
+
 
 
 <a href="{{ '/feed.xml' | prepend: site.url }}">rss</a>
