@@ -3,6 +3,10 @@ layout: post
 date: 2017-08-25
 ---
 
+I just finished taking my Prelim exam, and wrote up this brief but hopefully helpful overview of how the day actually looked from my perspective.
+
+Examiners: John Canny and Eric Paulos
+
 #### Q1. Let's start w/ Jefferson Han's paper, can you describe the technology behind how that paper worked? Give technical details, describe how it fit into the historical context, and how it differed from technology that came before, and any limitations.
 
 
