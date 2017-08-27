@@ -71,7 +71,7 @@ WHAT THEY WERE LOOKING FOR
 	- I talked about how important I think disemmination is, as it's rarely mentioned in most design guidelines, and my experience at the old company I worked at where (setting aside licensing) they didn't even provide documentation to groups within the company - teams wouldn't even help each other out, much less customers, or any outside groups.
 	-  I talked a little bit about Search and Canny responded that he thinks Search is an outdated term, to which I have a big reaction. He talked about how his kids use Google to search for specific pieces of knowledge, and I emphasized that while that's a part of search, another part is understanding what already exists, and placing yourself in the larger context of the work that's been done.
 - Accurate interpretation/understanding of Schneiderman's philosophy.
-	- Relate is more about relating to other people, not relating ideas to themselves (he even said my interpretation was a common mistake made only by buffoons or something similar). (I messed this up)
+	- Relate is more about relating to other people, not relating ideas to themselves (he even said my interpretation was a common mistake). (I messed this up)
 - Core concepts, and modern interpretations/examples of them.
 	- I listed FB, Ancestry.com, and 23andMe as modern versions of tracking family history details.
 - Analysis of what aspects of this have continued on to this day, and what have been left behind.
