@@ -18,7 +18,7 @@ Both examiners were very nice (one is my advisor, and the other I had only met o
 #### Questions
 Here are the questions I got, to the best of my ability to remember, as well as some details about what I said, what I think they were looking for, and places where I stumbled.
 
-#### Q1. Let's start w/ Jefferson Han's paper, can you describe the technology behind how that paper worked? Give technical details, describe how it fit into the historical context, and how it differed from technology that came before, and any limitations.
+##### Q1. Let's start w/ Jefferson Han's paper, can you describe the technology behind how that paper worked? Give technical details, describe how it fit into the historical context, and how it differed from technology that came before, and any limitations.
 
 
 WHAT THEY WERE LOOKING FOR
@@ -37,7 +37,7 @@ WHAT THEY WERE LOOKING FOR
 This was, honestly, extremely rough and probably my worst answer.
 
 
-#### Q2. Parallel Prototyping, Describe the study details, motivation, procedure, evaluation and the results. Identify a key problem with the way the experiment was run. Describe any issues with their data analysis, given these data samples.
+##### Q2. Parallel Prototyping, Describe the study details, motivation, procedure, evaluation and the results. Identify a key problem with the way the experiment was run. Describe any issues with their data analysis, given these data samples.
 
 WHAT THEY WERE LOOKING FOR
 1. Details of the experiment, how it was run, what their findings were. 
@@ -61,7 +61,7 @@ WHAT THEY WERE LOOKING FOR
 	- After drawing the data up on the board, I was able to clearly see that the distribution isn't normal, and the enormous variance means there might not actually be a difference in these two populations. I also said something about how they might have used a T-test, and can't we trust statistics?
 
 
-#### Q3. 1992 - Beyond Being There. What was the point of this paper? It was somewhat controversial at the time, can you talk about the why that might have been? What types of technology embody their ethos?
+##### Q3. 1992 - Beyond Being There. What was the point of this paper? It was somewhat controversial at the time, can you talk about the why that might have been? What types of technology embody their ethos?
 
 WHAT THEY WERE LOOKING FOR
 1. Details about the philosophy of the paper.
@@ -78,7 +78,7 @@ WHAT THEY WERE LOOKING FOR
 
 
 
-#### Q4. In Ben Schneiderman's CST he talked about 4 things (Collect, Relate, Create, Donate). Describe them. Canny gave the example of creating a family album, and asked if there was any technology existing today that supports these kinds of efforts. Schneiderman also describes 8 tasks (Professor Canny wrote the 8 tasks on the board exactly). He then asked for my personal critical reactions to the 8 tasks as I was reading the paper. He wanted me to talk about which seem to have stuck around, which seem to have fallen out of favor, if there is any technology that exists that supports this type of work, which seems to be "Schneiderman"-specific, etc.
+##### Q4. In Ben Schneiderman's CST he talked about 4 things (Collect, Relate, Create, Donate). Describe them. Canny gave the example of creating a family album, and asked if there was any technology existing today that supports these kinds of efforts. Schneiderman also describes 8 tasks (Professor Canny wrote the 8 tasks on the board exactly). He then asked for my personal critical reactions to the 8 tasks as I was reading the paper. He wanted me to talk about which seem to have stuck around, which seem to have fallen out of favor, if there is any technology that exists that supports this type of work, which seems to be "Schneiderman"-specific, etc.
 
 WHAT THEY WERE LOOKING FOR
 1. Personal, critical reaction, especially critiquing Schneiderman's perspective/viewpoint.
