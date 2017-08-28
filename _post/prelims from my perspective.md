@@ -23,7 +23,7 @@ Here are the questions I got, to the best of my ability to remember, as well as 
 ##### Q1. Let's start w/ Jefferson Han's paper, can you describe the technology behind how that paper worked? Give technical details, describe how it fit into the historical context, and how it differed from technology that came before, and any limitations.
 
 
-WHAT I REMEMBER
+THEIR QUESTIONS AND MY ANSWERS
 1. Specific technical details, how this differed from what had come before, and how it fit into the historical context.
 	- I drew the screen, with the light, and a camera a few inches behind, with a hand interacting, and some lines that indicate the light bouncing off of where the hand is touching.
 	- I said multiple people could interact with it (mostly making this up), it could remember an individual over time, with some % accuracy.
@@ -41,7 +41,7 @@ This was, honestly, extremely rough and probably my worst answer.
 
 ##### Q2. Parallel Prototyping, Describe the study details, motivation, procedure, evaluation and the results. Identify a key problem with the way the experiment was run. Describe any issues with their data analysis, given these data samples.
 
-WHAT I REMEMBER
+THEIR QUESTIONS AND MY ANSWERS
 1. Details of the experiment, how it was run, what their findings were. 
 	- I first started describing the Tohidi et al. paper about showing participants multiple designs, but quickly corrected myself.
 	- Then I described the motivation, that the authors wondered whether getting designers to create multiple versions would improve quality and diversity. I described the Serial condition vs Parallel condition.
@@ -65,7 +65,7 @@ WHAT I REMEMBER
 
 ##### Q3. 1992 - Beyond Being There. What was the point of this paper? It was somewhat controversial at the time, can you talk about the why that might have been? What types of technology embody their ethos?
 
-WHAT I REMEMBER
+THEIR QUESTIONS AND MY ANSWERS
 1. Details about the philosophy of the paper.
 	- Talk about what it was a response to. I said: a lot of technology was being built around the unstated goal of recreating physical colocation, where we're striving towards this goal of perfectly recreating the experience of being in the same location, what if instead we talked about this as only one of many possible media? That kind of opens up questions of what does face-to-face interactions lack/do poorly/not do at all/ etc.
 	- Define "being there". I said "physically co-located" and emphasized that the goal was always for people at a distance to not feel like they were at a disadvantage to people who were physically present (He nodded after this, which I took as an indication that I had said what he was looking for). I referenced Skype/video-conferencing system as one way geographically-disparate participants are at a disadvantage, due to technology problems like dropping frames, poor video quality, not synched sound and video, etc.
@@ -82,7 +82,7 @@ WHAT I REMEMBER
 
 ##### Q4. In Ben Schneiderman's CST he talked about 4 things (Collect, Relate, Create, Donate). Describe them. Canny gave the example of creating a family album, and asked if there was any technology existing today that supports these kinds of efforts. Schneiderman also describes 8 tasks (Professor Canny wrote the 8 tasks on the board exactly). He then asked for my personal critical reactions to the 8 tasks as I was reading the paper. He wanted me to talk about which seem to have stuck around, which seem to have fallen out of favor, if there is any technology that exists that supports this type of work, which seems to be "Schneiderman"-specific, etc.
 
-WHAT I REMEMBER
+THEIR QUESTIONS AND MY ANSWERS
 1. Personal, critical reaction, especially critiquing Schneiderman's perspective/viewpoint.
 	- I talked about how important I think disemmination is, as it's rarely mentioned in most design guidelines, and my experience at the old company I worked at where (setting aside licensing) they didn't even provide documentation to groups within the company - teams wouldn't even help each other out, much less customers, or any outside groups.
 	-  I talked a little bit about Search and Canny responded that he thinks Search is an outdated term, to which I had a big reaction. He talked about how his kids use Google to search for specific pieces of knowledge, and I emphasized that while that's a part of search, another part is understanding what already exists, and placing yourself in the larger context of the work that's been done.
