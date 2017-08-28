@@ -89,9 +89,9 @@ THEIR QUESTIONS AND MY ANSWERS
 2. Accurate interpretation/understanding of Schneiderman's philosophy.
 	- Relate is more about relating to other people, not relating ideas to themselves (he even said my interpretation was a common mistake). (I messed this up)
 3. Core concepts, and modern interpretations/examples of them.
-	- I listed FB, Ancestry.com, and 23andMe as modern versions of tracking family history details.
+	- I listed FB, Ancestry.com, and 23andMe as modern versions of tracking family history details. This was not really what he was looking for, I think. He suggested automatic face-tagging as something that would help make this less of a manual process.
 4. Analysis of what aspects of this have continued on to this day, and what have been left behind.
-	- I talked about ml4a and how that fits into the 8 tasks, and describe what you're able to do with ml4a, and why it's valuable and how it matches Schneiderman's. I described the ml4a project where someone fed in pictures of dinosaurs and pictures of flowers, and the output was dinosaur-shaped flower-like structures (I was relating this to the Composition task).
+	- I talked about ml4a and how that fits into the 8 tasks, and describe what you're able to do with ml4a, and why it's valuable and how it matches Schneiderman's 8 tasks, or can be described as a Creativity Support Tool. I described the ml4a project where someone fed in pictures of dinosaurs and pictures of flowers, and the output was dinosaur-shaped flower-like structures (I was relating this to the Composition task).
 
 #### Notes on my experiences
 
