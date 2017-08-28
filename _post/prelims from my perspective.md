@@ -93,7 +93,7 @@ THEIR QUESTIONS AND MY ANSWERS
 4. Analysis of what aspects of this have continued on to this day, and what have been left behind.
 	- I talked about ml4a and how that fits into the 8 tasks, and describe what you're able to do with ml4a, and why it's valuable and how it matches Schneiderman's 8 tasks, or can be described as a Creativity Support Tool. I described the ml4a project where someone fed in pictures of dinosaurs and pictures of flowers, and the output was dinosaur-shaped flower-like structures (I was relating this to the Composition task).
 
-#### Notes on my experiences
+#### What happens if you get stuck
 
 The first question was one of my weakest papers, but I knew I was confident on the rest, so I didn't let it rattle me too much. I definitely struggled on that question, though, as you can see in the 'questions' section. Each question had multiple sub-questions, but it wasn't broken down so expilcitly - things flowed based on what I said and where they wanted more detail. I tried to speak at length as much as I knew, covering motivations, main point, all details I recalled, and limitations. I didn't always succeed. The examiners helped me along when I was going in the wrong direction, or was not answering with the kinds of detail they wanted. Here's a specific example of what I mean: 
 
