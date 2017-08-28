@@ -21,7 +21,7 @@ Here are the questions I got, to the best of my ability to remember, as well as 
 ##### Q1. Let's start w/ Jefferson Han's paper, can you describe the technology behind how that paper worked? Give technical details, describe how it fit into the historical context, and how it differed from technology that came before, and any limitations.
 
 
-WHAT THEY WERE LOOKING FOR
+WHAT I REMEMBER
 1. Specific technical details, how this differed from what had come before, and how it fit into the historical context.
 	- I drew the screen, with the light, and a camera a few inches behind, with a hand interacting, and some lines that indicate the light bouncing off of where the hand is touching.
 	- I said multiple people could interact with it (mostly making this up), it could remember an individual over time, with some % accuracy.
@@ -39,7 +39,7 @@ This was, honestly, extremely rough and probably my worst answer.
 
 ##### Q2. Parallel Prototyping, Describe the study details, motivation, procedure, evaluation and the results. Identify a key problem with the way the experiment was run. Describe any issues with their data analysis, given these data samples.
 
-WHAT THEY WERE LOOKING FOR
+WHAT I REMEMBER
 1. Details of the experiment, how it was run, what their findings were. 
 	- I first started describing the Tohidi et al. paper about showing participants multiple designs, but quickly corrected myself.
 	- Then I described the motivation, that the authors wondered whether getting designers to create multiple versions would improve quality and diversity. I described the Serial condition vs Parallel condition.
@@ -63,7 +63,7 @@ WHAT THEY WERE LOOKING FOR
 
 ##### Q3. 1992 - Beyond Being There. What was the point of this paper? It was somewhat controversial at the time, can you talk about the why that might have been? What types of technology embody their ethos?
 
-WHAT THEY WERE LOOKING FOR
+WHAT I REMEMBER
 1. Details about the philosophy of the paper.
 	- Talk about what it was a response to. I said: a lot of technology was being built around the unstated goal of recreating physical colocation, where we're striving towards this goal of perfectly recreating the experience of being in the same location, what if instead we talked about this as only one of many possible media? That kind of opens up questions of what does face-to-face interactions lack/do poorly/not do at all/ etc.
 	- Define "being there". I said "physically co-located" and emphasized that the goal was always for people at a distance to not feel like they were at a disadvantage to people who were physically present (He nodded after this, which I took as an indication that I had said what he was looking for). I referenced Skype/video-conferencing system as one way geographically-disparate participants are at a disadvantage, due to technology problems like dropping frames, poor video quality, not synched sound and video, etc.
@@ -80,7 +80,7 @@ WHAT THEY WERE LOOKING FOR
 
 ##### Q4. In Ben Schneiderman's CST he talked about 4 things (Collect, Relate, Create, Donate). Describe them. Canny gave the example of creating a family album, and asked if there was any technology existing today that supports these kinds of efforts. Schneiderman also describes 8 tasks (Professor Canny wrote the 8 tasks on the board exactly). He then asked for my personal critical reactions to the 8 tasks as I was reading the paper. He wanted me to talk about which seem to have stuck around, which seem to have fallen out of favor, if there is any technology that exists that supports this type of work, which seems to be "Schneiderman"-specific, etc.
 
-WHAT THEY WERE LOOKING FOR
+WHAT I REMEMBER
 1. Personal, critical reaction, especially critiquing Schneiderman's perspective/viewpoint.
 	- I talked about how important I think disemmination is, as it's rarely mentioned in most design guidelines, and my experience at the old company I worked at where (setting aside licensing) they didn't even provide documentation to groups within the company - teams wouldn't even help each other out, much less customers, or any outside groups.
 	-  I talked a little bit about Search and Canny responded that he thinks Search is an outdated term, to which I had a big reaction. He talked about how his kids use Google to search for specific pieces of knowledge, and I emphasized that while that's a part of search, another part is understanding what already exists, and placing yourself in the larger context of the work that's been done.
@@ -100,8 +100,13 @@ In Q2 (see below), Professor Canny was trying to get my sense of what the theore
 So that may give you a sense of how they lead you through questions if you aren't getting to the right answer, and how they'll help you if you're seemingly stuck.
 
 
+#### Recommendations
 
+To study, we read all the papers, drew maps that connected all of the ideas of all the papers together on a whiteboard, discussed the concepts in detail (especially motivations, experimental setups, findings, and limitations), and studied over 300 flashcards. The other grad students told us we were preparing more than anyone has prepared for prelims in the last 10 years, and thought we were way overthinking things. I'm very happy with the amount of time and energy I put into preparing: not only because I felt confident and ready for the test, but also because these topics are things I'm very interested in! I can't imagine a world where I wouldn't benefit from having so much detailed knowledge about foundational papers in my field. My recommendations:
 
+1. Read all the papers. I actually read each paper at least 3 times but that's because I read super fast and need time to absorb things.
+2. The flashcards were probably the most helpful study aid (this from someone who hates flashcards). I put every list that was in a paper into a flashcard, along with examples and descriptions of what each item was. I also made sure I could describe every experiment in great detail and I was super glad I did. I also made sure I could apply the concepts from every paper. So if they had asked me to design a search user interface, I would have known exactly how to do it. Anki (the flashcard program I used) has a great system to help you learn things, and the desktop version is free! (The app is $25 which is high but it was definitely worth it for me).
+3. Talk w/ other students, practicing questions, and drawing connections / comparisons. Not only was this invaluable it was also fun! Practicing talking in front of people who are looking at you with blank expressions on their face is surprisingly difficult, and I'm glad we practiced this as much as we did. 
 
 
 
