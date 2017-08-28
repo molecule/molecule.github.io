@@ -47,11 +47,11 @@ THEIR QUESTIONS AND MY ANSWERS
 	- Then I described the motivation, that the authors wondered whether getting designers to create multiple versions would improve quality and diversity. I described the Serial condition vs Parallel condition.
 	- With some prompting, I said that they were actually designing web ads (I could have said this without prompting, but I was feeling nervous and so I just stopped talking here).
 	- I described the three hypotheses: Better/more successful ads, greater diversity in designs, and increased levels of self-efficacy in student designers. 
-	- I said they used expert ratings to evaluate diversity, and Professor Canny pressed me on  how they actually did the comparison (I said "pairwise comparison") and on who these 'experts' actually were. I said they were Mechanical Turk workers, which is what he was looking for.
+	- I said they used expert ratings to evaluate diversity, and Professor Canny pressed me on  how they actually did the comparison (I said "pairwise comparison") and on who these 'experts' actually were. I said they were Mechanical Turk workers, which was clearly what he was looking for.
 2. Theoretical motivations behind what they looked for and found.
-	- I described how the serial process enabled iterative improvement on the starting point, which may hillcimb toward some kind of local optima, whereas generating multiple designs in parallel may sample more broadly from the design space, and allows a greater chance of global optima.
+	- I described how the serial process enabled iterative improvement on the starting point, which may hillclimb toward some kind of local optima, whereas generating multiple designs in parallel may sample more broadly from the design space, and allows a greater chance of global optima.
 3. Obvious problems w/ the experimental design or how it was run.
-	- I didn't remember this, but apparently the experimenters were not blind to the experimental setup (parallel or serial) and they were the ones providing the rankings, so that may have biased things). I pointed out that the independent ratings by Mechanical Turk and the click-throughs made the findings more believable.
+	- I didn't remember this, but apparently the experimenters were not blind to the experimental setup (parallel or serial) and they were the ones providing the rankings, so that may have biased things. I pointed out that the independent ratings by Mechanical Turk and the click-throughs made the findings more believable.
 4. Analysis of specific data samples (provided by examiners). What problem would you see here in this data, or what concerns do you have? The following was drawn on the board:
 
 	```
