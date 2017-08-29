@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2017-08-29
+---
+
 The two professors who examined me for my Prelim test have graciously given consent for me to post their detailed notes from the actual exam here. I'm sharing it here in the interest of supporting future students in the program and for documenting my own experience. As you can see, their expectations are clearly spelled out. Professor Paulos has also provided [a more complete copy of all of his planned questions here.](http://www.paulos.net/teaching/prelims/Eric_Paulos_Prelim_Fall_2017_Questions.pdf)
 
 Professor Canny requested that I remove all the parts of the document that capture my responses. He was concerned that students preparing for the exam would read too much into it. I can see his point, and encourage interested students to contact me directly (or any upper-level graduate student) to discuss how the test actually unfolds. You can also read [my post about the test from my perspective](https://molecule.github.io/post/prelims%20from%20my%20perspective/) to get a sense of how it went.
