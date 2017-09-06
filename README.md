@@ -16,5 +16,5 @@ jekyll serve -w
 Browse to this address to test the local version:
 http://127.0.0.1:4013/
 
-(c) 2016 Molly Nicholas
+(c) 2017 Molly Nicholas
 
