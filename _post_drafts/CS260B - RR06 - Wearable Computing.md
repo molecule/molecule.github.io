@@ -19,9 +19,10 @@ The Remembrance Agent personalizes responses.  what does it mean for computer sy
 
 I do love the focus on what "computers do well". I think in general this is a useful way to frame the role systems should play in our lives. The use of the word "agent" does imply 'intelligence' or at least something that tries to be intelligent. Eric Horvitz' Principles of Mixed-Initiative User Interfaces identified the importance of "anticipating needs" - but I think this is extremeley difficult to do correctly, and I'm not convinced the RA addresses this challenge. Raskin would say a system like the RA - or anything that adjusts over time - is inhumane: unpredictable and customizable so  you never develop habits.
 
-Finally, I laughed out loud when I saw Fig. 2, with the caption: "Different styles of wearable computing hardware". that is not how I would caption this photograph:
+Finally, I laughed out loud when I saw Fig. 2, with the caption: "Different styles of wearable computing hardware". An image of 6 very similarly-dressed, almost identical body types, seemingly same race, gender? That is not how I would caption that photograph:
 
-!["different styles" of wearable computing][different-wearable-styles]
+!["different styles" of werable computing](https://i.imgur.com/TuD5lki.png)
+
 
 
 
@@ -47,5 +48,3 @@ Holy shit this paper.
 
 
 
-Images
-[different-wearable-styles]: https://i.imgur.com/TuD5lki.png "title text two"
