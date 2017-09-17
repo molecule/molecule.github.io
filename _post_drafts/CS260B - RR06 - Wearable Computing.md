@@ -1,8 +1,19 @@
+---
+layout: post
+date: 2017-09-17
+---
+
+Both of these papers are impressively deep and broad explorations of wearable technology. They address so many concerns, both obvious and not, that they were thrilling to read.
+
 #### Augmented Reality through Wearable Computing
 Thad Starner, Steve Mann, Bradley Rhodes, Jeffrey Levine, Jennifer Healey, Dana Kirsch, Rosalind W. Picard, and Alex Pentland
 Presence: Teleoperators and Virtual Environments 1997 6:4, 386-398 
 http://dx.doi.org/10.1162/pres.1997.6.4.386
 http://www.mitpressjournals.org/doi/10.1162/pres.1997.6.4.386
+
+I've seen Thad Starner speak, and in particular I've seen him demonstrate his wearable computing. He was sporting Google Glass at the talk, and his presentation involved one of the most seamless interactions with Google Glass that I've ever seen. He performed a search for a random phrase suggested by the audience and presented the data, and only later revealed that his Glass had helped him. Of course it was in a practiced presentation, but his ability to send commands to his Glass and maintain the flow of conversation was quite good. That is always one of my main concerns when considering augmented reality systems - I imagine a sort of dystopic future where people zone out in the middle of sentences, distracted by something on their AR screen. Actually, I already see this happening when people are interrupted by notifications from their smartwatches: it's brief, but irritating, as their attention is dragged towards whatever is buzzing on their wrist. Even if they dismiss it, the interruption already occurred. When describing the Remembrance Agent, the authors claim users could ignore the data, only attending when they're interested. But I question the likelihood of that. I already get phantom phone buzzes in my pocket, and the effort required to dismiss a notification can be enough to derail my train of thought.
+
+They did provide some compelling use-cases. I was particularly drawn to the personalized museum visit: how exciting to be able to dig into more details that each person is interested! By combining this with the Sotto Voce project, you could allow people to "look over the shoulder" of someone else as they chased interesting ideas.
 
 "Agent" --> implies 'intelligence' or at least something that tries to be intelligent. Relates to Horvitz' Principles of Mixed-Initiative User Interfaces. "anticipate needs" - this is super super hard to do.
 
