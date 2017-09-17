@@ -30,20 +30,17 @@ Finally, I laughed out loud when I saw Fig. 2, with the caption: "Different styl
 Poupyrev, Ivan, et al. "Project Jacquard: interactive digital textiles at scale." Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. ACM, 2016.
 http://dl.acm.org/citation.cfm?doid=2858036.2858176
 
-Focus on manufacturing affordability/ease (addressing some messiness concerns of Dourish and Bell)
+This paper absolutely blew me away. This work is some of the most impressive work I've ever seen published and I'd have to read it again to find anything to criticize. The motivation, the list of challenges, the focus on manufacturing affordability/ease (addressing some messiness concerns of Dourish and Bell), the implementation details, the various user studies, the robotic testing of functionality...I truly am in awe of this paper and can think of nothing it missed or could have expanded on (there probably is....I don't think the perfect paper exists but....wow this comes close).
 
-"for designers of those objects, digital sensing and computation become basic properties of the textile materials—like weight, color and elasticity."
+In particular, I loved this rhetoric: "for designers of those objects, digital sensing and computation become basic properties of the textile materials—like weight, color and elasticity." This reframing of technical capabilities as another 'material' for an artisan to manipulate really resonates with me. I had the chance to work with Cesar Torres on his work of creativity support tools. The notion of materiality, and providing access to different elements with software tools is inspiring and interesting.
 
-Love the details about existing yarn types. Sometimes I think about how these documents will be useful to historians but not always in obvious ways that we think.
+As a random aside: I love the details about existing yarn types. Sometimes I think about how these documents will be useful to historians but not always in obvious ways that we think. They can perhaps glean information about mechanical systems through details like this.
 
-Reading papers is frustrating becauase i have to flip back and forth to the citations. PDFs are terrible.
+As another random aside: Reading papers is frustrating becauase I frequently have to flip back and forth to the citations. PDFs are terrible for interactions, and I really wish they weren't the gold standard! Why can't I hover over a citation and see a little popup of what it is?
 
-Oh cool they talk about their inspiration! " Project Jacquard was inspired by observing that the structure of woven textiles strongly resembles the structure of the multitouch sensor panels used in today’s mobile phones and tablets with projected capacitive sensing: both are based on grid topology"
+A third random aside: Oh cool they talk about their inspiration! " Project Jacquard was inspired by observing that the structure of woven textiles strongly resembles the structure of the multitouch sensor panels used in today’s mobile phones and tablets with projected capacitive sensing: both are based on grid topology". This little tidbit is definitely interesting, but I still want a full historical account of how this project developed over time :)
 
-list of requirements: daaaaaaaaamn
-" we were not aware of existing yarns that could satisfy all these requirements" so we built one motherfuckerssssss
-
-Holy shit this paper.
+I'm honestly having a hard time writing anything about this paper - it was so mind-meltingly impressive.
 
 
 
