@@ -88,7 +88,6 @@ Another connection:
 --> Eric will have some NSF proposal around wearables, will send me some text. due 27 Sept.
 --> Do we need to order more parts? Look into this.
 --> Look at recent TEI, older wearable conferences (Int'l Symposium Wearable Computing) maybe got morphed into something else
---> 
 
 ##### Paper structure
 why are these the way they are?
