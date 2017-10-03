@@ -83,3 +83,9 @@ Philosophical differences:
 Wellner: here are some limitations. DiamondTouch: fuck you we're perfect.
 
 Focus on unencumbered: DiamondTouch and Social Immersive. 
+
+
+#### Others' comments:
+Andrew: What was even more fascinating was how the interaction design could lower users' social inhibitions. People were more likely to engage in the exhibit when their avatars were just shadows, preventing people from fixating on how they looked, or worry about recordings that could identify them. I never considered that machines' ability to capture and redraw us enables interactions that make us more outgoing. It's a more covert form of persuasion than those Fogg described in his chapter on persuasive technology. It's not a machine asking explicit questions, but a machine lowering barriers to the desired of behavior by altering your perception. What an interesting idea!
+
+
