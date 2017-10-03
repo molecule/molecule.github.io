@@ -1,0 +1,15 @@
+#### SILK: sketching interfaces like krazy.
+
+The fundamental idea here is flawed: SILK enables quick generation of code, and in the video Landay even says he wants interface code to be automatically generated. But code spends most of its life being maintained, not generated. Generated code is known for being unreadable and terrible quality even now, so I don't think this would catch on very well. It was Myers et al., who also pointed out that any system that strives for simplicity at the expense of power always ends up compromising the simplicity in order to achieve that power. I suspect the same is true here, even though the system seems great as far as it goes.
+
+The sketchy nature of the interface has both downsides and advantages: we know now that showing users early prototypes can actually help generate useful critical feedback. It seems that users don't like to give criticisms if they feel the prototype is complete, so having an unpolished thing to show can actually be helpful. This tools embraces that simplicity and fuzziness for an interactive experience that seems like it would work well.
+
+This almost seems like the perfect "interactive" paper that we wanted from Digital Desk or DiamondTouch. I guess what I learn from this is that the appeal of paper or notebooks is not just the "sketchiness", but the interaction style, the ability to not sit at a table and type, and the long-term ability to save creations (I'm talking 100s of years: we still have access to DaVinci's notebooks, for example!).
+
+#### Design Principles for Tools to Support Creative Thinking 
+
+An early version of a simpler concept was published by Ben Schneidermen in 2002, so I'm glad to see a more complete version here. The design guidelines they've identified resonate with me as someone who has worked on creativity tools. I read a quote by someone saying: if your new creativity tool results in massive amounts of absolute garbage, your tool is a phenomenal success. This is because of the "low threshold" aspect the authors identify: when you invite more novices into any new creative space, the first stuff they create won't be very good, but you've tapped into excitement, which is more important than quality especially at the beginning. The authors state their goal is to support the work on "both logical and/or physical representations" as though those are the only two options! 
+
+I deeply appreciate their discussion of "diversity of outcomes" as a measure for success. Defining metrics for creative endeavours is always tricky, but this seems like a good one. I do wish they could have given more specific examples of successful designs, since that can help readers apply design guidelines to their own work.
+
+I particularly love the warning to "choose black boxes carefully." This is one of those things that seems obvious but actually has a big impact on how you design: now only because it changes what people learn, but also because the existence of a black box can subtly influence the kind of work people think they are allowed to do, change, or participate in.
