@@ -22,4 +22,4 @@ I do think they "stacked the deck" in their own favor: playing this game on a ke
 
 [2][Beyond Social Facilitation: A Review of the Far-Reaching Effects of Social Attention](http://guilfordjournals.com/doi/abs/10.1521/soco.2017.35.5.585)
 
-[3] (User active time)[https://twitter.com/williampietri/status/904362695482376193]
+[3] [User active time](https://twitter.com/williampietri/status/904362695482376193)
