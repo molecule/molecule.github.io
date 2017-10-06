@@ -19,5 +19,7 @@ I do appreciated the reasonable scope of using these games in the same way ice-b
 I do think they "stacked the deck" in their own favor: playing this game on a keyboard is far less appealing. I also wonder if the intensity of the exercise is important to the feelings of social connection that they found: would simply running on a treadmill with someone have a similar effect? It feels like there should have been a greater elaboration on possible mechanisms of connection. I also question whether their survey got caught up in "social desireability bias". They explicitly told participants they wanted to know how much they enjoyed the game. I at first thought their metric of "continued voluntary play" was good, but things tend to be a little more complicated: happy users don't always simply spend more time, as this infographic about "user active time" clearly shows[3].
 
 [1] [Beyond Being There](https://dl.acm.org/citation.cfm?id=142769)
+
 [2][Beyond Social Facilitation: A Review of the Far-Reaching Effects of Social Attention](http://guilfordjournals.com/doi/abs/10.1521/soco.2017.35.5.585)
+
 [3] (User active time)[https://twitter.com/williampietri/status/904362695482376193]
