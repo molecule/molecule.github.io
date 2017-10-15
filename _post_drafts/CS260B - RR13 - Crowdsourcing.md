@@ -29,6 +29,8 @@ One challenge for both of these, even with Soylent's more "human-friendly" quest
 ##### Path to "real-world"
 As with many of our projects, has this been made into a "real world" project? Is that even a worthy goal for academic research projects? I certainly imagine that Soylent helped other researchers doing work on crowdsourcing, paper editing, and a range of other fields. Same with GWAP: I'm sure it helped gather lots of data for a huge variety of researchers. But what is the role of academic research in the world of today? I mean, really? 
 
+I commented above on the importance of a critical eye to systemic flaws in our societal infrastructure....but I would say none of my academic research to date has done anything to address those flaws. And if they had added a paragraph into their papers on it...would that do much? (I do think it's better than nothing, because it introduces the idea to folks who may not have heard of it before). But what is effective altruism, and what role can -- and SHOULD -- academic play in addressing these kinds of societal challenges?
 
 [1] https://www.researchgate.net/publication/268427703_Who_are_the_Turkers_Worker_Demographics_in_Amazon_Mechanical_Turk
+
 [2] https://thenewinquiry.com/the-ladies-vanish/
