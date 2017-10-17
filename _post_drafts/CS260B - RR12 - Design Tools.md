@@ -21,3 +21,31 @@ Both this and the other paper celebrated the creation of artefacts. I thought th
 
 To sum up:
 I really like both of these papers and I'm excited to discuss them but I didn't come away with strong conclusions from either of them! Good try, though, authors!
+
+
+#### Class notes
+
+Dilemmas in a General Theory of Planning. (defines/describes, coins the term "wicked problems"), Rittel and Webber.
+Weiser quote about starting from the arts and humanities. --> NSF
+industrial design vs graphic design vs visual design vs design research
+the process of knowledge production that occurs through the act of design.
+I-Bomb 1998 Eric project about destroying technology but leaving people.
+James Pierce thought of energy as a material (this thought is external to Cesar....) Performing is all about emotional content as material.
+The Three Paradigms of HCI alt.CHI 2007
+CHI proceedings from 2005-2006 would show minimal "design" projects..
+This paper is almost an internal discussion exposed as a paper. It's not about telling other fields they can't/don't participate in design, it's more about speaking to designers and emphasizing that their research methods are valuable, and constitute knowledge building.
+Strong Concepts.
+	- Ex: social navigation (anonymous rec systems, footprints in virtual/physical spaces, etc.)
+Drift Table 
+	- "Steve here has been living with this for about 2 weeks now, and we're going to ask him what he thinks it is"
+	- Ambiguity and lack of control: user had to define for themselves what the interaction was, and what it meant.
+	- Imagine a contextual inquiry that would result in this design: "Oh yes, we are floating over the countryside all the time but I'd really rather do it from the comfort of my living room, and I'd rather not be able to control where I'm going or what I see."
+	- Users have to complete the narrative.
+	
+
+
+
+
+
+
+
