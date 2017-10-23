@@ -116,6 +116,16 @@
 //addProjectListener($projects);
 })();
 
+// also uses panel and #flip in main.css
+// based on this: https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_slide_toggle
+/*
+$(document).ready(function(){
+    $(".project-wrapper").click(function(){
+        $("#panel").slideToggle("slow");
+    });
+});
+*/
+
 /*
 function addProjectListener($projects) {
   console.log("addProjectListener...")
