@@ -8,55 +8,57 @@ projects:
         description: This is a long description of the Illumination Aesthetics project.
         tags: [res, win]
         imag: /src/img/ia-thumbnail.jpg
+        link: /project/illumination-aesthetics
     -
         title: Qbadge
         desc: Qualcomm
         description: This is a longer description of the Qbadge project.
         tags: [per, win, wear]
         imag: /src/img/qbadge.jpg
+        link: /project/qbadge
     -
         title: Lightning Cloud
-        link: https://mollynicholas.wordpress.com/projects/
         description: This is a longer description of the cloud project.
         desc: Personal project
         tags: [per, win]
         imag: /src/img/lightning-cloud-crop.gif
+        link: /project/lightning-cloud
     -
         title: Wearable Neopixel Sparkle
-        link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per, wear]
         imag: /src/img/wearable-sparkle.jpg
+        link: /project/neopixel-sparkle
     -
         title: InfraRed Receiver
-        link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per]
         imag: /src/img/ir-receiver.jpg
+        link: /project/infrared-receiver
     -
         title: Photo Wall
-        link: https://mollynicholas.wordpress.com/projects/
         desc: Personal project
         tags: [per]
         imag: /src/img/photo-wall.jpg
+        link: /project/photo-wall
     -
         title: sketchboard
-        link: https://mollynicholas.wordpress.com/projects/
         desc: Critical Making
         tags: [cla]
         imag: /src/img/sketchboard-underbelly.jpg
+        link: /project/sketchboard
     -
         title: adVenture
-        link: https://mollynicholas.wordpress.com/projects/
         desc: Critical Making
         tags: [cla]
         imag: /src/img/adventure.jpg
+        link: /project/adventure
     -
         title: 24 Second Food + Fitness
-        link: https://mollynicholas.wordpress.com/projects/
         desc: Critical Making
         tags: [cla]
         imag: /src/img/24-second-food-and-fitness.jpg
+        link: /project/food-and-fitness
     -
         title: GitHub
         link: https://github.com/molecule
@@ -127,23 +129,27 @@ hidden:
 <div id='projects'>
 {% for project in page.projects %}
 <div class="project">
+  <a href="{{ project.link }}">
   <div class="project-wrapper">
+    
     <img src="{{ project.imag }}" class="project-image"/>
-  <div class="project-info">
-  <h4>{{ project.title }} </h4>
-  <small>{{ project.desc }}</small>
+    <div class="project-info">
+        <h4>{{ project.title }} </h4>
+        <small>{{ project.desc }}</small>
   </div>
   <div class="project-tags">
     {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
     {% endfor %}</div>
   </div>
   <div class="project-description"> {{project.description}} </div>
+</a>
 </div>
 
 <div id="project_details">
     <div id="project_details_title">{{ project.title }}</div>
     <div id="project_details_description">{{ project.description }}</div>
 </div>
+
 
 {% endfor %}
 </div>
