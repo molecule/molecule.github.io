@@ -29,3 +29,9 @@ I struggled to understand what exactly the authors meant by "movement" until the
 Are the particular apps that came out of this important? Or is the more interesting part **what** the crowds are coming up with? In other words: this is an interesting way to gauge the concerns and desires of the broader community, which could inform designs by entrepreneurs, researchers, or government bodies. Ok, maybe I"m just cantankerous...
 
 I appreciated the section on Social Media Literacy and the Need-Understanding gap! 
+
+The Related Work identifies ways in which gatekeeping behaviors limit participation in the creation of technological artifacts. But on the other side: I don't want some random person who's brand-new to C++ to contribute to my project. In other words, there's a difference between gate-keeping and just having standards or expectations. And even though I'm drawn to direct action on society, I find myself wondering if that's the best role for researchers? Isn't that more a social worker's or activist's job?
+
+I do find myself drawn to the idea that consumers of technology should be able to influence the design of the systems we use (for instance: I'd love to have more control over how facebook operates). 
+
+THe authors emphasize a "democratic process" but in democracies we elect leaders who appoint cabinet members who make decisions. Being involved in every decision takes time, energy, and expertise, which arguably the crowd doesn't have. Not to mention the potential for one large group to decide things, or the reverse problem death by committee..this just seems fundamentally like a flawed idea to me. The goal of "allow[ing] every community member to have an equal say" sounds like an actual nightmare I've had. On the other hand, maybe engaging non-traditional participants on the design process, they'll also have a different understanding/appreciation for app development.
