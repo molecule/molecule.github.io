@@ -16,3 +16,51 @@ And part of what it generated was this intense and excellent critique by Dourish
 I'm very curious to hear Eric's perspective on both these papers, their place in HCI, and their impact on the field!
 
 Side note: it's funny to me for some reason that both papers reference Guy Debord and the Situationists.
+
+
+### Class notes
+
+Amsterdam: felt nervous crossing streets w/ all the bikes.
+Compare w/ crossing street w/ mopeds in Vietnam.
+
+Complicated history of transportation in the US
+
+Exercise: 
+setup: imagine that tomorrow at 3pm you're meeting someone else that lives in Berkeley. They know they're meeting you and you will recognize each other. It's not someone you know, but you know you're meeting. Where would you go?
+- Where the pin drops on google maps
+- shows how/whether people think about the city as having a center.
+
+v. 2
+I'm very sorry to tell you that you've been banished from Berkeley forever. As bad as that sounds, we're going to have a parade as you leave, and you need to plan the route.
+
+v. 3 
+Draw a complete map of the city.
+
+more about 'question-finding'
+did we feel like this method worked? This didn't seem to compare the new method w/ other methodology.
+
+Eric (under the hood): came from familiar strangers, wanted more urban. make up narratives about familiar strangers, how about objects left behind. Wanted more creative techniques beyond formal interviews (postcards from Milgram, trash-can), obsess about this one object, humanity-in-the-landscape. realized they could position it as a strategy to sound more formal. wanted to do something provocative, rather than "cold" intervention (wanted HCI to have more of that type of thing). ran out of time to do user study, so did observation. City is new domain, can studies be more playful/inspiring instead of only efficient/optimization/etc? Probes usually given to people you know, anonymous, asynchronous probe instead. "No way this comes across as a methodology". Critical design pieces (how would this change the way we think about x). 
+	- data of umbrella openings. mesh umbrella network.
+
+what makes something 'count' as a methodology contribution?
+- hard, brings out research methodology zealots (we don't need 8,000 methods).
+- argue how it's significantly different from existing stuff.
+- show it operationalized on an example
+	- hard to do example w/ other methods
+	- have other people use your method
+	- 
+
+
+tinder yelp etc, people develop their own practices (wish I had examples!)
+
+dynamic cartography, externalizing mental models. 
+
+
+
+
+
+
+
+
+
+
