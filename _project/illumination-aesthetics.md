@@ -15,7 +15,8 @@ img.proj { display: block; margin: auto; }
 
 This work won a Best Paper Award at [CHI 2017][chi]!
 
-**Abstract:** Recent digital fabrication tools have enabled new form-giving
+#### Abstract
+Recent digital fabrication tools have enabled new form-giving
 using a wide range of physical materials. However, light
 as a first class creative material has been largely ignored
 within the design of our electronic objects. Our work expands
@@ -40,6 +41,8 @@ expressive artifacts.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tcaZyJqJElw" frameborder="0" allowfullscreen></iframe>
 </center>
 
+#### My contribution
+Along with (of course) editing and helping to write the paper, I ran the user study under the excellent direction of first author Cesar Torres. I also synthesized findings and again with Cesar's excellent help wrote up the themes we saw in the user study. 
 
 
 
