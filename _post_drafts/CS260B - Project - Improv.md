@@ -9,10 +9,16 @@
 - "Learning as substance" transmitted from the teacher to the student as opposed to learning a process that the student embeds themselves in.
 
 #### Rules
+  - The only rule: "Move forward, with everyone's joyful participation"
   - Told the story of a beginning improv group playing the game of "one word story" and inevitably, someone will say two words (b/c they forgot, just slipped up, thought it would be funny, etc). And the BEGINNING group will pounce on them: "the rule is one word! You said two words!" whereas the more advanced group recognizes that the point isn't the RULES, the point is to PLAY. So maybe now the rules change to support this new form of play: it's a two-word story or whatever.
   - adv improvisors realize the rules are constraints, just there to let the game evolve.
   - Rules are to scaffold so you get through vulnerability, fear, and relax, breathe, and see.
+    - "Yes, and"
+    - Taking control: Coffee? Do you have tea? - Rather than accepting the coffee, the actor rejects the drink, taking control. Improv is about ceding control.
+    - listening
+    - self-efficacy
   - Saw a talk by researchers a while ago about improv rules, and he asked "which version of improv" because there are really no hard and fast rules. 
+  
   
 #### Worthwhile
   - When we perform a play, like Shakespeare, we automatically assume his words are "worth" saying onstage: they have value. The fact that a playwright wrote the words makes them *worthwhile* to perform. But when we're creating our own work, and especially in improv, a little part of ourselves is the playwright. So we must continually convince ourselves that we we're doing is worthwhile.
