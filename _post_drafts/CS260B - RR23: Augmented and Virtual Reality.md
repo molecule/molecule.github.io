@@ -32,3 +32,10 @@ The authors describe a separation of the systems that control user interaction a
 #### Tool details
 Overall, this sounds like a very impressive research tool. Calibration steps don't even seem that bad, and the fact that they list them as describe the automated procedures for incorporating the info into the system makes the system feel complete.
 
+
+### Class notes
+
+What counts as AR? Glasses, those 3D pictures, etc. What is the "actual earliest" AR experience?
+Body discomfort always a part of it: holding up tablet forever, arms extended in front for "clicking" in AR.
+"humans don't have laptops, computer scientists have laptops."
+How does AR disrupt learning/experiencing the world? E.g., Google maps degrading ability to navigate/learn cities/maps.
