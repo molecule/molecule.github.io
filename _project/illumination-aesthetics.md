@@ -42,7 +42,9 @@ expressive artifacts.
 </center>
 
 #### My contribution
-Along with (of course) editing and helping to write the paper, I ran the user study under the excellent direction of first author Cesar Torres. I also synthesized findings and again with Cesar's excellent help wrote up the themes we saw in the user study. 
+- Designed and ran user study in collaboration with César Torres.
+- Synthesized themes and wrote user study section of the paper (specifically identified by reviewers as high quality).
+- Edited rest of paper. 
 
 
 
