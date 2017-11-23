@@ -20,10 +20,4 @@ layout: default
 [chi17]:https://chi2017.acm.org/
 [chi17cp]:/papers/IlluminationAesthetics-chi2017.pdf
 
-# useful LaTeX things
-
-[CHI template](https://www.overleaf.com/9573250nngjfqswrbrr#/34756603/)
-
-[Useful LaTeX commands, collected](https://www.overleaf.com/9571211zrxzkkcjzdrq)
-
 
