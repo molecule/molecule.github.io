@@ -7,13 +7,13 @@ title: Illumination Aesthetics
 
 <style>
 img { display: inline; }
-img#illumination { width: 7em; }
+img#illumination { width: 10em; }
 img.proj { display: block; margin: auto; }
 </style>
 
 <img id="illumination" class="proj" src="/src/img/ia-thumbnail.jpg">
 
-This work won a Best Paper Award at [CHI 2017][chi]!
+| <img src="/src/img/noun_779891.svg" alt="CHI award" style="width: 50px;"/> | Best Paper Award at [CHI 2017][chi] |
 
 #### Abstract
 Recent digital fabrication tools have enabled new form-giving
