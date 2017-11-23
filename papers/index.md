@@ -11,7 +11,7 @@ layout: default
 
 <h1> <a id="back" href="/">&#65513;</a> </h1>
 
-# papers
+# research
 
 | <img src="/src/img/ia-thumbnail.jpg" alt="Illumination Aesthetics" style="width: 400px;"/> | [Illumination Aesthetics: Light as a Creative Material within Computational Design.][chi17cp]  Cesar Torres, Jasper O’Leary, __Molly Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems ([CHI][chi17]) [Teaser Video][chi17teaser] |
 
