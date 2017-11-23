@@ -65,12 +65,7 @@ projects:
         imag: /src/img/github.png
         tags: []
         desc: fresh open-source repos of code
-    -
-        title: Demo Videos
-        link: https://www.youtube.com/playlist?list=PL3iSl6720Vm7j3O9ex-FjVuZ9ZaiL4ph0
-        imag: /src/img/youtube.png
-        tags: []
-        desc: (mostly) working video demos
+
 
 hidden:
     -
@@ -91,6 +86,12 @@ hidden:
         desc: connect 4 AI in perl <i>(forgive me)</i>
         tags: [hello, there]
         imag: /src/img/connect4.jpg
+    -
+        title: Demo Videos
+        link: https://www.youtube.com/playlist?list=PL3iSl6720Vm7j3O9ex-FjVuZ9ZaiL4ph0
+        imag: /src/img/youtube.png
+        tags: []
+        desc: (mostly) working video demos
 ---
 
 
@@ -108,13 +109,12 @@ hidden:
 </div>
 
 <h3>
-<a href="/cv">resume</a> —
-<a href="/papers">papers</a> —
-<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#109;&#111;&#108;&#101;&#99;&#117;&#108;&#101;&#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117;">email</a>
+empty — empty
+
 </h3>
 
 <p> Molly Jane Nicholas is a PhD student studying Human Computer Interaction 
-  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
+  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
 
 </div><!--clearfix-->
 
