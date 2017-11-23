@@ -7,7 +7,7 @@ title: adVenture
 img { max-width: 500px; }
 </style>
 
-## IR Receiver
+## adVenture
 
 <style>
 img { display: inline; }
