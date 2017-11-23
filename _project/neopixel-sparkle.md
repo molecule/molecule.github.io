@@ -45,6 +45,6 @@ Inspired by the wonderful Adafruit Neopixel Crown, but a bit less labor-intensiv
 
 [mail]:mailto:molecule@berkeley.edu
 [github]:https://github.com/molecule/neopixelplasma
-[video]:https://www.youtube.com/watch?v=Vh3HVOzsb7M
+[video]:https://www.youtube.com/watch?v=iLoJX2KLo94
 [instructable]:http://www.instructables.com/id/Wearable-Neopixel-Sparkle/
 
