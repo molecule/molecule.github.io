@@ -20,6 +20,8 @@ img.proj { display: block; margin: auto; }
 
 ###### [source code][qbadge] - [grace hopper blog][ghc-blog] - [article][steam-article]
 
+| <img src="/src/img/noun_779891.svg" alt="Qualstar awards" style="width: 50px;"/> | [ Won 2 Qualstar awards!][qualstars] |
+
 
 Arduinos are amazing devices, but even with the incredible community surrounding them, there still seems to be  a huge lack of women interested in low-level programming. I wondered if this was because frequently the only embedded application people know about is robots. Inspired by Leah Buechley’s Lilypad Arduinos, I wanted to show how to use Arduinos for a different kind of application. Working together with the campus team, and 3 other teams at Qualcomm, I designed an event around what I created. Questions I wanted to ask:
 
@@ -57,3 +59,4 @@ Having said that, many parts of actually constructing the Qbadge and putting on 
 [qbadge]:https://github.com/molecule/qbadge
 [ghc-blog]:https://www.qualcomm.com/news/onq/2015/10/23/grace-hopper-conference-celebrates-women-computing
 [steam-article]:https://www.qualcomm.com/news/onq/2016/05/04/stem-steam-young-artists-can-become-engineers-too
+[qualstars]:https://molecule.github.io/cv/
