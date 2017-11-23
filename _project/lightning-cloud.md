@@ -29,6 +29,10 @@ This is the first step towards creating a little ambient weather indicator. This
 
 I also wrote an [Instructable for how to control the lightning cloud (or any Arduino project!) via Bluetooth.][bluetooth]
 
+<center>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Vh3HVOzsb7M" frameborder="0" allowfullscreen></iframe>
+</center>
+
 <small> &copy; {{ site.time | date: '%Y' }} / {{ site.author.name }} /
 [email][mail]</small>
 
