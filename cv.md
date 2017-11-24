@@ -101,6 +101,9 @@ Hackathon mentor, speaker
 
 ### Awards
 
+##### Best Paper Award ACM CHI'17 <ra>May 2017</ra>
+for [Illumination Aesthetics][illumination-aesthetics]
+
 ##### BCNM 2017 Summer Research Award <ra>May 2017</ra>
 [This award][bcnm-summer2017-research] is given to a select number of students based on promising academic research proposals.
 
@@ -129,7 +132,11 @@ For outstanding contributions at Qualcomm, Inc. "Molly's brainchild developed Qb
 ##### Qualstar <ra>October 2014</ra>
 For outstanding contributions at Qualcomm, Inc. "Thanks for all of your hard work to make our presence at Grace Hopper a success!" (Vito Bica)
 
+### Press
+[NeoPixels for Fauxhawks and Other Hair Fun #WearableWednesday][adafruit-neopixel]. Leslie Birch, Adafruit. 28 Oct 2015
+
 
 <small> &copy; {{ site.time | date: '%Y' }} / [{{ site.author.name }}](/) / [license](/mit-license) / [email](mailto:{{ site.author.email }})</small>
 
-[gh]:http://github.com/molecule
+[illumination-aesthetics]:https://molecule.github.io/project/illumination-aesthetics/
+[adafruit-neopixel]:https://blog.adafruit.com/2015/10/28/neopixels-for-fauxhawks-and-other-hair-fun-wearablewednesday/
