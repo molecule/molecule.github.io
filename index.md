@@ -116,7 +116,7 @@ hidden:
 </h3>
 
 <div style="height:115px; overflow:scroll">
-  <table>
+  <table class="timeline">
   <tr>
     <td>Our latest project was accepted to TEI!</td>
     <td>19 Oct 2017</td>
