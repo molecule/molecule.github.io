@@ -20,8 +20,17 @@ ul { list-style-type: square; }
 
 /* SCROLLABLE NEWS REEL?  source: https://stackoverflow.com/questions/1906469/align-right-in-a-table-cell-with-css/45249847#45249847 */
 
+table {
+  width:100%;
+}
+
+table tr td{
+  padding:5px;
+}
+
 table tr td:nth-child(2) {
-    text-align: right; 
+    text-align: right;
+    width: 12ch; 
 }
 
 /* END SCROLLABLE NEWS REEL */

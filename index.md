@@ -111,35 +111,36 @@ hidden:
 <p> Molly Jane Nicholas is a PhD student studying Human Computer Interaction 
   with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
 
-<div style="height:150px; overflow:scroll">
-  <table style="width:100%; ">
+
+<h3>
+    news and updates
+</h3>
+
+<div style="height:120px; overflow:scroll">
+  <table>
   <tr>
-    <th>News</th>
-    <th>Date</th>
+    <td>Our latest project was accepted to TEI!</td>
+    <td>19 Oct 2017</td>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td class="alnright">Germany</td>
+    <td>Finished up <a href="http://bcnm.berkeley.edu/news-research/1404/summer-research-dispatch-molly-nicholas-wearable-tech-in-hospitals">my summer research</a> working with the wonderful <a href="https://medicalclownproject.org/">Medical Clown Project!</a> </td>
+    <td>26 Aug 2017</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Mexico</td>
+    <td><a href="https://molecule.github.io/post/prelims%20feedback%20from%20examiners/">Passed prelims!</a> See my blog for <a href="https://molecule.github.io/post/prelims%20from%20my%20perspective/">notes.</a></td>
+    <td>22 Aug 2017</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Austria</td>
+    <td>Paper rejected from UIST :(</td>
+    <td>22 May 2017</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>UK</td>
+    <td><a href="https://molecule.github.io/project/illumination-aesthetics/">Our paper</a> won a Best Paper Award at CHI!!!</td>
+    <td>07 May 2017</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Italy</td>
+    <td>Illumination Aesthetics, work on treating light as a material, was accepted to CHI 2017!</td>
+    <td>16 Jan 2017</td>
   </tr>
 </table>
 </div>
