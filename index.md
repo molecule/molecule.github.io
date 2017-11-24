@@ -111,6 +111,39 @@ hidden:
 <p> Molly Jane Nicholas is a PhD student studying Human Computer Interaction 
   with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
 
+<div style="height:150px; overflow:scroll">
+  <table style="width:100%; ">
+  <tr>
+    <th>News</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td class="alnright">Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Italy</td>
+  </tr>
+</table>
+</div>
+
 </div><!--clearfix-->
 
 <div id="tags">
