@@ -108,9 +108,8 @@ hidden:
 <span style="display:block;"> Fig. a) The author, depicted as a great military leader. </span>
 </div>
 
-<p> Molly Jane Nicholas is a PhD student studying Human Computer Interaction 
-  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p>
-
+<p> Molly Jane Nicholas is a Ph.D. student studying Human Computer Interaction
+  with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p> 
 
 <h3>
     news and updates
@@ -141,6 +140,10 @@ hidden:
   <tr>
     <td>Illumination Aesthetics, work on exposing light as a material, was accepted to CHI 2017!</td>
     <td>16 Jan 2017</td>
+  </tr>
+   <tr>
+    <td>Excited to pursue my Ph.D. at UC Berkeley working with Eric Paulos!</td>
+    <td>12 April 2015</td>
   </tr>
 </table>
 </div>
@@ -181,6 +184,11 @@ hidden:
 
 
 {% endfor %}
+</div>
+
+<div style="float: center; text-align:center; padding:10px; font-size:13px; line-height:8px">
+<img src="/src/img/arcs-logo.png" alt="Achievement Rewards for College Scientists" style="width: 250px;"/>
+<span style="display:block;"> I'm honored to be supported by the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a> </span>
 </div>
 
 
