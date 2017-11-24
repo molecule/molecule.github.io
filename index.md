@@ -143,7 +143,7 @@ hidden:
   </tr>
    <tr>
     <td>Excited to pursue my Ph.D. at UC Berkeley working with Eric Paulos!</td>
-    <td>12 April 2015</td>
+    <td>12 April 2016</td>
   </tr>
 </table>
 </div>
