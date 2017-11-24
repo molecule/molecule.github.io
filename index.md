@@ -118,7 +118,11 @@ hidden:
 <div style="height:115px; overflow:scroll">
   <table class="timeline">
   <tr>
-    <td>Our latest project was accepted to TEI!</td>
+    <td>Enjoyed the <a href="https://swarmlab.eecs.berkeley.edu/">SWARM Lab</a> retreat</td>
+    <td>11 Nov 2017</td>
+  </tr>
+  <tr>
+    <td>Our latest project conditionally accepted to TEI!</td>
     <td>19 Oct 2017</td>
   </tr>
   <tr>
@@ -140,6 +144,10 @@ hidden:
   <tr>
     <td>Illumination Aesthetics, work on exposing light as a material, was accepted to CHI 2017!</td>
     <td>16 Jan 2017</td>
+  </tr>
+  <tr>
+    <td>Joined the <a href="http://bcnm.berkeley.edu/academics/27/designated-emphasis-program">Designated Emphasis in New Media program</a></td>
+    <td>11 Nov 2016</td>
   </tr>
    <tr>
     <td>Excited to pursue my Ph.D. at UC Berkeley working with Eric Paulos!</td>
