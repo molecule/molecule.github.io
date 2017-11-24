@@ -18,7 +18,7 @@ layout: page
 ### Education
 
 ##### University of California, Berkeley <ra>Aug. 2016 - Present</ra>
-Ph.D. in Computer Science
+Ph.D. in Computer Science (in progress)
 
 ##### University of California, Berkeley <ra>Sept 2011 - May 2014</ra>
 B.A. in Computer Science and Cognitive Science<br>
