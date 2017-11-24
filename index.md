@@ -116,7 +116,7 @@ hidden:
     news and updates
 </h3>
 
-<div style="height:120px; overflow:scroll">
+<div style="height:115px; overflow:scroll">
   <table>
   <tr>
     <td>Our latest project was accepted to TEI!</td>
@@ -139,7 +139,7 @@ hidden:
     <td>07 May 2017</td>
   </tr>
   <tr>
-    <td>Illumination Aesthetics, work on treating light as a material, was accepted to CHI 2017!</td>
+    <td>Illumination Aesthetics, work on exposing light as a material, was accepted to CHI 2017!</td>
     <td>16 Jan 2017</td>
   </tr>
 </table>
