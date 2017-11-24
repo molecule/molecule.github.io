@@ -18,7 +18,7 @@ img.proj { display: block; margin: auto; }
 <img id="neopixel-sparkle" class="proj" src="/src/img/wearable-sparkle.jpg">
 
 
-###### [source code][github] - [video][video] - [instructable][instructable]
+###### [source code][github] - [video][video] - [instructable][instructable] - [adafruit blog post][adafruit-neopixel]
 
 
 I find that networking at conferences usually feels awkward and unnatural to me. I can’t find a natural starting point for a conversation, and I feel very weird asking for contact information. I wondered if I could create a better framework for interacting by wearing an eye-catching piece of electronic jewelry, and offering to provide [instructions for how to make it][instructable] to anyone I met. I found that:
@@ -47,4 +47,5 @@ Inspired by the wonderful Adafruit Neopixel Crown, but a bit less labor-intensiv
 [github]:https://github.com/molecule/neopixelplasma
 [video]:https://www.youtube.com/watch?v=iLoJX2KLo94
 [instructable]:http://www.instructables.com/id/Wearable-Neopixel-Sparkle/
+[adafruit-neopixel]:https://blog.adafruit.com/2015/10/28/neopixels-for-fauxhawks-and-other-hair-fun-wearablewednesday/
 
