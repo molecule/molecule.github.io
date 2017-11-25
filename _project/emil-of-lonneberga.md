@@ -38,6 +38,8 @@ Directed by Felicity HunzekerHesed for Bay Area Children's Theatre.
 
 "Very clever & fun! Adults may have even enjoyed it more than the kids, and I also LOVED the live musicians--really added that special touch to the performance!" – [Goldstar review ][emil-review]
 
+<img class="proj" src="/src/img/emil-2.jpg">
+
 <center>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/XirYEa_Qd94" frameborder="0" allowfullscreen></iframe>
 </center>
