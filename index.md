@@ -69,7 +69,7 @@ projects:
         title: Wonderland
         desc: A Circus adaptation of Alice in Wonderland
         tags: [per]
-        imag: /src/img/24-second-food-and-fitness.jpg
+        imag: /src/img/tea-party.jpg
         link: /project/wonderland
     -
         title: The Good Person of Szechuan
