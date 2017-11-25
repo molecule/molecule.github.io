@@ -72,22 +72,16 @@ projects:
         imag: /src/img/tea-party.jpg
         link: /project/wonderland
     -
-        title: The Good Person of Szechuan
-        desc: Woman's Will production
-        tags: [per]
-        imag: /src/img/24-second-food-and-fitness.jpg
-        link: /project/good-person
-    -
         title: Chicken Stock
         desc: Lunatique Fantastique Production
         tags: [per]
-        imag: /src/img/24-second-food-and-fitness.jpg
+        imag: /src/img/chicken-stock.jpg
         link: /project/chicken-stock
     -
         title: Pratfalls and Rising Stars
         desc: Clown Conservatory at SF Circus Center Production
         tags: [per]
-        imag: /src/img/24-second-food-and-fitness.jpg
+        imag: /src/img/pratfalls.jpg
         link: /project/pratfalls
     -
         title: GitHub
@@ -128,6 +122,12 @@ hidden:
         tags: [per]
         imag: /src/img/r-and-j.jpg
         link: /project/romeo-and-juliet
+    -
+        title: The Good Person of Szechuan
+        desc: Woman's Will production
+        tags: [per]
+        imag: /src/img/24-second-food-and-fitness.jpg
+        link: /project/good-person
 ---
 
 
