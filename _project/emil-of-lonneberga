@@ -1,0 +1,40 @@
+---
+layout: project
+title: Emil of Lonneberga
+---
+
+<style>
+img { max-width: 500px; }
+</style>
+
+## Emil of Lonneberga
+
+<style>
+img { display: inline; }
+img#emil { width: 10em; }
+img.proj { display: block; margin: auto; }
+</style>
+
+<img id="emil" class="proj" src="/src/img/emil-main.jpg">
+<span style="display:block;"> Based on the books written by Astrid Lindgren
+Adapted for the stage by Miles Nye </span>
+
+
+###### [video][emil-video] - [photos][emil-photos] - [instructable][instructable]
+
+
+A very simple IR receiver. A lightweight way to add "remote control" to any project.
+
+<center>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XirYEa_Qd94" frameborder="0" allowfullscreen></iframe>
+</center>
+
+<small> &copy; {{ site.time | date: '%Y' }} / {{ site.author.name }} /
+[email][mail]</small>
+
+[mail]:mailto:molecule@berkeley.edu
+[emil-photos]:https://www.flickr.com/photos/mollynicholas/sets/72157628292105639/
+[emil-video]:https://www.youtube.com/watch?v=XirYEa_Qd94
+[instructable]:http://www.instructables.com/id/InfraRed-Receiver-1/
+
+
