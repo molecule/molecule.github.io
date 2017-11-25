@@ -13,32 +13,32 @@ projects:
         title: Qbadge
         desc: Qualcomm
         description: This is a longer description of the Qbadge project.
-        tags: [per, win, wear]
+        tags: [wee, win, wear]
         imag: /src/img/qbadge.jpg
         link: /project/qbadge
     -
         title: Lightning Cloud
         description: This is a longer description of the cloud project.
         desc: Personal project
-        tags: [per, win]
+        tags: [wee, win]
         imag: /src/img/lightning-cloud-crop.gif
         link: /project/lightning-cloud
     -
         title: Wearable Neopixel Sparkle
         desc: Personal project
-        tags: [per, wear]
+        tags: [wee, wear]
         imag: /src/img/wearable-sparkle.jpg
         link: /project/neopixel-sparkle
     -
         title: InfraRed Receiver
         desc: Personal project
-        tags: [per]
+        tags: [wee]
         imag: /src/img/ir-receiver.jpg
         link: /project/infrared-receiver
     -
         title: Photo Wall
         desc: Personal project
-        tags: [per]
+        tags: [wee]
         imag: /src/img/photo-wall.jpg
         link: /project/photo-wall
     -
@@ -59,6 +59,42 @@ projects:
         tags: [cla]
         imag: /src/img/24-second-food-and-fitness.jpg
         link: /project/food-and-fitness
+    -
+        title: Emil of Lonneberga
+        desc: Bay Area Children's Theatre production
+        tags: [per]
+        imag: /src/img/emil-main.jpg
+        link: /project/emil-of-lonneberga
+    -
+        title: Romeo and Juliet (A Musical Comedy)
+        desc: Directed by Felicity HunzekerHesed
+        tags: [per]
+        imag: /src/img/24-second-food-and-fitness.jpg
+        link: /project/romeo-and-juliet
+    -
+        title: Wonderland
+        desc: A Circus adaptation of Alice in Wonderland
+        tags: [per]
+        imag: /src/img/24-second-food-and-fitness.jpg
+        link: /project/wonderland
+    -
+        title: The Good Person of Szechuan
+        desc: Woman's Will production
+        tags: [per]
+        imag: /src/img/24-second-food-and-fitness.jpg
+        link: /project/good-person
+    -
+        title: Chicken Stock
+        desc: Lunatique Fantastique Production
+        tags: [per]
+        imag: /src/img/24-second-food-and-fitness.jpg
+        link: /project/chicken-stock
+    -
+        title: Pratfalls and Rising Stars
+        desc: Clown Conservatory at SF Circus Center Production
+        tags: [per]
+        imag: /src/img/24-second-food-and-fitness.jpg
+        link: /project/pratfalls
     -
         title: GitHub
         link: https://github.com/molecule
@@ -161,9 +197,10 @@ hidden:
 <div id="tags">
   <span class="tag res">research</span>
   <span class="tag cla">class project</span>
-  <span class="tag per">personal projects</span>
+  <span class="tag wee">weekend projects</span>
   <span class="tag wear">wearable</span>
   <span class="tag win">award-winning</span>
+  <span class="tag per">performances</span>
 </div>
 
 <div id='projects'>
