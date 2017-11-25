@@ -66,12 +66,6 @@ projects:
         imag: /src/img/emil-main.jpg
         link: /project/emil-of-lonneberga
     -
-        title: Romeo and Juliet (A Musical Comedy)
-        desc: Directed by Felicity HunzekerHesed
-        tags: [per]
-        imag: /src/img/24-second-food-and-fitness.jpg
-        link: /project/romeo-and-juliet
-    -
         title: Wonderland
         desc: A Circus adaptation of Alice in Wonderland
         tags: [per]
@@ -128,6 +122,12 @@ hidden:
         imag: /src/img/youtube.png
         tags: []
         desc: (mostly) working video demos
+    -
+        title: Romeo and Juliet (A Musical Comedy)
+        desc: Directed by Felicity HunzekerHesed
+        tags: [per]
+        imag: /src/img/r-and-j.jpg
+        link: /project/romeo-and-juliet
 ---
 
 
