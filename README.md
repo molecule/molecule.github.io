@@ -10,7 +10,7 @@ It uses the jekyll templating engine. Some notes:
 - only h2 and h6 are centered
 - class img.prof is left aligned
 
-How to start a server:
+#### How to start a server:
 jekyll serve -w
 
 Browse to this address to test the local version:
@@ -19,6 +19,13 @@ http://127.0.0.1:4013/
 
 #### Edit masthead
 in _layouts/default.html under the "responsive masthead" comment.
+
+#### What is _site?
+_site is created when you run a server locally (see above).
+It's ignored by git and not saved anywhere. 
+Don't edit files there, they will be overwritten.
+
+
 
 (c) 2017 Molly Nicholas
 
