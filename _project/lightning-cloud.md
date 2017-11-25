@@ -20,11 +20,10 @@ img.proj { display: block; margin: auto; }
 
 ###### [source code][github] - [video][video] - [instructable][instructable] - [award][award] - [bluetooth][bluetooth]
 
-| <img src="/src/img/noun_779891.svg" alt="Lightning Cloud" style="width: 50px;"/> | [   Runner-up in Halloween Decor Contest 2015][award] |
+| <img src="/src/img/noun_779891.svg" alt="Lightning Cloud" style="width: 50px;"/> | [   Runner-up in the Instructables Halloween Decor Contest 2015][award] |
 
 
 This is the first step towards creating a little ambient weather indicator. This is the "ambient" part: it's [a little cloud that lights up as though it is filled with lightning][dark-video]. After reading [Stephen Anderson’s “Seductive Interaction Design“][seductive], I was inspired to create a “glanceable” weather indicator. [Richard Clarkson’s work on “The Cloud”][clarkson] is beautiful, but not as functional as what I was interested in creating. This project introduced me to the challenges of distilling information down into a “glanceable” format. How do I create a system where users can select the ranges they are interested in, and make a cloud that displays the information they are interested in?
-
 
 
 I also wrote an [Instructable for how to control the lightning cloud (or any Arduino project!) via Bluetooth.][bluetooth]
