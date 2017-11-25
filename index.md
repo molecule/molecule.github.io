@@ -3,6 +3,12 @@ title: about
 layout: default
 projects:
     -
+        title: E.O. 9066
+        desc: Lunatique Fantastique production
+        tags: [per]
+        imag: /src/img/eo9066-two-kids.jpg
+        link: /project/eo9066
+    -
         title: Illumination Aesthetics
         desc: CHI 2017
         description: This is a long description of the Illumination Aesthetics project.
@@ -79,7 +85,7 @@ projects:
         link: /project/chicken-stock
     -
         title: Pratfalls and Rising Stars
-        desc: Clown Conservatory at SF Circus Center Production
+        desc: Clown Conservatory Production
         tags: [per]
         imag: /src/img/pratfalls.jpg
         link: /project/pratfalls
