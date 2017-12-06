@@ -79,4 +79,41 @@ moments of goodness:
 cool research dump of things I find exciting.
 good passion, 
 
+_______________
+cesar
+
+gut: don't use enough of active voice (passive voice good for argumentation)
+Instead of saying "we can implement these new ideas with AR" : "we implemented these ideas in AR" or "these ideas were implemented in AR"
+
+"this will not only serve existing communities" that line is ok
+abstract is motivation (more passive)
+then what you did, active
+then end w/ a high note
+
+headings
+- intro
+- assessment of existing applications
+- here's money: list of 3 things
+
+here's what stops me from going deeper
+- layered in with good prose (but people can't handle prose)
+- intro should end w/ a paragraph that tells me the shit that I did
+- simple as joining the lsat three.
+- start the paragraph w/ "now I'm going to tell you what I did in tihs paper"
+- clarify intent of the paragarph in the first sentence
+- "cltohign can affec" should be high-level problem statement
+- "however" this is how I looked at this design space (or it should be)
+- "consider the way Doran" - this language won't hold up at DIS
+- humanistic writing such as above, is more plural, you make it clear that you are subjective and there are multiple interpretations. Saw this especially in the kiln gods dissertation where she said she's writing w/ I as her own POV.
+- reader just wants to know the way to interpret it. esp in cases of gender id and embodiment, a note worthy characteristics is that it's delineated as inside the body, outside the body, across the body, then details about what those mean, then end of paragraph. step further to condense it down.
+- There are the following frameworks in place. 
+- cesar is then expecting that roadmap: 1. gender id theroeis specifically applied to wearables as opposed to heftier term. there, cover different theories and frameworks. Don't try to condense a theory into one word, but be a little more free-form. The following resources specifically detail this theory in detail. Here's how it's applied in this context. 2. then examples of this subversion. from tumblr other online communities. shouldn't be me explaining it to them. Me giving people a feel for the design space. Ex: one way we can decompose this space is by work that involves the virtual body, physical body, and some other distinction. For example, fulenito creates this mythical hashtag that surfaces these. Related work is walking you through that space w/o overwhelming. 3-prong space, how do you dance in that space. Define the boundaries.
+- too many examples (performance, doctor's lab coat) in last paragraph on first page.
+- should have a record/archive of what I'm looking at, so sources that provide that are good.
+- then remind reader what we talked about w/ the different principles. not just one body, virtual/physical, cyborg, monstrous feminine, trans people are these early adopters of the cyborg.
+- end of abstract: expecting techno contribution.
+- cesar's fave design papers:
+annabelle garden (?) computer as material
+
+
 
