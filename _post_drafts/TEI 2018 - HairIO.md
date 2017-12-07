@@ -51,4 +51,10 @@ _________________________________________________________________________
   - https://berkeley.app.box.com/file/205406736099
 7. Transition to Advaita?
   - C:  Not sure what it should be, but agree that we need it. Or at least some break from the previous narrative. We could just add some sort of title card or tech details here?
+  
+  
+  
+________
+Sequence 9 notes
+
 
