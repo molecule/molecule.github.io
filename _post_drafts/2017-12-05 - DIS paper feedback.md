@@ -113,7 +113,7 @@ here's what stops me from going deeper
 - then remind reader what we talked about w/ the different principles. not just one body, virtual/physical, cyborg, monstrous feminine, trans people are these early adopters of the cyborg.
 - end of abstract: expecting techno contribution.
 - cesar's fave design papers:
-annabelle garden (?) computer as material
+[ann valgarda computer as material](https://dl.acm.org/citation.cfm?id=1864447)
 
 
 
