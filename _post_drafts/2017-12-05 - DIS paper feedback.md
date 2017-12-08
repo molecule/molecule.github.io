@@ -117,3 +117,17 @@ annabelle garden (?) computer as material
 
 
 
+_________
+Cesar
+"biggest mistake people make w/ user studiess: people just report what occurred. User 2 said this, user 4 said this. Whereas a good analysis would come up w some higher level synthesis. It's clear they did the user study 3 days before the deadline and there is no high level synthesis. This is good from a review standpoint, because it's an easy way to give a paper a low rating."
+
+what 'counts' as high-level synthesis? "maybe you can go from weak theory to strong theory where you not only make.....the reason I'm cautious about [sarah's example] is when you condition things "only in these circumstances/these people". I see why you're doing it, bc you don't want to be technodeterministic 'oh tech will solve all these problems'. I'd need to see it written out to really tell you."
+
+anther example: people talked about how they conceptualized style. everyone has sa gut feeling but difficulty expressing it. here are some quotes, people were talking about it in a new day at the end of the study. "wow what an interesting obvservation, people have intuition on style. So, how can you give some new insight on it."
+
+"main allergies, these are antihistamines of these allergiess...in the end all these tech tools dont' capture teh info they want, it's very digital (or whatever), 2-3 tech allergies. so if I were to design a tool outside of CW I would look at those allergens. you want to be able to generalize/impact a larger field. Drawing out a concept. It's way too easy to go in there and see everything specific to creative writing or fan fictions. so now I think this only applies to essays, I don't see it applying to visual work."
+
+does it feel like you're overreaching? "absolutely. that's why you try to support it. Something we got very good feedback on was defamiliarization, bc it's a moment for people eto be more creative. We linked it to this paper that looked at defamiliarization. hey, someone has been talking about defamiliarization and we saw it in our study. So I'm sure there are papers on intuition, but they try to draw out different types of intuition. So then you can say this fits under this type of intuition, but there's potential to explore differenet types of intuition. Social vs individual intuition."
+
+"can someone who is not doing CW visualization extract meaningful info"
+
