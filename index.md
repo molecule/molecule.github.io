@@ -142,6 +142,21 @@ newsfeed:
     -
         content: Enjoyed the <a href="https://swarmlab.eecs.berkeley.edu/">SWARM Lab</a> retreat
         date: 11 Nov 2017
+    -
+        content: Finished up <a href="http://bcnm.berkeley.edu/news-research/1404/summer-research-dispatch-molly-nicholas-wearable-tech-in-hospitals">my summer research</a> working with the wonderful <a href="https://medicalclownproject.org/">Medical Clown Project!</a>
+        date: 26 Aug 2017
+    -
+        content: <a href="https://molecule.github.io/post/prelims%20feedback%20from%20examiners/">Passed prelims!</a> See my blog for <a href="https://molecule.github.io/post/prelims%20from%20my%20perspective/">notes.</a>
+        date: 22 Aug 2017
+    -
+        content: Paper rejected from UIST :(
+        date: 22 May 2017
+    - 
+        content: <a href="https://molecule.github.io/project/illumination-aesthetics/">Our paper</a> won a Best Paper Award at CHI!!!
+        date: 07 May 2017
+    - 
+        content: Illumination Aesthetics, work on exposing light as a material, was accepted to CHI 2017!
+        date: 16 Jan 2017
 ---
 
 
