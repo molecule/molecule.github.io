@@ -137,11 +137,14 @@ hidden:
 
 newsfeed:
     -
-        content: Our latest project conditionally accepted to TEI!
-        date: 19 Oct 2017
+        content: Our latest project conditionally accepted to CHI 2018!
+        date: 11 Dec 2017
     -
         content: Enjoyed the <a href="https://swarmlab.eecs.berkeley.edu/">SWARM Lab</a> retreat
         date: 11 Nov 2017
+    -
+        content: Our latest project conditionally accepted to TEI 2018!
+        date: 19 Oct 2017
     -
         content: Finished up <a href="http://bcnm.berkeley.edu/news-research/1404/summer-research-dispatch-molly-nicholas-wearable-tech-in-hospitals">my summer research</a> working with the wonderful <a href="https://medicalclownproject.org/">Medical Clown Project!</a>
         date: 26 Aug 2017
@@ -157,6 +160,12 @@ newsfeed:
     - 
         content: Illumination Aesthetics, work on exposing light as a material, was accepted to CHI 2017!
         date: 16 Jan 2017
+    -
+        content: Joined the <a href="http://bcnm.berkeley.edu/academics/27/designated-emphasis-program">Designated Emphasis in New Media program</a>
+        date: 11 Nov 2016
+    - 
+        content: Excited to pursue my Ph.D. at UC Berkeley working with Eric Paulos!
+        date: 12 April 2016
 ---
 
 
