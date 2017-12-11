@@ -191,7 +191,7 @@ newsfeed:
 
 </div><!--clearfix-->
 
-<div id='newsfeed' style="height:115px; overflow:scroll">
+<div id='newsfeed' style="height:90px; overflow:scroll">
 <table class="timeline">
 {% for news in page.newsfeed %}
     <tr>
