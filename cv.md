@@ -49,7 +49,7 @@ Language Achievement Certificate
 [tei18paper]:/src/papers/HairIO-tei2018.pdf
 [tei18teaser]:https://www.youtube.com/channel/UCjEcQVyeEVwxUnWy1-M_Iaw
 
-| <img src="/src/img/image-coming-soon.png" alt="Image coming soon" style="width: 400px;"/> | [AlterWear: Battery-Free Wearable Displays for Opportunistic Interactions][chi18paper]  Christine Dierk, Sarah Sterman, __Molly Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems ([CHI'18][chi18]) [Teaser Video][chi18teaser] |
+| <img src="/src/img/image-coming-soon.png" alt="Image coming soon" style="width: 400px;"/> | [AlterWear: Battery-Free Wearable Displays for Opportunistic Interactions][chi18paper]  Christine Dierk, __Molly Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems ([CHI'18][chi18]) [Teaser Video][chi18teaser] |
 
 [chi18]:https://tei.acm.org/2018/
 [chi18paper]:/src/papers/Alterwear-chi2018.pdf
