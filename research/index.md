@@ -32,4 +32,6 @@ layout: default
 [chi18paper]:/papers/Alterwear-chi2018.pdf
 [chi18teaser]:https://www.youtube.com/channel/UCjEcQVyeEVwxUnWy1-M_Iaw
 
+<small> &copy; {{ site.time | date: '%Y' }} / [{{ site.author.name }}](/) / [license](/mit-license) / [email](mailto:{{ site.author.email }})</small>
+
 
