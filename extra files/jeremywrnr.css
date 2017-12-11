@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="Cache-control" content="public">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <!-- site info -->
+    <meta name="author" content="Jeremy Warner">
+    <meta name="robots" content="index, follow">
+    <meta name="keywords" content="jeremy warner, berkeley, human computer interaction, online education, computer science, hci">
+    <meta name="description" content="I am an EECS Ph.D. student at UC Berkeley, and am advised by Björn Hartmann. My research focuses on systems-building human computer interaction work - check out some of my projects. Before this, I attended the University of Rochester, where I worked with Philip Guo.
+">
+    <title>
+      
+        jeremy warner - about
+      
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/src/css/main.css">
+    <link rel="stylesheet" href="/src/css/syntax.css">
+    <link rel="alternate" type="application/rss+xml" title="Jeremy Warner RSS" href="/feed.xml">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+    <!-- JS -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-58096309-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/src/img/logo.png">
+    <link rel="shortcut icon" href="/src/img/favicon.ico">
+
+    <!-- Facebook -->
+    <meta property="og:site_name"   content="Jeremy Warner"/>
+    <meta property="og:description" content=" I am an EECS Ph.D. student at UC Berkeley, and am advised by Björn Hartmann. My research focuses on systems-building human computer interaction work - check out some of my projects. Before this, I attended the University of Rochester, where I worked with Philip Guo.
+ " />
+    <meta property="og:title"       content="Jeremy Warner  - about "/>
+    <meta property="og:image"       content="  " />
+  </head>
+  <body>
+
+    <div class="wrap">
+      <!-- responsive masthead -->
+      <div class="masthead">
+        <div class="container">
+          <div class="nav">
+            <a href="/" title="home">home</a>
+            <a href="/blog" title="blog">blog</a>
+            <a href="https://twitter.com/jeremywrnr" target="_blank" title="twitter">twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="page">
+  <div class="clearfix">
+<img id="prof" alt="a depiction of jeremy's body/face" src="/src/img/hills.jpg" />
+<h1> jeremy b. warner </h1>
+<h3>
+    <a href="#resume">resume</a> ::
+    <a href="/research">research</a> ::
+    <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#106;&#101;&#114;&#101;&#109;&#121;&#046;&#119;&#097;&#114;&#110;&#101;&#114;&#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117;">email</a>
+</h3>
+</div>
+<!--clearfix-->
+
+<p>
+Hi! I am a second-year Ph.D. student at <a href="https://people.eecs.berkeley.edu/~jeremy.warner">UC Berkeley</a> in the <a href="http://www.eecs.berkeley.edu" target="_blank">EECS</a> department, advised by <a href="https://people.eecs.berkeley.edu/~bjoern" target="_blank">Björn Hartmann</a>.
+I am part of the Berkeley Institute of <a href="http://bid.berkeley.edu/">Design</a> and the <a href="http://acelab.berkeley.edu/">ACE</a> lab.
+I am primarily interested in <a href="http://www.pgbovine.net/what-is-hci-research.htm" target="_blank">HCI</a> systems and computing education research, or <a href="https://faculty.washington.edu/ajko/cer" target="_blank">CER</a>.
+I am currently the Head GSI for <a href="http://cs160.ninja" target="_blank">CS160</a>, User Interface Design.
+Before UC Berkeley, I worked with <a href="http://pgbovine.net" target="_blank">Philip Guo</a> at the University of <a href="http://www.cs.rochester.edu" target="_blank">Rochester</a>.
+</p>
+
+<!--I write <a href="/blog">here</a>.-->
+
+<div id="tags">
+<span class="tag res">research</span>
+<span class="tag iot">IoT</span>
+<span class="tag em">embedded</span>
+<span class="tag cli">CLI</span>
+<span class="tag app">web app</span>
+</div>
+
+<div id="projects">
+
+    <div class="project">
+    <a href="https://www.youtube.com/watch?v=nEUb5j6LKag&amp;feature=youtu.be" target="_blank">
+    <img src="/src/img/bifrost.jpg" class="project-image" />
+    <div class="project-info">
+    <h3>Bifröst </h3>
+    <small>debugging the hardware-software boundary</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag res">res</div>
+     <div class="tag em">em</div>
+     <div class="tag app">app</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="/project/iAR">
+    <img src="/src/img/iar_3.jpg" class="project-image" />
+    <div class="project-info">
+    <h3>iAR </h3>
+    <small>armor for the <br /> digital age</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag em">em</div>
+     <div class="tag app">app</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="/project/mewsician">
+    <img src="/src/img/mewsician.png" class="project-image" />
+    <div class="project-info">
+    <h3>mewsician </h3>
+    <small>a friendly musical education helper</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag em">em</div>
+     <div class="tag app">app</div>
+     <div class="tag iot">iot</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="/project/codepilot">
+    <img src="/src/img/gitlogo2.gif" class="project-image" />
+    <div class="project-info">
+    <h3>codepilot </h3>
+    <small>collaborative IDE with GitHub integration</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag res">res</div>
+     <div class="tag app">app</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="https://jeremywrnr.com/copernicium/html/">
+    <img src="/src/img/cn.png" class="project-image" />
+    <div class="project-info">
+    <h3>copernicium </h3>
+    <small>distributed version control system</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag cli">cli</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="/mrcoffi">
+    <img src="/src/img/mrcoffi.png" class="project-image" />
+    <div class="project-info">
+    <h3>mr. coffi </h3>
+    <small>wireless 'smart' coffee maker</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag em">em</div>
+     <div class="tag iot">iot</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="http://github.com/jeremywrnr/tv.rb">
+    <img src="https://camo.githubusercontent.com/4710696a4de77540e0532b2513476ef0dbc2b52d/687474703a2f2f692e696d6775722e636f6d2f69325a557059682e676966" class="project-image" />
+    <div class="project-info">
+    <h3>tv.rb </h3>
+    <small>fuzzy tv emulator for your shell</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag cli">cli</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="/project/wampum">
+    <img src="/src/img/wampum-hand.jpg" class="project-image" />
+    <div class="project-info">
+    <h3>wampum </h3>
+    <small>adhoc network of heart-rate monitors</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag em">em</div>
+     <div class="tag iot">iot</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="https://github.com/jeremywrnr/booker">
+    <img src="https://camo.githubusercontent.com/d5bcff9b2f68f340f445fd1e24df4fc4cb9bcd62/687474703a2f2f692e696d6775722e636f6d2f7979647162336d2e676966" class="project-image" />
+    <div class="project-info">
+    <h3>booker </h3>
+    <small>tab complete + open chrome bookmarks</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag cli">cli</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="/project/lotp">
+    <img src="/src/img/lotp.png" class="project-image" />
+    <div class="project-info">
+    <h3>life of the party </h3>
+    <small>motion-controlled dance party leds</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag em">em</div>
+     <div class="tag iot">iot</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="http://challengepost.com/software/oh-my-myo">
+    <img src="/src/img/unrobot.png" class="project-image" />
+    <div class="project-info">
+    <h3>unrobot </h3>
+    <small>robot arm run by myo armband</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag em">em</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="http://challengepost.com/software/m-aah-yo-kart">
+    <img src="/src/img/myocart.jpg" class="project-image" />
+    <div class="project-info">
+    <h3>myo cart </h3>
+    <small>VR arm driving, oculus + myo</small>
+    </div>
+    </a>
+    <div class="project-tags">
+     <div class="tag iot">iot</div>
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="https://github.com/jeremywrnr" target="_blank">
+    <img src="/src/img/github.png" class="project-image" />
+    <div class="project-info">
+    <h3>github </h3>
+    <small>fresh open-source repos of code</small>
+    </div>
+    </a>
+    <div class="project-tags">
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="https://rubygems.org/profiles/jeremywrnr" target="_blank">
+    <img src="/src/img/rubygem.png" class="project-image" />
+    <div class="project-info">
+    <h3>ruby gems </h3>
+    <small>all hosted on rubygems.org</small>
+    </div>
+    </a>
+    <div class="project-tags">
+    </div>
+    </div>
+
+    <div class="project">
+    <a href="https://www.youtube.com/playlist?list=PL3iSl6720Vm7j3O9ex-FjVuZ9ZaiL4ph0" target="_blank">
+    <img src="/src/img/youtube.png" class="project-image" />
+    <div class="project-info">
+    <h3>demo videos </h3>
+    <small>(mostly) working video demos</small>
+    </div>
+    </a>
+    <div class="project-tags">
+    </div>
+    </div>
+
+</div>
+
+<!--imported from cv-->
+<h1 id="resume"> jeremy :: information </h1>
+
+<p><a href="/jeremy-warner.pdf" target="_blank">download as a pdf</a></p>
+
+<!--Welcome to my resume, though exactly what it resumes is yet to be seen.-->
+<h3 id="university-of-california-berkeley-aug-2016---">University of California, Berkeley <ra>Aug. 2016 - </ra></h3>
+<p>Ph.D. in Computer Science</p>
+
+<h5 id="university-of-rochester-may-2016">University of Rochester <ra>May 2016</ra></h5>
+<p>M.S. in Computer Science<br />
+<!--Thesis: CodePilot: Real Time Collaborative Programming with Asynchronous Version--></p>
+
+<h5 id="university-of-rochester-may-2015">University of Rochester <ra>May 2015</ra></h5>
+<p>B.S. in Electrical and Computer Engineering<br />
+<em>Graduated cum laude with high distinction</em></p>
+
+<h3 id="conference-publications">conference publications</h3>
+
+<p>for all publications, see <a href="/research#publications">here</a>.</p>
+
+<p>
+<a href="#"> Bifröst: Visualizing and Checking Behavior of Embedded Systems across Hardware and Software</a>.
+<small>
+Will McGrath, Daniel Drew, Jeremy Warner, Majeed Kazemitabaar, Mitchell Karchemsky, David Mellis, Björn Hartmann. ACM Symposium on User Interface Software and Technology [UIST],
+<a href="https://uist.acm.org/uist2017/"> 2017</a>.
+<i> to appear</i>
+</small>
+</p>
+
+<p>
+<a href="/papers/student-perceptions-of-college-hackathons_ICER-2017.pdf"> Hack.edu: Examining How College Hackathons Are Perceived By Student Attendees and Non-Attendees</a>.
+<small>
+Jeremy Warner and Philip J. Guo. ACM International Computing Education Research conference [ICER],
+<a href="https://icer.hosting.acm.org/"> 2017</a>.
+<i> </i>
+</small>
+</p>
+
+<h3 id="posters-and-presentations">posters and presentations</h3>
+
+<p>
+<a href="/papers/bifrost_sitp.pdf"> BiFröst, a tool for debugging embedded systems</a>.
+<small>
+William McGrath, Jeremy Warner, Björn Hartmann. Stanford Secure Internet of Things Project,
+<a href="http://iot.stanford.edu/retreat17/index.html">2017</a>.
+<i> </i>
+</small>
+</p>
+
+<p>
+<a href="https://www.terraswarm.org/pubs/872.html"> Debugging on the Hardware-Software Boundary with Salami</a>.
+<small>
+William McGrath, Jeremy Warner, Daniel Drew, David Mellis, Bjoern Hartmann. Terraswarm Annual Conference,
+<a href="https://www.terraswarm.org/index.html">2016</a>.
+<i> </i>
+</small>
+</p>
+
+<h3 id="professional-service">professional service</h3>
+
+<ul>
+  <li>Student Volunteer, ACM CHI Conference            <ra class="skill">2017</ra></li>
+  <li>Reviewer, ACM Creativity &amp; Cognition (C&amp;C)       <ra class="skill">2017</ra></li>
+</ul>
+
+<h3 id="technical-skills">technical skills</h3>
+
+<p><em>Programming Languages:</em> <small>Ruby, C, Python, Javascript, R, Bash, C++, SQL, Perl, Java. </small>
+<em>Hardware Experience:</em> <small class="skill">Oculus Rift, Arduino, RPi, Particle, PCB design, SMD soldering.</small>
+<em>Development Tools:</em> <small class="skill">Git / Hg, Unix CLI tools, Eagle, Travis CI, Heroku, Adobe CS.</small></p>
+
+<h3 id="work-experience">work experience</h3>
+
+<h5 id="eecs-graduate-student-researcher-aug-2016---">EECS Graduate Student Researcher <ra>Aug. 2016 - </ra></h5>
+<p>Advised by Professor <a href="https://people.eecs.berkeley.edu/~bjoern/">Björn Hartmann</a>.</p>
+
+<h5 id="roc-hci-researcher-aug-2014---may-2016">ROC HCI Researcher <ra>Aug. 2014 - May 2016</ra></h5>
+<p><small>
+Rochester Human Computer Interaction Group, with Professor <a href="http://pgbovine.net/">Philip Guo</a>. <br />
+Worked in UW Seattle and Microsoft Seattle offices in summer 2015.
+</small></p>
+
+<h5 id="engineering-intern-teradyne-summer-2014">Engineering Intern, Teradyne <ra>Summer 2014</ra></h5>
+<p><small>
+Developed tools to upgrade large-scale semiconductor tests. <br />
+Presented new tools at the annual company testing conference.
+</small></p>
+
+<h5 id="wcng-researcher-jan-2013---may-2014">WCNG Researcher <ra>Jan. 2013 - May 2014</ra></h5>
+<p><small>
+Wireless Communications and Networking Group, with Professor <a href="http://www.ece.rochester.edu/~wheinzel/">Wendi Heinzelman</a>. <br />
+Set up a wireless control system to augment RFID node performance testing. <br />
+Participated in the NSF’s <a href="https://www.nsf.gov/crssprgm/reu/">REU program</a>.
+</small></p>
+
+<h3 id="teaching-experience">teaching experience</h3>
+
+<h5 id="cs-160-head-gsi-user-interface-design-and-development-fall-2017"><a href="http://cs160.ninja">CS 160 Head GSI</a>, User Interface Design and Development <ra>Fall 2017</ra></h5>
+<p><small>
+Taught at UC Berkeley with John Tang.
+</small></p>
+
+<h5 id="ece-112-ta-logic-design-spring-20131415"><a href="http://skedgeur.com/?q=ece+112">ECE 112 TA</a>, Logic Design <ra>Spring 2013,14,15</ra></h5>
+<p><small>
+Taught at the University of Rochester with Professor Victor Derefinko.
+Collaborated with professor to plan and run lab sessions, graded lab student
+reports and homework, and ran exam review sessions.
+</small></p>
+
+<h5 id="ece-230-ta-electromagnetic-waves-fall-2014"><a href="http://skedgeur.com/?q=ece+230">ECE 230 TA</a>, Electromagnetic Waves <ra>Fall 2014</ra></h5>
+<p><small>
+Taught at the University of Rochester with Professor Roman Sobolweski.
+Coordinated and ran student lab sessions, and graded lab reports.
+</small></p>
+
+<h3 id="course-work">course work</h3>
+
+<ul>
+  <li>Designing and Building DSLs           <ra> <a href="https://www2.eecs.berkeley.edu/Courses/CS294_3069/" target="_blank">CS 294-141</a> </ra></li>
+  <li>Algorithmic Human Robotic Interaction <ra> <a href="https://people.eecs.berkeley.edu/~anca/AHRI.html" target="_blank">CS 294-115</a> </ra></li>
+  <li>Interactive Device Design             <ra> <a href="https://bcourses.berkeley.edu/courses/1376830/" target="_blank">CS 294-084</a> </ra></li>
+  <li>Computer Vision                       <ra> <a href="https://inst.eecs.berkeley.edu/~cs280/sp16/" target="_blank">CS 280</a> </ra></li>
+  <li>Critical Making                       <ra> <a href="http://make.berkeley.edu" target="_blank">NWMEDIA C203</a> </ra></li>
+  <li>Human Computer Interaction            <ra> <a href="http://skedgeur.com/?q=csc+412" target="_blank">CSC 412</a> </ra></li>
+  <li>Dynamic Software Development          <ra> <a href="http://skedgeur.com/?q=csc+453" target="_blank">CSC 453</a> </ra></li>
+  <li>PL Design &amp; Implementation            <ra> <a href="http://skedgeur.com/?q=csc+454" target="_blank">CSC 454</a> </ra></li>
+  <li>SW Analysis and Improvement           <ra> <a href="http://skedgeur.com/?q=csc+455" target="_blank">CSC 455</a> </ra></li>
+  <li>Computational Intro to Statistics     <ra> <a href="http://skedgeur.com/?q=csc+462" target="_blank">CSC 462</a> </ra></li>
+  <li>Web Application Development           <ra> <a href="http://skedgeur.com/?q=csc+210" target="_blank">CSC 210</a> </ra></li>
+  <li>Artificial Intelligence               <ra> <a href="http://skedgeur.com/?q=csc+242" target="_blank">CSC 242</a> </ra></li>
+  <li>Wireless Communications               <ra> <a href="http://skedgeur.com/?q=ece+245" target="_blank">ECE 245</a> </ra></li>
+  <li>Communication Systems                 <ra> <a href="http://skedgeur.com/?q=ece+242" target="_blank">ECE 242</a> </ra></li>
+  <li>Computer Organization                 <ra> <a href="http://skedgeur.com/?q=ece+200" target="_blank">ECE 200</a> </ra></li>
+  <li>Integrated Circuits                   <ra> <a href="http://skedgeur.com/?q=ece+222" target="_blank">ECE 222</a> </ra></li>
+  <li>Signals &amp; Systems                     <ra> <a href="http://skedgeur.com/?q=ece+241" target="_blank">ECE 241</a> </ra></li>
+  <li>Microprocessors                       <ra> <a href="http://skedgeur.com/?q=ece+216" target="_blank">ECE 216</a> </ra></li>
+</ul>
+
+<h3 id="awards">awards</h3>
+
+<ul>
+  <li>NSF Graduate Research Fellowship, Honorable Mention <ra>March 2017</ra></li>
+  <li>Barnard Engineering Award <ra>April 2015</ra> <br />
+  <small>
+  Annually awarded to eight seniors in the Hajim School of Engineering that demonstrate good personal qualities and high achievement.
+  </small></li>
+  <li>CS Games 2015 Finalist <ra>March 2015</ra> <br />
+  <small>
+  Placed 5/30 overall. Databases, operating systems, and embedded competitions.
+  </small></li>
+  <li>Alice D. Simone Award <ra>Jan. 2015</ra> <br />
+  <small>
+  Awarded to six out of nearly 3,000 eligible students. This award is presented
+  to students whose contributions to co-curricular life at the University have
+  strengthened community spirit and involvement.
+  </small></li>
+  <li>IEEE National Power and Energy Society Scholarship <ra>Oct. 2014</ra></li>
+  <li>IEEE Rochester Section Scholarship <ra>April 2014</ra></li>
+  <li>University of Rochester Dean’s Scholarship <ra>June 2011</ra></li>
+</ul>
+
+<h3 id="honor-societies">honor societies</h3>
+
+<ul>
+  <li>Phi Beta Kappa <ra> Spring 2015 </ra></li>
+  <li>Tau Beta Pi    <ra> Fall 2013 </ra></li>
+  <li>Golden Key     <ra> Fall 2013 </ra></li>
+</ul>
+
+<h3 id="certifications">certifications</h3>
+
+<ul>
+  <li>NEECS Fundamentals of Engineering <ra>Jan. 2015</ra> <br />
+  <small>
+  Electrical and Computer Engineering, NY Board.
+  </small></li>
+</ul>
+
+<h3 id="extracurricular">extracurricular</h3>
+
+<h5 id="ur-mens-rowing-team-2011---2015">UR Men’s Rowing Team <ra>2011 - 2015</ra></h5>
+<p><small>
+Competed at regattas all across the eastern coast, including racing in the V4+
+at the American Collegiate Rowing Association (ACRA) National Championships,
+and was named to the All-Academic Team in 2014/15.
+</small></p>
+
+<h5 id="ur-ieee-president-elected-2014---2015">UR IEEE, President, <em>Elected</em> <ra>2014 - 2015</ra></h5>
+<p><small>
+Elected Vice President 2013 - 2014. Organized events of interest to students in
+ECE/AME (guitar pedal projects, soldering lessons). Attended student leadership
+conference in Newark, NJ. Helped build user base, and began collaboration with
+similar clubs (CSUG, WRUR, Robotics).
+</small></p>
+
+<h5 id="computer-science-undergraduate-group-2014---2015">Computer Science Undergraduate Group <ra>2014 - 2015</ra></h5>
+
+<h5 id="urban-exploring-club-president-elected-2012---2015">Urban Exploring Club, President, <em>Elected</em> <ra>2012 - 2015</ra></h5>
+<p><small>
+Planned and ran excursions into Rochester. Trips included Rochester Subway,
+Artisan Works, Times Square and Sibley Building. Worked with <a href="https://www.artawake.org/">ArtAwake</a> organizers to interview
+directors, and locate event site. Helped organize revival of Wild Goose Chase,
+the Wilson Day scavenger hunt.
+</small></p>
+
+<h3 id="personal">personal</h3>
+
+<p><small>
+I was born and raised in sunny eastern Long Island, NY. I enjoy playing guitar,
+running, bouldering, and home-brewing beer. In Rochester, my favorite diner was
+James Brown’s Place (which I miss dearly), and I never ate a garbage plate.
+When it wasn’t snowing, I could often be found in a shell on the Genesee River
+pushing water around (and, sometimes when it was snowing). Since moving to
+California, I’ve been biking more actively, playing on Cal’s club ultimate
+frisbee team, Thugmo, and eating burritos at a fairly considerable frequency
+(just consider).
+</small></p>
+
+<p style="margin: 0.5em 0em 10em 0em;">
+<small><i>
+<a href="/mit-license">license</a> -
+updated Oct 20, 2017 </i></small>
+</p>
+
+<footer>
+<script src="/src/js/project.js" async="">
+</footer>
+</script></footer>
+
+</div>
+
+      </div>
+    </div>
+
+  </body>
+</html>
