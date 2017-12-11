@@ -134,6 +134,14 @@ hidden:
         tags: [per]
         imag: /src/img/24-second-food-and-fitness.jpg
         link: /project/good-person
+
+newsfeed:
+    -
+        content: Our latest project conditionally accepted to TEI!
+        date: 19 Oct 2017
+    -
+        content: Enjoyed the <a href="https://swarmlab.eecs.berkeley.edu/">SWARM Lab</a> retreat
+        date: 11 Nov 2017
 ---
 
 
@@ -157,48 +165,20 @@ hidden:
     news and updates
 </h3>
 
-<div style="height:115px; overflow:scroll">
-  <table class="timeline">
-  <tr>
-    <td>Enjoyed the <a href="https://swarmlab.eecs.berkeley.edu/">SWARM Lab</a> retreat</td>
-    <td>11 Nov 2017</td>
-  </tr>
-  <tr>
-    <td>Our latest project conditionally accepted to TEI!</td>
-    <td>19 Oct 2017</td>
-  </tr>
-  <tr>
-    <td>Finished up <a href="http://bcnm.berkeley.edu/news-research/1404/summer-research-dispatch-molly-nicholas-wearable-tech-in-hospitals">my summer research</a> working with the wonderful <a href="https://medicalclownproject.org/">Medical Clown Project!</a> </td>
-    <td>26 Aug 2017</td>
-  </tr>
-  <tr>
-    <td><a href="https://molecule.github.io/post/prelims%20feedback%20from%20examiners/">Passed prelims!</a> See my blog for <a href="https://molecule.github.io/post/prelims%20from%20my%20perspective/">notes.</a></td>
-    <td>22 Aug 2017</td>
-  </tr>
-  <tr>
-    <td>Paper rejected from UIST :(</td>
-    <td>22 May 2017</td>
-  </tr>
-  <tr>
-    <td><a href="https://molecule.github.io/project/illumination-aesthetics/">Our paper</a> won a Best Paper Award at CHI!!!</td>
-    <td>07 May 2017</td>
-  </tr>
-  <tr>
-    <td>Illumination Aesthetics, work on exposing light as a material, was accepted to CHI 2017!</td>
-    <td>16 Jan 2017</td>
-  </tr>
-  <tr>
-    <td>Joined the <a href="http://bcnm.berkeley.edu/academics/27/designated-emphasis-program">Designated Emphasis in New Media program</a></td>
-    <td>11 Nov 2016</td>
-  </tr>
-   <tr>
-    <td>Excited to pursue my Ph.D. at UC Berkeley working with Eric Paulos!</td>
-    <td>12 April 2016</td>
-  </tr>
+</div><!--clearfix-->
+
+<div id='newsfeed' style="height:115px; overflow:scroll">
+<table class="timeline">
+{% for news in page.newsfeed %}
+    <tr>
+        <td>{{ news.content }} </td>
+        <td>{{ news.date}} </td>
+    </tr>
+{% endfor %}
 </table>
+
 </div>
 
-</div><!--clearfix-->
 
 <div id="tags">
   <span class="tag res">research</span>
