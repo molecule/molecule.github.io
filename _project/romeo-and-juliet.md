@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Romeo and Juliet: A Musical Comedy
+title: Romeo and Juliet - A Musical Comedy
 ---
 
 <style>

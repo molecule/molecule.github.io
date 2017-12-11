@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Chicken Stock: A Fowl Play
+title: Chicken Stock - A Fowl Play
 ---
 
 <style>
