@@ -7,7 +7,7 @@ projects:
         desc: Lunatique Fantastique production
         tags: [per]
         imag: /src/img/eo9066-two-kids.jpg
-        link: /project/eo9066
+        link: /project/eo-9066
     -
         title: Illumination Aesthetics
         desc: CHI 2017
