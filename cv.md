@@ -11,7 +11,7 @@ layout: page
 
 <h1> <a id="back" href="/">&#65513;</a> </h1>
 
-### [cv as pdf](/molly-jane-nicholas.pdf){:target="_blank"}
+### [cv as pdf](/cv-molly-nicholas-2017-12-11.pdf){:target="_blank"}
 
 <!--Welcome to my CV-->
 
