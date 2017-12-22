@@ -34,9 +34,9 @@ For us, the trip started with a Lyft to BART from our apartment, then a 30 minut
 
 #### 1:15pm
 <div class="blog-container">
-<img alt="ferry" class="blog-img" src="/src/img/angel-island/ferry.jpg">
-<img id="sign" class="blog-img" src="/src/img/angel-island/leaving-sf.jpg">
-<img id="sign" class="blog-img" src="/src/img/angel-island/alcatraz.jpg">
+<img alt="ferry" class="blog-img" src="/src/img/angel-island/ferry.JPG">
+<img id="sign" class="blog-img" src="/src/img/angel-island/leaving-sf.JPG">
+<img id="sign" class="blog-img" src="/src/img/angel-island/alcatraz.JPG">
 </div>
 
 
@@ -47,66 +47,66 @@ The last ferry to Angel Island left right on the dot at 1:15pm (so don't be late
 The ferry arrives into the beautiful Ayala Cove. We had a quick check-in with the park camp ranger, who went over the rules with us. There are no fires allowed on the island at all, only charcoal fires or campstoves. She also warned us about the very bold raccoons - apparently some people leave their tents open to let the raccoons crawl in and out at leisure. She also told us about the shortcut up to the main perimeter road, drawn below in yellow. The easiest way is just to talk through the front lawn of the house. The stairs look like they go straigh to the houses above, but there's a little path up there you'll take off to the right around the ridge. You can also walk behind the house and you'll see stairs to the left (don't take those), or an asphalt path going off to the right. Take the asphalt path to the right (second image below), walking past the sign that says "stairs ahead". As you can see in the image below, both routes get you up to the perimeter road in the end (end of yellow line at top of ridge).
 
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/view-of-cove.jpg">
-<img style="border: 1px solid #000" src="/src/img/angel-island/stairs-to-perimeter-road.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/view-of-cove.JPG">
+<img style="border: 1px solid #000" src="/src/img/angel-island/stairs-to-perimeter-road.JPG">
 
 
 From there, it's a perfectly flat paved road around the island. We were staying at the "Ridge" campsites, about 2 miles from the cove. 
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/angel-island-map.png">
+<img style="border: 1px solid #000" src="/src/img/angel-island/angel-island-map.PNG">
 
 Sidenote, there are several maps floating around. Based on what we saw, [this one is the most accurate in terms of hiking trails.][hiking-accurate-map] [This one is the one they give you when you arrive,][official-map] though, and they're both good. To be specific, you'll see that the accurate map has a trail from the Ridge sites up to the fire trail, and the other maps are missing that. The ranger told us that route "isn't maintained" and "might have poison oak" but we didn't see any, and it was a very clear trail!
 
 The "Ridge" campsites have a reputation for being very windy. Either we got lucky, or there's just not as much wind this time of year, but it was very calm on the "Ridge" side of the island. We had reserved site #5, which has an incredible view: 
-<img style="border: 1px solid #000" src="/src/img/angel-island/panoramic-from-site-5.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/panoramic-from-site-5.JPG">
 
 As well as several great spots for tents and trees for wind protection if needed:
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/campsite-5.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/campsite-5.JPG">
 
 Site #6 had good tree coverage as well, and is the closest to the bathroom (the bathroom is basically in the site):
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/campsite-6.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/campsite-6.JPG">
 
 Site #4 is hands-down the best view of any campsite I've ever seen. Really amazing. Panoramic views, no trees to block any views, great stump to sit on and watch the sun rise....fantastic. Definitely the most isolated, but also the most exposed to the wind:
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/campsite-4.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/campsite-4.JPG">
 
 #### 3pm
 We headed up to the peak for sunset and a picnic dinner. It's mostly flat, punctuated by a few steepish bits, but overall a very easy hike with incredible views as you head up:
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/panoramic-hike2.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/panoramic-hike2.JPG">
 
 There are lots of benches to stop and watch the sunset, but the top has the best view (and a friendly turkey vulture):
 
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/picnic-bench-top.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/picnic-bench-top.JPG">
 
 Hard to overstate how gorgeous it was up here. We walked back down as the sun set, along "Sunset trail":
 
-<img src="/src/img/angel-island/panoramic-sunset-hike.jpg">
-<img src="/src/img/angel-island/sunset-panoramic.jpg">
+<img src="/src/img/angel-island/panoramic-sunset-hike.JPG">
+<img src="/src/img/angel-island/sunset-panoramic.JPG">
 
 Even the night views were amazing! 
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/night-sf.jpg">
-<img style="border: 1px solid #000" src="/src/img/angel-island/night-panorama.jpg">
-<img style="border: 1px solid #000" src="/src/img/angel-island/night-panorama2.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/night-sf.JPG">
+<img style="border: 1px solid #000" src="/src/img/angel-island/night-panorama.JPG">
+<img style="border: 1px solid #000" src="/src/img/angel-island/night-panorama2.JPG">
 
 #### 8:30am
 The next morning, we ate some breakfast and walked down to the beach. The trailhead to get to the beach is a few feet to the West on the main perimeter road when you walk down the hill from the Ridge sites. The entrance is right next to the fence:
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/trail-to-beach.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/trail-to-beach.JPG">
 
 The beach is small, but lovely. If it's ever warm enough to swim, this would be an AMAZING spot to get in the water.
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/beach-panorama.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/beach-panorama.JPG">
 
 
 #### 9:40am
 After that, we packed up and walked the two miles back to the cove to catch the first ferry home at 10:20am.
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/ferry-to-sf.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/ferry-to-sf.JPG">
 
 
 
