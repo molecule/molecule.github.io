@@ -80,7 +80,7 @@ We headed up to the peak for sunset and a picnic dinner. It's mostly flat, punct
 There are lots of benches to stop and watch the sunset, but the top has the best view (and a friendly turkey vulture):
 
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/picnic-bench-top.JPG">
+<img style="border: 1px solid #000" src="/src/img/angel-island/picnic-bench-top.jpg">
 
 Hard to overstate how gorgeous it was up here. We walked back down as the sun set, along "Sunset trail":
 
