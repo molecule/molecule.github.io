@@ -53,7 +53,7 @@ The ferry arrives into the beautiful Ayala Cove. We had a quick check-in with th
 
 From there, it's a perfectly flat paved road around the island. We were staying at the "Ridge" campsites, about 2 miles from the cove. 
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/angel-island-map.PNG">
+<img style="border: 1px solid #000" src="/src/img/angel-island/angel-island-map.png">
 
 Sidenote, there are several maps floating around. Based on what we saw, [this one is the most accurate in terms of hiking trails.][hiking-accurate-map] [This one is the one they give you when you arrive,][official-map] though, and they're both good. To be specific, you'll see that the accurate map has a trail from the Ridge sites up to the fire trail, and the other maps are missing that. The ranger told us that route "isn't maintained" and "might have poison oak" but we didn't see any, and it was a very clear trail!
 
