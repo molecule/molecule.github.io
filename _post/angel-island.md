@@ -27,7 +27,7 @@ Campsite cost: $30
 
 We just got back from an excellent trip to Angel Island State Park. Overall, the trip took just a little bit longer than 24 hours and involved traveling via car, trolley, BART train, ferry, and our feet. The views were incredible, the hikes were gentle, and the company was wonderful.
 
-<img style="border: 1px solid #000" src="/src/img/angel-island/sign.jpg">
+<img style="border: 1px solid #000" src="/src/img/angel-island/sign.JPG">
 
 #### 10:50am
 For us, the trip started with a Lyft to BART from our apartment, then a 30 minute ride to the Embarcadero stop. We stopped at the Ferry building for some snacks and to refill our Clipper cards, then caught the F-line along the Embarcadero until Pier 41. There, we got our tickets for the Angel Island ferry. We bought round-trip tickets (good for any trip day/time) and got a discount for being campers with a reservation! The website says to get in line 30 minutes early, but the lady who sold us our tickets told us to get in line at 1:00 for the 1:15 ferry.
