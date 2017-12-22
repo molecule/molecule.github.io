@@ -18,6 +18,23 @@ h1, h2, h3, h4, h5, h6 {
 
 ul { list-style-type: square; }
 
+/* blog post images in-line */
+
+.blog-container {
+  display: flex;
+}
+
+.blog-img {
+    position: relative;
+    float: left;
+    width:  200px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    border: 1px solid #000;
+}
+
 /* SCROLLABLE NEWS REEL?  source: https://stackoverflow.com/questions/1906469/align-right-in-a-table-cell-with-css/45249847#45249847 */
 
 .timeline table {
