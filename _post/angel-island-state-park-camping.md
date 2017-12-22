@@ -3,7 +3,7 @@ layout: post
 date: 2017-12-21
 ---
 
-## Angel Island State Park
+## Camping in Angel Island State Park
 #### Overview
 
 [Here's a custom Google map I made with all the trip info.][my-maps]
