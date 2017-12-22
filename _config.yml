@@ -10,22 +10,13 @@ kramdown:
 # access this data with site.date. eg: {{ site.title }}
 # baseurl: https://molecule.github.io
 
-title: Molly Jane Nicholas
+title: Molly Nicholas
 dev_url: localhost:4000
 port: 4013
-keywords: Molly Jane Nicholas, berkeley, human computer interaction, performance, puppeteering, puppet, stage, theatre, production, performing, computer science, hci
-desc: >
-  Molly Nicholas is a PhD student studying Human Computer Interaction 
-  with Eric Paulos in the Computer Science department at UC Berkeley. 
-  She is particularly interested in exploring how issues of politics, 
-  identity, and education intersect with new media studies and 
-  performance studies.  Previously, she worked for two years as a 
-  Software Engineer at Qualcomm, where she developed FIRST Robotics’ 
-  new robotics platform. She is also a dancer, puppeteer, Clown 
-  Conservatory-trained clown, singer, and casual contortionist living 
-  in Berkeley, CA.  Molly received her B.A. from the University of 
-  California, Berkeley with a double major in Computer Science and 
-  Cognitive Science in 2014.
+keywords: Molly Jane Nicholas, berkeley, human computer interaction, performance, puppeteering, puppet, stage, theatre, production, performing, computer science, hci, computers, interfaces, interface design, user experience, user interfaces, camping, hiking, california, colorado, california hiking, colorado hiking, 
+desc: > Welcome to Molly's site, with information about her research
+  in Human Computer Interaction, her work in the performing arts, and
+  her many hiking and camping adventures.
 
 # owner
 author:
