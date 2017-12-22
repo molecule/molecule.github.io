@@ -5,6 +5,9 @@ date: 2017-12-21
 
 ## Angel Island State Park
 #### Overview
+
+[Here's a custom Google map I made with all the trip info.][my-maps]
+
 Total trip length: ~26 hours
 
 Campsite cost: $30
@@ -16,6 +19,8 @@ Campsite cost: $30
 | 6 miles | $8.25 | Pier 41 to Angel Island via Blue&Gold Ferry. |
 | 2 miles | -- | Ayala Cove to Campsite #5. |
 | 1 mile | -- | Campsite #5 to summit of Mt. Livermore. |
+
+
 
 #### Trip report
 
@@ -108,6 +113,7 @@ After that, we packed up and walked the two miles back to the cove to catch the 
 
 [hiking-accurate-map]:https://www.parks.ca.gov/pages/468/files/AngelIslandCamping.pdf
 [official-map]:http://www.parks.ca.gov/pages/468/files/AngelIslandSPlWebLayout2013.pdf
+[my-maps]:https://drive.google.com/open?id=1cbGh-DT-K4O1rNQgKugcHVreHN2F-gp-&usp=sharing
 
 
 
