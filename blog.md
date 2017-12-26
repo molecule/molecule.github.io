@@ -3,6 +3,17 @@ layout: page
 title: posts
 ---
 
+# recipes
+A collection of my favourite recipes.
+<ul class="recipe-list">
+{% for recipe in site.recipes %}
+<li>
+<a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">
+{{ recipe.title }}</a> - {{ recipe.description | truncate: 160 }}
+</li>
+{% endfor %}
+</ul>
+
 # posts
 
 Click below for various blog posts I've written.

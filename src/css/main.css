@@ -250,6 +250,31 @@ img {
   text-transform: lowercase;
 }
 
+/* recipe list style */
+.recipe-list {
+  padding: 0;
+  margin-left: 0;
+  line-height: normal;
+  list-style: none;
+}
+
+.recipe-list > li {
+  text-transform: lowercase;
+  margin-bottom: 0px;
+}
+
+.recipe-meta {
+  float: right;
+  font-size: 16px;
+  font-style: italic;
+  color: #828282;
+}
+
+.recipe-title {
+  letter-spacing: -1px;
+  text-transform: lowercase;
+}
+
 @media screen and (max-width: 800px) {
 .post-title { font-size: 36px; } }
 .post-content { margin-bottom: 30px; }
