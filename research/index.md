@@ -5,12 +5,6 @@ layout: default
 
 # molly jane nicholas
 
-<style>
-#back { margin-right: 100%; }
-</style>
-
-<h1> <a id="back" href="/">&#65513;</a> </h1>
-
 # research
 
 | <img src="/src/img/logo-sigchi.jpg" alt="CHI logo" style="width: 400px;"/> | [AlterWear: Battery-Free Wearable Displays for Opportunistic Interactions.][chi18paper]  Christine Dierk, __Molly Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems ([CHI'18][chi18]) - [Teaser Video][chi18teaser] |
