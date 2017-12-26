@@ -1,8 +1,7 @@
 ---
 title: Crescent Cookies
 layout: recipe
-description: Delicious buttery, nutty cookies. A family heirloom recipe, these were my favourite cookies baked for Christmas by my great-aunts Irene and Lillian. 
-link: http://webjeda.com/thunder/
+description: Buttery, nutty cookies. A family heirloom recipe, these were my favourite Christmas cookies baked by my great-aunts Irene and Lillian. 
 ---
 
 This is a crescent cookie recipe
