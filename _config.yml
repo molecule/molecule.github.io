@@ -30,3 +30,5 @@ author:
 collections:
   post: {output: true}
   project: {output: true}
+  recipes: {output: true}
+  trips: {output: true}
