@@ -41,14 +41,7 @@ A collection of my favourite recipes.
 
 <a href="{{ '/feed.xml' | prepend: site.url }}">rss</a>
 
-
-<small> &copy; {{ site.time | date: '%Y' }} / {{ site.author.name }} / [email][mail]</small>
-
-[pg]:http://pgbovine.net
-[cs]:http://www.cs.rochester.edu
-[cal]:http://www.cs.berkeley.edu/
 [rss]:/feed.xml
-[mail]:mailto:molecule@berkeley.edu
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
