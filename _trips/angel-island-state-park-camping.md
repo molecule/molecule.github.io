@@ -116,10 +116,3 @@ After that, we packed up and walked the two miles back to the cove to catch the 
 [official-map]:http://www.parks.ca.gov/pages/468/files/AngelIslandSPlWebLayout2013.pdf
 [my-maps]:https://drive.google.com/open?id=1cbGh-DT-K4O1rNQgKugcHVreHN2F-gp-&usp=sharing
 
-
-
-<small> &copy; {{ site.time | date: '%Y' }} / {{ site.author.name }} /
-[email][mail]</small>
-
-[mail]:mailto:molecule@berkeley.edu
-
