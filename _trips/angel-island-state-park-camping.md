@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2017-12-21
+description: A 24 hour camping trip with gentle hikes and spectacular views.
 ---
 
 ## Camping in Angel Island State Park

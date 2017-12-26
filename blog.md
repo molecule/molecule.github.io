@@ -3,19 +3,18 @@ layout: page
 title: posts
 ---
 
-# recipes
-A collection of my favourite recipes.
-<ul class="recipe-list">
-{% for recipe in site.recipes %}
+# trips
+Trip reports
+<ul class="trip-list">
+{% for trip in site.trips %}
 <li>
-<a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">
-{{ recipe.title }}</a> - {{ recipe.description | truncate: 160 }}
+<a class="trip-link" href="{{ trip.url | prepend: site.baseurl }}">
+{{ trip.title }}</a> - {{ trip.description | truncate: 160 }}
 </li>
 {% endfor %}
 </ul>
 
 # posts
-
 Click below for various blog posts I've written.
 
 <ul class="post-list">
@@ -28,6 +27,16 @@ Click below for various blog posts I've written.
 {% endfor %}
 </ul>
 
+# recipes
+A collection of my favourite recipes.
+<ul class="recipe-list">
+{% for recipe in site.recipes %}
+<li>
+<a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">
+{{ recipe.title }}</a> - {{ recipe.description | truncate: 160 }}
+</li>
+{% endfor %}
+</ul>
 
 
 <a href="{{ '/feed.xml' | prepend: site.url }}">rss</a>
