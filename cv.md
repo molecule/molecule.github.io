@@ -5,12 +5,6 @@ layout: page
 
 # molly jane nicholas
 
-<style>
-#back { margin-right: 100%; }
-</style>
-
-<h1> <a id="back" href="/">&#65513;</a> </h1>
-
 ### [cv as pdf](/cv-molly-nicholas-2017-12-11.pdf){:target="_blank"}
 
 <!--Welcome to my CV-->
