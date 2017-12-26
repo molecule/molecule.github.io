@@ -30,5 +30,6 @@ author:
 collections:
   post: {output: true}
   project: {output: true}
-  recipes: {output: true}
+  recipes: 
+    output: true  #permalink: /:collection/:name/
   trips: {output: true}
