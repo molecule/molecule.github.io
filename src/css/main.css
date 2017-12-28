@@ -52,6 +52,15 @@ ul { list-style-type: square; }
 
 /* END SCROLLABLE NEWS REEL */
 
+/* rotated 90 images */
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
 #panel, #flip {
     padding: 5px;
     text-align: center;
