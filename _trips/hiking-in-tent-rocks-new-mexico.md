@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-12-28
-description: A 3-hour hike through a slot canyon, with spectacular geologic formations. This hike an hour outside of Santa Fe, New Mexico starts out going through shallow sand beneath a beautiful set of cliffs, and then quickly turns into a narrow winding slot canyon. The final bit is a 600-ft ascent up to a spectacular view of the surrounding area. 
+description: A 3-hour hike through a slot canyon, with incredible rock formations. An hour outside of Santa Fe, New Mexico, this hike starts out going through shallow sand beneath a beautiful set of cliffs, and then quickly turns into a narrow winding slot canyon. The final bit is a 600-ft ascent up to a spectacular view of the surrounding area. 
 image: /src/img/tent-rocks/valley-view.JPG
 ---
 
