@@ -1,12 +1,12 @@
 ---
 title: Crescent Cookies
 layout: recipe
-description: Buttery, nutty cookies. A family heirloom recipe, these were my favourite Christmas cookies baked by my great-aunts Irene and Lillian. 
+description: Buttery, nutty cookies. A family heirloom recipe, these were my favourite Christmas cookies baked by my great-aunts Irene and Lillian. This recipe is a combination of their classic, with a few updates from the Cook's Illustrated version. The original was made with hazelnuts (a Czech favourite), but pecans or walnuts are also wonderful with pecans being a particular favourite.
 image_path: /src/img/image-coming-soon.png
 ---
 
 #### Ingredients
-- 2 Cups whole pecans or walnuts, chopped fine
+- 2 Cups whole pecans, hazelnuts, or walnuts, chopped fine
 - 2 Cups bleached all-purpose flour
 - 1/4 tsp salt
 - 1 cup butter (unsalted, softened) (or 1/2 pound or 2 sticks)
