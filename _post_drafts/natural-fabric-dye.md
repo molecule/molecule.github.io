@@ -28,7 +28,14 @@ For an immersion dye bath, roll the cloth or paper over copper pipe, tree branch
 
 [5: wendyfe tutorial](https://wendyfe.wordpress.com/tutorial-leaf-monoprinting-by-cassandra-tondro/)
 
+### Dyes
+
 Eucalyptus leaves dipped in vinegar and then tightly bound to fabric makes a deep red pattern.[6]
+Avocado skin and seed make pink.
+Onion skins make a deper pink or orange.
+Black tea makes a brown probably
+Turmeric makes brilliant yellow but will likely fade.
+Coffee can make brown.
 
 [6: felting and fiber studio](https://feltingandfiberstudio.com/2013/08/21/eco-printing-onto-a-silk-chiffon-scarf-by-terriea-kwong/)
 
