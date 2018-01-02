@@ -10,7 +10,9 @@ Orvus paste is typically 100% sodium lauryl sulfate (sheep shampoo), with no sur
 I'm using clarifying shampoo, since it is meant to not deposit anything into my hair, so I think it should be suitable for not depositing into the fabric as well.
 
 [1: Maiwa](http://maiwahandprints.blogspot.com/2010/12/natural-dyes-scouring.html)
+
 [2: wendyfe tutorial](https://wendyfe.wordpress.com/tutorial-leaf-monoprinting-by-cassandra-tondro/)
+
 [3: orvus paste](https://www.generations-quilt-patterns.com/orvus.html)
 
 
@@ -41,7 +43,9 @@ Turmeric makes brilliant yellow but will likely fade.
 Coffee can make brown.
 
 [6: felting and fiber studio](https://feltingandfiberstudio.com/2013/08/21/eco-printing-onto-a-silk-chiffon-scarf-by-terriea-kwong/)
-[7](http://www.turkeyredjournal.com/archives/V13_I1/flint.html)
-[8](https://www.theatlantic.com/science/archive/2016/11/the-great-eucalyptus-debate/509069/)
+
+[7: turkey red journal](http://www.turkeyredjournal.com/archives/V13_I1/flint.html)
+
+[8: the atlantic](https://www.theatlantic.com/science/archive/2016/11/the-great-eucalyptus-debate/509069/)
 
 
