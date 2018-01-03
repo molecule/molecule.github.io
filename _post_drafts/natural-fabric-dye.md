@@ -59,19 +59,28 @@ Cochineal - fuschia (unless w/ cream of tartar in mordant, which will make it "t
 
 ### Plan
 #### Pink and red
+- Alum mordant
 - Background: Avocado skin / seeds (pink)
 - Other colors: Red onion skin (red), Eucalyptus leaves.
 
 #### Yellows and Orange
+- Alum mordant
 - Background: Tea (light yellow?)
 - Other colours: Yellow onion skins, turmeric?, eucalyptus? 
 
 #### Yellows and Brown
+- Alum mordant
 - Background: Coffee? Eucalyptus bark?[12]
 - Other colours: eucalyptus and rust?
 
 #### Blue
+- Alum mordant + copper mordant
 - Background: Black beans + copper
+
+#### 
+- Iron mordant? And alum mordant?
+- Background: red onion?
+- Other colours: cochineal
 
 
 
