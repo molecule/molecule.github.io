@@ -61,15 +61,15 @@ Coffee can make brown.
 
 ### Plan
 #### Pink and red
-Background: Avocado skin / seeds (pink)
-Other colors: Red onion skin (red), Eucalyptus leaves.
+- Background: Avocado skin / seeds (pink)
+- Other colors: Red onion skin (red), Eucalyptus leaves.
 
 #### Yellows and browns
-Background: Tea (light yellow?)
-Other colours: Yellow onion skins, turmeric?, eucalyptus? Brown?
+- Background: Tea (light yellow?)
+- Other colours: Yellow onion skins, turmeric?, eucalyptus? Brown?
 
 #### Blue
-Background: Black beans + copper
+- Background: Black beans + copper
 
 
 
