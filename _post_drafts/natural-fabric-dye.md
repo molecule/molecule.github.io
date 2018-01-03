@@ -49,13 +49,14 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 ### Dyes
 
-Eucalyptus leaves dipped in vinegar and then tightly bound to fabric makes a deep red pattern.[6] Different leaves give many different colors, in many different situations. Leaves dried on the ground are different from fresh, for example, as are all different species.[7] I believe the ones I have near me in the hills of Berkeley are "Blue Gum Eucalyptus" (Eucalyptus globulus) [8]
-Avocado skin and seed make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots.[14] Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.
-Onion skins make a deper pink or orange.
-Black tea makes a brown probably
-Turmeric makes brilliant yellow but will likely fade.
-Coffee can make brown.
-Cochineal - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]
+- <b>Eucalyptus leaves</b> dipped in vinegar and then tightly bound to fabric makes a deep red pattern.[6] Different leaves give many different colors, in many different situations. Leaves dried on the ground are different from fresh, for example, as are all different species.[7] I believe the ones I have near me in the hills of Berkeley are "Blue Gum Eucalyptus" (Eucalyptus globulus) [8]
+- <b>Avocado skin and seed</b> make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots.[14] Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.
+- <b>Onion skins</b> make a deper pink or orange.
+- <b>Tea</b> makes a brown probably
+- <b>Turmeric</b> makes brilliant yellow but will likely fade (it's "fugitive").
+- <b>Coffee</b> can make brown.
+- <b>Cochineal</b> - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]
+- <b>Black beans</b> makes a beautiful blue w/ copper-mordanted protein fiber. [9]
 
 ### Plan
 #### Pink and red
