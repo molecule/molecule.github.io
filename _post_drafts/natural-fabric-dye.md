@@ -20,6 +20,9 @@ The mordant most frequently used by dyers for protein (animal) and cellulose (pl
 
 Cream of tartar also increases the uptake of alum into the fabric, and "brightens" the colors.[11]
 
+#### Iron
+Add iron to two parts water, one part vinegar in a jar. [10] Ready when it becomes the color of light tea. This "saddens" dyes, and can bring out darks better. It can make protein fibers stiff or brittle [17]
+
 #### Process
 Use enough water that the fabric can move freely. Approx. 3 litres (6 pints) of water to 100 gr of fabric.[11]
 Slowly bring to a boil, and simmer for ~45 minutes.
@@ -120,5 +123,7 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 [15: Maiwa mordant instructions](http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-3.html)
 
 [16: Maiwa PDF](https://cdn.shopify.com/s/files/1/1086/6542/files/GuideToNaturalDyes.pdf)
+
+[17: maiwa mordant part 2](http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-2.html)
 
 
