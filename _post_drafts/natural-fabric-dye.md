@@ -4,6 +4,10 @@ WOF: Weight of Fiber. THe weight of the dry fiber, used to calculate how much dy
 
 Alum and cream of tartar can be disposed of down the sink safely. [18]
 
+Overheating will cause colors to fade and be ruined. Exact heat unclear, and I don't have a thermometer anyway. I'll just stay below a boil for safety[28].
+
+Iron can contaminate a pot, so probably best to keep it in its own special dyebath [28].
+
 ### Scouring
 Scour the fabric to remove oils, chemicals, or anything that could cause a barrier between the fiber and the dye. For cellulose fibers (cotton, etc), synthrapol is common. For protein fibers (silk, wool), orvus soap paste is used.[1, 2]
 
@@ -155,3 +159,5 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 [26: rebecca paint w rusty water](http://www.rebeccadesnos.com/journal/2015/5/29/painting-with-rusty-water)
 
 [27: rebecca avocado skins](http://www.rebeccadesnos.com/journal/2015/5/29/dyeing-with-avocado-skins)
+
+[28: wool tribulations](http://wooltribulations.blogspot.com/2017/01/dyes-from-red-onion-skins-on-wool.html)
