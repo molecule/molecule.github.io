@@ -1,6 +1,8 @@
 # Notes
-### Terms
+### Quick notes
 WOF: Weight of Fiber. THe weight of the dry fiber, used to calculate how much dye/mordant should be used. [source: Maiwa](http://maiwahandprints.blogspot.com/2010/11/natural-dyes-weight-of-fibre.html)
+
+Alum and cream of tartar can be disposed of down the sink safely. [18]
 
 ### Scouring
 Scour the fabric to remove oils, chemicals, or anything that could cause a barrier between the fiber and the dye. For cellulose fibers (cotton, etc), synthrapol is common. For protein fibers (silk, wool), orvus soap paste is used.[1, 2]
@@ -21,7 +23,7 @@ The mordant most frequently used by dyers for protein (animal) and cellulose (pl
 Cream of tartar also increases the uptake of alum into the fabric, and "brightens" the colors.[11]
 
 #### Iron
-Add iron to two parts water, one part vinegar in a jar. [10] Ready when it becomes the color of light tea. This "saddens" dyes, and can bring out darks better. It can make protein fibers stiff or brittle [17]
+Add iron to two parts water, one part vinegar in a jar. [10] Ready when it becomes the color of light tea. This "saddens" dyes, and can bring out darks better. It can make protein fibers stiff or brittle [17]. Some people do an iron dip in combination w/ caustic soda (very high pH, or very basic). I'm not sure why half the people use acid and half use basics. Notjustnat doesn't share her process, but gets great results from eucalyptus and rusty tin cans [21].
 
 #### Process
 Use enough water that the fabric can move freely. Approx. 3 litres (6 pints) of water to 100 gr of fabric.[11]
@@ -52,12 +54,13 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 ### Dyes
 
-- <b>Eucalyptus leaves</b> dipped in vinegar and then tightly bound to fabric makes a deep red pattern.[6] Different leaves give many different colors, in many different situations. Leaves dried on the ground are different from fresh, for example, as are all different species.[7] I believe the ones I have near me in the hills of Berkeley are "Blue Gum Eucalyptus" (Eucalyptus globulus) [8]
+- <b>Eucalyptus leaves</b> dipped in vinegar and then tightly bound to fabric makes a deep red pattern.[6] Different leaves give many different colors, in many different situations. Leaves dried on the ground are different from fresh, for example, as are all different species.[7] I believe the ones I have near me in the hills of Berkeley are "Blue Gum Eucalyptus" (Eucalyptus globulus) [8]. Eucalyptus globulus can make grey, possibly only when combined w/ cellulose fibers and soy milk mordant.[] I may combine my alum-mordanted protein fiber w/ some iron mordant in the dyebath to see what it does.
+- <b>Eucalyptus bark</b>
 - <b>Avocado skin and seed</b> make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots.[14] Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.
 - <b>Onion skins</b> make a deper pink or orange.
 - <b>Tea</b> makes a brown probably
 - <b>Turmeric</b> makes brilliant yellow but will likely fade (it's "fugitive").
-- <b>Coffee</b> can make brown.
+- <b>Coffee</b> can make brown. Simmer coffee grounds in a pot for ~1 hour, then pour water out, save it, and simmer fresh water in the same grounds again for another hour to get more color. Soak the fabric in the strained coffee water for at least 24 hours.
 - <b>Cochineal</b> - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]
 - <b>Black beans</b> makes a beautiful blue w/ copper-mordanted protein fiber. [9]
 
@@ -131,4 +134,10 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 [17: maiwa mordant part 2](http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-2.html)
 
+[18: barbara rochester](http://barbararochester.blogspot.com/2007/10/what-i-have-been-up-to-lately.html?m=1)
 
+[19: naturally dyeying](http://naturallydyeing.blogspot.com/2010/03/e-u-c-l-y-p-t-u-s-g-l-o-b-u-l-u-s.html)
+
+[20: esselles babble rust tutorial](http://essellesbabble.blogspot.com/2006/04/rust-solution-dyeing-tutorial.html?m=1)
+
+[21: notjustnat](https://notjustnat.blogspot.com.au/2013/08/natural-dye-plus-plus.html)
