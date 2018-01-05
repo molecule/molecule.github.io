@@ -56,13 +56,15 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 - <b>Eucalyptus leaves</b> dipped in vinegar and then tightly bound to fabric makes a deep red pattern.[6] Different leaves give many different colors, in many different situations. Leaves dried on the ground are different from fresh, for example, as are all different species.[7] I believe the ones I have near me in the hills of Berkeley are "Blue Gum Eucalyptus" (Eucalyptus globulus) [8]. Eucalyptus globulus can make grey, possibly only when combined w/ cellulose fibers and soy milk mordant.[] I may combine my alum-mordanted protein fiber w/ some iron mordant in the dyebath to see what it does.
 - <b>Eucalyptus bark</b>
-- <b>Avocado skin and seed</b> make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots.[14] Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.
-- <b>Onion skins</b> make a deper pink or orange.
+- <b>Avocado skin and seed</b> make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots.[14] Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.  Rebecca has some pics of avocado stone dying [24]. She also steams w/ avocado skins on soy-mordanted cotton [25]
+- <b>Onion skins</b> make a deper pink or orange. Both skin and seeds can be stored in the freezer. [27]
+- <b>Red onion skins </b> Make pink w/ highly acidic wash on cellulose according to Rebecca[22]. Depends on fabric of course[23]. Other notes indicate that protein may go brown in red onion skins [22].
 - <b>Tea</b> makes a brown probably
 - <b>Turmeric</b> makes brilliant yellow but will likely fade (it's "fugitive").
 - <b>Coffee</b> can make brown. Simmer coffee grounds in a pot for ~1 hour, then pour water out, save it, and simmer fresh water in the same grounds again for another hour to get more color. Soak the fabric in the strained coffee water for at least 24 hours.
 - <b>Cochineal</b> - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]
 - <b>Black beans</b> makes a beautiful blue w/ copper-mordanted protein fiber. [9]
+- <b>Rusty water</b> no much info about this, but apparently it's possible.[26]
 
 ### Plan
 #### Pink and red
@@ -141,3 +143,15 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 [20: esselles babble rust tutorial](http://essellesbabble.blogspot.com/2006/04/rust-solution-dyeing-tutorial.html?m=1)
 
 [21: notjustnat](https://notjustnat.blogspot.com.au/2013/08/natural-dye-plus-plus.html)
+
+[22: rebecca](http://www.rebeccadesnos.com/journal/2016/11/28/some-magic-from-red-onion-skins)
+
+[23: rebecca instagram](https://www.instagram.com/p/BQaH-1VhLyQ/?taken-by=rebeccadesnos)
+
+[24: rebecca avocado stone](http://www.rebeccadesnos.com/journal/2016/1/28/adventures-in-avocado-stone-dyeing)
+
+[25: rebecca avocado skin](http://www.rebeccadesnos.com/journal/2015/6/1/bundle-dyeing-with-avocado-skin)
+
+[26: rebecca paint w rusty water](http://www.rebeccadesnos.com/journal/2015/5/29/painting-with-rusty-water)
+
+[27: rebecca avocado skins](http://www.rebeccadesnos.com/journal/2015/5/29/dyeing-with-avocado-skins)
