@@ -81,6 +81,11 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 - Alum mordant + copper mordant
 - Background: Black beans + copper
 
+#### Eucalyptus and iron
+- Alum mordant
+- Background: Eucalyptus bark, long soak
+- Details: rusty iron, eucalyptus leaves.
+
 #### 
 - Iron mordant? And alum mordant?
 - Background: red onion?
