@@ -68,7 +68,7 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 - <b>Tea</b> makes a brown probably
 - <b>Turmeric</b> makes brilliant yellow but will likely fade (it's "fugitive").
 - <b>Coffee</b> can make brown. Simmer coffee grounds in a pot for ~1 hour, then pour water out, save it, and simmer fresh water in the same grounds again for another hour to get more color. Soak the fabric in the strained coffee water for at least 24 hours.
-- <b>Cochineal</b> - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]
+- <b>Cochineal</b> - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]. Very dense, so only 20% WOF needed. [31]. Acid pushes towards orange, base pushes towards purple. Might be able to play w this with vinegar and soda ash.
 - <b>Black beans</b> makes a beautiful blue w/ copper-mordanted protein fiber. [9]
 - <b>Rusty water</b> no much info about this, but apparently it's possible.[26]
 
@@ -167,3 +167,7 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 [29: hooked and dyed](https://hookedanddyed.net/2014/05/28/natural-dye-avocado/)
 
 [30: soda ash](https://www.thoughtco.com/make-sodium-carbonate-from-sodium-bicarbonate-608266)
+
+[31: dharma trading company dyeing 101](https://www.dharmatrading.com/home/natural-dyes-101-with-cochineal-and-madder-root.html)
+
+
