@@ -62,7 +62,7 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 - <b>Eucalyptus leaves</b> dipped in vinegar and then tightly bound to fabric makes a deep red pattern.[6] Different leaves give many different colors, in many different situations. Leaves dried on the ground are different from fresh, for example, as are all different species.[7] I believe the ones I have near me in the hills of Berkeley are "Blue Gum Eucalyptus" (Eucalyptus globulus) [8]. Eucalyptus globulus can make grey, possibly only when combined w/ cellulose fibers and soy milk mordant.[] I may combine my alum-mordanted protein fiber w/ some iron mordant in the dyebath to see what it does.
 - <b>Eucalyptus bark</b>
-- <b>Avocado skin and seed</b> make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots.[14] Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.  Rebecca has some pics of avocado stone dying [24]. She also steams w/ avocado skins on soy-mordanted cotton [25]. Others raise the pH (by adding soda ash) to make it more basic, and only use the nuts. [29]
+- <b>Avocado skin and seed</b> make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots.[14] Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.  Rebecca has some pics of avocado stone dying [24]. She also steams w/ avocado skins on soy-mordanted cotton [25]. Others raise the pH (by adding soda ash) to make it more basic, and only use the nuts. This makes the color MUCH darker/deeper and more pink. [29] [32]
 - <b>Onion skins</b> make a deper pink or orange. Both skin and seeds can be stored in the freezer. [27]
 - <b>Red onion skins </b> Make pink w/ highly acidic wash on cellulose according to Rebecca[22]. Depends on fabric of course[23]. Other notes indicate that protein may go brown in red onion skins [22].
 - <b>Tea</b> makes a brown probably
@@ -170,4 +170,5 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 [31: dharma trading company dyeing 101](https://www.dharmatrading.com/home/natural-dyes-101-with-cochineal-and-madder-root.html)
 
+[32: mnfblog avocado stones](https://mnfblog.com/2014/01/26/avocado-pips-and-silk/)
 
