@@ -49,6 +49,7 @@ From Maiwa [15]:
 
 #### Copper
 Copper wire in one part water, one part vinegar. Ready to use when blue. [10]
+Details on safe copper mordants. Often used w/ blues or browns, tin is preferred for red for some reason. Copper in vinegar can be toxic. Instructions say to "safely dispose of" but I don't know what that means. [34]
 
 #### Black beans
 Soak dry beans in water for 24 hours.[9] 
@@ -171,5 +172,7 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 [31: dharma trading company dyeing 101](https://www.dharmatrading.com/home/natural-dyes-101-with-cochineal-and-madder-root.html)
 
-[32: mnfblog avocado stones](https://mnfblog.com/2014/01/26/avocado-pips-and-silk/
+[32: mnfblog avocado stones](https://mnfblog.com/2014/01/26/avocado-pips-and-silk/)
+
+[33: wearing woad safe copper mordants](http://www.wearingwoad.com/mordants-how-to-safely-prepare-a-mild-copper-mordant/)
 
