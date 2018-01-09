@@ -69,7 +69,7 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 - <b>Tea</b> makes a brown probably
 - <b>Turmeric</b> makes brilliant yellow but will likely fade (it's "fugitive").
 - <b>Coffee</b> can make brown. Simmer coffee grounds in a pot for ~1 hour, then pour water out, save it, and simmer fresh water in the same grounds again for another hour to get more color. Soak the fabric in the strained coffee water for at least 24 hours.
-- <b>Cochineal</b> - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]. Very dense, so only 20% WOF needed. [31]. Acid pushes towards orange, base pushes towards purple. Might be able to play w this with vinegar and soda ash.
+- <b>Cochineal</b> - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]. Very dense, so only 20% WOF needed. [31]. Acid pushes towards orange, base pushes towards purple. Might be able to play w this with vinegar and soda ash. Extensive details here. [34]
 - <b>Black beans</b> makes a beautiful blue w/ copper-mordanted protein fiber. [9]
 - <b>Rusty water</b> no much info about this, but apparently it's possible.[26]
 - <b> Iron water </b> The solution was 5g ferrous sulphate to 500 ml of water. [32]
@@ -98,6 +98,11 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 - Alum mordant
 - Background: Eucalyptus bark, long soak
 - Details: rusty iron, eucalyptus leaves.
+#### Grey
+- Cellulose fiber and soy milk mordant
+- Eucalyptus globulus leaves
+- soak in stainless steel pot (or / iron??)
+- source: [19]
 
 #### 
 - Iron mordant? And alum mordant?
@@ -175,4 +180,6 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 [32: mnfblog avocado stones](https://mnfblog.com/2014/01/26/avocado-pips-and-silk/)
 
 [33: wearing woad safe copper mordants](http://www.wearingwoad.com/mordants-how-to-safely-prepare-a-mild-copper-mordant/)
+
+[34: botanical colors cochineal](https://botanicalcolors.com/2014/06/10/dyeing-for-dummies-the-wonders-of-cochineal/)
 
