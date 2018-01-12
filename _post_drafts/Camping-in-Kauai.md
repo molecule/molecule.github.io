@@ -21,3 +21,11 @@ Great helpful thorough reviews in comments here: https://www.tripadvisor.com/Att
 https://www.rei.com/learn/expert-advice/kayaking-sup-training.html
 
 https://www.rapidmedia.com/adventurekayak/categories/skills/7831-strength-training-for-kayakers
+
+Swimming:
+
+https://speedo.com.au/speedo-fit/swim-programs/starter25
+
+https://www.thoughtco.com/workout-plan-for-beginner-swimmers-3169364
+
+Intense: https://www.yourswimlog.com/swimming-workouts/
