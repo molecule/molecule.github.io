@@ -19,3 +19,5 @@ Great helpful thorough reviews in comments here: https://www.tripadvisor.com/Att
 #### Training
 
 https://www.rei.com/learn/expert-advice/kayaking-sup-training.html
+
+https://www.rapidmedia.com/adventurekayak/categories/skills/7831-strength-training-for-kayakers
