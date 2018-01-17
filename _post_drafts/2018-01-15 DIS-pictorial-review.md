@@ -1,3 +1,12 @@
+## Checklist for reviewers
+Does the Pictorial:
+
+- Take advantage of an image-based format, or would a text-based format be better suited to the Pictorial?
+- Does the Pictorial make a contribution to HCI (and beyond)?
+- Does it make a clear, logical argument that makes the claim of the paper believable?
+- Represent a visual quality high enough to convey the message of the Pictorial?
+= Do you think it turns into a visually engaging presentation? What would this format be?
+
 ## The detailed review
 Write your review of the pictorial here. Please identify positive and negatives of the work and the pictorial, plus any suggestions for revisions.
 
