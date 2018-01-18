@@ -6,3 +6,4 @@
 - [Blue Card v1](https://drive.google.com/open?id=1TM8L2bRw4hBABlXTcUNlMp2_Gvfzn6iv)
 - Lunch reimbursements.
 - User study approval.
+- [DIS pictorial review](https://github.com/molecule/molecule.github.io/blob/master/_post_drafts/2018-01-15%20DIS-pictorial-review.md)
