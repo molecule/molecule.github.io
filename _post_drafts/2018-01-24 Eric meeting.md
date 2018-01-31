@@ -4,7 +4,6 @@
 - [Blue Card v1](https://drive.google.com/open?id=1TM8L2bRw4hBABlXTcUNlMp2_Gvfzn6iv)
 - [Petition to count Info 214 as an HCI major requirement](https://drive.google.com/open?id=1DaHtCg7uV100UwxrY90F61kIOBfwoRTj)
 - [Petition to count Info 247 Info Viz as an HCI major requirement](https://drive.google.com/open?id=1Ib_4kkcG1Y-PG_ekxq2xZAnRC0P1D__z)
-
 - User study approval.
 
 
