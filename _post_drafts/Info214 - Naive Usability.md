@@ -33,14 +33,26 @@ I chose to assess two versions of an interface that supports the same thing, nam
 - Because this app is designed to support online coursework, I expect that checking assignments should also be very straightforward. That's one of the main things I expect people to do with an app like this, so it should be very easy and fast. It may take a minute or two to become familiar with the interface, but I expect the information I need to be readily available perhaps even in different formats (calendar, list, syllabus, etc). There may be a lot of information, but I would still expect a relatively straightforward interface. This course isn't unusual in any way, so I would not expect any "unique" requirements.
 
 ### Familiar
-Bcourses. This is Berkeley's chosen course interface system. In theory, it supports assignments, syllabus, and conversations. Many classes use it as a way to communicate with their classes, and I've been using it regularly for at least two years here. I chose this as a direct comparison with EdX, another course-interface.
+Bcourses. This is Berkeley's chosen course interface system. In theory, it supports assignments, syllabus, and conversations. Many classes use it as a way to communicate with their classes, and I've been using it regularly for at least two years here. I chose this as a direct comparison with EdX, another course-interface. I'm looking at the Bcourse page for a different class than this, Info Viz 247.
+
+#### Results
+**Logging in:** This went very quickly. Bcourses uses the standard Berkeley login, so my browser knows the password. I barely noticed this step.
+
+**Look at assignments for this week:** This went ok. I have had better experiences doing this in the past, which shows me that the way the instructor chooses to set things up makes a really big difference to my experience as a student. That's a problem: the instructors shouldn't have to be experts in usability in order to set up their course interface systems in a usable way.
+
+List of issues:
+
+- **Missing information.** There are no dates listed for each week. I have to calculate the deadlines myself from the labels "Week 1" or "Week 2". Bcourses does have a calendar view but it is often hard to find. In this case, it's in the tiny text on the right, in the course feed view (see calendar view, but the instructor hasn't filled it out so it's barely useful). There IS a "course feed" along the right edge, but it's not easy to notice, and it just shows a default view. In other words, even if I've already completed an assignment, that assignment will still show up in the feed. Since the reason I care about what assignments are due is to know whether or not I've already finished them, it's VERY stressful to have to mentally keep track of what I've already finished and what I still have to work on.
+- **Site navigation issues.** For week 1, I can see that I have two reading assignments due. I clicked on that page, thinking it would take me to external or internal links to PDFs or something else helpful. Instead, it took me to a blank page with no further information. I suspect the instructors just wanted to make it stand out and making a new page was the easiest way to do that. But it was still annoying. Sidenote: once on that page, there's no obvious way to return to the previous screen outside of the browser back button.
+- **Easy to access, always-on navigation.** Bcourses always keeps the side menu open so it's easy to jump around within a course, or go to other screens. This makes it easy to "undo" navigation if you click somewhere confusing. At least you can always reset to a familiar screen if you're lost.
+
+**Measures**
+- Time to task completion: > 15 minutes is a clear failure.
+- Frustration levels: very high, this is a clear failure.
+- Total clicks: I have clicked on almost every thing it's possible to click on, multiple times. Clear failure.
 
 ### Unfamiliar
 Edge Edx. The EdgeX interface for an online class. EdgeX is a system to support Massively Open Online Courses, so it's designed to be experienced primarily online. I'm using it for a class here on campus, but still mostly engage with it online. It's basically another Bcourses that this professor prefers because he regularly runs MOOCs. I've used it before, many years ago, but have no memory (and the interface has likely changed since then anyway). I finally logged in for the first time last week, when I took these notes. 
-
-
-
-
 
 #### Results
 **Logging in:** this did indeed go quickly. It appears I have an account from many years ago (possibly from before I was an undergrad!). I didn't remember that, but my browser did, so my old password worked immediately. This was basically effortless.
@@ -54,7 +66,7 @@ List of issues:
 - **Automatic continuation doesn't match mental model.** When clicking through the assignments, trying to see what is due for a given week, the user is automatically dumped into the next week's assignments with no warning or indication. The breadcrumb path changes, but it's a subtle change that happens after the screen reloads (aka, the equivalent of a blink), which makes it very difficult to notice the change. Instead, the emotional sense is that the number of assignments for this week is endless: in fact I didn't realize I had left the first week until I got to the end of the semester. This contributed to the sense of stress.
 - **Confusing, sometimes conflicing information.** This may have more to do with the way the instructors set up the course. There is an assignment due on Feb. 1 that is only accessible from the completed assignment page of the week labeled "First day of class". There is no other reference to it on any of the other pages, and all other assignments are due on Monday before class. I'm not sure if this assignment is an error, or if we really have something due today. Also, the week labeled "First day of class" is the only one that has a "Homework this week" section. Some sections have a "pre-work due before this section" subheading, but others don't. In order to see what is due each week, I need to click through every single page of every single subsection for a given week.
 
-I thought Bcoursese was bad, but this is truly awful.
+I thought Bcourses was bad, but this is truly awful.
 
 **Measures**
 - Time to task completion: > 15 minutes is a clear failure.
