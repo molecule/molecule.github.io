@@ -1,7 +1,14 @@
 ### Positive
-The authors approached the question of why more women aren't involved in the interactive audio industry in a variety of interesting ways. Because of their multi-pronged approach, they were able to generate insights that are relevant to a much broader set of fields. Their insights are mostly well-communicated, and the overall organization of the paper is looking great (see below for specifics about what I think needs updating).  
+The authors approached the question of why more women aren't involved in the interactive audio industry in several different ways (surveys, literature review, and workshop experiences). Because of their multi-pronged approach, they were able to generate insights that are relevant to a much broader set of fields. Their insights are mostly well-communicated, and the overall organization of the paper is looking great (see below for specifics about what I think needs updating). This paper is a valuable contribution to increasing engagement with a population that is currently underserved. I particularly enjoyed the discussion of the importance of tools and community. The "Intro to E-Textiles" section is very good, but if you need more room you could probably compress it a bit. You have just the right level of detail in E-Textile Practitioners section. Well-organized and wonderfully written.
 
-### Section 4: Workshop Case Study
+### Opportunities for Improvement
+
+#### Recommendations, summarized
+- Reorganize section 4, with new subsections and clarified terminology.
+- Clarify and simplify section 5, focusing on making theories understandable to a broader audience, clarifying relevance to the paper, and explicitly and clearly stating recommendations for future researchers and practitioners. (see the excellent level of detail and explanatory power of your 'intro to e-textiles section' for an example!)
+- Fix typos.
+
+#### Section 4: Workshop Case Study
 Overall, this section is the most poorly organized and confusing to read in the paper. The information is relevant and important, but the organization makes it difficult to parse. For example, the third paragraph ends very suddenly with "This survey gathered 251 responses." At this point, I was expecting information about the survey like the findings. Instead, it transitions abruptly to the other survey. I'd recommend making two labeled subsections "Broader community online survey" and "Survey of audio workshop participants". The info from the two different surveys needs to be separated and clarified to better communicate the process and findings. Can you also clarify the two survey audiences? You seem to refer to the "larger community of Bela users" as "Bela users", but the people in the workshop are also using Bela, right? Just define a term that clarifies them ("Online Bela community" vs "Workshop Bela users" or similar) and use that to refer to them. See here for a particularly confusing section:
 
 ```
@@ -34,8 +41,6 @@ Hidden in the final paragraph of the tools section is the fact that you created 
 - love that findings are expressed in abstract
 - again very picky but first paragraph of seciton 2 is very repetitive.
 - Very picky: Awkward phrasing of "Once within the audio technology culture".
-- It's very good, but if you need more room you could probably compress the "Intro to E-Textiles" section.
-- just the right level of detail in E-Textile Practitioners section. Well-organized and wonderfully written.
 - A transition from E-textile section to the case study would be very helpful! The paper suddenly shifts here and it's jarring and unclear. By this point, I"ve forgotten your "four steps", so a reminder of the structure of hte paper would be great. I'd even add one transition sentence before and after the other sections as well.
 - conclusion is just a long summary. See Wobbrock's excellent explanation for how a paper should look: https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf
 - The authors keep claiming more women "remain" in the community, but I didn't see the data for that. Was there a long-term survey study that shows this? Can they clarify where they're getting support for that conclusion?
