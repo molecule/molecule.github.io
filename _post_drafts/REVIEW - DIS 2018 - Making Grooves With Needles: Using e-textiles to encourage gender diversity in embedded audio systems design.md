@@ -1,16 +1,8 @@
-### Random thoughts
-- really picky, but confusion when reading abstract and then intro since it's not clear whta's new yet: introducing e-textiles to audio or if that's an existing practice this paper is simply examining in more depth.
-- love that findings are expressed in abstract
-- again very picky but first paragraph of seciton 2 is very repetitive.
-- Very picky: Awkward phrasing of "Once within the audio technology culture".
-- It's very good, but if you need more room you could probably compress the "Intro to E-Textiles" section.
-- just the right level of detail in E-Textile Practitioners section. Well-organized and wonderfully written.
-- A transition from E-textile section to the case study would be very helpful! The paper suddenly shifts here and it's jarring and unclear. By this point, I"ve forgotten your "four steps", so a reminder of the structure of hte paper would be great. I'd even add one sentence before and after the other sections as well.
-- conclusion is just a long summary. See Wobbrock's excellent explanation for how a paper should look: https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf
-- The authors keep claiming more women "remain" in the community, but I didn't see the data for that. Was there a long-term survey study that shows this? Can they clarify where they're getting support for that conclusion?
+### Positive
+The authors approached the question of why more women aren't involved in the interactive audio industry in a variety of interesting ways. Because of their multi-pronged approach, they were able to generate insights that are relevant to a much broader set of fields. Their insights are mostly well-communicated, and the overall organization of the paper is looking great (see below for specifics about what I think needs updating).  
 
 ### Section 4: Workshop Case Study
-Overall, this section is the most poorly organized and confusing to read in the paper. The information is relevant and important, but the organization makes it difficult to parse. For example, the third paragraph ends very suddenly with "This survey gathered 251 responses." I'm expecting information about the survey like the findings. Instead, it transitions abruptly to the other survey. I'd recommend making two labeled subsections "Broader community online survey" and "Survey of audio workshop participants". The info from the two different surveys needs to be separated and clarified to better communicate the process and findings. Can you also clarify the two survey audiences? You seem to refer to the "larger community of Bela users" as "Bela users", but the people in the workshop are also using Bela, right? Just define a term that clarifies them ("Online Bela community" vs "Workshop Bela users" or similar) and use that to refer to them. See here for a particularly confusing section:
+Overall, this section is the most poorly organized and confusing to read in the paper. The information is relevant and important, but the organization makes it difficult to parse. For example, the third paragraph ends very suddenly with "This survey gathered 251 responses." At this point, I was expecting information about the survey like the findings. Instead, it transitions abruptly to the other survey. I'd recommend making two labeled subsections "Broader community online survey" and "Survey of audio workshop participants". The info from the two different surveys needs to be separated and clarified to better communicate the process and findings. Can you also clarify the two survey audiences? You seem to refer to the "larger community of Bela users" as "Bela users", but the people in the workshop are also using Bela, right? Just define a term that clarifies them ("Online Bela community" vs "Workshop Bela users" or similar) and use that to refer to them. See here for a particularly confusing section:
 
 ```
 Each group had a similar age distribution, and though the Bela group had more experience
@@ -37,9 +29,20 @@ The "Community" section seems to veer back into "Related Work" section a bit too
 **Tools**
 Hidden in the final paragraph of the tools section is the fact that you created a custom tool to support sewing Bela into fabric?? Why wasn't this mentioned before? Can you talk more about what you found from this? Was it successful? Why aren't we learning more about this?
 
+### Random thoughts
+- really picky, but confusion when reading abstract and then intro since it's not clear whta's new yet: introducing e-textiles to audio or if that's an existing practice this paper is simply examining in more depth.
+- love that findings are expressed in abstract
+- again very picky but first paragraph of seciton 2 is very repetitive.
+- Very picky: Awkward phrasing of "Once within the audio technology culture".
+- It's very good, but if you need more room you could probably compress the "Intro to E-Textiles" section.
+- just the right level of detail in E-Textile Practitioners section. Well-organized and wonderfully written.
+- A transition from E-textile section to the case study would be very helpful! The paper suddenly shifts here and it's jarring and unclear. By this point, I"ve forgotten your "four steps", so a reminder of the structure of hte paper would be great. I'd even add one transition sentence before and after the other sections as well.
+- conclusion is just a long summary. See Wobbrock's excellent explanation for how a paper should look: https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf
+- The authors keep claiming more women "remain" in the community, but I didn't see the data for that. Was there a long-term survey study that shows this? Can they clarify where they're getting support for that conclusion?
 
 
 ### Typos
+- 1st sentence of Abstract! Whoopsies. It happens to the best of us. "Historically, women been excluded from engineering and computer science disciplines, and interactive audio is no exception" -> "Historically, women HAVE been excluded from engineering and computer science disciplines, and interactive audio is no exception."
 - 1st paragraph of section 2: missing period at end of last sentence.
 - pg 2 "and there a large body of science" -> "and there IS/EXISTS a large body of science"
 - weird grammer (plural? not plural?) "g. Orth’s work, which is recognized as the first publications in the field, developed novel applications for textile interfaces embroidered with conductive threads and adapted existing fabrics that happened to have conductive properties into circuit substrates"
