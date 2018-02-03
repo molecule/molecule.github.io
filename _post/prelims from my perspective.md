@@ -17,6 +17,11 @@ The folks arranging the exam emailed us the day before to say the room had been 
 
 Both examiners were very nice (one is my advisor, and the other I had only met once briefly). They introduced themselves, and reminded me that even though all tests can be stressful I should relax and not worry too much. They also emphasized that talking out loud is good - the purpose is to show what I know, so try not to get too stuck or stop talking.
 
+#### Study Schedule
+- Starting in February, we read 1-2 papers a week, meeting for 2 hours to discuss. We did one practice exam in May w/ an upper grad student.
+- Starting in June, we read (and re-read) 2-3 papers a week, meeting for 4 hours to discuss. We did another practice exam in late July.
+- Starting in August, we re-read 1-2 papers per day, created over 300 flashcards, met daily to discuss and give each other practice prelim problems, and had 3 more practice prelim exams. Our goal was to be able to list every thing that could be listed ("8 challenges for developers" "7 principles of ubiquitous computing"), describe every experiment in detail, list authors and years, and talk about limitations and historical context.
+
 #### Questions
 Here are the questions I got, to the best of my ability to remember, as well as some details about what I said, what I think they were looking for, and places where I stumbled.
 

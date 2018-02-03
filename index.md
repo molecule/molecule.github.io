@@ -178,8 +178,8 @@ newsfeed:
 <div class="clearfix">
 
 <div style="float: left; text-align:center; width:240px; padding:10px; font-size:8px; line-height:8px">
-<img src="/src/img/general-molly.jpg"/>
-<span style="display:block;"> Fig. a) The author, depicted as a great military leader. </span>
+<img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
+<span style="display:block;"> Fig. a) The author, enjoying everything very much, thank you. </span>
 </div>
 
 <p> Molly Jane Nicholas is a Ph.D. student studying Human Computer Interaction

@@ -1,0 +1,55 @@
+### Review draft
+This alt.chi paper presents two design artifacts ("Weekend Clock" and "7 1/2") to explore the notion of "stubbornness" in designing artefacts. The authors argue that designing through the lens of "stubbornness" can result in a new relationship between technological objects and their users, specifically one that avoids a "hidden moralizing agenda".
+
+The two design artifacts are interesting and thought-provoking. Both address sensitive issues around time-keeping. The 7 1/2 clock captures a commonly-experienced stressor around clocks and alarms, namely lack of sleep and wake-up time. The artifact itself is well-designed and the authors got a few choice quotes demonstrating the change of mindset by participants who engaged with the artifact. The Weekend Clock questions the notion of time-keeping itself by removing the abil
+
+### Final submitted review
+
+Both design artifacts are interesting and thought-provoking as far as they go, but overall my impression here is that the authors did not go far enough. For instance: why only two clocks, and why both old-fashioned, physical clocks? A vast majority of people today use their smartphone or smartwatch to tell time. Designs around digital clock interfaces could have a major impact. Consider a 'weekend mode' where a smartphone no longer displays the clock in the upper right-hand corner. This is conceptually identical to the Weekend Clock, but far more applicable to the way most people engage with time-keeping devices. The smartwatch in particular seems like a major missed opportunity: the form factor of traditional watches but with the flexibility of digital technology. Furthermore, the user study seems both limited and unclear. How were the subjects chosen, and why didn't the authors do a study with more users, and try out both clocks? While many of the quotes are excellent (pg. 7, the quote that begins with "I started setting the alarm..." stands out in particular), I'm not sure the authors claim of "in-depth reflections" are supported by the rest of the quotes. There could also be more discussion of alternate ways of interfacing with time: pay more attention to the natural cycles of the day around you, task-based (why subscribe to the notion of a weekend at all?), customizable (a clock that runs faster as an event gets closer so you're always pleasantly surprised that you're early when you arrive somewhere; customizable settings, etc.) Next, I'm surprised to see no discussion of Design Noir, a related exploration ("Design Noir: The secret life of electronic objects" by Dunne and Raby). I'm not convinced this paper proposes new ideas beyond those in Design Noir, though the artifacts themselves are a good starting point.
+
+Finally, there were a large number of typos: 
+- Pg 2, 2nd column, 1st paragraph "project that set" --> "project that sets"
+- Pg. 3: "differnet" -> "different"
+- Pg. 3: "focusses" -> "focuses"
+- Pg. 3: "focussed" -> "focused"
+- Pg. 5: "working a side" -> "working on a side"
+- Pg. 5: "Paulus’s" -> The authors name is Paulos
+- Pg. 6: "develop developed" -> "developed"
+- Pg. 2, Fig. 1; Pg. 5; Pg. 7; Pg.8; Pg. 9: " moral believe" -> "moral belief"
+
+
+Overall I think this work needs to go much farther in both designs, assessments, and overall scope. I also would like more details on the specifics of their presentation: what does a 'stubborn' presentation look like in their eyes? 
+
+
+
+
+### Random thoughts
+- pay more attention to natural cycles around you.
+- why subscribe to the notion fo 'weekend' at all? task-based rather than time-based?
+- general: I think this can go much much farther. Focus on clock is good, how about suggesting designs for digital clocks, since most people use those these days? This could inform app designs in the future, or "modes" for smartphones/laptops/etc. Esp for smartwatches, which are so close to the body, seems very promising yet not discussed/explored at all.
+- why no discussion of Design Noir? ("Design Noir: The secret life of electronic objects" by Dunne and Raby). 
+- cite James? yes.
+- Love the weekend clock. Consider other ideas: a clock that moves in slow motion, or that moves more quickly so it's a pleasant surprise to realize not so much time has passed? Or customizable?
+- why only 2? why both male? How were they chosen? Why? Was their insight expected to be valuable somehow?
+- Not supported by existing user quotes: "the described confrontations with the functionality show in-depth reflections on the kind of practices the participants develop developed while building a relationship with the artifact." 
+- Pg. 7, great user quote: "“I started setting the alarm when I was going to bed.
+And then a couple of deadlines kicked in and I realized
+that I probably have to sleep less to catch up with my
+work. So, I started setting the alarm at like 11[pm] and
+still be working at 2 or 3 in the morning. [..] But then I
+just wasn’t as focused anymore. Because of it was in
+the back of my mind now. I had to set the alarm, that
+yeah right, I should to go to sleep. I feel without
+setting the alarm at that point I might just have kept
+on working and that thought ‘I should sleep’ would
+have never crossed my mind.” [P1]"
+- 
+
+
+
+### Typoes
+- Weird phrasing / punctuation. Pg. 2, paragraph that starts "We believe this implicit moralizing...", last sentence
+
+- Pg. 3, Fig. 4. Modus -> mode. Possible both are correct, though, but I've only ever seen mode.
+
+
