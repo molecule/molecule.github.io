@@ -21,7 +21,7 @@ Always wear gloves when handling dye-stuff including mordanted fiber.
 
 Use separate tools for dyeing. Do NOT re-use the same pot you use for cooking. I bought a big one at Marshall's at an 80% discount.
 
-Alum and cream of tartar can be disposed of down the sink safely. [18: barbara rochester]
+Alum and cream of tartar can be disposed of down the sink safely. [18]
 
 
 Overheating will cause colors to fade and be ruined. Exact recommended heat levels unclear, and I don't have a thermometer anyway. I'll just stay below a boil for safety[28].
@@ -138,71 +138,69 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 
 # References
-[1: Maiwa]: http://maiwahandprints.blogspot.com/2010/12/natural-dyes-scouring.html
+[1]: http://maiwahandprints.blogspot.com/2010/12/natural-dyes-scouring.html
 
-[2: wendyfe tutorial](https://wendyfe.wordpress.com/tutorial-leaf-monoprinting-by-cassandra-tondro/)
+[2]: https://wendyfe.wordpress.com/tutorial-leaf-monoprinting-by-cassandra-tondro/
 
-[3: orvus paste](https://www.generations-quilt-patterns.com/orvus.html)
+[3]: https://www.generations-quilt-patterns.com/orvus.html
 
-[4: Maiwa guide to natural dyes](http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-1.html?m=1)
+[4]: http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-1.html?m=1
 
-[5: wendyfe tutorial](https://wendyfe.wordpress.com/tutorial-leaf-monoprinting-by-cassandra-tondro/)
+[6]: https://feltingandfiberstudio.com/2013/08/21/eco-printing-onto-a-silk-chiffon-scarf-by-terriea-kwong/
 
-[6: felting and fiber studio](https://feltingandfiberstudio.com/2013/08/21/eco-printing-onto-a-silk-chiffon-scarf-by-terriea-kwong/)
+[7]: http://www.turkeyredjournal.com/archives/V13_I1/flint.html
 
-[7: turkey red journal](http://www.turkeyredjournal.com/archives/V13_I1/flint.html)
+[8]: https://www.theatlantic.com/science/archive/2016/11/the-great-eucalyptus-debate/509069/
 
-[8: the atlantic](https://www.theatlantic.com/science/archive/2016/11/the-great-eucalyptus-debate/509069/)
+[9]: http://www.mycrosspatch.com/blog/2016/06/10/natural-dyes-experimenting-with-black-beans/
 
-[9: black bean dye](http://www.mycrosspatch.com/blog/2016/06/10/natural-dyes-experimenting-with-black-beans/)
+[10]: http://wewilltellyouallofoursecrets.blogspot.com/2013/05/making-mordants.html
 
-[10: we will tell you all our secrets](http://wewilltellyouallofoursecrets.blogspot.com/2013/05/making-mordants.html)
+[11]: https://www.townhillstudio.co.uk/5-easy-steps-prepare-fabric-natural-plant-dyeing/
 
-[11: Townhill Studio](https://www.townhillstudio.co.uk/5-easy-steps-prepare-fabric-natural-plant-dyeing/)
+[12]: https://www.townhillstudio.co.uk/secret-dyeing-eucalyptus-bark-7-easy-steps/
 
-[12: townhill studio eucalyptus bark](https://www.townhillstudio.co.uk/secret-dyeing-eucalyptus-bark-7-easy-steps/)
+[13]: https://www.townhillstudio.co.uk/make-simple-silky-striped-scarf-step-step/
 
-[13: townhill studio silk dying stripe](https://www.townhillstudio.co.uk/make-simple-silky-striped-scarf-step-step/)
+[14]: http://www.allnaturaldyeing.com/dyeing-with-avocados/
 
-[14: all natural dyeing](http://www.allnaturaldyeing.com/dyeing-with-avocados/)
+[15]: http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-3.html
 
-[15: Maiwa mordant instructions](http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-3.html)
+[16]: https://cdn.shopify.com/s/files/1/1086/6542/files/GuideToNaturalDyes.pdf
 
-[16: Maiwa PDF](https://cdn.shopify.com/s/files/1/1086/6542/files/GuideToNaturalDyes.pdf)
+[17]: http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-2.html
 
-[17: maiwa mordant part 2](http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-2.html)
+[18]: http://barbararochester.blogspot.com/2007/10/what-i-have-been-up-to-lately.html?m=1
 
-[18: barbara rochester]: http://barbararochester.blogspot.com/2007/10/what-i-have-been-up-to-lately.html?m=1
+[19]: http://naturallydyeing.blogspot.com/2010/03/e-u-c-l-y-p-t-u-s-g-l-o-b-u-l-u-s.html
 
-[19: naturally dyeying](http://naturallydyeing.blogspot.com/2010/03/e-u-c-l-y-p-t-u-s-g-l-o-b-u-l-u-s.html)
+[20]: http://essellesbabble.blogspot.com/2006/04/rust-solution-dyeing-tutorial.html?m=1
 
-[20: esselles babble rust tutorial](http://essellesbabble.blogspot.com/2006/04/rust-solution-dyeing-tutorial.html?m=1)
+[21]: https://notjustnat.blogspot.com.au/2013/08/natural-dye-plus-plus.html
 
-[21: notjustnat](https://notjustnat.blogspot.com.au/2013/08/natural-dye-plus-plus.html)
+[22]: http://www.rebeccadesnos.com/journal/2016/11/28/some-magic-from-red-onion-skins
 
-[22: rebecca](http://www.rebeccadesnos.com/journal/2016/11/28/some-magic-from-red-onion-skins)
+[23]: https://www.instagram.com/p/BQaH-1VhLyQ/?taken-by=rebeccadesnos
 
-[23: rebecca instagram](https://www.instagram.com/p/BQaH-1VhLyQ/?taken-by=rebeccadesnos)
+[24]: http://www.rebeccadesnos.com/journal/2016/1/28/adventures-in-avocado-stone-dyeing
 
-[24: rebecca avocado stone](http://www.rebeccadesnos.com/journal/2016/1/28/adventures-in-avocado-stone-dyeing)
+[25]: http://www.rebeccadesnos.com/journal/2015/6/1/bundle-dyeing-with-avocado-skin
 
-[25: rebecca avocado skin](http://www.rebeccadesnos.com/journal/2015/6/1/bundle-dyeing-with-avocado-skin)
+[26]: http://www.rebeccadesnos.com/journal/2015/5/29/painting-with-rusty-water
 
-[26: rebecca paint w rusty water](http://www.rebeccadesnos.com/journal/2015/5/29/painting-with-rusty-water)
+[27]: http://www.rebeccadesnos.com/journal/2015/5/29/dyeing-with-avocado-skins
 
-[27: rebecca avocado skins](http://www.rebeccadesnos.com/journal/2015/5/29/dyeing-with-avocado-skins)
+[28]: http://wooltribulations.blogspot.com/2017/01/dyes-from-red-onion-skins-on-wool.html
 
-[28: wool tribulations](http://wooltribulations.blogspot.com/2017/01/dyes-from-red-onion-skins-on-wool.html)
+[29]: https://hookedanddyed.net/2014/05/28/natural-dye-avocado/
 
-[29: hooked and dyed](https://hookedanddyed.net/2014/05/28/natural-dye-avocado/)
+[30]: https://www.thoughtco.com/make-sodium-carbonate-from-sodium-bicarbonate-608266
 
-[30: soda ash](https://www.thoughtco.com/make-sodium-carbonate-from-sodium-bicarbonate-608266)
+[31]: https://www.dharmatrading.com/home/natural-dyes-101-with-cochineal-and-madder-root.html
 
-[31: dharma trading company dyeing 101](https://www.dharmatrading.com/home/natural-dyes-101-with-cochineal-and-madder-root.html)
+[32]: https://mnfblog.com/2014/01/26/avocado-pips-and-silk/
 
-[32: mnfblog avocado stones](https://mnfblog.com/2014/01/26/avocado-pips-and-silk/)
+[33]: http://www.wearingwoad.com/mordants-how-to-safely-prepare-a-mild-copper-mordant/
 
-[33: wearing woad safe copper mordants](http://www.wearingwoad.com/mordants-how-to-safely-prepare-a-mild-copper-mordant/)
-
-[34: botanical colors cochineal](https://botanicalcolors.com/2014/06/10/dyeing-for-dummies-the-wonders-of-cochineal/)
+[34]: https://botanicalcolors.com/2014/06/10/dyeing-for-dummies-the-wonders-of-cochineal/
 
