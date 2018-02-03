@@ -1,28 +1,45 @@
-# Notes
-### Quick notes
+These are my notes about natural dyeing.
+
+### Overview of process
+1. Start with clean fabric. If it's not clean, you'll need to scour it. My fabric was all "ready-to-dye", so I skipped this step.
+2. Mordant it. This treats the fabric so color clings to it more, and stays for longer. You'll need different kinds of mordant for different kinds of fiber. I only did silk (protein fiber), so I used alum mordant with cream of tartar (except for when dyeing cochineal, see notes for more details).
+3. Dye it. I did almost exclusively dye bath, occasionally with a "wicking" technique.
+4. Wash, dry, and iron. (Self explanatory).
+
+
+### Terminology, Ingredients and Safety
+
 WOF: Weight of Fiber. THe weight of the dry fiber, used to calculate how much dye/mordant should be used. [source: Maiwa](http://maiwahandprints.blogspot.com/2010/11/natural-dyes-weight-of-fibre.html)
 
-Alum and cream of tartar can be disposed of down the sink safely. [18]
+Always wear gloves when handling dye-stuff including mordanted fiber. 
 
-Overheating will cause colors to fade and be ruined. Exact heat unclear, and I don't have a thermometer anyway. I'll just stay below a boil for safety[28].
+Use separate tools for dyeing. Do NOT re-use the same pot you use for cooking. I bought a big one at Marshall's at an 80% discount.
 
-Iron can contaminate a pot, so probably best to keep it in its own special dyebath [28].
+Alum and cream of tartar can be disposed of down the sink safely. [18: barbara rochester]
+
+
+Overheating will cause colors to fade and be ruined. Exact recommended heat levels unclear, and I don't have a thermometer anyway. I'll just stay below a boil for safety[28].
+
+Iron can contaminate a pot even through different dye-baths, so probably best to keep it in its own special dyebath [28].
 
 To raise pH (make more alkaline), you can add soda ash (can produce chemical burns so wear gloves). You can make your own soda ash[30]
+
+
+# Notes
 
 ### Scouring
 Scour the fabric to remove oils, chemicals, or anything that could cause a barrier between the fiber and the dye. For cellulose fibers (cotton, etc), synthrapol is common. For protein fibers (silk, wool), orvus soap paste is used.[1, 2]
 
 Orvus paste is typically 100% sodium lauryl sulfate (sheep shampoo), with no surfectants or other ingredients[3]. Other detergents like common dish soaps contain sodium lauryl sulfate, but they also have silicones and other ingredients, which can coat fibers and prevent dye from adhering. 
 
-I'm using clarifying shampoo, since it is meant to not deposit anything into my hair, so I think it should be suitable for not depositing into the fabric as well.
+I tried a few test stripes using clarifying shampoo, since it is meant to not deposit anything into my hair (protein fiber), so I thought it would be suitable for not depositing into the fabric as well. There was no difference between the test strips that had were scoured and those that weren't, so I stopped doing this.
 
 ### Mordant
 
 Soak the fabric in appropriate solution of mordant at least overnight. No need to rinse.
 
 #### Alum – <b>Potassium aluminum sulfate</b> 
-The mordant most frequently used by dyers for protein (animal) and cellulose (plant) fibres and fabrics. It improves light and washfastness of all natural dyes and keeps colours clear. It is inexpensive and safe to use. This form of alum is refined from bauxite, the raw state of aluminum ore, and is free from the impurities (such as iron) some other alums can contain.[4]
+The mordant most frequently used by dyers for protein (animal) and cellulose (plant) fibres and fabrics. It improves light and washfastness of all natural dyes and keeps colours clear. It is inexpensive and safe to use. Alum is refined from bauxite, the raw state of aluminum ore, and is free from the impurities (such as iron) some other alums can contain.[4]
 
 <b>Use at 12-20% WOF.</b> Mordant once with alum at 15% WOF and then again with a fresh mordant bath of alum at 15% WOF. A tannin/alum/alum mordant achieves slightly richer colours.[4]
 
@@ -115,7 +132,7 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 
 # References
-[1: Maiwa](http://maiwahandprints.blogspot.com/2010/12/natural-dyes-scouring.html)
+[1: Maiwa]: http://maiwahandprints.blogspot.com/2010/12/natural-dyes-scouring.html
 
 [2: wendyfe tutorial](https://wendyfe.wordpress.com/tutorial-leaf-monoprinting-by-cassandra-tondro/)
 
@@ -149,7 +166,7 @@ Head water bath up to 80 degrees C / 180 F and then keep at that temperature for
 
 [17: maiwa mordant part 2](http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-2.html)
 
-[18: barbara rochester](http://barbararochester.blogspot.com/2007/10/what-i-have-been-up-to-lately.html?m=1)
+[18: barbara rochester]: http://barbararochester.blogspot.com/2007/10/what-i-have-been-up-to-lately.html?m=1
 
 [19: naturally dyeying](http://naturallydyeing.blogspot.com/2010/03/e-u-c-l-y-p-t-u-s-g-l-o-b-u-l-u-s.html)
 
