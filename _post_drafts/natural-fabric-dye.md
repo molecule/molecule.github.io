@@ -1,10 +1,16 @@
 These are my notes about natural dyeing.
 
 ### Overview of process
-1. Start with clean fabric. If it's not clean, you'll need to scour it. My fabric was all "ready-to-dye", so I skipped this step.
-2. Mordant it. This treats the fabric so color clings to it more, and stays for longer. You'll need different kinds of mordant for different kinds of fiber. I only did silk (protein fiber), so I used alum mordant with cream of tartar (except for when dyeing cochineal, see notes for more details).
-3. Dye it. I did almost exclusively dye bath, occasionally with a "wicking" technique.
-4. Wash, dry, and iron. (Self explanatory).
+1. **Start with clean fabric.**
+  - If it's not clean, you'll need to scour it. 
+  - My fabric was all "ready-to-dye", so I skipped this step.
+2. **Mordant the fiber.**
+  - This treats the fabric so color clings to it more, and stays for longer. 
+  - You'll need different kinds of mordant for different kinds of fiber. 
+  - I only did silk (protein fiber), so I used alum mordant with cream of tartar (except for when dyeing cochineal, see notes for more details).
+3. **Dye it.** 
+- I did almost exclusively dye bath, occasionally with a "wicking" technique.
+4. **Wash, dry, and iron. (Self explanatory).**
 
 
 ### Terminology, Ingredients and Safety
