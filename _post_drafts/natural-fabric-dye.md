@@ -76,31 +76,24 @@ From Maiwa [[15]]:
 
 ### Dyes
 
-#### Black beans
-Soak dry beans in water for 24 hours [[9]]. Most people remove the beans, but I left them in. Going for more than 24 hours will start the fermentation process which smells bad and the color isn't as bright. 
 
 ### Dyes
 
-- <b>Eucalyptus leaves</b> dipped in vinegar and then tightly bound to fabric makes a deep red pattern.[6] Different leaves give many different colors, in many different situations. Leaves dried on the ground are different from fresh, for example, as are all different species.[7] I believe the ones I have near me in the hills of Berkeley are "Blue Gum Eucalyptus" (Eucalyptus globulus) [8]. Eucalyptus globulus can make grey, possibly only when combined w/ cellulose fibers and soy milk mordant.[] I may combine my alum-mordanted protein fiber w/ some iron mordant in the dyebath to see what it does.
-- <b>Eucalyptus bark</b>
-- <b>Avocado skin and seed</b> make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots.[14] Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.  Rebecca has some pics of avocado stone dying [24]. She also steams w/ avocado skins on soy-mordanted cotton [25]. Others raise the pH (by adding soda ash) to make it more basic, and only use the nuts. This makes the color MUCH darker/deeper and more pink. [29] [32]. For some, doing a soda ash mordant results in pink, but adding soda ash to the dye bath makes it a more red-orange.[32]
-- <b>Onion skins</b> make a deper pink or orange. Both skin and seeds can be stored in the freezer. [27]
-- <b>Red onion skins </b> Make pink w/ highly acidic wash on cellulose according to Rebecca[22]. Depends on fabric of course[23]. Other notes indicate that protein may go brown in red onion skins [22].
-- <b>Tea</b> makes a brown probably
-- <b>Turmeric</b> makes brilliant yellow but will likely fade (it's "fugitive").
-- <b>Coffee</b> can make brown. Simmer coffee grounds in a pot for ~1 hour, then pour water out, save it, and simmer fresh water in the same grounds again for another hour to get more color. Soak the fabric in the strained coffee water for at least 24 hours.
-- <b>Cochineal</b> - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions.  [16]. Very dense, so only 20% WOF needed. [31]. Acid pushes towards orange, base pushes towards purple. Might be able to play w this with vinegar and soda ash. Extensive details here. [34]
-- <b>Black beans</b> makes a beautiful blue w/ copper-mordanted protein fiber. [9]
-- <b>Rusty water</b> no much info about this, but apparently it's possible.[26]
-- <b> Iron water </b> The solution was 5g ferrous sulphate to 500 ml of water. [32]
+- **Eucalyptus leaves/bark** dipped in vinegar and then tightly bound to fabric can make a deep red pattern [[6]]. Different leaves give many different colors, in many different situations. Leaves dried on the ground are different from fresh, for example, as are all different species [[7]]. I believe the ones I have near me in the hills of Berkeley are "Blue Gum Eucalyptus" (Eucalyptus globulus) [[8]]. Eucalyptus globulus can make grey, possibly only when combined w/ cellulose fibers and soy milk mordant. I may combine my alum-mordanted protein fiber w/ some iron mordant in the dyebath to see what it does.
+- **Avocado skin and seed** make pink. Skins will tend to give colors that are redder whilst pits give oranges and apricots [[14]]. Five or six large avocados for 100 grams of wool will give a lovely light-to-medium pink shade. You will need many more for deeper colors.  Rebecca has some pics of avocado stone dying [[24]]. She also steams w/ avocado skins on soy-mordanted cotton [[25]]. Others raise the pH (by adding soda ash) to make it more basic, and only use the nuts. This makes the color MUCH darker/deeper and more pink [[29], [32]]. For some, doing a soda ash mordant results in pink, but adding soda ash to the dye bath makes it a more red-orange [[32]]. Both skin and seeds can be stored in the freezer [[27]]
+- **Red onion skins** Make pink w/ highly acidic wash on cellulose according to Rebecca [[22]]. Depends on fabric of course [[23]]. Other notes indicate that protein fibers may go brown in red onion skins [[22]].
+- **Tea** makes a brown probably. Mint tea can make bright yellow.
+- **Turmeric** makes brilliant yellow but will likely fade (it's "fugitive").
+- **Coffee** can make brown. Simmer coffee grounds in a pot for ~1 hour, then pour water out, save it, and simmer fresh water in the same grounds again for another hour to get more color. Soak the fabric in the strained coffee water for at least 24 hours.
+- **Cochineal** - fuschia (unless w/ cream of tartar in mordant, which will make it "true red"). Iron at 2-4% WOF pushes it towards purple. You will need only 3-8% WOF for a medium depth of shade.  The cochineal rich red can be shifted to orange with the addition of an acid (vinegar) and to a deep fuschia with the addition of an alkaline (soda ash).  See PDF for prep instructions [[16]]. Very dense, so only 20% WOF needed [[31]]. Acid pushes towards orange, base pushes towards purple. Might be able to play w this with vinegar and soda ash. Extensive details here [[34]].
+- **Black beans** make a beautiful blue w/ copper-mordanted protein fiber [[9]]. Soak dry beans in water for 24 hours [[9]]. Most people remove the beans, but I left them in. Going for more than 24 hours will start the fermentation process which smells bad and the color isn't as bright. 
+- **Rusty water** not much info about this, but apparently it's possible [[26]].
+- **Iron water** The solution was 5g ferrous sulphate to 500 ml of water [[32]].
 
 ### Dye bath
 For an immersion dye bath, roll the cloth or paper over copper pipe, tree branch, wood dowel, plastic pipe, etc., folding as needed [[2]].
 Don't put the fabric into hot water as it can "shock" it. Put it into cold water instead, and let them heat up together. This is especially true for wool.
 Heat water bath up to 80 degrees C / 180 F and then keep at that temperature for 45 minutes [[13]].
-
-### Plan
-
 
 
 # Results
