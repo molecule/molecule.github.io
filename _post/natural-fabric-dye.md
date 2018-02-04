@@ -4,7 +4,7 @@ date: 2018-02-03
 ---
 
 <div style="float: right; text-align:center; width:350px; padding:5px; font-size:8px; line-height:8px">
-<img src="/src/img/natural-dye/scarves.JPG" alt="All the scarves"/>
+<img src="/src/img/natural-dye/scarves.jpg" alt="All the scarves"/>
 </div>
 
 These are my notes about natural dyeing.
