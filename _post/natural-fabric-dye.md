@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2018-02-03
+---
+
 These are my notes about natural dyeing.
 
 ### 1. Overview of process
@@ -13,10 +18,16 @@ These are my notes about natural dyeing.
 4. **Wash, dry, and iron. (Self explanatory).**
 
 ### Materials
-- Pot for heating things up. I got mine cheap at Marshall's.
-- Tool for grabbing/manipulating. Cheap tongs from Goodwill, Marshall's or Ross will work great. I also used bamboo spears for making kabobs.
+<div style="float: right; text-align:center; width:240px; padding:5px; font-size:8px; line-height:8px">
+<img src="/src/img/natural-dye/materials.JPG" alt="pot, manipulator tools, and mat"/>
+<span style="display:block;">Image 1: pot, manipulator tools, and mat</span>
+</div>
+
+- Pot for heating things up. I got mine cheap at Marshall's. (See Image 1)
+- Tool for grabbing/manipulating. Cheap tongs from Goodwill, Marshall's or Ross will work great. I also used bamboo spears for making kabobs. (See Image 1)
 - Serious gloves to keep your skin safe.
 - A bunch of non-reactive containers. I used mason jars because I eat a lot of pickles that come in mason jars.
+
 
 
 ### 2. Terminology, Ingredients and Safety
@@ -32,11 +43,12 @@ These are my notes about natural dyeing.
 - Heat water bath up to 80 degrees C / 180 F and then keep at that temperature for 45 minutes [[13]].
 
 ### 3. Scouring
+I tried a few test stripes using clarifying shampoo. Since it is meant to not deposit anything into my hair (protein fiber), I thought it would be suitable for not depositing into the fabric as well. There was no difference between the test strips that had were scoured and those that weren't, so I stopped doing this. Here are my notes anyway.
+
 Scour the fabric to remove oils, chemicals, or anything that could cause a barrier between the fiber and the dye. For cellulose fibers (cotton, etc), synthrapol is common. For protein fibers (silk, wool), orvus soap paste is used. [[1, 2]]
 
 Orvus paste is typically 100% sodium lauryl sulfate (sheep shampoo), with no surfectants or other ingredients [[3]]. Other detergents like common dish soaps contain sodium lauryl sulfate, but they also have silicones and other ingredients, which can coat fibers and prevent dye from adhering. 
 
-I tried a few test stripes using clarifying shampoo, since it is meant to not deposit anything into my hair (protein fiber), so I thought it would be suitable for not depositing into the fabric as well. There was no difference between the test strips that had were scoured and those that weren't, so I stopped doing this.
 
 ### 4. Mordant
 
@@ -89,7 +101,113 @@ From Maiwa [[15]]:
 - For an immersion dye bath, just leave the materials in the dye bath for as long as possible. I usually did around a week, but had good luck even with only a few days. I got AMAZING colors and patterns from stuffing a glass mason jar with fabric, pouring dye over it, and leaving it in the sun for a week. For some reason this resulted in swirly, subtle patterns.
 - For "wicking", I would leave the lid open and pile half of the freshly-mordanted fabric in the jar, and half in a plastic cup outside. You can vary the height of the plastic cup for more or less wicking (higher is less, lower is more). Also be sure the fabric is all wet, even if you don't want it all to wick or you'll get bizarre water lines.
 
-# Results
+# Process Overview
+
+To give you an overall idea of the process and outcomes, let's walk through a complete example from start to finish.
+
+**1.** Mordant the silk in a pot. After weighing the fabric, I dissolved the appropriate amount of alum into a pot with enough water that the fabric could float freely. Then I added the silk, and heated everything up to "steamy and hot but not boiling" for ~45 minutes a couple of times a day for ~24 hours:
+
+<div style="float: center; text-align:center; width:300px; padding:5px; font-size:8px; line-height:8px">
+<img src="/src/img/natural-dye/materials.JPG" alt="pot, manipulator tools, and mat"/>
+<span style="display:block;">Image 1: pot, manipulator tools, and mat</span>
+</div>
+
+After it's heated for a while, I leave it in a plastic container, soaking in the mordant until I'm ready to dye it. This is also because I only own one "dye-safe" pot and don't really have room to store multiple pots that aren't used for cooking.
+
+**2.** Prepare the dye stuff. For this example, I'll talk about how I prepare onion skins. Each dye has its own way of being prepared, this is just to give an idea of the overall process. I gathered ~64 grams (a grocery bag-ful) of onion skins at the grocery store by grabbing the loose skins out of the onion section. I just asked in advance and they were fine with it. To get so many, I actually visited three different grocery stores.
+
+<div style="float: center; text-align:center; width:300px; padding:5px; font-size:8px; line-height:8px">
+<img src="/src/img/natural-dye/fresh-onion-skins.JPG" alt="harvested onion skins"/>
+<span style="display:block;">Onion skins from the onion bin at 3 grocery stores.</span>
+</div>
+
+I then put ~34 grams into a glass mason jar, and filled it completely with water. Then I left it to soak in bright, direct sunlight for ~24 hours, rotating occasionally.
+
+**3.** Add the silk. Sometimes I stuffed the silk into the jar directly:
+
+<div style="float: center; text-align:center; width:300px; padding:5px; font-size:8px; line-height:8px">
+<img src="/src/img/natural-dye/left-red-onion-right-yellow-onion-skins.JPG" alt="Silk soaking in yellow and red onion skins."/>
+<span style="display:block;">Silk soaking in yellow and red onion skins.</span>
+</div>
+
+...Which resulted in AMAZING textures and patterns:
+
+<div style="float: center; text-align:center; width:300px; padding:5px; font-size:8px; line-height:8px">
+<img src="/src/img/natural-dye/onion-skins-and-vinegar.JPG" alt="Patterns and textures from stuffing a silk scarf into a mason jar as it dies in the sun."/>
+<span style="display:block;">Patterns and textures from stuffing a silk scarf into a mason jar as it dies in the sun.</span>
+</div>
+
+
+Sometimes I left some of the silk hanging out to "wick" the color up, fading as it goes. Note that the lid of these mason jars can act as an "iron mordant", which changes the dye colors (that's where the dark purple comes from in example below):
+
+<div class="blog-container">
+<img src="/src/img/natural-dye/red-onion-wick.JPG" alt="Red onion wicking up silk." class="blog-img"/>
+<img src="/src/img/natural-dye/red-onion-wick-2.JPG" alt="Red onion wicking up silk." class="blog-img"/>
+</div>
+
+
+ After washing, the silk from above looked like this. I loooove the variety of colors, from pale pink to deeper reddish pink to grey, to light purple to lilac:
+
+<div style="float: center; text-align:center; width:300px; padding:5px; font-size:8px; line-height:8px">
+<img src="/src/img/natural-dye/red-onion-skins-iron-mordant-wick.JPG" alt="Finished red onion scarf."/>
+<span style="display:block;">Finished scarf.</span>
+</div>
+
+# More Results
+
+**Black beans**
+- Mordant: Alum and cream of tartar.
+- Dye: Black beans for ~24 hours.
+- Post-dye: Dipped one end in vinegar.
+
+The black beans actually turned BRIGHT pink in the dye bath, then quickly faded to a really nice purple by the end of the 24 hours. After taking the scarf out, I dipped one half into a jar filled with vinegar and a copper pipe. The color immediately shifted to pink and stayed that way. I don't think the copper had anything to do with the color change, just the vinegar.
+
+<div class="blog-container">
+<img src="/src/img/natural-dye/black-beans-copper-mordant-finished.JPG" alt="Black beans and vinegar mordant" class="blog-img"/>
+<img src="/src/img/natural-dye/black-beans-copper-mordant.JPG" alt="Black bean-dyed in the vinegar mordant" class="blog-img"/>
+</div>
+
+**Red and yellow onion skins**
+- Mordant: Alum and cream of tartar.
+- Dye: Red onion skins or yellow onion skins.
+
+I tried some random tight twists on the one in the yellow onion dye bath. Since I didn't follow a shibori pattern it didn't turn out very well, but I was amazed at how little color got into the twisted parts.
+
+<div class="blog-container">
+<img src="/src/img/natural-dye/red-onion-skins.JPG" alt="Red onion skins" class="blog-img"/>
+<img src="/src/img/natural-dye/yellow-onion-skins.JPG" alt="Yellow onion skins" class="blog-img"/>
+</div>
+
+**Avocado pits**
+- Mordant: Alum and cream of tartar.
+- Dye: 3 Avocado pits for ~7 days.
+
+I soaked the avocado pits for 24 hours before using them. I heated them up in the pot for ~45 minutes a few times. I also added DIY soda ash since some people had success with that. I suspect I heated them up too much, or just didn't have enough avocado pits for a deeper color.
+
+<div class="blog-container">
+<img src="/src/img/natural-dye/avocado-pits.JPG" alt="Dyed with avocado pits." class="blog-img"/>
+</div>
+
+**Cochineal**
+- Mordant: Alum ONLY
+- Dye: cochineal
+
+I first did this one in a wicking bath on the avocado-skin dye from above, but it barely changed at all. So then I stuffed the scarf into a small mason jar filled with fresh cochineal and left it for a week to get this incredibly bright color.
+
+<div class="blog-container">
+<img src="/src/img/natural-dye/cochineal.JPG" alt="Cochineal" class="blog-img"/>
+</div>
+
+**Black beans**
+- Mordant: Alum and cream of tartar.
+- Dye: Black beans for ~3 days (fermented)
+- Post-dye mordant: copper and vinegar bath.
+
+I left the beans in the sun for about 3 days, at which point it had started to ferment and smelled bad. The color was also terrible, so I threw the whole thing into another mason jar with copper pipes and vinegar. Left it there for another 3 days, and got this amazing rich turquoise color.
+
+<div class="blog-container">
+<img src="/src/img/natural-dye/black-beans-and-copper-mordant.JPG" alt="Black beans and copper mordant" class="blog-img"/>
+</div>
 
 
 
