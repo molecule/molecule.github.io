@@ -215,6 +215,18 @@ I left the beans in the sun for about 3 days, at which point it had started to f
 </div>
 
 
+Hopefully this will help someone else with their own experiments! 
+
+<div class="blog-container">
+<img src="/src/img/natural-dye/scarves.JPG" alt="All the scarves together" class="blog-img"/>
+</div>
+
+
+
+
+
+
+
 
 
 
