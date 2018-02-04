@@ -12,6 +12,12 @@ These are my notes about natural dyeing.
 - I did almost exclusively dye bath, occasionally with a "wicking" technique.
 4. **Wash, dry, and iron. (Self explanatory).**
 
+### Materials
+- Pot for heating things up. I got mine cheap at Marshall's.
+- Tool for grabbing/manipulating. Cheap tongs from Goodwill, Marshall's or Ross will work great. I also used bamboo spears for making kabobs.
+- Serious gloves to keep your skin safe.
+- A bunch of non-reactive containers. I used mason jars because I eat a lot of pickles that come in mason jars.
+
 
 ### 2. Terminology, Ingredients and Safety
 
