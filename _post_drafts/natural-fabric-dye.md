@@ -92,7 +92,10 @@ From Maiwa [[15]]:
 # Results
 
 
-# References
+
+
+
+
 [1]: http://maiwahandprints.blogspot.com/2010/12/natural-dyes-scouring.html
 
 [2]: https://wendyfe.wordpress.com/tutorial-leaf-monoprinting-by-cassandra-tondro/
