@@ -3,6 +3,8 @@ layout: post
 date: 2018-02-03
 ---
 
+<meta property="og:image" content="https://github.com/molecule/molecule.github.io/blob/master/src/img/natural-dye/scarves.JPG" />
+
 <div style="float: right; text-align:center; width:350px; padding:5px; font-size:8px; line-height:8px">
 <img src="/src/img/natural-dye/scarves.JPG" alt="All the scarves"/>
 <span style="display:block;">Scarves I've colored with natural dye.</span>
