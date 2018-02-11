@@ -49,11 +49,16 @@ These are my notes about natural dyeing.
 - Heat water bath up to 80 degrees C / 180 F and then keep at that temperature for 45 minutes [[13]].
 
 ### 3. Scouring
+
+#### Silk
 I tried a few test stripes using clarifying shampoo. Since it is meant to not deposit anything into my hair (protein fiber), I thought it would be suitable for not depositing into the fabric as well. There was no difference between the test strips that had were scoured and those that weren't, so I stopped doing this. Here are my notes anyway.
 
 Scour the fabric to remove oils, chemicals, or anything that could cause a barrier between the fiber and the dye. For cellulose fibers (cotton, etc), synthrapol is common. For protein fibers (silk, wool), orvus soap paste is used. [[1, 2]]
 
 Orvus paste is typically 100% sodium lauryl sulfate (sheep shampoo), with no surfectants or other ingredients [[3]]. Other detergents like common dish soaps contain sodium lauryl sulfate, but they also have silicones and other ingredients, which can coat fibers and prevent dye from adhering. 
+
+#### Cotton
+Necessary to use soda ash to scour cotton properly. Boil for ~2 hours, stirring frequently. If scouring water is brown or grey, repeat [35]. Maiwa recommends also using synthrapol [16].
 
 
 ### 4. Mordant
@@ -88,6 +93,9 @@ From Maiwa [[15]]:
 - Let cool in the bath for 20 minutes. 
 - Remove the fibre from the mordant bath. Allow to hang evenly over a non-reactive rod (stainless steel, plastic) until it stops dripping. Rotate the yarn or fabric frequently so the alum is evenly distributed. 
 - Store the yarn or cloth in a damp white cloth for 24-48 hours. Keep it damp during this entire period if proceeding to dyeing. If you are going to store the fibre longer, then it needs to dry completely and then be stored in a dark place.
+
+#### 4.5 Mordanting Cotton
+You can mordant cotton with alum in a 3-step process that also includes soda ash and a tannic acid [36]. Salt and vinegar may also be used as fixatives [37]. Be sure to neutralize before dyeing, to make sure you don't mess up your dye bath [38]. Maiwa recommends a 2-step process w/ tannin first and alum second.  For cochineal dyeing, Maiwa recommends: tannin at 8% WOF and then alum at 15%, or alum acetate at 8%. [16].
 
 
 ### 5. Dyes
@@ -260,7 +268,7 @@ Hopefully this will help someone else with their own experiments!
 
 [15]: http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-3.html
 
-[16]: https://cdn.shopify.com/s/files/1/1086/6542/files/GuideToNaturalDyes.pdf
+[16]: http://www.box19.ca/maiwa/pdf/Guide_To_Natural_Dyes.pdf
 
 [17]: http://maiwahandprints.blogspot.ca/2013/01/natural-dyes-mordants-part-2.html
 
@@ -298,3 +306,10 @@ Hopefully this will help someone else with their own experiments!
 
 [34]: https://botanicalcolors.com/2014/06/10/dyeing-for-dummies-the-wonders-of-cochineal/
 
+[35]: http://www.wildcolours.co.uk/html/cotton.html
+
+[36]: http://www.wildcolours.co.uk/html/alum-tannin.html
+
+[37]: http://www.allnaturaldyeing.com/mordants-fixatives/
+
+[38]: https://www.allfiberarts.com/2017/how-to-scour-cotton-and-linen.htm
