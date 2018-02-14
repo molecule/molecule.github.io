@@ -10,4 +10,8 @@
 - Extended evaluation, integrated w/ development process.
 ### Evaluating ""
 - Relationship building: a community of folks interested in new weird stuff is invaluable.
-- Criteria: Diversity (primary; artist are dedicated to making good work w/ bad tools, so expressiveness is a good measure b/c can't just struggle towards one local hill, wide design space), 
+- Criteria: Diversity (primary; artist are dedicated to making good work w/ bad tools, so expressiveness is a good measure b/c can't just struggle towards one local hill, wide design space).
+
+### Dynamic Brushes
+- CHI, 2018
+- 
