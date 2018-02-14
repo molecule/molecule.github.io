@@ -14,4 +14,9 @@
 
 ### Dynamic Brushes
 - CHI, 2018
+- SO COOL
+
+### Thoughts
+- Debugging as a process for creative reflection.
+- performative: inspection/visualization not just for artist, but how to communicate that process to audiences. (another opportunity for engagement).
 - 
