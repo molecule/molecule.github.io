@@ -5,6 +5,8 @@
 - Stories can be good, but back them up with specific answers.
 
 ## Sarah Fox
+- Very succinct, complete, nuanced answers.
+- 
 
 
 
