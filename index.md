@@ -147,7 +147,7 @@ newsfeed:
         date: 22 Jan 2018
     -
         content: Taking a well-deserved break! No email or work-related projects for me :) See you in the spring!
-        Date: 15 Dec 2017
+        date: 15 Dec 2017
     -
         content: Our latest project conditionally accepted to CHI 2018!
         date: 11 Dec 2017
