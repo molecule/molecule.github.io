@@ -136,6 +136,12 @@ hidden:
         link: /project/good-person
 
 newsfeed:
+    - 
+        content: Honored to be funded by the amazing <a href="http://bcnm.berkeley.edu/">Berkeley Center for New Media</a> to present at TEI and CHI!
+        date: 6 Mar 2018
+    - 
+        content: My class project in collaboration with <a href="http://cearto.com/"César</a>, Sarah, Eric, and Richard was accepted to DIS 2018!
+        date: 5 Mar 2018
     -
         content: Our latest project conditionally accepted to CHI 2018!
         date: 11 Dec 2017
