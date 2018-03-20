@@ -143,7 +143,10 @@ hidden:
 
 newsfeed:
     -
-        content: Arrived in Sweden! Brrrr! Excited for our presentation at <a href="https://tei.acm.org/2018/">TEI</a>
+        content: The project page for our <a href="https://tei.acm.org/2018/">TEI 2018</a> paper <a href="https://molecule.github.io/project/hairio/">Häiriö</a> is up! As is our <a href="https://www.instructables.com/id/HairIO-Hair-As-Interactive-Material/">Instructable</a> :) Hooray for Open Source!
+        date: 19 Mar 2018
+    -
+        content: Arrived in Sweden! Brrrr! Excited for our presentation and demo at <a href="https://tei.acm.org/2018/">TEI.</a>
         date: 16 Mar 2018
     -
         content: Honored to be funded by the amazing <a href="http://bcnm.berkeley.edu/">Berkeley Center for New Media</a> to present at TEI and CHI!
