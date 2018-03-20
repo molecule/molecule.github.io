@@ -3,6 +3,12 @@ title: about
 layout: default
 projects:
     -
+        title: Häiriö
+        desc: Human Hair as Interactive Material (Presented at TEI 2018)
+        tags: [res]
+        imag: /src/img/hairio-gif.gif
+        link: /project/hairio
+    -
         title: E.O. 9066
         desc: Lunatique Fantastique production
         tags: [per]
