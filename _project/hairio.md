@@ -11,7 +11,7 @@ img#illumination { width: 10em; }
 img.proj { display: block; margin: auto; }
 </style>
 
-<img id="hairio" class="proj" src="/src/img/hairio-thumbnail.jpg" style="width:10em">
+<img id="hairio" class="proj" src="/src/img/hairio-thumbnail.JPG" style="width:10em">
 
 ###### [source code][hairio-github] - [Instructable][hairio-instructable] - [Hackster article][hairio-hackster]
 
