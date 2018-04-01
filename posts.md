@@ -6,7 +6,7 @@ title: posts
 # trips
 Trip reports
 <ul class="trip-list">
-{% for trip in site.trips %}
+{% for trip in site.trips reversed %}
 <li>
 <a class="trip-link" href="{{ trip.url | prepend: site.baseurl }}">
 {{ trip.title }}</a> - {{ trip.description | truncate: 160 }}
