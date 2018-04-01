@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Häiriö
+title: HäirIÖ
 ---
 
-## Häiriö
+## HäirIÖ
 
 <style>
 img { display: inline; }
