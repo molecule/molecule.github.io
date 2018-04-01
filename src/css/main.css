@@ -38,6 +38,9 @@ ul { list-style-type: square; }
 
 .new-container {
   display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-content: center;
 }
 
 .big-img {
