@@ -2,6 +2,11 @@
 title: about
 layout: default
 projects:
+    - 
+        title: AlterWear
+        desc: (coming soon to CHI 2018)
+        tags: [res]
+        imag: /src/img/alterwear-shoe-toe-only.png
     -
         title: Häiriö
         desc: Human Hair as Interactive Material (Presented at TEI 2018)
@@ -266,7 +271,7 @@ newsfeed:
 </div>
 
 <div style="float: center; text-align:center; padding:10px; font-size:13px; line-height:8px">
-<img src="/src/img/arcs-logo.png" alt="Achievement Rewards for College Scientists" style="width: 250px;"/>
+<img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists" style="width: 250px;"/>
 <span style="display:block;"> I'm honored to be supported by the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a> </span>
 </div>
 
