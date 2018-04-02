@@ -58,7 +58,9 @@ When you ski up, someone pops their head out of the first hut and invites you in
   <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
 
   <!-- FlexSlider -->
-  <script defer src="/src/woocommerce-FlexSlider-91e323d/jquery.flexslider.js"></script>
+  <script defer src="/src/js/jquery.flexslider.js"></script>
+  <link rel="stylesheet" href="/src/css/flexslider.css" type="text/css" media="screen" />
+
   
 
 <script>
