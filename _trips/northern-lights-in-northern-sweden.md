@@ -17,6 +17,16 @@ Map:
 
 ### Abisko Östra
 #### Abisko.net Hostel
+This hostel was great. The location is excellent: a ~15-minute walk from the 91 bus stop, a ~10-minute walk from the Abisko Östra train station, and a ~12-minute walk from the grocery store. They rent cross-country skis, snowshoes, and will organize various trips and tours for you. We rented cross-country skis, boots, poles, and ski goggles for a flat rate of 175SEK/person for almost our entire visit. The mattresses are a little old, but the frames are sturdy and comfortable. The kitchen was great to use: all the pots and pans and random free food you could want, with very friendly travelers sharing stories and meals :) Plenty of room to store your groceries and a nice clean fridge. Wonderful sauna w/ provided towels, and a friendly host who will teach you how to properly use it.
+
+#### Sauna
+- Pouring hot water over the rocks increases the heat. (Dump w/ a quick motion to avoid being scalded by the steam).
+- Everyone is naked in the sauna.
+- Shower and wash off before entering the sauna.
+- If you get too hot, run outside and roll in the snow (yes, really).
+- Don't bring your own towel or any of your own textiles into the sauna (you may accidentally bring in lots of bacteria this way).
+- Bring in one provided towel to sit on (to prevent the spread of bacteria).
+
 #### Grocery store
 We found a lot of conflicting information online about the availability of food in Abisko Östra. There is a great grocery store there, about a 10-minute walk down the hill from the Abisko.net hostel. Lots of fresh veggies, fresh fruit, milk, meat, cereal, bread, and TONS of candy. The extensive candy collection is because Norway has a high tax on sugar, so a lot of Norwegians make the drive to Abisko to purchase cheap candy and soda. 
 #### Lake
@@ -47,3 +57,5 @@ The overnight train from Abisko to Stockholm is run by a company called "SJ".
 - There is not really a viewing car.
 - The dining car has pre-made sandwiches, milk, pastries, and other "train food". 
 
+### Other notes
+Google incorrectly labels Abisko and Abisko Östra. If you search on Google, go by the train station locations (which are correct), not the labels on the map.
