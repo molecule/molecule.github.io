@@ -2,6 +2,11 @@
 title: about
 layout: default
 projects:
+    -
+        title: Guardians
+        desc: (coming soon to DIS 2018)
+        tags: [res]
+        imag: /src/img/image-coming-soon.png
     - 
         title: AlterWear
         desc: (coming soon to CHI 2018)
