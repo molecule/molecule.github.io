@@ -5,6 +5,8 @@ description: A week-long trip in Northern Sweden to catch the Northern Lights, i
 image: /src/img/tent-rocks/valley-view.JPG
 ---
 
+<img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-sunrise.jpg">
+
 ### OVERVIEW
 
 Date: March 22nd-March 28th, 2018
@@ -17,7 +19,15 @@ Map:
 
 ### Abisko Östra
 #### Abisko.net Hostel
-This hostel was great. The location is excellent: a ~15-minute walk from the 91 bus stop, a ~10-minute walk from the Abisko Östra train station, and a ~12-minute walk from the grocery store. They rent cross-country skis, snowshoes, and will organize various trips and tours for you. We rented cross-country skis, boots, poles, and ski goggles for a flat rate of 175SEK/person for almost our entire visit. The mattresses are a little old, but the frames are sturdy and comfortable. The kitchen was great to use: all the pots and pans and random free food you could want, with very friendly travelers sharing stories and meals :) Plenty of room to store your groceries and a nice clean fridge. Wonderful sauna w/ provided towels, and a friendly host who will teach you how to properly use it.
+The <a href="http://www.abisko.net/accomodation/">abisko.net Winterday hostel</a> was great. The location is excellent: a ~15-minute walk from the 91 bus stop, a ~10-minute walk from the Abisko Östra train station, and a ~12-minute walk from the grocery store. We rented cross-country skis, boots, poles, and ski goggles for a flat rate of 175SEK/person for almost our entire visit. 
+
+<div class="blog-container">
+<img alt="Abisko.net reception entrance" class="blog-img" src="/src/img/sweden/abisko-hostel-entrance.jpg">
+<img alt="Abisko.net Winterday hostel from the outside" class="blog-img" src="/src/img/sweden/abisko-hostel-accommodations.jpg">
+<img alt="Abisko.net kitchen" class="blog-img" src="/src/img/sweden/abisko-hostel-kitchen.jpg">
+</div>
+
+You can also rent snowshoes, and join various tours (we did dog-sledding which was excellent, see below). The mattresses are a little old, but the bunk-bed frames are sturdy and comfortable. The kitchen was great to use: plenty of pots, pans, silverware, and plates, with very friendly travelers sharing stories and meals :) Plenty of room to store your groceries and a nice clean fridge. There's also a wonderful sauna w/ provided towels, and a friendly host who will teach you how to properly use it (see tips below).
 
 #### Sauna
 - Pouring hot water over the rocks increases the heat. (Dump w/ a quick motion to avoid being scalded by the steam).
@@ -27,14 +37,30 @@ This hostel was great. The location is excellent: a ~15-minute walk from the 91 
 - Don't bring your own towel or any of your own textiles into the sauna (you may accidentally bring in lots of bacteria this way).
 - Bring in one provided towel to sit on (to prevent the spread of bacteria).
 
-#### Grocery store
-We found a lot of conflicting information online about the availability of food in Abisko Östra. There is a great grocery store there, about a 10-minute walk down the hill from the Abisko.net hostel. Lots of fresh veggies, fresh fruit, milk, meat, cereal, bread, and TONS of candy. The extensive candy collection is because Norway has a high tax on sugar, so a lot of Norwegians make the drive to Abisko to purchase cheap candy and soda. 
+#### Grocery store + other food
+We found a lot of conflicting information online about the availability of food in Abisko Östra. There is a great grocery store there, about a 10-minute walk down the hill from the Abisko.net hostel. Lots of fresh veggies, fresh fruit, milk, meat, cereal, bread, and TONS of candy. The extensive candy collection is because Norway has a high tax on sugar, so a lot of Norwegians make the drive to Abisko to purchase cheap candy and soda. There's also a little food-trailer that sold reindeer in various forms as well as Mooseburgers. It was only ok, and tough to eat since it was too cold to stand there while chewing.
+
+<div class="blog-container">
+<img alt="Abisko grocery store" class="blog-img" src="/src/img/sweden/abisko-grocery-store.jpg">
+<img alt="Abisko grocery store veggies and fruit" class="blog-img" src="/src/img/sweden/abisko-grocery-veggies.jpg">
+<img alt="Abisko food trailer" class="blog-img" src="/src/img/sweden/abisko-food-trailer.jpg">
+</div>
+
 #### Lake
+### Abiskojaure STF Fjällstation
 #### Dogsledding
 We did the <a href="http://www.abisko.net/dogsled/">2-hour dogsledding trip provided by abisko.net</a> and it was phenomenal. 1600SEK/person. You help load the dogs onto the sleds, and they take you along a beautiful path with an incredible view of the mountains. You get to spend a lot of time cuddling with the dogs, and a lot of time riding the sledges. They stop twice, so if you want to swap who is sitting in front you have two chances. The stops are in areas that are fairly photogenic (what in Abisko isn't?) but not the absolute best views. (I went out later on my own to get more pictures the next day).
+
+<div class="blog-container">
+<img alt="Abisko dog-sled doggie" class="blog-img" src="/src/img/sweden/abisko-dog-sled-dog.jpg">
+<img alt="Abisko dogsled dog smooches" class="blog-img" src="/src/img/sweden/abisko-dogsled-smooches.jpg">
+<img alt="Abisko dogsled dogs Abisko and Abba" class="blog-img" src="/src/img/sweden/abisko-dog-sled-abisko-abba.jpg">
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y_DkOPnNEXM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 #### vs Abisko Turiststation
 We didn't spend much time in TuristStation, so take this with a grain of salt, but it felt much "fancier" and more organized than Östra (hence, we preferred Östra). There also didn't seem to be a grocery store (though the restaurant at the STF hostel was better and more affordable than the restaurants we found in Östra). Access to the lake was better in Östra - in TuristStation it was down a much longer steeper hil. Access to the train station was equally good in both.
-### Abiskojaure STF Fjällstation
 
 ### TRAVEL
 
