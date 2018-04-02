@@ -5,7 +5,7 @@ description: A week-long trip in Northern Sweden to catch the Northern Lights, i
 image: /src/img/tent-rocks/valley-view.JPG
 ---
 
-### Overview
+### OVERVIEW
 
 Date: March 22nd-March 28th, 2018
 
@@ -36,7 +36,7 @@ We did the <a href="http://www.abisko.net/dogsled/">2-hour dogsledding trip prov
 We didn't spend much time in TuristStation, so take this with a grain of salt, but it felt much "fancier" and more organized than Östra (hence, we preferred Östra). There also didn't seem to be a grocery store (though the restaurant at the STF hostel was better and more affordable than the restaurants we found in Östra). Access to the lake was better in Östra - in TuristStation it was down a much longer steeper hil. Access to the train station was equally good in both.
 ### Abiskojaure STF Fjällstation
 
-## Travel
+### TRAVEL
 
 ### To and from Arlanda airport
 
