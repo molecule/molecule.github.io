@@ -108,7 +108,7 @@ projects:
     -
         title: GitHub
         link: https://github.com/molecule
-        imag: /src/img/github.png
+        imag: /src/img/logo-github.png
         tags: []
         desc: fresh open-source repos of code
 
