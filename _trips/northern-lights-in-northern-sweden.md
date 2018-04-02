@@ -59,12 +59,32 @@ We did the <a href="http://www.abisko.net/dogsled/">2-hour dogsledding trip prov
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_DkOPnNEXM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+#### Northern Lights
+We got extraordinarily lucky and saw the Northern Lights 3 nights while we were up in Abisko. The area is known for good weather: it's one of the driest parts of Sweden, and the lake creates a little microclimate that keeps the sky clear. We had nearly perfect weather while we were up there, and even got pictures of the Northern Lights on an iPhone! 
+
+<div class="blog-container">
+<img alt="Abisko Northern Lights" class="blog-img" src="/src/img/sweden/abisko-northern-lights.jpg">
+<img alt="Abisko Northern Lights with our hostel in the foreground" class="blog-img" src="/src/img/sweden/abisko-northern-lights-context.jpg">
+<img alt="Abisko Northern Lights usually look much more dim to the human eye" class="blog-img" src="/src/img/sweden/abisko-northern-lights-human-eye.jpg">
+</div>
+
+Some tips about the Northern Lights:
+- They don't stick around for very long, so if someone says they see them: run!
+- There are various "Aurora Forecast" apps but they didn't seem particularly reliable. The best night we saw had a KP rating of 2.33, the third night had a rating of 2.37 and one morning around 3am had a rating of 4.33 but we saw absolutely nothing.
+- At the abisko.net hostel, the fastest way to a dark place is to walk to the hill behind the area, towards the dog kennels. Really nice view of the lake and pretty far from the lights by the highway. Walking out on the lake was also excellent but took much longer to get there.
+- The best time according to a local is between 11-1am when it's dark enough. 
+- When planning your trip, pay attention to the moon cycles for when you'll be there: the darker the better. 
+
 #### vs Abisko Turiststation
-We didn't spend much time in TuristStation, so take this with a grain of salt, but it felt much "fancier" and more organized than Östra (hence, we preferred Östra). There also didn't seem to be a grocery store (though the restaurant at the STF hostel was better and more affordable than the restaurants we found in Östra). Access to the lake was better in Östra - in TuristStation it was down a much longer steeper hil. Access to the train station was equally good in both.
+We didn't spend much time in TuristStation, so take this with a grain of salt, but it felt much "fancier" and more organized than Östra (hence, we preferred Östra). There also didn't seem to be a grocery store (though the restaurant at the STF hostel was better and more affordable than the restaurants we found in Östra). Access to the lake was better in Östra - in TuristStation it was down a much longer steeper hill. Access to the train station was equally good in both.
 
 ### TRAVEL
 
 ### To and from Arlanda airport
+- Stop at the information center just after baggage claim to get a map of the metro system, and purchase the Stockholm Access card (gets you onto every train/bus/etc in Stockholm for 24 hrs - 1 week). We bought the week pass for 325SEK and it was wonderful.
+- The cheapest way to get anywhere in Stockholm city proper, you catch the 583 bus to the Märsta station, where you transfer to the Pendeltåg (commuter train). That'll connect you to the main metro at Odenplan or take you all the way to Stockholm Central Station.
+- To get back to the airport, the Pendeltåg (commuter train) goes there directly, but you have to pay a 128SEK "convenience fee". But there is a cheaper way: take the Pendeltåg to Märsta and then catch the 583 bus from there. There's no convenience fee, and it's completely free w/ the Stockhkolm Access card mentioned above.
+- The 583 bus leaves every 15 minutes in both directions.
 
 ### From Kiruna Airport
 As of this writing, there is only one bus from Kiruna airport to Abisko. It is the 91, and it departs Kiruna Airport at 2:15pm daily (the airport is the end of the line, and the first stop). Tickets from Kiruna Airport to Abisko Östra are 200SEK/person (payable by credit card). The first stop after the airport is the Kiruna Bus Station, which is where you may be able to transfer to the SJ train to Abisko but we did not do this. You can also take a taxi all the way to Abisko for ~1800SEK. Buying a ticket in advance is no guarantee that you will get on the bus - it's first-come-first-serve. In March, there were a total of 8 people on the bus, so it wasn't a problem (but you may want to wait outside in the line if you arrive in summer). (If the bus had been full, our back-up plan was to take a 15-minute taxi ride to the Kiruna Bus Station and catch the SJ train to Abisko, but I'm not 100% certain it would have worked since we didn't purchase a ticket in advance). There is room in the bottom of the bus to store your luggage, and a bathroom onboard.
@@ -84,4 +104,4 @@ The overnight train from Abisko to Stockholm is run by a company called "SJ".
 - The dining car has pre-made sandwiches, milk, pastries, and other "train food". 
 
 ### Other notes
-Google incorrectly labels Abisko and Abisko Östra. If you search on Google, go by the train station locations (which are correct), not the labels on the map.
+- Google incorrectly labels Abisko and Abisko Östra. If you search on Google, go by the train station locations (which are correct), not the labels on the map.
