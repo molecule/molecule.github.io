@@ -47,7 +47,93 @@ We found a lot of conflicting information online about the availability of food 
 </div>
 
 #### Lake
+
 ### Abiskojaure STF Fjällstation
+8 miles / 14km from Abisko Östra, this was hands down my favourite part of our trip. The Kungsleden is almost completely flat for this section, with a few fairly gentle hills. We took a friend on her first ever cross-country ski trip and it was tough but doable for her. I can't say enough wonderful things about this place, it was an absolute joy. We had trouble with our credit card here for the first (and last) time the whole trip, but the patient and dedicated women who worked there found a solution. The sauna is phenomenal, and the chores you have to do (chopping wood or refilling water from the lake) are fun and satisfying. There's a large store with plenty of food options for reasonable prices there. We bought pasta and canned Swedish meatballs.
+
+When you ski up, someone pops their head out of the first hut and invites you in. The first thing they do is give you a cup of hot non-alcoholic cider. By this point we were all pretty exhausted, so drinking something hot and flavorful was absolutely perfect. Then you get a tour where they tell you about the chores, you buy and cook dinner, partake of the sauna (see below for sauna tips) and I'm not sure what happens after that because I fell asleep :)
+
+<!-- jQuery -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+
+  <!-- FlexSlider -->
+  <script defer src="/src/woocommerce-FlexSlider-91e323d/jquery.flexslider.js"></script>
+  
+
+<script>
+    $(window).load(function() {
+  // The slider being synced must be initialized first
+  $('#carousel').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: false,
+    slideshow: false,
+    itemWidth: 210,
+    itemMargin: 5,
+    asNavFor: '#slider'
+  });
+ 
+  $('#slider').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: false,
+    slideshow: false,
+    sync: "#carousel"
+  });
+});
+</script>
+
+<!-- Place somewhere in the <body> of your page -->
+<div id="slider" class="flexslider">
+  <ul class="slides">
+    <li>
+      <img src="/src/img/sweden/abiskojaure-sunny-centered.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-close.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-view.jpg" />
+    </li>
+    <!-- items mirrored twice, total of 12 -->
+  </ul>
+</div>
+<div id="carousel" class="flexslider">
+  <ul class="slides">
+     <li>
+      <img src="/src/img/sweden/abiskojaure-sunny-centered.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-close.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-view.jpg" />
+    </li>
+    <!-- items mirrored twice, total of 12 -->
+  </ul>
+</div>
+
+<div class="blog-container">
+<img alt="Abiskojaure huts" class="blog-img" src="/src/img/sweden/abiskojaure-sunny-centered.jpg">
+<img alt="Abiskojaure welcome hut" class="blog-img" src="/src/img/sweden/abiskojaure-close.jpg">
+<img alt="Abiskojaure welcome hut" class="blog-img" src="/src/img/sweden/abiskojaure-hut-view.jpg">
+</div>
+
+<div class="blog-container">
+<img alt="Abiskojaure hut bunk beds" class="blog-img" src="/src/img/sweden/abiskojaure-hut-beds.jpg">
+<img alt="Abisko night cooking" class="blog-img" src="/src/img/sweden/abiskojaure-hut-night-time.jpg">
+<img alt="Abiskojaure hut sauna" class="blog-img" src="/src/img/sweden/abiskojaure-sauna-inside.jpg">
+</div>
+
+<div class="blog-container">
+<img alt="Abiskojaure hut kitchen" class="blog-img" src="/src/img/sweden/abiskojaure-hut-stove.jpg">
+<img alt="Abisko night lake water chore" class="blog-img" src="/src/img/sweden/abiskojaure-water-sunny.jpg">
+<img alt="Abiskojaure hut water buckets" class="blog-img" src="/src/img/sweden/abiskojaure-hut-water.jpg">
+</div>
+
+This was truly a highlight of an amazing trip, and I'd encourage anyone with even a single outdoorsy bone in their body to do it!
+
 #### Dogsledding
 We did the <a href="http://www.abisko.net/dogsled/">2-hour dogsledding trip provided by abisko.net</a> and it was phenomenal. 1600SEK/person. You help load the dogs onto the sleds, and they take you along a beautiful path with an incredible view of the mountains. You get to spend a lot of time cuddling with the dogs, and a lot of time riding the sledges. They stop twice, so if you want to swap who is sitting in front you have two chances. The stops are in areas that are fairly photogenic (what in Abisko isn't?) but not the absolute best views. (I went out later on my own to get more pictures the next day).
 
@@ -70,7 +156,7 @@ We got extraordinarily lucky and saw the Northern Lights 3 nights while we were 
 
 Some tips about the Northern Lights:
 - They don't stick around for very long, so if someone says they see them: run!
-- There are various "Aurora Forecast" apps but they didn't seem particularly reliable. The best night we saw had a KP rating of 2.33, the third night had a rating of 2.37 and one morning around 3am had a rating of 4.33 but we saw absolutely nothing.
+- There are various "Aurora Forecast" apps but they didn't seem particularly reliable. The first night we saw them fill the entire sky had a KP rating of 2.33, the third night we saw the brightest had a rating of 2.37, and one morning around 3am had a rating of 4.33 but we saw absolutely nothing.
 - At the abisko.net hostel, the fastest way to a dark place is to walk to the hill behind the area, towards the dog kennels. Really nice view of the lake and pretty far from the lights by the highway. Walking out on the lake was also excellent but took much longer to get there.
 - The best time according to a local is between 11-1am when it's dark enough. 
 - When planning your trip, pay attention to the moon cycles for when you'll be there: the darker the better. 
