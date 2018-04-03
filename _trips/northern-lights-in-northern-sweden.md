@@ -98,6 +98,24 @@ When you ski up, someone pops their head out of the first hut and invites you in
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-view.jpg" />
     </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-beds.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-night-time.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-sauna-inside.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-stove.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-water-sunny.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-water.jpg" />
+    </li>
     <!-- items mirrored twice, total of 12 -->
   </ul>
 </div>
@@ -112,26 +130,26 @@ When you ski up, someone pops their head out of the first hut and invites you in
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-view.jpg" />
     </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-beds.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-night-time.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-sauna-inside.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-stove.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-water-sunny.jpg" />
+    </li>
+    <li>
+      <img src="/src/img/sweden/abiskojaure-hut-water.jpg" />
+    </li>
     <!-- items mirrored twice, total of 12 -->
   </ul>
-</div>
-
-<div class="blog-container">
-<img alt="Abiskojaure huts" class="blog-img" src="/src/img/sweden/abiskojaure-sunny-centered.jpg">
-<img alt="Abiskojaure welcome hut" class="blog-img" src="/src/img/sweden/abiskojaure-close.jpg">
-<img alt="Abiskojaure welcome hut" class="blog-img" src="/src/img/sweden/abiskojaure-hut-view.jpg">
-</div>
-
-<div class="blog-container">
-<img alt="Abiskojaure hut bunk beds" class="blog-img" src="/src/img/sweden/abiskojaure-hut-beds.jpg">
-<img alt="Abisko night cooking" class="blog-img" src="/src/img/sweden/abiskojaure-hut-night-time.jpg">
-<img alt="Abiskojaure hut sauna" class="blog-img" src="/src/img/sweden/abiskojaure-sauna-inside.jpg">
-</div>
-
-<div class="blog-container">
-<img alt="Abiskojaure hut kitchen" class="blog-img" src="/src/img/sweden/abiskojaure-hut-stove.jpg">
-<img alt="Abisko night lake water chore" class="blog-img" src="/src/img/sweden/abiskojaure-water-sunny.jpg">
-<img alt="Abiskojaure hut water buckets" class="blog-img" src="/src/img/sweden/abiskojaure-hut-water.jpg">
 </div>
 
 This was truly a highlight of an amazing trip, and I'd encourage anyone with even a single outdoorsy bone in their body to do it!
@@ -190,6 +208,8 @@ The overnight train from Abisko to Stockholm is run by a company called "SJ".
 - The seats in the sitting cars don't really recline, but you can often spread out a bit and lay across several seats.
 - There is not really a viewing car.
 - The dining car has pre-made sandwiches, milk, pastries, and other "train food". 
+
+### Clothing
 
 ### Other notes
 - Google incorrectly labels Abisko and Abisko Östra. If you search on Google, go by the train station locations (which are correct), not the labels on the map.
