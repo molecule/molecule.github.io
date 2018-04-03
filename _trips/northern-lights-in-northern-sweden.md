@@ -51,46 +51,14 @@ We found a lot of conflicting information online about the availability of food 
 ### Abiskojaure STF Fjällstation
 8 miles / 14km from Abisko Östra, this was hands down my favourite part of our trip. The Kungsleden is almost completely flat for this section, with a few fairly gentle hills. We took a friend on her first ever cross-country ski trip and it was tough but doable for her. I can't say enough wonderful things about this place, it was an absolute joy. We had trouble with our credit card here for the first (and last) time the whole trip, but the patient and dedicated women who worked there found a solution. The sauna is phenomenal, and the chores you have to do (chopping wood or refilling water from the lake) are fun and satisfying. There's a large store with plenty of food options for reasonable prices there. We bought pasta and canned Swedish meatballs.
 
-When you ski up, someone pops their head out of the first hut and invites you in. The first thing they do is give you a cup of hot non-alcoholic cider. By this point we were all pretty exhausted, so drinking something hot and flavorful was absolutely perfect. Then you get a tour where they tell you about the chores, you buy and cook dinner, partake of the sauna (see below for sauna tips) and I'm not sure what happens after that because I fell asleep :)
-
-<!-- jQuery -->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
-
-  <!-- FlexSlider -->
-  <script defer src="/src/js/jquery.flexslider.js"></script>
-  <link rel="stylesheet" href="/src/css/flexslider.css" type="text/css" media="screen" />
-
-  
-
-<script>
-    $(window).load(function() {
-  // The slider being synced must be initialized first
-  $('#carousel').flexslider({
-    animation: "slide",
-    controlNav: false,
-    animationLoop: false,
-    slideshow: false,
-    itemWidth: 210,
-    itemMargin: 5,
-    asNavFor: '#slider'
-  });
- 
-  $('#slider').flexslider({
-    animation: "slide",
-    controlNav: false,
-    animationLoop: false,
-    slideshow: false,
-    sync: "#carousel"
-  });
-});
-</script>
+When you ski up, someone pops their head out of the first hut and invites you in. The first thing they do is give you a cup of hot non-alcoholic cider. By this point we were all pretty exhausted, so drinking something hot and flavorful was absolutely perfect. Then you get a tour where they tell you about the chores, you buy and cook dinner, partake of the sauna (see below for sauna tips) and then wait for the Northern Lights.
 
 <!-- Place somewhere in the <body> of your page -->
 <div id="slider" class="flexslider">
-  <ul class="slides">
+  <ul class="slides" id="slider">
     <li>
       <img src="/src/img/sweden/abiskojaure-sunny-centered.jpg" />
+      <div class="desc">View of the huts at Abiskojaure from the lake. Home sweet home!</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-close.jpg" />
@@ -100,21 +68,27 @@ When you ski up, someone pops their head out of the first hut and invites you in
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-beds.jpg" />
+      <div class="desc">Bunk beds inside the hut - close quarters! The rule at the hut is "make room": so even if it's full, you'll be given a spot on the floor.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-night-time.jpg" />
+      <div class="desc">There's no power at the huts. The kitchen stove is gas-powered, and it's a good idea to bring a headlamp for cooking.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-sauna-inside.jpg" />
+      <div class="desc">5-6pm for women, 6-7pm for men, and 7-8pm for co-ed.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-stove.jpg" />
+      <div class="desc">Closeup of the gas-powered stove and kitchen counter area. No sink, so you do dishes in a bucket on the counter, then dump your water at the "slask".</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-water-sunny.jpg" />
+      <div class="desc">The water chore involves chopping a hole in the ice with the enormous pick, and scooping water from the lake into a big plastic bucket. The water does not need to be purified before using it for cooking or drinking.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-water.jpg" />
+      <div class="desc">Buckets of fresh lake water in the kitchen. Used for drinking, cooking, and washing dishes. Apparently national parks in Sweden are so well protected that there are no farms near these water sources to contaminate them, so the water is safe (and delicious!)</div>
     </li>
     <!-- items mirrored twice, total of 12 -->
   </ul>
@@ -156,6 +130,23 @@ This was truly a highlight of an amazing trip, and I'd encourage anyone with eve
 
 #### Dogsledding
 We did the <a href="http://www.abisko.net/dogsled/">2-hour dogsledding trip provided by abisko.net</a> and it was phenomenal. 1600SEK/person. You help load the dogs onto the sleds, and they take you along a beautiful path with an incredible view of the mountains. You get to spend a lot of time cuddling with the dogs, and a lot of time riding the sledges. They stop twice, so if you want to swap who is sitting in front you have two chances. The stops are in areas that are fairly photogenic (what in Abisko isn't?) but not the absolute best views. (I went out later on my own to get more pictures the next day).
+
+<!-- Place somewhere in the <body> of your page -->
+<div id="dogsled-slider" class="flexslider">
+  <ul class="slides" id="dogsled-slider">
+    <li>
+      <img src="/src/img/sweden/abisko-dog-sled-dog.jpg" />
+      <div class="desc">Sweet loving dog-sledding husky dog.</div>
+    </li>
+</ul>
+</div>
+<div id="dogsled-carousel" class="flexslider">
+  <ul class="slides">
+     <li>
+      <img src="/src/img/sweden/abisko-dog-sled-dog.jpg" />
+    </li>
+</ul>
+</div>
 
 <div class="blog-container">
 <img alt="Abisko dog-sled doggie" class="blog-img" src="/src/img/sweden/abisko-dog-sled-dog.jpg">
@@ -213,3 +204,58 @@ The overnight train from Abisko to Stockholm is run by a company called "SJ".
 
 ### Other notes
 - Google incorrectly labels Abisko and Abisko Östra. If you search on Google, go by the train station locations (which are correct), not the labels on the map.
+
+
+<!-- jQuery -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+
+  <!-- FlexSlider -->
+  <script defer src="/src/js/jquery.flexslider.js"></script>
+  <link rel="stylesheet" href="/src/css/flexslider.css" type="text/css" media="screen" />
+
+  
+
+<script>
+    $(window).load(function() {
+  // The slider being synced must be initialized first
+  $('#carousel').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: false,
+    slideshow: false,
+    itemWidth: 210,
+    itemMargin: 5,
+    asNavFor: '#slider'
+  });
+ 
+  $('#slider').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: false,
+    slideshow: false,
+    sync: "#carousel"
+  });
+});
+
+$(window).load(function() {
+  // The slider being synced must be initialized first
+  $('#dogsled-carousel').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: false,
+    slideshow: false,
+    itemWidth: 210,
+    itemMargin: 5,
+    asNavFor: '#dogsled-slider'
+  });
+ 
+  $('#dogsled-slider').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: false,
+    slideshow: false,
+    sync: "#dogsled-carousel"
+  });
+});
+</script>
