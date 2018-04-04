@@ -11,7 +11,7 @@ layout: default
 
 | <img src="/src/img/logo-sigchi.jpg" alt="AlterWear" style="width: 400px;"/> | [AlterWear: Battery-Free Wearable Displaysfor Opportunistic Interactions.][chi18cp]  Christine Dierk, __Molly Jane Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems  ([CHI'18][chi18-site])|
 
-| <img src="/src/img/hairio-thumbnail.jpg" alt="HairIO" style="width: 400px;"/> | [Häiriö: Human Hair as an Interactive Material.][tei18cp]  Christine Dierk, Sarah Sterman, __Molly Jane Nicholas__, Eric Paulos. ACM Conference on Tangible, Embedded, and Embodied Interaction ([TEI'18][tei18-site]) - [Video][tei18-video] - [Instructable][hairio-instructable] - [Project page][hairio-proj]|
+| <img src="/src/img/hairio-thumbnail.JPG" alt="HairIO" style="width: 400px;"/> | [Häiriö: Human Hair as an Interactive Material.][tei18cp]  Christine Dierk, Sarah Sterman, __Molly Jane Nicholas__, Eric Paulos. ACM Conference on Tangible, Embedded, and Embodied Interaction ([TEI'18][tei18-site]) - [Video][tei18-video] - [Instructable][hairio-instructable] - [Project page][hairio-proj]|
 
 | <img src="/src/img/ia-thumbnail.jpg" alt="Illumination Aesthetics" style="width: 400px;"/> | [Illumination Aesthetics: Light as a Creative Material within Computational Design.][chi17cp]  César Torres, Jasper O’Leary, __Molly Jane Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems ([CHI'17][chi17-site]) - [Teaser Video][chi17teaser] - [Full Video][chi17video] - [Project page][ia-proj]|
 
