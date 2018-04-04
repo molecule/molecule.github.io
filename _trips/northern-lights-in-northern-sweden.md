@@ -5,6 +5,14 @@ description: A week-long trip in Northern Sweden to catch the Northern Lights, i
 image: /src/img/tent-rocks/valley-view.JPG
 ---
 
+### NOTES
+https://www.w3schools.com/css/css_image_gallery.asp
+https://jekylltools.github.io/jekyll-ideal-image-slider-include/examples/
+http://davidollerhead.com/blog/2013/08/06/lets-build-a-carousel.html
+https://github.com/woocommerce/FlexSlider/blob/master/demo/thumbnail-controlnav.html
+http://flexslider.woothemes.com/thumbnail-controlnav.html
+
+
 <img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-sunrise.jpg">
 
 ### OVERVIEW
@@ -18,6 +26,8 @@ Map:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1n9uf3IHJZPRAufY0v1aB06LzTYiHGKPo" width="640" height="480"></iframe>
 
 ### Abisko Östra
+<img alt="The Gateway of Lapland" style="border: 1px solid #000" src="/src/img/sweden/abisko-lapporten.jpg">
+
 #### Abisko.net Hostel
 The <a href="http://www.abisko.net/accomodation/">abisko.net Winterday hostel</a> was great. The location is excellent: a ~15-minute walk from the 91 bus stop, a ~10-minute walk from the Abisko Östra train station, and a ~12-minute walk from the grocery store. We rented cross-country skis, boots, poles, and ski goggles for a flat rate of 175SEK/person for almost our entire visit. 
 
@@ -58,17 +68,19 @@ When you ski up, someone pops their head out of the first hut and invites you in
   <ul class="slides" id="slider">
     <li>
       <img src="/src/img/sweden/abiskojaure-sunny-centered.jpg" />
-      <div class="desc">View of the huts at Abiskojaure from the lake. Home sweet home!</div>
+      <div class="desc">View of the huts at Abiskojaure from the lake. Home sweet home! The hot cider the camp hosts gave us after the 8-mile ski was one of the most wonderful beverage experiences of my life.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-close.jpg" />
+      <div class="desc">A view of the welcome hut with the beautiful Swedish hills in the background.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-view.jpg" />
+      <div class="desc">Sunrise over the Abiskojaure welcome hut.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-beds.jpg" />
-      <div class="desc">Bunk beds inside the hut - close quarters! The rule at the hut is "make room": so even if it's full, you'll be given a spot on the floor.</div>
+      <div class="desc">Bunk beds inside the hut - close quarters! The rule at the hut is "make room": so even if it's full, you'll be given a spot on the floor. In winter the door is also left unlocked so you'll always have a safe dry warm place to stay the night.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-night-time.jpg" />
@@ -76,7 +88,7 @@ When you ski up, someone pops their head out of the first hut and invites you in
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-sauna-inside.jpg" />
-      <div class="desc">5-6pm for women, 6-7pm for men, and 7-8pm for co-ed.</div>
+      <div class="desc">5-6pm for women, 6-7pm for men, and 7-8pm for co-ed. See the "sauna" section for more info about using the Swedish saunas.</div>
     </li>
     <li>
       <img src="/src/img/sweden/abiskojaure-hut-stove.jpg" />
@@ -131,23 +143,6 @@ This was truly a highlight of an amazing trip, and I'd encourage anyone with eve
 #### Dogsledding
 We did the <a href="http://www.abisko.net/dogsled/">2-hour dogsledding trip provided by abisko.net</a> and it was phenomenal. 1600SEK/person. You help load the dogs onto the sleds, and they take you along a beautiful path with an incredible view of the mountains. You get to spend a lot of time cuddling with the dogs, and a lot of time riding the sledges. They stop twice, so if you want to swap who is sitting in front you have two chances. The stops are in areas that are fairly photogenic (what in Abisko isn't?) but not the absolute best views. (I went out later on my own to get more pictures the next day).
 
-<!-- Place somewhere in the <body> of your page -->
-<div id="dogsled-slider" class="flexslider">
-  <ul class="slides" id="dogsled-slider">
-    <li>
-      <img src="/src/img/sweden/abisko-dog-sled-dog.jpg" />
-      <div class="desc">Sweet loving dog-sledding husky dog.</div>
-    </li>
-</ul>
-</div>
-<div id="dogsled-carousel" class="flexslider">
-  <ul class="slides">
-     <li>
-      <img src="/src/img/sweden/abisko-dog-sled-dog.jpg" />
-    </li>
-</ul>
-</div>
-
 <div class="blog-container">
 <img alt="Abisko dog-sled doggie" class="blog-img" src="/src/img/sweden/abisko-dog-sled-dog.jpg">
 <img alt="Abisko dogsled dog smooches" class="blog-img" src="/src/img/sweden/abisko-dogsled-smooches.jpg">
@@ -157,7 +152,7 @@ We did the <a href="http://www.abisko.net/dogsled/">2-hour dogsledding trip prov
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_DkOPnNEXM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Northern Lights
-We got extraordinarily lucky and saw the Northern Lights 3 nights while we were up in Abisko. The area is known for good weather: it's one of the driest parts of Sweden, and the lake creates a little microclimate that keeps the sky clear. We had nearly perfect weather while we were up there, and even got pictures of the Northern Lights on an iPhone! 
+We got extraordinarily lucky and saw the Northern Lights 3 nights while we were up in Abisko. The area is known for good weather: it's one of the driest parts of Sweden, and the lake creates a little microclimate that keeps the sky clear. We had nearly perfect weather while we were up there, and even got pictures of the Northern Lights on an iPhone! We used an app called "Nightcap" on Star settings, with no other changes and got the images you see below.
 
 <div class="blog-container">
 <img alt="Abisko Northern Lights" class="blog-img" src="/src/img/sweden/abisko-northern-lights.jpg">
@@ -201,6 +196,28 @@ The overnight train from Abisko to Stockholm is run by a company called "SJ".
 - The dining car has pre-made sandwiches, milk, pastries, and other "train food". 
 
 ### Clothing
+Being from Colorado, I'm relatively experienced with cold weather. Having said that, this was by far the coldest weather I've ever been in, especially while camping. Here's what I wore on a daily basis while in Sweden:
+
+On bottom:
+- Silk long underwear (REI)
+- Synthetic long underwear (REI)
+- Wool long underwear (inherited from my Dad)
+- Mammut windproof and water-resistant pants (REI)
+- Synthetic ski socks (REI)
+
+On top:
+- Wool long underwear (Smartwool from REI)
+- Cashmere vest (gift from my Mother)
+- Cashmere sweater (Goodwill find)
+- Fleece vest, worn around butt and lower back (made by my Mother)
+- Silk scarf 
+- Down jacket (REI)
+- Windproof rain jacket (REI)
+- Fleece balaclava (Amazon)
+- Windproof and water resistant hat (REI)
+- Sheepskin gloves (Custom made for me in Breckenridge)
+
+While cross-country skiing, I usually took off the puffy down jacket and opened the vents on my windproof pants to avoid sweating too much (if you sweat when it's super cold out, you can get chilled and it's quite uncomfortable). The most important thing was ski goggles to protect my eyes against the bright sun (and snow-reflected sun) and also to protect most of my face against the wid.
 
 ### Other notes
 - Google incorrectly labels Abisko and Abisko Östra. If you search on Google, go by the train station locations (which are correct), not the labels on the map.
