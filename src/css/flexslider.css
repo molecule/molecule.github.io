@@ -136,6 +136,7 @@ html[xmlns] .flexslider .slides {
   display: inline-block;
   content: '\f001';
   color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(204, 201, 201, 0.61);
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
 }
 .flex-direction-nav a.flex-next:before {
