@@ -12,6 +12,11 @@ http://davidollerhead.com/blog/2013/08/06/lets-build-a-carousel.html
 https://github.com/woocommerce/FlexSlider/blob/master/demo/thumbnail-controlnav.html
 http://flexslider.woothemes.com/thumbnail-controlnav.html
 
+### Gallery:
+
+{% includeGallery Sweden2018 %}
+
+### Header:
 
 <img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-sunrise.jpg">
 
