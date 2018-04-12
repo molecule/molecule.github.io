@@ -1,22 +1,11 @@
 ---
 layout: post
-date: 2018-03-23
-description: A week-long trip in Northern Sweden to catch the Northern Lights, including an 8-mile cross-country ski trip to an isolated mountain hut, then a train-ride back to Stockholm. 
-image: /src/img/tent-rocks/valley-view.JPG
+share: true
+comments: true
+tags: [Travel, Sweden]
+image:
+  thumbnail: /src/img/image-coming-soon.png
 ---
-
-### NOTES
-https://www.w3schools.com/css/css_image_gallery.asp
-https://jekylltools.github.io/jekyll-ideal-image-slider-include/examples/
-http://davidollerhead.com/blog/2013/08/06/lets-build-a-carousel.html
-https://github.com/woocommerce/FlexSlider/blob/master/demo/thumbnail-controlnav.html
-http://flexslider.woothemes.com/thumbnail-controlnav.html
-
-### Gallery:
-
-{% includeGallery Sweden2018 %}
-
-### Header:
 
 <img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-sunrise.jpg">
 
@@ -29,6 +18,7 @@ Locations: Abisko Östra, Abiskojaure Stugorna, Abisko Turiststation, Overnight 
 Map: 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1n9uf3IHJZPRAufY0v1aB06LzTYiHGKPo" width="640" height="480"></iframe>
+Note that Google incorrectly labels Abisko and Abisko Östra. If you search on Google, go by the train station locations (which are correct), not the labels on the map.
 
 ### Abisko Östra
 <img alt="The Gateway of Lapland" style="border: 1px solid #000" src="/src/img/sweden/abisko-lapporten.jpg">
@@ -61,87 +51,12 @@ We found a lot of conflicting information online about the availability of food 
 <img alt="Abisko food trailer" class="blog-img" src="/src/img/sweden/abisko-food-trailer.jpg">
 </div>
 
-#### Lake
-
 ### Abiskojaure STF Fjällstation
 8 miles / 14km from Abisko Östra, this was hands down my favourite part of our trip. The Kungsleden is almost completely flat for this section, with a few fairly gentle hills. We took a friend on her first ever cross-country ski trip and it was tough but doable for her. I can't say enough wonderful things about this place, it was an absolute joy. We had trouble with our credit card here for the first (and last) time the whole trip, but the patient and dedicated women who worked there found a solution. The sauna is phenomenal, and the chores you have to do (chopping wood or refilling water from the lake) are fun and satisfying. There's a large store with plenty of food options for reasonable prices there. We bought pasta and canned Swedish meatballs.
 
 When you ski up, someone pops their head out of the first hut and invites you in. The first thing they do is give you a cup of hot non-alcoholic cider. By this point we were all pretty exhausted, so drinking something hot and flavorful was absolutely perfect. Then you get a tour where they tell you about the chores, you buy and cook dinner, partake of the sauna (see below for sauna tips) and then wait for the Northern Lights.
 
-<!-- Place somewhere in the <body> of your page -->
-<div id="slider" class="flexslider">
-  <ul class="slides" id="slider">
-    <li>
-      <img src="/src/img/sweden/abiskojaure-sunny-centered.jpg" />
-      <div class="desc">View of the huts at Abiskojaure from the lake. Home sweet home! The hot cider the camp hosts gave us after the 8-mile ski was one of the most wonderful beverage experiences of my life.</div>
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-close.jpg" />
-      <div class="desc">A view of the welcome hut with the beautiful Swedish hills in the background.</div>
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-view.jpg" />
-      <div class="desc">Sunrise over the Abiskojaure welcome hut.</div>
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-beds.jpg" />
-      <div class="desc">Bunk beds inside the hut - close quarters! The rule at the hut is "make room": so even if it's full, you'll be given a spot on the floor. In winter the door is also left unlocked so you'll always have a safe dry warm place to stay the night.</div>
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-night-time.jpg" />
-      <div class="desc">There's no power at the huts. The kitchen stove is gas-powered, and it's a good idea to bring a headlamp for cooking.</div>
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-sauna-inside.jpg" />
-      <div class="desc">5-6pm for women, 6-7pm for men, and 7-8pm for co-ed. See the "sauna" section for more info about using the Swedish saunas.</div>
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-stove.jpg" />
-      <div class="desc">Closeup of the gas-powered stove and kitchen counter area. No sink, so you do dishes in a bucket on the counter, then dump your water at the "slask".</div>
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-water-sunny.jpg" />
-      <div class="desc">The water chore involves chopping a hole in the ice with the enormous pick, and scooping water from the lake into a big plastic bucket. The water does not need to be purified before using it for cooking or drinking.</div>
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-water.jpg" />
-      <div class="desc">Buckets of fresh lake water in the kitchen. Used for drinking, cooking, and washing dishes. Apparently national parks in Sweden are so well protected that there are no farms near these water sources to contaminate them, so the water is safe (and delicious!)</div>
-    </li>
-    <!-- items mirrored twice, total of 12 -->
-  </ul>
-</div>
-<div id="carousel" class="flexslider">
-  <ul class="slides">
-     <li>
-      <img src="/src/img/sweden/abiskojaure-sunny-centered.jpg" />
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-close.jpg" />
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-view.jpg" />
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-beds.jpg" />
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-night-time.jpg" />
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-sauna-inside.jpg" />
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-stove.jpg" />
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-water-sunny.jpg" />
-    </li>
-    <li>
-      <img src="/src/img/sweden/abiskojaure-hut-water.jpg" />
-    </li>
-    <!-- items mirrored twice, total of 12 -->
-  </ul>
-</div>
+<img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-view.jpg">
 
 This was truly a highlight of an amazing trip, and I'd encourage anyone with even a single outdoorsy bone in their body to do it!
 
@@ -222,62 +137,8 @@ On top:
 - Windproof and water resistant hat (REI)
 - Sheepskin gloves (Custom made for me in Breckenridge)
 
-While cross-country skiing, I usually took off the puffy down jacket and opened the vents on my windproof pants to avoid sweating too much (if you sweat when it's super cold out, you can get chilled and it's quite uncomfortable). The most important thing was ski goggles to protect my eyes against the bright sun (and snow-reflected sun) and also to protect most of my face against the wid.
+While cross-country skiing, I usually took off the puffy down jacket and opened the vents on my windproof pants to avoid sweating too much (if you sweat when it's super cold out, you can get chilled and it's quite uncomfortable). The most important thing was ski goggles to protect my eyes against the bright sun (and snow-reflected sun) and also to protect most of my face against the wind.
 
-### Other notes
-- Google incorrectly labels Abisko and Abisko Östra. If you search on Google, go by the train station locations (which are correct), not the labels on the map.
+{% includeGallery Sweden2018 %}
 
-
-<!-- jQuery -->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
-
-  <!-- FlexSlider -->
-  <script defer src="/src/js/jquery.flexslider.js"></script>
-  <link rel="stylesheet" href="/src/css/flexslider.css" type="text/css" media="screen" />
-
-  
-
-<script>
-    $(window).load(function() {
-  // The slider being synced must be initialized first
-  $('#carousel').flexslider({
-    animation: "slide",
-    controlNav: false,
-    animationLoop: false,
-    slideshow: false,
-    itemWidth: 210,
-    itemMargin: 5,
-    asNavFor: '#slider'
-  });
- 
-  $('#slider').flexslider({
-    animation: "slide",
-    controlNav: false,
-    animationLoop: false,
-    slideshow: false,
-    sync: "#carousel"
-  });
-});
-
-$(window).load(function() {
-  // The slider being synced must be initialized first
-  $('#dogsled-carousel').flexslider({
-    animation: "slide",
-    controlNav: false,
-    animationLoop: false,
-    slideshow: false,
-    itemWidth: 210,
-    itemMargin: 5,
-    asNavFor: '#dogsled-slider'
-  });
- 
-  $('#dogsled-slider').flexslider({
-    animation: "slide",
-    controlNav: false,
-    animationLoop: false,
-    slideshow: false,
-    sync: "#dogsled-carousel"
-  });
-});
-</script>
+This is the end.
