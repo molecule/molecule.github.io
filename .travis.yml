@@ -1,7 +1,6 @@
-#language: generic # don't install any environment
 language: ruby
-  rvm:
-    - 2.3.1
+rvm:
+ - 2.3.1
 before_script:
 - npm install -g bower
 - bower install  
