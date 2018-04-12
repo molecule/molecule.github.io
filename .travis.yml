@@ -1,9 +1,6 @@
 language: ruby
 rvm:
  - 2.3.1
-before_script: 
-- chmod +x ./deploy.sh
-script: bash ./deploy.sh
 env:
   global:
   - ENCRYPTION_LABEL: e37f7d53ff65
