@@ -38,8 +38,10 @@ module Jekyll
     safe true
 
     def generate(site)
+      print("generate")
       photos = YAML::load_file('_data/photos.yaml')
       dir = site.config['photo_dir'] || 'photography'
+      print(dir)
 
       site.pages << PhotoList.new(site, site.source, File.join(dir), photos["photos"], "Photography")
 
@@ -110,14 +112,17 @@ module Jekyll
 
     def initialize(tag_name, text, tokens)
       super
+      print("initialize includegallerytag")
       @result = '<div id="gallery" style="display:none; margin-bottom: 20px;">'
       photos = YAML::load_file('_data/photos.yaml')
+      print(text.strip)
       photos.each do |photo, details|
         [nil, *details, nil].each_cons(3){|prev, curr, nxt|
           if(curr["album"] == text.strip)
+            print(curr["img"])
             @result = @result+'<div itemscope itemtype="http://schema.org/Photograph">
                                       <a itemprop="image" class="swipebox" title="'+curr["title"]+'" href="/photography/'+curr["title"].strip.gsub(' ', '-').gsub(/[^\w-]/, '')+'/">
-                                        <img alt="'+curr["title"]+'" itemprop="thumbnailUrl" src="/images/photography/thumbnails/'+curr["img"]+'.jpg"/>
+                                        <img alt="'+curr["title"]+'" itemprop="thumbnailUrl" src="'+curr["img"]+'.jpg"/>
                                         <meta itemprop="name" content="'+curr["title"]+'" />
                                         <meta itemprop="isFamilyFriendly" content="true" />
                                         <div itemprop="creator" itemscope itemtype="http://schema.org/Person">
