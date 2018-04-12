@@ -8,7 +8,9 @@ before_script:
 script: bash ./deploy.sh
 env:
   global:
+  - ENCRYPTION_LABEL: e37f7d53ff65
   - COMMIT_AUTHOR_EMAIL: molecule@berkeley.edu
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 sudo: false
 before_install:
 - openssl aes-256-cbc -K $encrypted_e37f7d53ff65_key -iv $encrypted_e37f7d53ff65_iv
