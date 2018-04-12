@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/molecule/molecule.github.io.svg?branch=master)](https://travis-ci.org/molecule/molecule.github.io)
+
 about
 =====
 
@@ -24,6 +26,8 @@ in _layouts/default.html under the "responsive masthead" comment.
 _site is created when you run a server locally (see above).
 It's ignored by git and not saved anywhere. 
 Don't edit files there, they will be overwritten.
+
+### try this.
 
 
 
