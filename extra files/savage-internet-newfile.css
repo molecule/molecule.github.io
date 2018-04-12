@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Savage Internet</title>
+<meta name="description" content="Savage Internet is a company that works in the spaces of education and games, with expertise in hardware prototyping, software programming, fabrication, and interactive data visualization.">
+<meta name="robots" content="index, follow">
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+<body>
+<div id="root">
+  <div id="header">
+    <div id="logo">
+      <a href="/"><img src="/img/logo.svg" /></a>
+    </div>
+    <div id="nav">
+      <span>Projects</span>
+      <a href="/consulting.html">Consulting</a>
+      <a href="https://blog.savageinter.net/">Blog</a>
+      <a href="/team.html">Team</a>
+    </div>
+  </div>
+  <div id="body">
+    <div id="main">
+      <div id="tags">
+        <span class="tag ed">education</span>
+        <span class="tag el">electronics</span>
+        <span class="tag fab">fabrication</span>
+        <span class="tag g">games</span>
+        <span class="tag rw">real-world</span>
+        <span class="tag viz">visualization</span>
+      </div>
+      <div id="projects">
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/expedition-300.png" />
+      <div class="project-title">expedition!</div>
+      <div class="project-tags">
+        <div class="tag ed">ed</div>
+        <div class="tag g">g</div>
+        <div class="tag rw">rw</div>
+      </div>
+      <div class="project-description">
+        <p>expedition! connects people around location-based educational quests. Currently in development.</p>
+        <ul>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/puzzling-madness-300.png" />
+      <div class="project-title">Puzzling Madness</div>
+      <div class="project-tags">
+        <div class="tag rw">rw</div>
+        <div class="tag g">g</div>
+        <div class="tag ed">ed</div>
+      </div>
+      <div class="project-description">
+        <p>The Puzzling Madness of John A. Macdonald is a puzzle&#x2F;scavenger hunt across Downtown Toronto. Designed for the Canada 150 celebration, it features puzzles set in Toronto of 1867. It leverages historical handbills, maps, and sites, and casts players in the roles of actual people from that time. Games run from the end of June until the end of August 2017, see site for details.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;puzzlingmadness.ca" title="Puzzling Madness Home">Puzzling Madness Home</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/datasense-300.png" />
+      <div class="project-title">Data Sense</div>
+      <div class="project-tags">
+        <div class="tag ed">ed</div>
+        <div class="tag viz">viz</div>
+      </div>
+      <div class="project-description">
+        <p>Data Sense helps people who quantify their lives---e.g., with FitBit---to make sense of the data they collect. They can to upload data or connect online data services, then create visualizations linking information from multiple sources. This project is an active collaboration with Intel Labs.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;makesenseofdata.com" title="Data Sense">Data Sense</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/locatrix-300.jpg" />
+      <div class="project-title">Locatrix</div>
+      <div class="project-tags">
+        <div class="tag rw">rw</div>
+        <div class="tag viz">viz</div>
+      </div>
+      <div class="project-description">
+        <p>Locatrix tracks your movements on a macro scale, with your privacy in mind. On a long trip, it keeps friends and family updated with what city you’re in, but not where you spent your Saturday night. For remote work, your boss will always know your timezone, but not that you sometimes take meetings from the beach.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;locatrix.savageinter.net" title="Locatrix Home Page">Locatrix Home Page</a>
+          </li>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id&#x3D;net.savageinter.locatrix" title="Download on Google Play">Download on Google Play</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/zombie-300.jpg" />
+      <div class="project-title">Zombie Rendezvous</div>
+      <div class="project-tags">
+        <div class="tag rw">rw</div>
+        <div class="tag g">g</div>
+        <div class="tag ed">ed</div>
+      </div>
+      <div class="project-description">
+        <p>Alongside a molecular genetics grad student and a cancer researcher, we developed a game to be played at the outdoor science festival Science Rendezvous. Players are brought into the game when they&#39;re infected by roving zombies. They then have just 30 minutes to learn the difference between fungal, viral, and bacterial infections, and to find the cure!</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;drive.google.com&#x2F;open?id&#x3D;0B0jF681JP2rJcnJySEhudktxenM" title="Zombie Rendezvous Booklet">Zombie Rendezvous Booklet</a>
+          </li>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;drive.google.com&#x2F;open?id&#x3D;0B0jF681JP2rJaUxwZjZDaUVWbnc" title="Print-Friendly Booklet">Print-Friendly Booklet</a>
+          </li>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;blog.savageinter.net&#x2F;blog&#x2F;2017&#x2F;05&#x2F;15&#x2F;zombies&#x2F;" title="Blog Post">Blog Post</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/hoedown-300.jpg" />
+      <div class="project-title">Kinoma Hoedown</div>
+      <div class="project-tags">
+        <div class="tag el">el</div>
+        <div class="tag fab">fab</div>
+        <div class="tag g">g</div>
+      </div>
+      <div class="project-description">
+        <p>We showcased Hoedown---an Austin-themed interactive character generation system that tests a person’s intelligence, constitution, and more, using a series of entertaining challenges---for Kinoma (Marvell) as a part of their booth at South By Southwest 2014.</p>
+        <ul>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;blog.kinoma.com&#x2F;2014&#x2F;06&#x2F;hoedown-with-the-savages-and-kinoma-create&#x2F;" title="Kinoma Blog Post">Kinoma Blog Post</a>
+          </li>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;github.com&#x2F;savageinternet&#x2F;hoedown" title="Github Repository">Github Repository</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/pussyhat-300.jpg" />
+      <div class="project-title">#resist shop</div>
+      <div class="project-tags">
+        <div class="tag fab">fab</div>
+      </div>
+      <div class="project-description">
+        <p>To raise money for nonprofit advocacy organizations in the wake of the 2016 American election, Valkyrie created 3D models of necklace pendants and cufflinks showcasing pussyhats and other objects.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;www.shapeways.com&#x2F;shops&#x2F;valkyrie" title="#resist shop on Shapeways">#resist shop on Shapeways</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/jugger-300.jpg" />
+      <div class="project-title">Jugger California</div>
+      <div class="project-tags">
+        <div class="tag fab">fab</div>
+        <div class="tag g">g</div>
+        <div class="tag rw">rw</div>
+      </div>
+      <div class="project-description">
+        <p>Jugger California is a San Francisco-area league we founded for the sport of jugger. Jugger---a blend of capture the flag, fencing, and rugby---enjoys relative popularity in Germany, but we introduced the game to the Bay Area. We personally showcased the sport at local games (Come Out &amp; Play) and art (Figment) festivals, as well as presented on its lineage dating back to Roman times. We constructed the first set of equipment ourselves from PVC and pipe insulation, and directed construction of further sets: our write-up on Instructables was featured.</p>
+        <ul>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;instructables.com&#x2F;id&#x2F;Jugger-Weapons" title="Instructable for Jugger Weapons">Instructable for Jugger Weapons</a>
+          </li>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;youtu.be&#x2F;LZ1WYXq14u0?t&#x3D;2h52m40s" title="East Bay Nerd Nite Talk">East Bay Nerd Nite Talk</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/woman-of-bronze-300.jpg" />
+      <div class="project-title">Doc Savage, Woman of Bronze</div>
+      <div class="project-tags">
+        <div class="tag g">g</div>
+        <div class="tag rw">rw</div>
+      </div>
+      <div class="project-description">
+        <p>Doc Savage, Woman of Bronze, is an Oakland-based puzzle hunt game tied to the city&#39;s unique history and architecture. It features letter locks hidden around the city: players must determine where the locks are as well as the word which will unlock them. Evan supervised this game for 15 people.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;drive.google.com&#x2F;drive&#x2F;folders&#x2F;0B015tvjlD7Dmc0VqOGpyUmZhSkU?usp&#x3D;sharing" title="Puzzle Hunt Materials">Puzzle Hunt Materials</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/heve-300.jpg" />
+      <div class="project-title">Hello, Velo!</div>
+      <div class="project-tags">
+        <div class="tag el">el</div>
+        <div class="tag fab">fab</div>
+      </div>
+      <div class="project-description">
+        <p>Hello, Velo! attaches to a bicycle and allows its owner to communicate with it, for example to determine where she left it parked. A GSM (cellular network) antenna and a GPS antenna attached to a Kinoma Element form the device&#39;s guts, and are enclosed in a custom 3D-printed case. The Hello, Velo! was created during Valkyrie’s summer 2016 Maker-in-Residency at Kinoma’s Headquarters, and her write-up on Instructables was featured.</p>
+        <ul>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;blog.kinoma.com&#x2F;2016&#x2F;08&#x2F;hello-velo" title="Kinoma Blog Post">Kinoma Blog Post</a>
+          </li>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;www.instructables.com&#x2F;id&#x2F;Hello-Velo-the-Internet-of-Two-Wheeled-Things&#x2F;" title="Instructable for Hello, Velo!">Instructable for Hello, Velo!</a>
+          </li>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;www.thingiverse.com&#x2F;thing:1695733" title="3D models for Case">3D models for Case</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/dnd-300.jpg" />
+      <div class="project-title">D&amp;D GMing</div>
+      <div class="project-tags">
+        <div class="tag g">g</div>
+      </div>
+      <div class="project-description">
+        <p>As dungeon masters for a rotating group of players, we have created storylines, designed and balanced dungeons and monsters, crafted props, and enjoyed many hours of structured improv.</p>
+        <ul>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/intensive-mental-300.png" />
+      <div class="project-title">Doc Savage&#39;s Intensive Mental Training</div>
+      <div class="project-tags">
+        <div class="tag ed">ed</div>
+        <div class="tag g">g</div>
+      </div>
+      <div class="project-description">
+        <p>Doc Savage’s Intensive Mental Training is a word game in the crossword style, that focuses its challenge around syllables rather than pure letter counts. At least one foreign language (Spanish) professor has used it in her classroom as a fun challenge to encourage growth in second-language learners.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;0BzrCBpMEE7AVTlpheFE2VDR0NWM&#x2F;view?usp&#x3D;sharing" title="Printable Game Board">Printable Game Board</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/cookie-cutters-300.jpg" />
+      <div class="project-title">Cookie Cutters</div>
+      <div class="project-tags">
+        <div class="tag fab">fab</div>
+      </div>
+      <div class="project-description">
+        <p>As a Christmas gift to the players of Jugger California, we threw a themed holiday party complete with Jugger-shaped cookie cutters. We designed and 3D printed these cookie cutters, and we sent prints to Denver, Ireland, Germany, and Australia at the request of other players. Design files are available online.</p>
+        <ul>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;www.thingiverse.com&#x2F;thing:1185477" title="3D models and OpenSCAD Code">3D models and OpenSCAD Code</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/beer-glasses-300.jpg" />
+      <div class="project-title">Etched Pint Glasses</div>
+      <div class="project-tags">
+        <div class="tag fab">fab</div>
+      </div>
+      <div class="project-description">
+        <p>We attend roughly one large jugger tournament per year, and it has become our tradition to give a beer-themed gift to the other teams in attendance. For our first tournament, we brewed a special blood red beer (made with beets) named after the movie from whence Jugger originated (namely, “The Blood of Heroes”). At the second tournament we handed out laser-engraved pint glasses bearing the name and year of the tournament to other players.</p>
+        <ul>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/d20-300.jpg" />
+      <div class="project-title">Anti-Crit GM d20</div>
+      <div class="project-tags">
+        <div class="tag fab">fab</div>
+      </div>
+      <div class="project-description">
+        <p>As a gift for a friend of ours with whom we played tabletop roleplaying games, we 3D modeled and fabricated a special Anti-Crit die: a 20-sided die on which only the numbers 1-10 appear.</p>
+        <ul>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;www.instructables.com&#x2F;id&#x2F;3D-Printed-D20-As-D10&#x2F;" title="Instructable for Anti-Crit d20">Instructable for Anti-Crit d20</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/lot-300.png" />
+      <div class="project-title">USGS Terrain Data in OpenSCAD</div>
+      <div class="project-tags">
+        <div class="tag fab">fab</div>
+        <div class="tag viz">viz</div>
+      </div>
+      <div class="project-description">
+        <p>Valkyrie’s parents are working to design a home and landscape on their rural property: as a gift to them we created a 3D model of the lot using elevation data from the USGS and satellite imagery from Google Maps.</p>
+        <ul>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/async-300.png" />
+      <div class="project-title">Talk: Async JS Patterns</div>
+      <div class="project-tags">
+        <div class="tag ed">ed</div>
+      </div>
+      <div class="project-description">
+        <p>Evan gave a talk at the East Bay JavaScript Meetup on patterns (and anti-patterns!) for handling asynchronous tasks in JavaScript.</p>
+        <ul>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;candu.github.io&#x2F;presentations&#x2F;html&#x2F;20140729-jquery-async-javascript&#x2F;" title="Interactive Talk Slides (HTML &#x2F; JS)">Interactive Talk Slides (HTML &#x2F; JS)</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/cs160-300.jpg" />
+      <div class="project-title">CS160: Intro to User Interface Design</div>
+      <div class="project-tags">
+        <div class="tag ed">ed</div>
+      </div>
+      <div class="project-description">
+        <p>Valkyrie taught UC Berkeley&#39;s Intro to User Interface Design course. She redesigned it to fit into the accelerated summer semester timescale, as well as to use a new technology (smartwatches), as well as to restructure half of the lectures into studio-style classes. For teaching this course, she won an Outstanding Graduate Student Instructor Award.</p>
+        <ul>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;cs160.valkyriesavage.com" title="Course Homepage">Course Homepage</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/tutoring-300.jpg" />
+      <div class="project-title">Tutoring</div>
+      <div class="project-tags">
+        <div class="tag ed">ed</div>
+        <div class="tag fab">fab</div>
+      </div>
+      <div class="project-description">
+        <p>We worked together with a 5th grader-turned-7th grader on a fabrication project of his choice: designing and 3D printing a rubber band gun from scratch. Along the way, we created a spirograph, learned how temperature causes things to expand, and taught his printer to sing.</p>
+        <ul>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/fabbed-300.jpg" />
+      <div class="project-title">Fabbed to Sense</div>
+      <div class="project-tags">
+        <div class="tag el">el</div>
+        <div class="tag fab">fab</div>
+      </div>
+      <div class="project-description">
+        <p>Valkyrie’s doctoral thesis---“Fabbed to Sense: Integrated Design of Geometry and Sensing Algorithms for Interactive Objects”---focused on tools to aid makers and professional designers in creating functional mockups of future interactive products, such as video game controllers, while avoiding the onerous assembly that typically accompanies that process. Her thesis document and presentation are available online.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;SgZUxloEo4s" title="Dissertation Talk">Dissertation Talk</a>
+          </li>
+          <li class="project-link">
+            <a href="http:&#x2F;&#x2F;valkyriesavage.com&#x2F;papers&#x2F;thesis.pdf" title="Thesis (PDF)">Thesis (PDF)</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/datafist-300.png" />
+      <div class="project-title">datafist</div>
+      <div class="project-tags">
+        <div class="tag ed">ed</div>
+        <div class="tag viz">viz</div>
+      </div>
+      <div class="project-description">
+        <p>Datafist is a visual programming tool and language for exploring datasets: users can upload their data and create regressions, sparklines, and more. This tool was designed and implemented entirely by Evan, prior to his work on the Data Sense project which derives from it.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;github.com&#x2F;candu&#x2F;datafist" title="Github Repository">Github Repository</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/bats-300.png" />
+      <div class="project-title">Scientific Visualization</div>
+      <div class="project-tags">
+        <div class="tag viz">viz</div>
+      </div>
+      <div class="project-description">
+        <p>Working with researchers from Eastern Michigan University and University of Michigan at Ann Arbor, we helped process data and craft visualizations of bat migrations tracked with sonic detectors. Silver-haired bat photo credit: Heather Adams, by permission.</p>
+        <ul>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="project">
+    <div class="project-wrapper">
+      <img class="project-image" src="/img/projects/toroid-300.png" />
+      <div class="project-title">Toroid: Tor Node Map</div>
+      <div class="project-tags">
+        <div class="tag viz">viz</div>
+      </div>
+      <div class="project-description">
+        <p>Toroid is an interactive worldwide map of Tor nodes.</p>
+        <ul>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;toroid.savageinter.net&#x2F;" title="Live Map">Live Map</a>
+          </li>
+          <li class="project-link">
+            <a href="https:&#x2F;&#x2F;github.com&#x2F;candu&#x2F;toroid" title="Github Repository">Github Repository</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+      </div>
+      <div id="project_details" class="hide">
+        <div id="project_details_wrapper">
+          <div id="project_details_title"></div>
+          <div id="project_details_description"></div>
+        </div>
+      </div>
+      <div class="social">
+        Want to talk? Reach out to us:<br/>
+        <a href="https://facebook.com/savageinternet/"><img src="img/social/facebook.png"></a>
+        <a href="mailto:founders@savageinter.net"><img src="img/social/email.png"></a>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="/js/index.js"></script>
+</body>
+</html>

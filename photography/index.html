@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Photography • Molly Nicholas</title>
+    
+    
+    
+
+    <!-- Replace with your own includes -->
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <title>Photography</title>
+    <meta name="description" content="">
+  
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://localhost:4013/photography/">
+    <link rel="alternate" type="application/rss+xml" title="Molly Nicholas" href="http://localhost:4013/feed.xml">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4013/css/jekyll-photo-gallery.css">
+    <link rel="stylesheet" href="http://localhost:4013/css/justifiedGallery.min.css">
+  </head>
+    
+<header class="site-header">
+
+    <div class="wrapper">
+  
+      <a class="site-title" href="/">Molly Nicholas</a>
+  
+      <nav class="site-nav">
+        <a href="#" class="menu-icon">
+          <svg viewBox="0 0 18 15">
+            <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+            <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+            <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+          </svg>
+        </a>
+  
+        <div class="trigger">
+            <a class="page-link" href="/about">About</a>
+            <a class="page-link" href="/photography">Gallery</a>
+        </div>
+      </nav>
+  
+      
+  
+    </div>
+  
+  </header>
+
+    <link rel="canonical" href="http://localhost:4013/photography/">
+
+    <link href="http://localhost:4013/atom.xml" type="application/atom+xml" rel="alternate" title="Molly Nicholas Atom Feed">
+    <link href="http://localhost:4013/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+    <link rel="stylesheet" href="http://localhost:4013/css/main.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4013/css/jekyll-photo-gallery.css">
+    <link rel="stylesheet" href="http://localhost:4013/css/justifiedGallery.min.css">
+    <![endif]-->
+</head>
+
+<body id="js-body">
+
+<!-- Use CSS to set the width etc. of the gallery -->
+<div id="main" role="main" style="width: 70%; margin: auto; margin-top: 30px;">
+    <div class="wrap">
+        <div class="page-feature">
+            <div class="page-image">
+                <img src="http://localhost:4013/images/headers/header.jpg" class="page-feature-image" alt="Photography">
+                
+            </div><!-- /.page-image -->
+        </div><!-- /.page-feature -->
+
+        <div>
+            <br>
+            <h1>Albums</h1>
+            <div>
+                
+            </div>
+        </div>
+        <div class="photoStreamTitle">
+            <br>
+            <h1>Photo Stream</h1>
+            <div id="gallery" style="display:none; margin-bottom: 20px;"></div>
+        </div>
+    </div><!-- /.wrap -->
+</div><!-- /#main -->
+
+<script src="http://localhost:4013/js/vendor/jquery-1.9.1.min.js"></script>
+<script src="http://localhost:4013/js/plugins/jquery.justifiedGallery.min.js"></script>
+
+<script>
+    var photos = [];
+    var currentPosition = 0;
+    //
+    photos.push({
+        title: "The welcome hut at Abiskojaure - a welcome sight indeed!",
+        url: "http://localhost:4013/photography/The-welcome-hut-at-Abiskojaure---a-welcome-sight-indeed/",
+        thumbnail: "http://localhost:4013/images/photography/thumbnails//src/img/sweden/abiskojaure-sunny-centered.jpg",
+        date: "2018-03-24 10:05:20 -0700"
+    });
+    //
+    photos.push({
+        title: "Close-up of the Abiskojaure mountain huts.",
+        url: "http://localhost:4013/photography/Close-up-of-the-Abiskojaure-mountain-huts/",
+        thumbnail: "http://localhost:4013/images/photography/thumbnails//src/img/sweden/abiskojaure-close.jpg",
+        date: "2018-03-23 16:44:26 -0700"
+    });
+    //
+    photos.push({
+        title: "Beautiful!",
+        url: "http://localhost:4013/photography/Beautiful/",
+        thumbnail: "http://localhost:4013/images/photography/thumbnails//src/img/sweden/abiskojaure-hut-view.jpg",
+        date: "2018-03-24 08:53:44 -0700"
+    });
+    //
+    photos.push({
+        title: "Beds at the Abiskojaure mountain hut.",
+        url: "http://localhost:4013/photography/Beds-at-the-Abiskojaure-mountain-hut/",
+        thumbnail: "http://localhost:4013/images/photography/thumbnails//src/img/sweden/abiskojaure-hut-beds.jpg",
+        date: "2018-03-24 09:14:37 -0700"
+    });
+    //
+
+    window.onload=function(){
+        var INITIAL_PHOTO_LOAD = 30;
+        var PHOTO_ITERATION_LOAD = 10;
+        var GALLERY_FADE_IN = 500;
+
+        $("#gallery").justifiedGallery({
+            rowHeight : 220,
+            maxRowHeight: 340,
+            margins : 5,
+            border : 0,
+            fixedHeight: false,
+            lastRow : 'nojustify',
+            captions: true
+        });
+
+        function appendImage(index) {
+            $('#gallery').append("<div itemscope itemtype=\"http:\/\/schema.org\/Photograph\">\r\n" +
+                    "<a itemprop=\"image\" class=\"swipebox\" title=\"" + photos[index].title + "\" " +
+                    "href=\"" + photos[index].url + "\">\r\n" +
+                    "<img alt=\"" + photos[index].title + "\" itemprop=\"thumbnailUrl\"" +
+                    "src=\"" + photos[index].thumbnail + "\"\/>\r\n" +
+                    "<meta itemprop=\"name\" content=\"" + photos[index].title + "\" \/>\r\n" +
+                    "<meta itemprop=\"isFamilyFriendly\" content=\"true\" \/>\r\n" +
+                    "<meta itemprop=\"dateCreated\"" +
+                    "content=\"" + photos[index].date + "\"\/>\r\n" +
+                    "<div itemprop=\"creator\" itemscope itemtype=\"http:\/\/schema.org\/Person\">\r\n" +
+                    " <div itemprop=\"sameAs\" href=\"http://localhost:4013\/about\">\r\n" +
+                    "<meta itemprop=\"name\" content=\"\"\/>\r\n" +
+                    "<\/div>\r\n" +
+                    "<\/div>\r\n<\/a>\r\n<\/div>");
+        }
+
+        if (photos.length < INITIAL_PHOTO_LOAD){
+            INITIAL_PHOTO_LOAD = photos.length;
+        }
+
+        for (currentPosition; currentPosition < INITIAL_PHOTO_LOAD; currentPosition++) {
+            var i = currentPosition;
+            appendImage(i);
+        }
+        $('#gallery').justifiedGallery('norewind');
+
+        $("#gallery").fadeIn(GALLERY_FADE_IN);
+        $(window).scroll(function() {
+            if($(window).scrollTop() + $(window).height() == $(document).height()) {
+                var jump = currentPosition + PHOTO_ITERATION_LOAD;
+                for (currentPosition; currentPosition < jump; currentPosition++) {
+                    if(currentPosition<photos.length){
+                        appendImage(currentPosition);
+                    }
+                }
+                $('#gallery').justifiedGallery('norewind');
+            }
+        });
+    }
+</script>
+
+<!-- Replace with your own foot include or remove -->
+<footer class="site-footer">
+
+    <div class="wrapper">
+  
+      <h2 class="footer-heading">Molly Nicholas</h2>
+  
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+          <ul class="contact-list">
+            <li>Molly Nicholas</li>
+            <li><a href="mailto:"></a></li>
+          </ul>
+        </div>
+  
+        <div class="footer-col footer-col-2">
+          <ul class="social-media-list">
+            
+  
+            
+          </ul>
+        </div>
+  
+        <div class="footer-col footer-col-3">
+          <p></p>
+        </div>
+      </div>
+  
+    </div>
+  
+  </footer>
+</body>
+</html>
