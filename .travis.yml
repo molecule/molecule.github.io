@@ -3,7 +3,7 @@ rvm:
 - 2.1
 
 install: gem install bundler jekyll
-#script: scripts/build.sh
+script: bundle exec jekyll build
 
 env:
   global:
