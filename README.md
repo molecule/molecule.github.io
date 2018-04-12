@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/molecule/molecule.github.io.svg?branch=master)](https://travis-ci.org/molecule/molecule.github.io)
+
 about
 =====
 
