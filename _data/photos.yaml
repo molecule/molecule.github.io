@@ -1,18 +1,18 @@
 photos:
     - title: The welcome hut at Abiskojaure - a welcome sight indeed!
-      img: /src/img/sweden/abiskojaure-sunny-centered.jpg
+      img: /src/img/sweden/abiskojaure-sunny-centered
       country: Sweden
       album: Sweden2018
     - title: Close-up of the Abiskojaure mountain huts.
-      img: /src/img/sweden/abiskojaure-close.jpg
+      img: /src/img/sweden/abiskojaure-close
       country: Sweden
       description: A description of this photo.
       album: Sweden2018
     - title: Beautiful!
-      img: /src/img/sweden/abiskojaure-hut-view.jpg
+      img: /src/img/sweden/abiskojaure-hut-view
       country: Sweden
       album: Sweden2018
     - title: Beds at the Abiskojaure mountain hut.
-      img: /src/img/sweden/abiskojaure-hut-beds.jpg
+      img: /src/img/sweden/abiskojaure-hut-beds
       country: Sweden
       album: Sweden2018
