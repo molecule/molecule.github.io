@@ -3,6 +3,8 @@ layout: post
 share: true
 comments: true
 tags: [Travel, Sweden]
+date: 2018-03-23
+description: A week-long trip in Northern Sweden to catch the Northern Lights, including an 8-mile cross-country ski trip to an isolated mountain hut, then a train-ride back to Stockholm.
 ---
 
 <img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-sunrise.jpg">
