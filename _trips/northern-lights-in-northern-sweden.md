@@ -3,8 +3,6 @@ layout: post
 share: true
 comments: true
 tags: [Travel, Sweden]
-image:
-  thumbnail: /src/img/image-coming-soon.png
 ---
 
 <img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-sunrise.jpg">
