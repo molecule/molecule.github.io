@@ -3,15 +3,15 @@ rvm:
 - 2.1
 
 install: gem install jekyll html-proofer jekyll-sitemap
-script: scripts/build.sh
+#script: scripts/build.sh
 
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 deploy:
+  provider: pages
   skip_cleanup: true
-  provider: script
-  script: scripts/deploy.sh
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   on:
-    branch: gh-pages
+    branch: master
