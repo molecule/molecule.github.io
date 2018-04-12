@@ -1,5 +1,5 @@
 ---
-layout: album
+layout: post
 share: true
 comments: true
 tags: [Travel, Sweden]
@@ -56,7 +56,7 @@ We found a lot of conflicting information online about the availability of food 
 
 When you ski up, someone pops their head out of the first hut and invites you in. The first thing they do is give you a cup of hot non-alcoholic cider. By this point we were all pretty exhausted, so drinking something hot and flavorful was absolutely perfect. Then you get a tour where they tell you about the chores, you buy and cook dinner, partake of the sauna (see below for sauna tips) and then wait for the Northern Lights.
 
-{% includeGallery Abiskojaure2018 %}
+<img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-view.jpg">
 
 This was truly a highlight of an amazing trip, and I'd encourage anyone with even a single outdoorsy bone in their body to do it!
 
@@ -137,7 +137,8 @@ On top:
 - Windproof and water resistant hat (REI)
 - Sheepskin gloves (Custom made for me in Breckenridge)
 
-While cross-country skiing, I usually took off the puffy down jacket and opened the vents on my windproof pants to avoid sweating too much (if you sweat when it's super cold out, you can get chilled and it's quite uncomfortable). The most important thing was ski goggles to protect my eyes against the bright sun (and snow-reflected sun) and also to protect most of my face against the wid.
-
+While cross-country skiing, I usually took off the puffy down jacket and opened the vents on my windproof pants to avoid sweating too much (if you sweat when it's super cold out, you can get chilled and it's quite uncomfortable). The most important thing was ski goggles to protect my eyes against the bright sun (and snow-reflected sun) and also to protect most of my face against the wind.
 
 {% includeGallery Sweden2018 %}
+
+This is the end.
