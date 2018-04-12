@@ -1,10 +1,15 @@
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: "$GITHUB_TOKEN"
-  keep-history: true
-  on:
-    branch: master
+language: ruby
+  rvm:
+    - 2.3.1
+before_script:
+  - npm install -g bower
+  - bower install
+  - chmod +x ./deploy.sh
+script: bash ./deploy.sh
+env:
+  global:
+    - COMMIT_AUTHOR_EMAIL: molecule@berkeley.edu
+sudo: false
 before_install:
 - openssl aes-256-cbc -K $encrypted_e37f7d53ff65_key -iv $encrypted_e37f7d53ff65_iv
   -in deploy_key.enc -out deploy_key -d
