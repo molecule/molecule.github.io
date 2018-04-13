@@ -282,9 +282,11 @@ newsfeed:
 </div>
 
 <div style="float: center; text-align:center; padding:10px; font-size:13px; line-height:8px">
-<img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists" style="width: 250px;"/>
-<span style="display:block;"> I'm honored to be supported by the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a> </span>
+<img src="/src/img/logo-nsf.png" alt="NSF logo" style="width: 150px;"/>
+<img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists logo" style="width: 150px;"/>
+<span style="display:block;"> I'm honored to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a> and the ARCS Foundation. </span>
 </div>
+
 
 
 <p style="margin: 0.5em 0em 10em 0em;">
