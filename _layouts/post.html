@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<link rel="stylesheet" type="text/css" href="{{site.url}}/src/css/jekyll-photo-gallery.css">
-<link rel="stylesheet" href="{{ site.url }}/src/css/justifiedGallery.min.css">
-
 <div class="post-header">
     <h1 class="post-title" >{{ page.title }}</h1>
     <span class="post-meta">written {{ page.date | date: "%b %-d, %Y" | downcase }}</span>
@@ -14,7 +11,6 @@ layout: default
 {{ content }}
 
 <script src="{{ site.url }}/src/js/vendor/jquery-1.9.1.min.js"></script>
-<script src="{{ site.url }}/src/js/plugins/jquery.justifiedGallery.min.js"></script>
 
 <!--sort and link the separate posts chronologically-->
 
