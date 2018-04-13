@@ -156,10 +156,7 @@ newsfeed:
         content: Absolutely flabbergasted to announce that I won the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP Fellowship!!!</a>
         date: 3 Apr 2018
     - 
-        content: Posted my <a href="https://molecule.github.io/trips/northern-lights-in-northern-sweden/">trip report from our amazing Sweden trip!</a>
-        date: 2 Apr 2018
-    - 
-        content: Enjoyed an extra week in Sweden seeing the Northern Lights, dog-sledding, and cross-country skiing to an amazing remote mountain hut.
+        content: Enjoyed an extra week in Sweden seeing the Northern Lights, dog-sledding, and cross-country skiing to an amazing remote mountain hut. <a href="https://molecule.github.io/trips/northern-lights-in-northern-sweden/">Trip report here.</a>
         date: 28 Mar 2018
     -
         content: The project page for our <a href="https://tei.acm.org/2018/">TEI 2018</a> paper <a href="https://molecule.github.io/project/hairio/">Häiriö</a> is up! As is our <a href="https://www.instructables.com/id/HairIO-Hair-As-Interactive-Material/">Instructable</a> :) Hooray for Open Source!
