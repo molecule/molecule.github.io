@@ -139,6 +139,4 @@ On top:
 
 While cross-country skiing, I usually took off the puffy down jacket and opened the vents on my windproof pants to avoid sweating too much (if you sweat when it's super cold out, you can get chilled and it's quite uncomfortable). The most important thing was ski goggles to protect my eyes against the bright sun (and snow-reflected sun) and also to protect most of my face against the wind.
 
-{% includeGallery Sweden2018 %}
-
-This is the end.
+#{% includeGallery Sweden2018 %}
