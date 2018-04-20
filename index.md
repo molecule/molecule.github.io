@@ -6,7 +6,8 @@ projects:
         title: Guardians
         desc: (coming soon to DIS 2018)
         tags: [res]
-        imag: /src/img/image-coming-soon.png
+        imag: /src/img/guardians-pic.png
+        link: http://cearto.com/projects/guardians
     - 
         title: AlterWear
         desc: (coming soon to CHI 2018)
