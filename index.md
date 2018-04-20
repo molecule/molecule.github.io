@@ -153,6 +153,9 @@ hidden:
 
 newsfeed:
     - 
+        content: So excited to present <a href="http://www.hybrid-ecologies.org/projects/24-alterwear">our latest work on battery-free dynamic clothing and accessories</a> here at <a href="https://chi2018.acm.org/">CHI</a> in Montreal!
+        date: 20 Apr 2018
+    - 
         content: Absolutely flabbergasted to announce that I won the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP Fellowship!!!</a>
         date: 3 Apr 2018
     - 
