@@ -14,7 +14,6 @@
 4. Require about an inch of water per week
 5. If you don’t wish to trellis your plant, trim the tops of new canes during the summer months, limiting growth to about 3 to 4 feet.
 6. In the spring, before new growth forms, prune lateral branches back to about 12 inches to encourage larger fruit production.
-7. 
 
 #### Thornless, Fragrant Roses
 0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
@@ -29,7 +28,7 @@
 8. [Motimer Sackler](https://www.davidaustinroses.com/us/mortimer-sackler-english-climbing-rose). Repeat flowering. Excellent disease resistance. Shade tolerant.
 9. [Wollerton Old Hall](https://www.heirloomroses.com/wollerton-old-hall.html). Not shade tolerant. VERY fragrant. Continual blooming.
 10. [A Shopshire Lad](https://www.heirloomroses.com/a-shropshire-lad.html). Excellent disease resistance. Repeat flowering. Climbing. Shade tolerant. [Good in containers!](https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose)
-11. 
+
 
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html
