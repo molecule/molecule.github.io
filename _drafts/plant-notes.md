@@ -29,8 +29,17 @@
 9. [Wollerton Old Hall](https://www.heirloomroses.com/wollerton-old-hall.html). Not shade tolerant. VERY fragrant. Continual blooming.
 10. [A Shopshire Lad](https://www.heirloomroses.com/a-shropshire-lad.html). Excellent disease resistance. Repeat flowering. Climbing. Shade tolerant. [Good in containers!](https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose)
 
+#### Sugar Snap Peas
+1. Sow 2 or 3 times, 7 to 10 days apart, to extend harvest. [5]
+2. To save space, sow in double rows 3" apart with 2 1/2 to 3' of space between double rows.[5]
+3. Peas are a warm season crop, so growing peas in a container should begin in the spring when temperatures warm to over 60 F.[5]
+4. 12 inches across. Fill the container with soil leaving a 1 inch space at the top.[5]
+5. Keep the seeds in a lightly shaded area until germination (9-13 days). [6]
+6. Peas prefer cool conditions, so plant them early in the season. When it gets too warm, they stop producing.[6]
 
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html
 [3]:https://www.fourwindsgrowers.com/growing-essentials/watering-guidelines.html
 [4]:https://hedgerowrose.com/rose-gardening/2012/09/06/growing-madame-plantier-or-the-brides-rose/
+[5]:https://www.gardeningknowhow.com/edible/vegetables/peas/grow-peas-in-containers.htm
+[6]: https://www.thespruce.com/growing-peas-in-container-gardens-848242
