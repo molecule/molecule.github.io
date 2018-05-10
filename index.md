@@ -240,7 +240,7 @@ newsfeed:
         <h3>
             news and updates
         </h3>
-        <div class='newsfeed' style="height:400px; overflow:scroll; vertical-align:top">
+        <div class='newsfeed' style="height:400px; overflow:scroll; vertical-align:top; font-size:.75rem">
             <table class="timeline">
             {% for news in page.newsfeed %}
                 <tr>
