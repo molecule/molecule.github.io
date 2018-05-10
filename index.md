@@ -227,8 +227,8 @@ newsfeed:
 
 <div style="width:100%, display:table">
 <div style="display:table-row">
-<div style="display:table-cell">
-<div class="clearfix" style="float:left; width=600px;">
+<div style="display:table-cell; width=580px;">
+<div class="clearfix" style="float:left;">
 
 <div style="float: left; text-align:center; width:240px; padding:10px; font-size:8px; line-height:8px">
 <img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
@@ -279,7 +279,7 @@ newsfeed:
 </div>
 
 </div><!--end of divtable-cell-->
-<div style="display:table-cell">
+<div style="display:table-cell;">
 <h3>
     news and updates
 </h3>
