@@ -377,10 +377,10 @@ code.highlighter-rouge {
 }
 
 @media (min-width: 38rem) {
-  .container { max-width: 32rem; }
+  .container { max-width: 1200px; }
 }
 @media (min-width: 56rem) {
-  .container { max-width: 36rem; }
+  .container { max-width: 1200px; }
 }
 
 
