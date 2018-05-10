@@ -7,8 +7,39 @@
 6. Pruning is fine except in winter. Well-pruned trees have higher fruit output and are less prone to branch breakage [1].
 7. Citrus Problem Solver.[2]
 
+#### Apache Thornless Blackberries
+1. Needs rich, moist, soil and full sun exposure to thrive. 
+2. Prefer slightly acidic soil with a pH ranging from 6.5 to 7. 
+3. Space plants about 5 feet apart.
+4. Require about an inch of water per week
+5. If you don’t wish to trellis your plant, trim the tops of new canes during the summer months, limiting growth to about 3 to 4 feet.
+6. In the spring, before new growth forms, prune lateral branches back to about 12 inches to encourage larger fruit production.
 
+#### Thornless, Fragrant Roses
+0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
+0. "Alba" sub-type can tolerate "less than ideal sun conditions."[4]
+1. [Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop) roses. Gentle pink. Perpetual blooming. Climbing.
+2. [Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain) Ivory white. Does not tolerate shade.
+3. [Reine des Violettes](https://www.heirloomroses.com/reine-des-violettes.html). Repeat blooming. Does not tolerate shade.
+4. [Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier) Shade tolerant. Once blooming.
+5. [Zéphirine Drouhin](https://www.heirloomroses.com/zephirine-drouhin.html). Perpetual blooming. Shade tolerant. 
+6. [Paul Neyron](https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html). Large flowers. Deep pink/lilac. Repeat flowering. Not shade tolerant.
+7. [James Galway](https://www.davidaustinroses.com/us/james-galway-english-climbing-rose). Ideal for shade. Gorgeous flowers. Repeat flowering. Excellent disease resistance.
+8. [Motimer Sackler](https://www.davidaustinroses.com/us/mortimer-sackler-english-climbing-rose). Repeat flowering. Excellent disease resistance. Shade tolerant.
+9. [Wollerton Old Hall](https://www.heirloomroses.com/wollerton-old-hall.html). Not shade tolerant. VERY fragrant. Continual blooming.
+10. [A Shopshire Lad](https://www.heirloomroses.com/a-shropshire-lad.html). Excellent disease resistance. Repeat flowering. Climbing. Shade tolerant. [Good in containers!](https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose)
+
+#### Sugar Snap Peas
+1. Sow 2 or 3 times, 7 to 10 days apart, to extend harvest. [5]
+2. To save space, sow in double rows 3" apart with 2 1/2 to 3' of space between double rows.[5]
+3. Peas are a warm season crop, so growing peas in a container should begin in the spring when temperatures warm to over 60 F.[5]
+4. 12 inches across. Fill the container with soil leaving a 1 inch space at the top.[5]
+5. Keep the seeds in a lightly shaded area until germination (9-13 days). [6]
+6. Peas prefer cool conditions, so plant them early in the season. When it gets too warm, they stop producing.[6]
 
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html
 [3]:https://www.fourwindsgrowers.com/growing-essentials/watering-guidelines.html
+[4]:https://hedgerowrose.com/rose-gardening/2012/09/06/growing-madame-plantier-or-the-brides-rose/
+[5]:https://www.gardeningknowhow.com/edible/vegetables/peas/grow-peas-in-containers.htm
+[6]: https://www.thespruce.com/growing-peas-in-container-gardens-848242
