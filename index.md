@@ -225,6 +225,8 @@ newsfeed:
 [//]: # ( @berkeley.edu: &#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117; )
 
 
+<div class="bundle" style="width:100%">
+
 <div class="clearfix">
 
 <div style="float: left; text-align:center; width:240px; padding:10px; font-size:8px; line-height:8px">
@@ -240,8 +242,9 @@ newsfeed:
 </h3>
 
 </div><!--clearfix-->
+</div><!--bundle-->
 
-<div id='newsfeed' style="height:200px; overflow:scroll">
+<div id='newsfeed' style="height:200px; overflow:scroll; float:right">
 <table class="timeline">
 {% for news in page.newsfeed %}
     <tr>

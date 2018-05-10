@@ -237,6 +237,10 @@ small { font-size: }
   overflow: auto;
 }
 
+.bundle {
+  background-color: blueviolet;
+}
+
 img {
   margin: 0.5rem;
   display: block;
