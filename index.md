@@ -226,7 +226,7 @@ newsfeed:
 
 <div style="width: 100%; display: table;">
     <div style="display: table-row; width:100%">
-        <div style="display: table-cell; width:60%; float:left;"> 
+        <div style="display: table-cell; width:48%; float:left;"> 
             <div style="float:left;">
                 <div style="float: left; text-align:center; width:240px; padding:10px; font-size:8px; line-height:8px">
                     <img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
@@ -236,7 +236,7 @@ newsfeed:
         <p> Molly Jane Nicholas is a Ph.D. student studying Human Computer Interaction
   with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p> 
         </div>
-        <div style="display: table-cell; width:40%; float:right; padding:10px;"> 
+        <div style="display: table-cell; width:48%; float:right; padding:10px;"> 
         <h3>
             news and updates
         </h3>
