@@ -127,7 +127,7 @@ ul { list-style-type: square; }
   float: left;
 }
 
-@media (max-width: 820px) {
+@media (max-width: 960px) {
   #prof {
     height: initial;
     width: 100%;
