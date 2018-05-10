@@ -99,9 +99,11 @@ ul { list-style-type: square; }
 
 /* * Container */
 .container {
+  max-width: 34rem;
   padding-left:  1rem;
   padding-right: 1rem;
-  margin-left:  3rem;
+  margin-left:  auto;
+  margin-right: auto;
 }
 
 /*
@@ -329,23 +331,23 @@ img {
   text-transform: lowercase;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
 .post-title { font-size: 36px; } }
 .post-content { margin-bottom: 30px; }
 .post-content h2 { font-size: 32px; }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
 .post-content h2 { font-size: 28px; } }
 .post-content h3 { font-size: 26px; }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
 .post-content h3 { font-size: 22px; } }
 .post-content h4 { font-size: 20px; }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
 .post-content h4 { font-size: 18px; } }
 .post-header { padding-bottom: 30px; }
 
 /* make things real snappy. like a turtle.*/
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
     #projects {
         margin-left: initial !important;
         max-width: 100%;
