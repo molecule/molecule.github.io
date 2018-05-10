@@ -240,6 +240,16 @@ newsfeed:
         <h3>
             news and updates
         </h3>
+        <div class='newsfeed' style="height:200px; overflow:scroll; vertical-align:top">
+            <table class="timeline">
+            {% for news in page.newsfeed %}
+                <tr>
+                    <td>{{ news.content }} </td>
+                    <td>{{ news.date}} </td>
+                </tr>
+            {% endfor %}
+            </table>
+        </div><!--end of newsfeed-->
     </div>
 </div>
 
