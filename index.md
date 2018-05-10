@@ -227,7 +227,7 @@ newsfeed:
 
 <div style="width:100%, display:table">
 <div style="display:table-row">
-<div style="display:table-cell; width=580px;">
+<div style="display:table-cell; max-width:580px;">
 <div class="clearfix" style="float:left;">
 
 <div style="float: left; text-align:center; width:240px; padding:10px; font-size:8px; line-height:8px">
@@ -284,7 +284,7 @@ newsfeed:
     news and updates
 </h3>
 
-<div id='newsfeed' style="height:200px; width:600px; overflow:scroll;">
+<div id='newsfeed' style="height:2000px; width:600px; overflow:scroll;">
 <table class="timeline">
 {% for news in page.newsfeed %}
     <tr>
