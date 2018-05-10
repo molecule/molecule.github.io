@@ -256,13 +256,6 @@ newsfeed:
 </div><!--end of divtable-row-->
 </div><!--end of divtable-->
 
-<div style="width: 100%; display: table;">
-    <div style="display: table-row">
-        <div style="width: 600px; display: table-cell;"> Left </div>
-        <div style="display: table-cell;"> Right </div>
-    </div>
-</div>
-
 
 <div id="tags">
   <span class="tag res">research</span>
