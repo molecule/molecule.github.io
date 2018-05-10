@@ -225,9 +225,9 @@ newsfeed:
 [//]: # ( @berkeley.edu: &#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117; )
 
 
-<div class="bundle" style="width:100%">
-
-<div class="clearfix">
+<div style="width:100%, display:table">
+<div style="display:table-row">
+<div class="clearfix" style="float:left; width=600px; display: table-cell">
 
 <div style="float: left; text-align:center; width:240px; padding:10px; font-size:8px; line-height:8px">
 <img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
@@ -242,9 +242,8 @@ newsfeed:
 </h3>
 
 </div><!--clearfix-->
-</div><!--bundle-->
 
-<div id='newsfeed' style="height:200px; overflow:scroll; float:right">
+<div id='newsfeed' style="height:200px; overflow:scroll; display:table-cell;">
 <table class="timeline">
 {% for news in page.newsfeed %}
     <tr>
@@ -253,7 +252,15 @@ newsfeed:
     </tr>
 {% endfor %}
 </table>
+</div>
+</div><!--end of divtable-row-->
+</div><!--end of divtable-->
 
+<div style="width: 100%; display: table;">
+    <div style="display: table-row">
+        <div style="width: 600px; display: table-cell;"> Left </div>
+        <div style="display: table-cell;"> Right </div>
+    </div>
 </div>
 
 
