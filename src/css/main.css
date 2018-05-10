@@ -57,10 +57,13 @@ ul { list-style-type: square; }
 
 .timeline table {
   width:100%;
+  padding:2rem;
 }
 
 .timeline tr td{
   padding:5px;
+  font-size: .6rem;
+  width:55ch;
 }
 
 .timeline tr td:nth-child(2) {

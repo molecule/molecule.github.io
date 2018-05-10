@@ -228,7 +228,7 @@ newsfeed:
     <div style="display: table-row; width:100%">
         <div style="display: table-cell; width:48%; float:left;"> 
             <div style="float:left;">
-                <div style="float: left; text-align:center; width:240px; padding:10px; font-size:8px; line-height:8px">
+                <div style="float: left; text-align:center; width:200px; padding:10px; font-size:8px; line-height:8px">
                     <img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
                     <span style="display:block;"> Fig. a) The author, enjoying everything very much, thank you.</span>
                 </div>
@@ -240,7 +240,7 @@ newsfeed:
         <h3>
             news and updates
         </h3>
-        <div class='newsfeed' style="height:300px; overflow:scroll; vertical-align:top; font-size:.75rem">
+        <div class='newsfeed' style="height:300px; overflow:scroll; vertical-align:top; font-size:.7rem">
             <table class="timeline">
             {% for news in page.newsfeed %}
                 <tr>
@@ -294,7 +294,7 @@ newsfeed:
 <div style="float: center; text-align:center; padding:10px; font-size:13px; line-height:8px">
 <img src="/src/img/logo-nsf.png" alt="NSF logo" style="width: 150px;"/>
 <img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists logo" style="width: 150px;"/>
-<span style="display:block;"> I'm honored to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a> and the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a> </span>
+<span style="display:block;"> I'm honored to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a> and the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a> </span>
 </div>
 
 
