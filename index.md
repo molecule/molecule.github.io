@@ -153,6 +153,12 @@ hidden:
         link: /project/good-person
 
 newsfeed:
+    -
+        content: Getting ready for a long vacation in Hawai'i! Kayaking, snorkeling, seeing the Na Pali coast...and enjoying some relaxation with my honey love.
+        date: 11 May 2018
+    - 
+        content: Really enjoyed presenting our latest projects to the enthusiastic audience at the ARCS Symposium.
+        date: 7 May 2018
     - 
         content: So excited to present <a href="http://www.hybrid-ecologies.org/projects/24-alterwear">our latest work on battery-free dynamic clothing and accessories</a> here at <a href="https://chi2018.acm.org/">CHI</a> in Montreal!
         date: 20 Apr 2018
