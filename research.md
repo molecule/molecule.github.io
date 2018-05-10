@@ -1,6 +1,6 @@
 ---
 title: papers
-layout: default
+layout: page
 ---
 
 # molly jane nicholas
