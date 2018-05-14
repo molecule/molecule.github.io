@@ -1,5 +1,9 @@
 ## Activities
 
+### Camping
+County site for Kaua'i: https://www.kauai.gov/Camping
+State parks: https://camping.ehawaii.gov/camping/all,e-search.html
+
 ### Snorkeling
 
 Rent gear here, super cheap highly recommended: http://www.snorkelbob.com/
