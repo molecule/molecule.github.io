@@ -23,6 +23,12 @@ Useful thread: https://www.tripadvisor.com/ShowTopic-g29218-i304-k5004186-Snorke
 4. Clear water from your snorkel.
     1. Modern snorkels have a one-way valve at the bottom to help clear air. You just need to blow hard, and the valve will open, letting the water out.
 
+#### Fish we saw in Kauai
+- Black Durgon
+- Moorish idol
+- Cornetfish or needlefish
+- Threadfin butterfly fish.
+- 
 
 ### Kayak Na Pali Coast
 
