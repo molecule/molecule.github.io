@@ -13,7 +13,15 @@ Useful thread: https://www.tripadvisor.com/ShowTopic-g29218-i304-k5004186-Snorke
 2. Fins
     1. Swimming with fins is a different mindset from being in the water without fins. As soon as you have fins on, you no longer have legs: you have fins. You cannot stand on fins, you cannot walk on fins: you should be swimming at all times. If you need to stand up, no you don't. If you need to rest, flip over and float on your back. Your fins should be horizontal to the ocean floor at all times. When you're ready to have legs again, swim to a shallow spot and take them off.
     2. If you really need to stand up, first flip over so you're on your back, then bring your legs to the ocean floor heel first. If you try to put your feet down flat or toes first your fins WILL get caught and tangled in the sand and the water and you'll feel like you're trapped. With fins on, move heel first.
-    2. The key to going fast with fins is to "scissor kick". Keep your knees as straight as possible: your whole leg kicks, and the fins to the extra work of pushing you far. Lots of people bend their knees and try to push off the water like they're jumping. Legs straight, toes pointed.
+    3. The key to going fast with fins is to "scissor kick". Keep your knees as straight as possible: your whole leg kicks, starting at the hip, and the fins to the extra work of pushing you far. Lots of people bend their knees and try to push off the water like they're jumping. Legs straight, toes pointed. (I'm pretty sure it's nearly physically impossible to actualy keep your legs straight, but try your best). [This video shows good technique.](https://www.youtube.com/watch?v=KNzI0rLGxSE)
+3. Clear water from your mask.
+    1. Close your eyes to prevent water from getting in. 
+    2. While underwater, hold the top of your mask to your forehead and gently lift the bottom of your mask off your face. 
+    3. Exhale through your nose, increasing the air pressure in your mask and letting the water fall out with gravity down your face. 
+    4. You may need to tild your head up towards the surface a bit to get the water to fall out.
+    5. Press the mask back onto your face, maybe rearranging your skin/hair a bit to prevent further leaks.
+4. Clear water from your snorkel.
+    1. Modern snorkels have a one-way valve at the bottom to help clear air. You just need to blow hard, and the valve will open, letting the water out.
 
 
 ### Kayak Na Pali Coast
