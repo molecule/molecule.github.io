@@ -1,3 +1,18 @@
+List of fun things
+West:
+- Waimea hikes (awaawapuhi, etc.)
+
+North:
+- Hideaways beach
+- Secrets beach
+
+East:
+- Wailua river kayak trip.
+
+South:
+- Coffee plantation
+- Reef down south w/ turtles etc.
+
 ## Activities
 
 ### Camping
