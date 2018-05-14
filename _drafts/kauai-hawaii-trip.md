@@ -6,6 +6,16 @@ Rent gear here, super cheap highly recommended: http://www.snorkelbob.com/
 
 Useful thread: https://www.tripadvisor.com/ShowTopic-g29218-i304-k5004186-Snorkeling_equipment-Kauai_Hawaii.html
 
+#### First-time snorkeling tips
+1. Practice putting your fins on on land. It's usually easier to put them on in the water, but make sure you can quickly slip them onto your feet in 3 seconds or less. If it takes you more time than that, keep practicing. If it's really hard for you, putting them on on land and walking backwards into the ocean might be best.
+2. Practice breathing with your mask and snorkel on land. Then, stand in the water and put your face under. Keep your eyes open and your nose blocked (pretend like you have a stuffy nose: there should be no air coming in or out of your nose). Practice breathing slowly and evenly through only your mouth. This should also double as a leak-check for your mask.
+    1. Your mask should fit very snugly with no leaking. If it passes the suction test and it's still leaking it is either defective, really wrong for your face, or it's not tight enough. By the end of 1 hour of snorkeling you should have a clear indentation of where your mask is: it should be very tight but not giving you a headache or pinching or painful. Just very snug.
+2. Fins
+    1. Swimming with fins is a different mindset from being in the water without fins. As soon as you have fins on, you no longer have legs: you have fins. You cannot stand on fins, you cannot walk on fins: you should be swimming at all times. If you need to stand up, no you don't. If you need to rest, flip over and float on your back. Your fins should be horizontal to the ocean floor at all times. When you're ready to have legs again, swim to a shallow spot and take them off.
+    2. If you really need to stand up, first flip over so you're on your back, then bring your legs to the ocean floor heel first. If you try to put your feet down flat or toes first your fins WILL get caught and tangled in the sand and the water and you'll feel like you're trapped. With fins on, move heel first.
+    2. The key to going fast with fins is to "scissor kick". Keep your knees as straight as possible: your whole leg kicks, and the fins to the extra work of pushing you far. Lots of people bend their knees and try to push off the water like they're jumping. Legs straight, toes pointed.
+
+
 ### Kayak Na Pali Coast
 
 Na Pali: https://camping.ehawaii.gov/camping/all,details,1692.html
