@@ -1,6 +1,7 @@
-List of fun things
+## List of fun things
+
 West:
-- Waimea hikes (awaawapuhi, etc.)
+- Waimea hikes (awaawapuhi, etc.) // Tuesday
 
 North:
 - Hideaways beach
