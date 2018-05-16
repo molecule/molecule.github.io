@@ -16,6 +16,12 @@ South:
 
 ## Activities
 
+### Hiking
+We went on quite a few hikes: Sleeping Giant, Okolehao, and the Awa'awapuhi hike to see the NaPali coast. By far my favourite was the [Awa'awapuhi trail](https://www.alltrails.com/trail/us/hawaii/awaawapuhi-trail): the view at the end is spectacular. 
+
+#### Awa'awapuhi Hike
+Don't miss this. The view is the best on the island. It can get slippery and muddy. You can check trail conditions before heading out but we didn't. The most dangerous part of the hike is out at the end, but it's in direct sunlight so if it's been sunny it'll likely be dry. It is illegal and very dangerous to go past the guard-rails. But nearly everyone does and as long as you don't die it's totally worth it. The hike down is fairly easy: it was pretty muddy the day we did it, but not as bad as Okolehao, so we barely noticed it. We nearly ran the second half of the trail. Going up was much more arduous. You gain ~2,000 feet in altitude over 3.1 miles, so it's a steady, unrelenting grade upwards. 
+
 ### Camping
 County site for Kaua'i: https://www.kauai.gov/Camping
 State parks: https://camping.ehawaii.gov/camping/all,e-search.html
