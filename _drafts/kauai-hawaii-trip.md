@@ -11,14 +11,14 @@ This was surprisingly difficult to get on the island. Most grocery stores and ph
 
 **Cons**: 
 - Can capture weird reflections and distortions esp when above water.
-- Touching the screen doesn't work underwater. This can make switching into video mode difficult as you have to live the case out of the water to touch the button. Taking pictures can be done w/ the volume buttons. I set my phone to auto-open the camera when I doubletap the power button. On average it would take me about 1.5 seconds to go from seeing something cool to taking a picture of it. For snorkeling, it was easy to get into video mode since you're nearly always right on the surface of the water.
-- You can get phantom touches on the screen. This was resolved if I made sure the bag was full of air before going into the water.
+- Touching the screen doesn't work underwater. This can make switching into video mode difficult as you have to lift the case out of the water to touch the button. Taking pictures can be done w/ the volume buttons. I set my phone to auto-open the camera when I doubletap the power button. On average it would take me about 1.5 seconds to go from seeing something cool to taking a picture of it. For snorkeling, it was easy to get into video mode since you're nearly always right on the surface of the water.
+- You can get phantom touches on the screen, which would randomly trigger various phone functions. This was resolved if I made sure the bag was full of air before going into the water, since then the waterproof bag is held off the surface of the phone by the air and nothing can cause phantom touches on the phone.
 - Phone can have trouble focusing. I'm not sure if this was entirely the bag's fault, or if it's more related to the poor visibility we had in Hawai'i. It would sometimes get unfocused. I couldn't touch the screen to refocus, and also couldn't always even see that it was unfocused.
 
 **Pros**:
 - Most images turn out really clear. Videos in particular worked really well. I'm thrilled with the underwater stuff I got: the turtles and the dolphins really blew my mind.
 - Phone was completely safe and dry the whole time.
-- Strap felt fairly secure, certainly good enough for snorkeling.
+- Strap felt fairly secure, certainly good enough for snorkeling. I also had a climbing strap and a caribiner to give me more room but also more security for keeping it attached to my body.
 - The air inside the bag means it floats, even w/ my heavy Pixel 2 XL.
 
 ### Ziplock bags
@@ -31,6 +31,21 @@ We went on quite a few hikes: Sleeping Giant, Okolehao, and the Awa'awapuhi hike
 
 #### Awa'awapuhi Hike
 Don't miss this. The view is the best on the island. It can get slippery and muddy. You can check trail conditions before heading out but we didn't. The most dangerous part of the hike is out at the end, but it's in direct sunlight so if it's been sunny it'll likely be dry. It is illegal and very dangerous to go past the guard-rails. But nearly everyone does and as long as you don't die it's totally worth it. The hike down is fairly easy: it was pretty muddy the day we did it, but not as bad as Okolehao, so we barely noticed it. We nearly ran the second half of the trail. Going up was much more arduous. You gain ~2,000 feet in altitude over 3.1 miles, so it's a steady, unrelenting hike up to your car, which can get a little tiring. 
+
+#### Okolehao
+We didn't go up very far. I've heard the view is spectacular. We preferred to snorkel since we can hike in California already :)
+
+#### Sleeping Giant
+This hike was pretty easy and has a great view at the top. 
+
+#### Pihea Ridge trail Alaka'i Swamp Trail
+
+#### Kauapea (Secrets) Beach
+This was a surprise hike. It's quite a walk down to the beach off the dirt road. If you get down to the beach and then realize you need to go to the bathroom, it'll take you around 45 minutes to make it back to the beach. No facilities. Gorgeous beach, but rough surf means it's not great for swimming or snorkeling.
+
+#### Recommended hikes
+We didn't have time to do these, but had them recommended by locals while we were there:
+- [Kalepa Ridge Trail.](https://www.alltrails.com/trail/us/hawaii/kalepa-ridge-trail) At the end of 0.8 miles you have a view of Kalalau valley on one side, and Honopu beach on the other. Sounds perfect.
 
 ### Camping
 County site for Kaua'i: https://www.kauai.gov/Camping
