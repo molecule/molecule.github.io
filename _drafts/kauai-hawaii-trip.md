@@ -21,6 +21,9 @@ This was surprisingly difficult to get on the island. Most grocery stores and ph
 - Strap felt fairly secure, certainly good enough for snorkeling.
 - The air inside the bag means it floats, even w/ my heavy Pixel 2 XL.
 
+### Ziplock bags
+The humidity, beach sand and beach water will get in everything: it was convenient to have little bags you could throw your wallet, rental car keys and whatever else into a little waterproof bag.
+
 ## Activities
 
 ### Hiking
