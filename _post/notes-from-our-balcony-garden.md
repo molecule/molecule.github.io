@@ -84,6 +84,17 @@ roses:
         imag: /src/img/roses/thornless-generous-gardener.png
         link: https://www.regannursery.com/rose/The-Generous-Gardener
     -
+        name: Paul Neyron
+        shade: NO.
+        scent: Strong.
+        disease-resistant: "?"
+        climbing: No.
+        notes: 6in blooms. Repeat.
+        feelings: Scent?
+        imag: /src/img/roses/thornless-paul-neyron.png
+        link: https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html
+
+    -
         name: Queen of Sweden
         shade: NO.
         scent: Slight.
@@ -172,7 +183,7 @@ roses:
 |<img src="/src/img/roses/thornless-mme-plantier.png" alt="Mme. Plantier roses"/>|[Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier)|X|?|Very|X|Once blooming.|Shape :(|
 |<img src="/src/img/roses/thornless-kathleen-harrop.png" alt="Kathleen Harrop roses"/>|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|NO|Very|Poor|X|Perpetual blooming.|<Zephirine Douhin.|
 |<img src="/src/img/roses/thornless-reine-des-violettes.png" alt="Reine des Violettes roses"/>|[Reine](https://www.davidaustinroses.com/us/reine-des-violettes-old-rose) des [Violettes](https://www.heirloomroses.com/reine-des-violettes.html)|NO|Very.|Good|NO|Repeat blooming.|Scent?|
-|<img src="/src/img/roses/thornless-paul-neyron.png" alt="Paul Neyron roses"/>|[Paul Neyron](https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html)|NO|Very.|?|NO|6" blooms. Repeat flowering.|Scent?|
+
 
 |<img src="/src/img/roses/thornless-mme-legras-de-st-germain.png" alt="Mme. Le Gras de St. Germain roses"/>|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|Strong.|Good.|Can be.|Once flowering.|Shape :(|
 
