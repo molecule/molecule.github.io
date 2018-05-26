@@ -2,7 +2,39 @@
 layout: post
 date: 2018-05-26
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
+roses:
+    -
+        title: Guardians
+        desc: (coming soon to DIS 2018)
+        tags: [res]
+        imag: /src/img/guardians-pic.png
+        link: http://cearto.com/projects/guardians
 ---
+
+<div id='roses'>
+{% for rose in page.roses %}
+<div class="rose">
+  <a href="{{ rose.link }}">
+  <div class="project-wrapper">
+    <img src="{{ rose.imag }}" class="project-image"/>
+    <div class="project-info">
+        <h4>{{ rose.title }} </h4>
+        <small>{{ rose.desc }}</small>
+    </div>
+  <div class="project-tags">
+    {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
+    {% endfor %}</div>
+  </div>
+  <div class="project-description"> {{project.description}} </div>
+    </a>
+</div>
+
+<div id="project_details">
+    <div id="project_details_title">{{ project.title }}</div>
+    <div id="project_details_description">{{ project.description }}</div>
+</div>
+{% endfor %}
+</div>
 
 #### Mandarin Semi-Dwarf Clementine
 1. Roots sensitive to too much water, so don't use potting mixes that retain water. Best may be rose garden soil mixes (formulated for outside use).[1]
@@ -41,6 +73,8 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/
 - 'About Face': An All-America Rose selection in 2005, it is a bicolor, upright and tall grandiflora. Part of the charm of this winner is that its petals are golden-orange on their insides and bronzy-red on the outside. Fragrance is mild and thought to be apple-like.
 - **Barbra Streisand**: A hybrid tea introduced in 2001, it is right up the alley of fragrance fanciers and those fond of deep lilac to mauve large blossoms. Plants reach medium heights and are notably bushy. Fragrance isn't just powerful, it's deep-rose.
 - 'Hot Cocoa': An All-America floribunda in 2003, it caused quite a stir in rosedom when it was introduced because the color spread across rose petals was virtually unknown. As moderately scented blooms mature, deep rust, pointy buds open into a chocolate smoky haze of petals that eventually take on a purply case. At every stage, a knockout.
+
+<h4> Old table </h4>
 
 |Pic|Name+Link|Shade tolerant?|Fragrance?|Disease resistant?|Climbing?|Notes|Feelings.|
 |:---|---|---|---|---|---|---|-----------|
