@@ -27,16 +27,17 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/
 
 |Pic|Name+Link|Shade tolerant?|Fragrance?|Disease resistant?|Climbing?|Notes|Feelings.|
 |---|---|---|---|---|---|---|-----------|
-|<img src="/src/img/roses/thornless-kathleen-harrop.png" alt="Kathleen Harrop roses"/>|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|NO|Very|Poor|X|Perpetual blooming.|Less-good version Zephirine Douhin.|
-|<img src="/src/img/roses/thornless-mme-legras-de-st-germain.png" alt="Mme. Le Gras de St. Germain roses"/>|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|?|?|?|Ivory white.|Shape :(|
-|<img src="/src/img/roses/thornless-reine-des-violettes.png" alt="Reine des Violettes roses"/>|[Reine](https://www.davidaustinroses.com/us/reine-des-violettes-old-rose) des [Violettes](https://www.heirloomroses.com/reine-des-violettes.html)|NO|Very.|Good|NO|Repeat blooming.|Scent?|
-|<img src="/src/img/roses/thornless-mme-plantier.png" alt="Mme. Plantier roses"/>|[Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier)|X|?|Very|X|Once blooming.|Shape :(|
 |<img src="/src/img/roses/thornless-zephirine-drouhin.png" alt="Zephirine Douhin roses"/>|[Zéphirine Drouhin](https://www.heirloomroses.com/zephirine-drouhin.html)|X|Very|?|X|Continual blooming. 4" blooms. Many flowers.|Scent?|
-|<img src="/src/img/roses/thornless-paul-neyron.png" alt="Paul Neyron roses"/>|[Paul Neyron](https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html)|NO|Very.|?|NO|6" blooms. Repeat flowering.|Scent?|
 |<img src="/src/img/roses/thornless-james-galway.png" alt="James Galway roses"/>|[James Galway](https://www.davidaustinroses.com/us/james-galway-english-climbing-rose).|X|"old rose"|Excellent|X|Repeat flowering.|Scent?|
+|<img src="/src/img/roses/thornless-a-shropshire-lad.png" alt="A Shropshire Lad roses"/>|[A Shopshire Lad](https://www.heirloomroses.com/a-shropshire-lad.html).|X|Somewhat.|Excellent|Can be.|Repeat flowering. [Good in containers!](https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose)|Eh.|
+|<img src="/src/img/roses/thornless-mme-plantier.png" alt="Mme. Plantier roses"/>|[Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier)|X|?|Very|X|Once blooming.|Shape :(|
+|<img src="/src/img/roses/thornless-kathleen-harrop.png" alt="Kathleen Harrop roses"/>|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|NO|Very|Poor|X|Perpetual blooming.|<Zephirine Douhin.|
+|<img src="/src/img/roses/thornless-reine-des-violettes.png" alt="Reine des Violettes roses"/>|[Reine](https://www.davidaustinroses.com/us/reine-des-violettes-old-rose) des [Violettes](https://www.heirloomroses.com/reine-des-violettes.html)|NO|Very.|Good|NO|Repeat blooming.|Scent?|
+|<img src="/src/img/roses/thornless-paul-neyron.png" alt="Paul Neyron roses"/>|[Paul Neyron](https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html)|NO|Very.|?|NO|6" blooms. Repeat flowering.|Scent?|
 |<img src="/src/img/roses/thornless-mortimer-sackler.png" alt="Morimer Sackler roses"/>|[Motimer Sackler](https://www.davidaustinroses.com/us/mortimer-sackler-english-climbing-rose).|NO?|"old rose" w fruit.|Excellent|X|Repeat flowering.|
 |<img src="/src/img/roses/thornless-wollerton-old-hall.png" alt="Wollerton Old Hall roses"/>|[Wollerton Old Hall](https://www.heirloomroses.com/wollerton-old-hall.html)|NO|Most.|Somewhat|NO|Continual blooming.|
-|<img src="/src/img/roses/thornless-a-shropshire-lad.png" alt="A Shropshire Lad roses"/>|[A Shopshire Lad](https://www.heirloomroses.com/a-shropshire-lad.html).|X|Somewhat|Excellent|Can be.|Repeat flowering. [Good in containers!](https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose)|Eh.|
+
+|<img src="/src/img/roses/thornless-mme-legras-de-st-germain.png" alt="Mme. Le Gras de St. Germain roses"/>|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|Strong.|Good.|Can be.|Once flowering.|Shape :(|
 
 #### Sugar Snap Peas
 1. Sow 2 or 3 times, 7 to 10 days apart, to extend harvest. [5]
