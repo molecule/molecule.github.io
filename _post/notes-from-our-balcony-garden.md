@@ -10,18 +10,114 @@ roses:
         disease-resistant: Excellent
         imag: /src/img/roses/thornless-james-galway.png
         link: https://www.regannursery.com/rose/James-Galway
+        climbing: Both.
+        notes: Repeat.
+        feelings: Scent?
+    -
+        name: Brother Cadfael
+        shade: 4hrs sun OK
+        scent: Very.
+        disease-resistant: Good.
+        imag: /src/img/roses/thornless-brother-cadfael.png
+        link: https://www.regannursery.com/rose/Brother-Cadfael
+        climbing: Both.
+        notes: Repeat.
+        feelings: Ideal for pots.
+    -
+        name: Deja Blu
+        shade: X?
+        scent: Very.
+        disease-resistant: "?"
+        imag: /src/img/roses/thornless-deja-blu.png
+        link: https://www.regannursery.com/rose/Deja-Blu
+        climbing: Both.
+        notes: "?"
+        feelings: Scent?
+    -
+        name: Zéphirine Drouhin
+        shade: X
+        scent: Very.
+        disease-resistant: "?"
+        climbing: X
+        notes: Continual 4in blooms.
+        feelings: Many flowers.
+        imag: /src/img/roses/thornless-zephirine-drouhin.png
+        link: https://www.heirloomroses.com/zephirine-drouhin.html
+    -
+        name: A Shropshire Lad
+        shade: X
+        scent: Somewhat.
+        disease-resistant: Excellent.
+        climbing: Both.
+        notes: Repeat. <a href="https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose">Good in pots!</a>
+        feelings: Eh.
+        imag: /src/img/roses/thornless-a-shropshire-lad.png
+        link: https://www.heirloomroses.com/a-shropshire-lad.html
+    - 
+        name: Mortimer Sackler 
+        shade: NO?
+        scent: old rose w fruit
+        disease-resistant: Excellent.
+        climbing: X
+        notes: Repeat flowering.
+        feelings: Seem lovely.
+        imag: /src/img/roses/thornless-mortimer-sackler.png
+        link: https://www.davidaustinroses.com/us/mortimer-sackler-english-climbing-rose
+    -
+        name: Wollerton Old Hall 
+        shade: NO.
+        scent: Most.
+        disease-resistant: Somewhat.
+        climbing: No.
+        notes: Continual blooming.
+        feelings: Plant where it's easy to enjoy lovely smell.
+        imag: /src/img/roses/thornless-wollerton-old-hall.png
+        link: https://www.heirloomroses.com/wollerton-old-hall.html
+    -
+        name: Queen of Sweden
+        shade: NO.
+        scent: Slight.
+        disease-resistant: Very.
+        climbing: Both.
+        notes:
+        feelings: No scent, no point
+        imag: /src/img/roses/thornless-queen-of-sweden.png
+        link: https://www.regannursery.com/rose/Queen-of-Sweden
+    -
+        name: Generous Gardener
+        shade: NO?
+        scent: strong old rose, musk and myrrh
+        disease-resistant: Very.
+        climbing: No.
+        notes: 
+        feelings: Scent?
+        imag: /src/img/roses/thornless-generous-gardener.png
+        link: https://www.regannursery.com/rose/The-Generous-Gardener
+    - 
+        
 ---
 
-<table class='roses'>
+<table class='roses' style="width:100%">
+<tr class="rose">
+    <th width="30%">Blooms</th>
+    <th width="10%">Name</th>
+    <th width="10%">Shade OK?</th>
+    <th width="10%">Scent?</th>
+    <th width="10%">Disease Resistant?</th>
+    <th width="10%">Climbing or Shrub?</th>
+    <th width="10%">Notes</th>
+    <th width="10%">Feelings</th>
+</tr>
+
 {% for rose in page.roses %}
 <tr class="rose">
-    <td><img src="{{ rose.imag }}" style="width:120px"/></td>
-    <td>{{ rose.name }}</td>
+    <td><img src="{{ rose.imag }}" style="width:250px"/></td>
+    <td><medium>{{ rose.name }}</medium></td>
     <td>{{ rose.shade }}</td>
-    <td>{{ rose.scent }}</td>
-    <td>{{ rose.disease-resistant }}</td>
-    <td>{{ rose.climbing }}</td>
-    <td>{{ rose.notes }}</td>
+    <td><small>{{ rose.scent }}</small></td>
+    <td><small>{{ rose.disease-resistant }}</small></td>
+    <td><small>{{ rose.climbing }}</small></td>
+    <td><small>{{ rose.notes }}</small></td>
     <td>{{ rose.feelings }}</td>
 </tr> <!--end rose-->
 {% endfor %}
@@ -69,19 +165,15 @@ roses:
 
 |Pic|Name+Link|Shade tolerant?|Fragrance?|Disease resistant?|Climbing?|Notes|Feelings.|
 |:---|---|---|---|---|---|---|-----------|
-||[James](https://www.regannursery.com/rose/James-Galway) [Galway](https://www.davidaustinroses.com/us/james-galway-english-climbing-rose).|X|"old rose", light|Excellent|Both.|Repeat flowering.|Scent?|
-|<img src="/src/img/roses/thornless-brother-cadfael.png" alt="Brother Cadfael roses"/>|[Brother](https://www.regannursery.com/rose/Brother-Cadfael) [Cadfael.](https://www.davidaustinroses.com/us/brother-cadfael-shrub-rose)|4hrs sun OK.|Very.|Good.|Both.|Repeat flowering.|Ideal for pots. Scent?|
-|<img src="/src/img/roses/thornless-deja-blu.png" alt="Deja Blu roses"/>|[Deja Blu](https://www.regannursery.com/rose/Deja-Blu)|X?|Very.|?|Both.|?|Scent?|
-|<img src="/src/img/roses/thornless-zephirine-drouhin.png" alt="Zephirine Douhin roses"/>|[Zéphirine Drouhin](https://www.heirloomroses.com/zephirine-drouhin.html)|X|Very|?|X|Continual blooming. 4" blooms. Many flowers.|Scent?|
-|<img src="/src/img/roses/thornless-a-shropshire-lad.png" alt="A Shropshire Lad roses"/>|[A Shopshire Lad](https://www.heirloomroses.com/a-shropshire-lad.html).|X|Somewhat.|Excellent|Can be.|Repeat flowering. [Good in containers!](https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose)|Eh.|
-|<img src="/src/img/roses/thornless-mortimer-sackler.png" alt="Morimer Sackler roses"/>|[Motimer Sackler](https://www.davidaustinroses.com/us/mortimer-sackler-english-climbing-rose).|NO?|"old rose" w fruit.|Excellent|X|Repeat flowering.|
-|<img src="/src/img/roses/thornless-queen-of-sweden.png" alt="Queen of Sweden roses"/>|[Queen of Sweden](https://www.regannursery.com/rose/Queen-of-Sweden)|NO|Slight.|Very.|Both.|NO|Scent?|
-|<img src="/src/img/roses/thornless-generous-gardener.png" alt="Generous Gardener roses"/>|[Generous Gardener](https://www.regannursery.com/rose/The-Generous-Gardener)|NO?|"Old Rose, musk and myrrh." Strong.|Very.|NO.|NO|Scent?|
+
+
+
+
 |<img src="/src/img/roses/thornless-mme-plantier.png" alt="Mme. Plantier roses"/>|[Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier)|X|?|Very|X|Once blooming.|Shape :(|
 |<img src="/src/img/roses/thornless-kathleen-harrop.png" alt="Kathleen Harrop roses"/>|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|NO|Very|Poor|X|Perpetual blooming.|<Zephirine Douhin.|
 |<img src="/src/img/roses/thornless-reine-des-violettes.png" alt="Reine des Violettes roses"/>|[Reine](https://www.davidaustinroses.com/us/reine-des-violettes-old-rose) des [Violettes](https://www.heirloomroses.com/reine-des-violettes.html)|NO|Very.|Good|NO|Repeat blooming.|Scent?|
 |<img src="/src/img/roses/thornless-paul-neyron.png" alt="Paul Neyron roses"/>|[Paul Neyron](https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html)|NO|Very.|?|NO|6" blooms. Repeat flowering.|Scent?|
-|<img src="/src/img/roses/thornless-wollerton-old-hall.png" alt="Wollerton Old Hall roses"/>|[Wollerton Old Hall](https://www.heirloomroses.com/wollerton-old-hall.html)|NO|Most.|Somewhat|NO|Continual blooming.|
+
 |<img src="/src/img/roses/thornless-mme-legras-de-st-germain.png" alt="Mme. Le Gras de St. Germain roses"/>|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|Strong.|Good.|Can be.|Once flowering.|Shape :(|
 
 #### Sugar Snap Peas

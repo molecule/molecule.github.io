@@ -254,6 +254,8 @@ strong { color: #303030; }
 
 small { font-size: .5rem}
 
+medium { font-size: 0.7rem}
+
 /* Images */
 .clearfix {
   overflow: auto;
