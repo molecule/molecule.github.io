@@ -19,16 +19,11 @@ roses:
     <div class="project-info">
         <h4>{{ rose.title }} </h4>
         <small>{{ rose.desc }}</small>
-    </div>
-  </div>
-</div>
-
-<div id="project_details">
-    <div id="project_details_title">{{ project.title }}</div>
-    <div id="project_details_description">{{ project.description }}</div>
-</div>
+    </div> <!--end project-info-->
+  </div> <!--end project-wrapper-->
+</div> <!--end rose-->
 {% endfor %}
-</div>
+</div> <!--end roses-->
 
 #### Mandarin Semi-Dwarf Clementine
 1. Roots sensitive to too much water, so don't use potting mixes that retain water. Best may be rose garden soil mixes (formulated for outside use).[1]
