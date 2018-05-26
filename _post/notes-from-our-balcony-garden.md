@@ -26,6 +26,13 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/
 #### Thornless, Fragrant Roses
 0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
 0. "Alba" sub-type can tolerate "less than ideal sun conditions."[4]
+0. Most roses need very large pots, at least 20″ tall and deep. Recommend using varieties that don’t grow more than 4′.
+0. Fertilize once a month during growing season.
+0. In pots, water when the soil is dry 1/2 inch down. Water deeply (more than a sprinkling).
+0. In early spring, when the rose is showing first signs of growth (usually late February or early March), feed with an all-purpose Rose & Flower food. 
+0. Most roses benefit from being completely defoliated in winter, to encourage a deeper dormancy and to remove diseased tissue. 
+0. Source: [Berkeley Hort.](http://berkeleyhort.com/how-to/how-to-grow-roses/)
+0. [Info about bare root plants.](https://www.mercurynews.com/2015/02/18/ask-the-garden-coach-bare-root-season/)
 1. [Excellent intro to growing roses from SFGate.](https://www.sfgate.com/homeandgarden/article/Roses-for-beginners-3204687.php). Suggests this starter set for the Bay Area:
 - **Iceberg**: A longtime favorite floribunda, it is considered one of the best 10 roses worldwide and remains the No. 1 white landscape rose. Plants shower themselves with icy-white blooms formed in clusters on good cutting stems. Foliage is midgreen and lush.
 - **Julia Child**: An All-America floribunda in 2006, it has quickly become America's favorite yellow rose, and for good reason. Fragrant, butter-yellow to golden blooms form in clusters that just don't give up all season long.
