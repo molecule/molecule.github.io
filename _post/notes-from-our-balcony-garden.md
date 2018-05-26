@@ -14,19 +14,13 @@ roses:
 <div id='roses'>
 {% for rose in page.roses %}
 <div class="rose">
-  <a href="{{ rose.link }}">
   <div class="project-wrapper">
     <img src="{{ rose.imag }}" class="project-image"/>
     <div class="project-info">
         <h4>{{ rose.title }} </h4>
         <small>{{ rose.desc }}</small>
     </div>
-  <div class="project-tags">
-    {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
-    {% endfor %}</div>
   </div>
-  <div class="project-description"> {{project.description}} </div>
-    </a>
 </div>
 
 <div id="project_details">
