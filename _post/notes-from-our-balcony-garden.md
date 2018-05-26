@@ -74,16 +74,6 @@ roses:
         imag: /src/img/roses/thornless-wollerton-old-hall.png
         link: https://www.heirloomroses.com/wollerton-old-hall.html
     -
-        name: Queen of Sweden
-        shade: NO.
-        scent: Slight.
-        disease-resistant: Very.
-        climbing: Both.
-        notes:
-        feelings: No scent, no point
-        imag: /src/img/roses/thornless-queen-of-sweden.png
-        link: https://www.regannursery.com/rose/Queen-of-Sweden
-    -
         name: Generous Gardener
         shade: NO?
         scent: strong old rose, musk and myrrh
@@ -93,6 +83,16 @@ roses:
         feelings: Scent?
         imag: /src/img/roses/thornless-generous-gardener.png
         link: https://www.regannursery.com/rose/The-Generous-Gardener
+    -
+        name: Queen of Sweden
+        shade: NO.
+        scent: Slight.
+        disease-resistant: Very.
+        climbing: Both.
+        notes:
+        feelings: No scent, no point
+        imag: /src/img/roses/thornless-queen-of-sweden.png
+        link: https://www.regannursery.com/rose/Queen-of-Sweden
     - 
         
 ---
