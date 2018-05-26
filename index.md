@@ -268,26 +268,23 @@ newsfeed:
 <div class="project">
   <a href="{{ project.link }}">
   <div class="project-wrapper">
-    
     <img src="{{ project.imag }}" class="project-image"/>
     <div class="project-info">
         <h4>{{ project.title }} </h4>
         <small>{{ project.desc }}</small>
-  </div>
+    </div>
   <div class="project-tags">
     {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
     {% endfor %}</div>
   </div>
   <div class="project-description"> {{project.description}} </div>
-</a>
+    </a>
 </div>
 
 <div id="project_details">
     <div id="project_details_title">{{ project.title }}</div>
     <div id="project_details_description">{{ project.description }}</div>
 </div>
-
-
 {% endfor %}
 </div>
 
