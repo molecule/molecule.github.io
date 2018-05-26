@@ -1,3 +1,9 @@
+---
+layout: post
+date: 2018-05-26
+image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
+---
+
 #### Mandarin Semi-Dwarf Clementine
 1. Roots sensitive to too much water, so don't use potting mixes that retain water. Best may be rose garden soil mixes (formulated for outside use).[1]
 2. Water about once per week. Only water if soil is dry ~2 inches down into soil. Yellow or cupped leaves may be overwatered. Citrus prefer infrequent, deep watering to frequent, shallow sprinklings.
@@ -21,9 +27,9 @@
 
 |Pic|Name+Link|Shade tolerant?|Fragrance?|Disease resistant?|Climbing?|Notes|
 |---|---|---|---|---|---|---|
-|<img src="/src/img/roses/thornless-kathleen-harrop.png" alt="Kathleen Harrop roses" style="width: 400px; padding:10px"/>|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|NO|Very|Poor|X|Perpetual blooming.|
-|<img src="/src/img/roses/thornless-mme-legras-de-st-germain.png" alt="Mme. Le Gras de St. Germain roses" style="width: 400px; padding:10px"/>|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|?|?|?|Ivory white.|
-|?|[Reine des Violettes](https://www.heirloomroses.com/reine-des-violettes.html)|NO|?|?|?|Repeat blooming.|
+|<img src="/src/img/roses/thornless-kathleen-harrop.png" alt="Kathleen Harrop roses"/>|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|NO|Very|Poor|X|Perpetual blooming.|
+|<img src="/src/img/roses/thornless-mme-legras-de-st-germain.png" alt="Mme. Le Gras de St. Germain roses"/>|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|?|?|?|Ivory white.|
+|<img src="/src/img/roses/thornless-reine-des-violettes.png" alt="Reine des Violettes roses"/>|[Reine](https://www.davidaustinroses.com/us/reine-des-violettes-old-rose) des [Violettes](https://www.heirloomroses.com/reine-des-violettes.html)|NO|Very.|Good|NO|Repeat blooming.|
 |?|[Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier)|X|?|?|?|Once blooming.|
 |?|[Zéphirine Drouhin](https://www.heirloomroses.com/zephirine-drouhin.html)|X|?|?|?|Perpetual blooming.|
 |?|[Paul Neyron](https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html)|NO|?|?|?|Large flowers. Repeat flowering.|
