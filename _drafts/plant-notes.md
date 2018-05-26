@@ -18,16 +18,19 @@
 #### Thornless, Fragrant Roses
 0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
 0. "Alba" sub-type can tolerate "less than ideal sun conditions."[4]
-1. [Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop) roses. Gentle pink. Perpetual blooming. Climbing.
-2. [Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain) Ivory white. Does not tolerate shade.
-3. [Reine des Violettes](https://www.heirloomroses.com/reine-des-violettes.html). Repeat blooming. Does not tolerate shade.
-4. [Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier) Shade tolerant. Once blooming.
-5. [Zéphirine Drouhin](https://www.heirloomroses.com/zephirine-drouhin.html). Perpetual blooming. Shade tolerant. 
-6. [Paul Neyron](https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html). Large flowers. Deep pink/lilac. Repeat flowering. Not shade tolerant.
-7. [James Galway](https://www.davidaustinroses.com/us/james-galway-english-climbing-rose). Ideal for shade. Gorgeous flowers. Repeat flowering. Excellent disease resistance.
-8. [Motimer Sackler](https://www.davidaustinroses.com/us/mortimer-sackler-english-climbing-rose). Repeat flowering. Excellent disease resistance. Shade tolerant.
-9. [Wollerton Old Hall](https://www.heirloomroses.com/wollerton-old-hall.html). Not shade tolerant. VERY fragrant. Continual blooming.
-10. [A Shopshire Lad](https://www.heirloomroses.com/a-shropshire-lad.html). Excellent disease resistance. Repeat flowering. Climbing. Shade tolerant. [Good in containers!](https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose)
+
+|Pic|Name+Link|Shade tolerant?|Fragrance?|Disease resistant?|Climbing?|Notes|
+|---|---|---|---|---|---|---|
+|?|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|?|?|?|X|Perpetual blooming.|
+|?|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|?|?|?|Ivory white.|
+|?|[Reine des Violettes](https://www.heirloomroses.com/reine-des-violettes.html)|NO|?|?|?|Repeat blooming.|
+|?|[Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier)|X|?|?|?|Once blooming.|
+|?|[Zéphirine Drouhin](https://www.heirloomroses.com/zephirine-drouhin.html)|X|?|?|?|Perpetual blooming.|
+|?|[Paul Neyron](https://www.heirloomroses.com/roses/old-garden-roses/hybrid-perpetuals/paul-neyron.html)|NO|?|?|?|Large flowers. Repeat flowering.|
+|?|[James Galway](https://www.davidaustinroses.com/us/james-galway-english-climbing-rose).|X|?|Excellent|?|Repeat flowering.
+|?|[Motimer Sackler](https://www.davidaustinroses.com/us/mortimer-sackler-english-climbing-rose).|X|?|Excellent|?|Repeat flowering.|
+|?|[Wollerton Old Hall](https://www.heirloomroses.com/wollerton-old-hall.html)|NO|Very|?|?|Continual blooming.|
+|?|[A Shopshire Lad](https://www.heirloomroses.com/a-shropshire-lad.html).|X|?|Excellent|X|Repeat flowering. [Good in containers!](https://www.davidaustinroses.com/us/a-shropshire-lad-shrub-rose)|
 
 #### Sugar Snap Peas
 1. Sow 2 or 3 times, 7 to 10 days apart, to extend harvest. [5]
