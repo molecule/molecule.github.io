@@ -21,8 +21,8 @@
 
 |Pic|Name+Link|Shade tolerant?|Fragrance?|Disease resistant?|Climbing?|Notes|
 |---|---|---|---|---|---|---|
-|?|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|?|?|?|X|Perpetual blooming.|
-|?|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|?|?|?|Ivory white.|
+|<img src="/src/img/roses/thornless-kathleen-harrop.png" alt="Kathleen Harrop roses" style="width: 400px; padding:10px"/>|[Kathleen Harrop](https://www.davidaustinroses.com/eu/kathleen-harrop)|NO|Very|Poor|X|Perpetual blooming.|
+|<img src="/src/img/roses/thornless-mme-legras-de-st-germain.png" alt="Mme. Le Gras de St. Germain roses" style="width: 400px; padding:10px"/>|[Mme. Legras de St. Germain.](https://www.davidaustinroses.com/eu/mme-legras-de-st-germain)|NO|?|?|?|Ivory white.|
 |?|[Reine des Violettes](https://www.heirloomroses.com/reine-des-violettes.html)|NO|?|?|?|Repeat blooming.|
 |?|[Mme. Plantier.](https://www.roguevalleyroses.com/rose/mme-plantier)|X|?|?|?|Once blooming.|
 |?|[Zéphirine Drouhin](https://www.heirloomroses.com/zephirine-drouhin.html)|X|?|?|?|Perpetual blooming.|
