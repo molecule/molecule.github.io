@@ -4,26 +4,28 @@ date: 2018-05-26
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 roses:
     -
-        title: Guardians
-        desc: (coming soon to DIS 2018)
-        tags: [res]
-        imag: /src/img/guardians-pic.png
-        link: http://cearto.com/projects/guardians
+        name: James Galway
+        shade: X
+        scent: light "old rose"
+        disease-resistant: Excellent
+        imag: /src/img/roses/thornless-james-galway.png
+        link: https://www.regannursery.com/rose/James-Galway
 ---
 
-<div id='roses'>
+<table class='roses'>
 {% for rose in page.roses %}
-<div class="rose">
-  <div class="project-wrapper">
-    <img src="{{ rose.imag }}" class="project-image"/>
-    <div class="project-info">
-        <h4>{{ rose.title }} </h4>
-        <small>{{ rose.desc }}</small>
-    </div> <!--end project-info-->
-  </div> <!--end project-wrapper-->
-</div> <!--end rose-->
+<tr class="rose">
+    <td><img src="{{ rose.imag }}" style="width:120px"/></td>
+    <td>{{ rose.name }}</td>
+    <td>{{ rose.shade }}</td>
+    <td>{{ rose.scent }}</td>
+    <td>{{ rose.disease-resistant }}</td>
+    <td>{{ rose.climbing }}</td>
+    <td>{{ rose.notes }}</td>
+    <td>{{ rose.feelings }}</td>
+</tr> <!--end rose-->
 {% endfor %}
-</div> <!--end roses-->
+</table> <!--end roses-->
 
 #### Mandarin Semi-Dwarf Clementine
 1. Roots sensitive to too much water, so don't use potting mixes that retain water. Best may be rose garden soil mixes (formulated for outside use).[1]
@@ -67,7 +69,7 @@ roses:
 
 |Pic|Name+Link|Shade tolerant?|Fragrance?|Disease resistant?|Climbing?|Notes|Feelings.|
 |:---|---|---|---|---|---|---|-----------|
-|<img src="/src/img/roses/thornless-james-galway.png" alt="James Galway roses"/>|[James](https://www.regannursery.com/rose/James-Galway) [Galway](https://www.davidaustinroses.com/us/james-galway-english-climbing-rose).|X|"old rose", light|Excellent|Both.|Repeat flowering.|Scent?|
+||[James](https://www.regannursery.com/rose/James-Galway) [Galway](https://www.davidaustinroses.com/us/james-galway-english-climbing-rose).|X|"old rose", light|Excellent|Both.|Repeat flowering.|Scent?|
 |<img src="/src/img/roses/thornless-brother-cadfael.png" alt="Brother Cadfael roses"/>|[Brother](https://www.regannursery.com/rose/Brother-Cadfael) [Cadfael.](https://www.davidaustinroses.com/us/brother-cadfael-shrub-rose)|4hrs sun OK.|Very.|Good.|Both.|Repeat flowering.|Ideal for pots. Scent?|
 |<img src="/src/img/roses/thornless-deja-blu.png" alt="Deja Blu roses"/>|[Deja Blu](https://www.regannursery.com/rose/Deja-Blu)|X?|Very.|?|Both.|?|Scent?|
 |<img src="/src/img/roses/thornless-zephirine-drouhin.png" alt="Zephirine Douhin roses"/>|[Zéphirine Drouhin](https://www.heirloomroses.com/zephirine-drouhin.html)|X|Very|?|X|Continual blooming. 4" blooms. Many flowers.|Scent?|

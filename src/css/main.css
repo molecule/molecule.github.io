@@ -73,6 +73,11 @@ ul { list-style-type: square; }
 
 /* END SCROLLABLE NEWS REEL */
 
+/* roses */
+.roses table, th, td {
+  border: 1px solid black;
+}
+
 /* rotated 90 images */
 .rotate90 {
     -webkit-transform: rotate(90deg);
