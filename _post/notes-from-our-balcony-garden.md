@@ -127,6 +127,18 @@ roses:
         
 ---
 
+#### Amaryllis belladonna 
+Or "naked ladies"
+1. Fleshy seeds often appear after flowers fade, somewhat resembling pomegranate seeds and colored pink or white. The seeds must be fresh to germinate. Sow them in commercial well-draining potting mix and keep the soil moist. The seeds germinate in as little as two weeks. 
+2. The seedlings don't bloom until they are three to six years old or older.
+3. plant naked lady in full sun and remove the dead leaves from the ground each year when they have completely died down. Allowing summer heat to reach the dormant bulbs seems to help regular bloom.
+4. Adapts to most soil, as long as it is well-draining.
+5. Once established, the plant is drought tolerant.
+6. Space 1 foot apart to allow for their eventual 1 1/2 - to 2-foot spread.
+7. Don't seem to bloom the year or two after being moved.
+
+Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) and [hunker.com](https://www.hunker.com/12001198/how-to-plant-a-naked-lady)
+
 #### Mandarin Semi-Dwarf Clementine
 1. Roots sensitive to too much water, so don't use potting mixes that retain water. Best may be rose garden soil mixes (formulated for outside use).[1]
 2. Water about once per week. Only water if soil is dry ~2 inches down into soil. Yellow or cupped leaves may be overwatered. Citrus prefer infrequent, deep watering to frequent, shallow sprinklings.
