@@ -44,16 +44,6 @@ roses:
         imag: /src/img/roses/thornless-mortimer-sackler.png
         link: https://www.davidaustinroses.com/us/mortimer-sackler-english-climbing-rose
     -
-        name: Secret
-        shade: X
-        scent: Exceptionally strong.
-        disease-resistant:
-        climbing:
-        notes: Prob better than Barbra due to shade tolerance.
-        feelings: Boring color.
-        imag: /src/img/roses/thornless-secret.png
-        link: https://www.heirloomroses.com/secret.html
-    -
         name: Generous Gardener
         shade: NO?
         scent: strong old rose, musk and myrrh
@@ -63,6 +53,16 @@ roses:
         feelings: Scent?
         imag: /src/img/roses/thornless-generous-gardener.png
         link: https://www.regannursery.com/rose/The-Generous-Gardener
+    -
+        name: Secret
+        shade: X
+        scent: Exceptionally strong.
+        disease-resistant:
+        climbing:
+        notes: Prob better than Barbra due to shade tolerance.
+        feelings: Boring color.
+        imag: /src/img/roses/thornless-secret.png
+        link: https://www.heirloomroses.com/secret.html
     -
         name: Paul Neyron
         shade: NO.
