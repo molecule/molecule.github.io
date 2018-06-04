@@ -203,6 +203,17 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 - 'About Face': An All-America Rose selection in 2005, it is a bicolor, upright and tall grandiflora. Part of the charm of this winner is that its petals are golden-orange on their insides and bronzy-red on the outside. Fragrance is mild and thought to be apple-like.
 - **Barbra Streisand**: A hybrid tea introduced in 2001, it is right up the alley of fragrance fanciers and those fond of deep lilac to mauve large blossoms. Plants reach medium heights and are notably bushy. Fragrance isn't just powerful, it's deep-rose.
 - 'Hot Cocoa': An All-America floribunda in 2003, it caused quite a stir in rosedom when it was introduced because the color spread across rose petals was virtually unknown. As moderately scented blooms mature, deep rust, pointy buds open into a chocolate smoky haze of petals that eventually take on a purply case. At every stage, a knockout.
+2. Fragrant, thornless orange roses that I like:
+- [Vavoom](https://www.regannursery.com/rose/Vavoom)
+- [Sunstruck](https://www.regannursery.com/rose/Sunstruck)
+- [Las Vegas](https://www.regannursery.com/rose/Las-Vegas)
+- [Joseph's Coat](https://www.regannursery.com/rose/Josephs-Coat-Climbing)
+- [Honey Perfume](https://www.regannursery.com/rose/Honey-Perfume)
+- [Good as Gold](https://www.regannursery.com/rose/Good-as-Gold-)
+- [Gentle Giant](https://www.regannursery.com/rose/Gentle-Giant)
+- [Centennial Star](https://www.regannursery.com/rose/Centennial-Star)
+- [Arizona](https://www.regannursery.com/rose/Arizona)
+- [Anna's Promise](https://www.regannursery.com/rose/Rosa-Annas-Promise-Downton-Abbey-Collection)
 
 #### Sugar Snap Peas
 1. Sow 2 or 3 times, 7 to 10 days apart, to extend harvest. [5]
