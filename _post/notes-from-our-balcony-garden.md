@@ -212,6 +212,10 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 5. Keep the seeds in a lightly shaded area until germination (9-13 days). [6]
 6. Peas prefer cool conditions, so plant them early in the season. When it gets too warm, they stop producing.[6]
 
+|Location|Planted|Sprouted|
+|---|---|---|
+|Front row|3 June||
+
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html
 [3]:https://www.fourwindsgrowers.com/growing-essentials/watering-guidelines.html
