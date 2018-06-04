@@ -127,6 +127,9 @@ roses:
         
 ---
 
+#### Compost
+The city of Berkeley provides [free compost for Berkeley residents (with a photo id)](https://www.cityofberkeley.info/uploadedFiles/Parks_Rec_Waterfront/Level_3_-_Trees_and_Parks/FREE%20COMPOST%20FLIER%202018.pdf). Since Berkeley has city-wide composting, residents can come and pick up the fruits (and veggies) of someone's labour to enricih their gardens. The rich, steamy compost gets dumped at the Marina starting at 6:30am the first Saturday of every month (unless it's raining in the East Bay and prevents loading the compost). Check the [Berkeley compost website](https://www.cityofberkeley.info/Parks_Rec_Waterfront/Marina/Free_Compost_for_Berkeley_Residents.aspx) for delivery updates. Get there right at 6:30: there were already 10 cars there shoveling the black gold into bags and buckets as fast as they could. I'd bet it's all gone by 8am. 
+
 #### Amaryllis belladonna 
 Or "naked ladies"
 1. Fleshy seeds often appear after flowers fade, somewhat resembling pomegranate seeds and colored pink or white. The seeds must be fresh to germinate. Sow them in commercial well-draining potting mix and keep the soil moist. The seeds germinate in as little as two weeks. 
