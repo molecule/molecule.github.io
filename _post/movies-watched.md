@@ -30,7 +30,7 @@ movies:
         link: https://www.alternateending.com/2018/03/annihilation-2018.html
     -
         title: Game Night
-        review: I mean....what do you want. Jason Bateman and Rachel McAdams (one of the prettiest women alive) are in over their heads. I love how the couple seems to actually like and support each other. Great cameo by the excellent Chelsea Peretti.
+        review: It's not great but....what do you want. Jason Bateman and Rachel McAdams (one of the prettiest women alive) play characters who are in over their heads. I love how the couple seems to actually like and support each other. Great cameo by the excellent Chelsea Peretti.
         rating: 2
         link: https://www.alternateending.com/2018/03/game-night-2018.html
     -
@@ -45,17 +45,17 @@ movies:
         link: https://www.alternateending.com/2017/12/the-post-2017.html
     - 
         title: The Greatest Showman
-        review: Ugh. I love musicals **and** the circus but I hated this. Boring, poppy songs (except the excellent power anthem by the Bearded Lady), thin characters, and not anything fun to make up for it.
+        review: Ugh. I love musicals *and* the circus but I hated this. Boring, poppy songs (except the excellent power anthem by the Bearded Lady), thin characters, and not anything fun to make up for it.
         rating: 1
         link: https://www.alternateending.com/2018/01/greatest-showman-2017.html
     - 
         title: I, Tonya
-        review: Really good. This event featured surprisingly large in my childhood, so it was an interesting experience in nostalgia to see it on-screen.
+        review: Really good. This event featured surprisingly large in my childhood (maybe the first "viral" news story I remember? That and Jon-Benet Ramsey's murder), so it was an interesting experience in nostalgia to see it on-screen. Cool and weird framing. Margot Robbie is excellent and Allison Janney is in top form (one of my all-time faves).
         rating: 2.5
         link: https://www.alternateending.com/2017/12/i-tonya-2017.html
     - 
         title: Disaster Artist
-        review: The Room was a weird experience when I first saw it living w 6 roommates in section 8 housing in a not-great neighborhood in SF at the height of the recession. This movie is phenomenally well-done. James Franco deserves an Oscar.
+        review: The Room was a weird experience when I first saw it while living w 6 roommates (two of whom are now famous comedians!) in section 8 housing in a not-great neighborhood in SF at the height of the 2008 recession. This movie is very well-done. James Franco deserves an Oscar.
         rating: 2.5
         link: https://www.alternateending.com/2017/12/disaster-artist-2017.html
     -
@@ -65,7 +65,7 @@ movies:
         link: http://remezcla.com/lists/film/latino-film-critics-review-pixar-coco/
     - 
         title: Thor Ragnarok
-        review: Fun! Jeff Goldblum is bizarre and I cannot look away when he's on-screen. Cate Blanchett does a great job with not much. Waititi as the rock-monster was excellent. "It's not like a regular circle, it's a freaky circle."
+        review: Fun! Jeff Goldblum is bizarre and I cannot look away when he's on-screen. Cate Blanchett does a great job with not much to work with. Waititi as the rock-monster was excellent. "It's not like a regular circle, it's a freaky circle." My fave avengers film to rewatch.
         rating: 2.5
         link: https://www.alternateending.com/2017/11/thor-ragnarok-2017.html
     - 
@@ -80,7 +80,7 @@ movies:
         link: https://www.alternateending.com/2017/07/valerian-city-thousand-planets-2017.html
     -
         title: Dunkirk
-        review: Really enjoyed this even though it's slow and boring. Beautiful cinematography. Amazing score. Unclear why Christopher Nolan is hell-bent on covering up Tom Ford's face but the trend continues.
+        review: Really enjoyed this even though it's slow and boring. Beautiful cinematography. Amazing score. Unclear why Christopher Nolan is hell-bent on obscuring Tom Ford's face but the trend continues.
         rating: 2
         link: https://www.alternateending.com/2017/07/dunkirk-2017.html
     - 
@@ -115,7 +115,7 @@ Rating explanation:
 
 {% for movie in page.movies %}
 <tr class="movie">
-    <td><a href="{{movie.link}}">{{ movie.title }}</a></td>
+    <td align="center"><a href="{{movie.link}}">{{ movie.title }}</a></td>
     <td>{{ movie.review }}</td>
     <td>{{ movie.rating }}</td>
 </tr> <!--end rose-->
