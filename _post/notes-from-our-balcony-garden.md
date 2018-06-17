@@ -127,6 +127,9 @@ roses:
         
 ---
 
+#### Compost
+The city of Berkeley provides [free compost for Berkeley residents (with a photo id)](https://www.cityofberkeley.info/uploadedFiles/Parks_Rec_Waterfront/Level_3_-_Trees_and_Parks/FREE%20COMPOST%20FLIER%202018.pdf). Since Berkeley has city-wide composting, residents can come and pick up the fruits (and veggies) of someone's labour to enricih their gardens. The rich, steamy compost gets dumped at the Marina starting at 6:30am the first Saturday of every month (unless it's raining in the East Bay and prevents loading the compost). Check the [Berkeley compost website](https://www.cityofberkeley.info/Parks_Rec_Waterfront/Marina/Free_Compost_for_Berkeley_Residents.aspx) for delivery updates. Get there right at 6:30: there were already 10 cars there shoveling the black gold into bags and buckets as fast as they could. I'd bet it's all gone by 8am. 
+
 #### Amaryllis belladonna 
 Or "naked ladies"
 1. Fleshy seeds often appear after flowers fade, somewhat resembling pomegranate seeds and colored pink or white. The seeds must be fresh to germinate. Sow them in commercial well-draining potting mix and keep the soil moist. The seeds germinate in as little as two weeks. 
@@ -203,6 +206,17 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 - 'About Face': An All-America Rose selection in 2005, it is a bicolor, upright and tall grandiflora. Part of the charm of this winner is that its petals are golden-orange on their insides and bronzy-red on the outside. Fragrance is mild and thought to be apple-like.
 - **Barbra Streisand**: A hybrid tea introduced in 2001, it is right up the alley of fragrance fanciers and those fond of deep lilac to mauve large blossoms. Plants reach medium heights and are notably bushy. Fragrance isn't just powerful, it's deep-rose.
 - 'Hot Cocoa': An All-America floribunda in 2003, it caused quite a stir in rosedom when it was introduced because the color spread across rose petals was virtually unknown. As moderately scented blooms mature, deep rust, pointy buds open into a chocolate smoky haze of petals that eventually take on a purply case. At every stage, a knockout.
+2. Fragrant, thornless orange roses that I like:
+- [Vavoom](https://www.regannursery.com/rose/Vavoom)
+- [Sunstruck](https://www.regannursery.com/rose/Sunstruck)
+- [Las Vegas](https://www.regannursery.com/rose/Las-Vegas)
+- [Joseph's Coat](https://www.regannursery.com/rose/Josephs-Coat-Climbing)
+- [Honey Perfume](https://www.regannursery.com/rose/Honey-Perfume)
+- [Good as Gold](https://www.regannursery.com/rose/Good-as-Gold-)
+- [Gentle Giant](https://www.regannursery.com/rose/Gentle-Giant)
+- [Centennial Star](https://www.regannursery.com/rose/Centennial-Star)
+- [Arizona](https://www.regannursery.com/rose/Arizona)
+- [Anna's Promise](https://www.regannursery.com/rose/Rosa-Annas-Promise-Downton-Abbey-Collection)
 
 #### Sugar Snap Peas
 1. Sow 2 or 3 times, 7 to 10 days apart, to extend harvest. [5]
@@ -211,6 +225,10 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 4. 12 inches across. Fill the container with soil leaving a 1 inch space at the top.[5]
 5. Keep the seeds in a lightly shaded area until germination (9-13 days). [6]
 6. Peas prefer cool conditions, so plant them early in the season. When it gets too warm, they stop producing.[6]
+
+|Location|Planted|Sprouted|
+|---|---|---|
+|Front row|3 June||
 
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html
