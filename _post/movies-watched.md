@@ -3,6 +3,11 @@ layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
+    - 
+        title: The Incredibles
+        review: I love all Pixar. Animation quality hasn't held up over 14 years. I'm excited to see the new one and compare.
+        rating: 2
+        link: https://www.alternateending.com/2010/06/blockbuster-history-pixar-animation-studios.html
     -
         title: Ocean's 8
         review: Mindy Kaling is a treasure. Anne Hathaway was great. Rihanna stole her scenes. First 10 mins were phenomenal, then the momentum hit a brick wall and never recovered speed (crucial for comedy), so it really dragged.
