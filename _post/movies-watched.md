@@ -6,7 +6,7 @@ movies:
     -
         title: Sherlock Holmes 1 and 2
         review: Snooze-fest. I love Rachel McAdams but even I can see she's wrong for the role of Irene Adler. Why can't Robert Downey Jr do a British accent? We didn't even finish film 2. Super lame lady characters.
-        rating: 2
+        rating: 1.5
         link: https://www.alternateending.com/2010/01/bullshit-sherlock.html
     - 
         title: The Incredibles
@@ -120,7 +120,7 @@ movies:
         link: https://www.alternateending.com/2017/05/guardians-galaxy-vol-2-2017.html
     -
         title: Ghost in the Shell
-        review: We watched the original Japanese version and remain baffled as to the appeal of this story.
+        review: We watched the original Japanese version and remain baffled as to the appeal of this story. Very pretty at least.
         rating: 2
         link: https://www.alternateending.com/2017/08/ghost-in-the-shell-2017.html
     -
@@ -178,6 +178,16 @@ movies:
         review: What if feelings had feelings?
         rating: 2
         link: https://www.alternateending.com/2015/06/nothing-more-than-feelings.html
+    -
+        title: Interstellar
+        review: Meh. Can't BELIEVE they put not one, but THREE black outs in a motion picture.
+        rating: 2
+        link: https://www.alternateending.com/2014/11/space-is-big-really-big-you-just-wont-believe-how-vastly-hugely-mindbogglingly-big-it-is.html
+    -
+        title: Magic Mike
+        review: Fun! Really changed my view of both Channing Tatum and Matthew McConnaghey
+        rating: 2
+        link: https://www.alternateending.com/2012/07/the-long-hard-summer.html
 
 
 
