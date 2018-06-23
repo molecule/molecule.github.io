@@ -109,6 +109,11 @@ movies:
         rating: 2
         link: https://www.alternateending.com/2017/06/wonder-woman-2017.html
     -
+        title: Guardians of the Galaxy, Vol. 2
+        review: So fun. Little Groot! A little less playful than the first but still fun and very funny. 
+        rating: 2
+        link: https://www.alternateending.com/2017/05/guardians-galaxy-vol-2-2017.html
+    -
         title: 
 
 ---
