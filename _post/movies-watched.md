@@ -133,6 +133,11 @@ movies:
         review: Think about who I am, and what I've done, and decide for yourself that it was never any question that I was going to really like this movie. And then there's this <a href="https://www.youtube.com/watch?v=abn6cPxrc5w">excellent SNL sketch.</a>
         rating: 2.5
         link: https://www.alternateending.com/2016/12/heres-to-the-fools-who-dream.html
+    -
+        title: Sully
+        review: We saw this movie in a theatre filled with old white men who seemed extremely gratified to watch Tom Hanks play an old white man who triumphs over technology and beaucracy to save the day. I'll watch Hanks in anything. 
+        rating: 2
+        link: https://www.alternateending.com/2016/09/this-is-your-captain.html
 
 ---
 
