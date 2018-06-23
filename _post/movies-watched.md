@@ -118,6 +118,11 @@ movies:
         review: We watched the original Japanese version and remain baffled as to the appeal of this story.
         rating: 2
         link: https://www.alternateending.com/2017/08/ghost-in-the-shell-2017.html
+    -
+        title: Rogue One A Star Wars Story
+        review: This was so great! Alan Tudyk as K-2SO was excellent. Diego Luna's heavily accented non-villain was marvelous. Very fun.
+        rating: 2.5
+        link: https://www.alternateending.com/2016/12/thats-no-moon-its-a-space-station.html
 
 ---
 
