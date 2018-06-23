@@ -158,6 +158,11 @@ movies:
         review: Harrison Ford brings back the goofy affable Han Solo I know and love (fave character from the first movie). Rey is wonderful. Finn is wonderful, and Oscar Isaac is also super great. Classic Star Wars while still feeling fresh. BB-8!!! Oh, also, having a "dark side" character tempted by the light is actually FASCINATING. P.S. if you want to see what it looks like when a character pauses too long because the director is expecting applause, watch the scene where we first see Han Solo.
         rating: 2
         link: https://www.alternateending.com/2015/12/we-meet-again-at-last-the-circle-is-now-complete.html
+    -
+        title: Hunger Game quadrogy
+        review: So good. Jennifer Lawrence is wonderful and this is my favorite of her characters - the reluctant hero whose deep sense of morality doesn't make her innocent or naive.
+        ratings: 2.5
+        link: https://www.alternateending.com/2012/03/the-rules-of-the-games.html
 
 
 ---
