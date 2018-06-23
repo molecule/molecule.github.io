@@ -3,6 +3,11 @@ layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
+    -
+        title: Sherlock Holmes 1 and 2
+        review: Snooze-fest. I love Rachel McAdams but even I can see she's wrong for the role of Irene Adler. Why can't Robert Downey Jr do a British accent?
+        rating: 2
+        link: https://www.alternateending.com/2010/01/bullshit-sherlock.html
     - 
         title: The Incredibles
         review: I love all Pixar. Animation quality hasn't held up over 14 years. I'm excited to see the new one and compare.
