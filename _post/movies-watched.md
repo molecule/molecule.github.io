@@ -165,7 +165,7 @@ movies:
         link: https://www.alternateending.com/2012/03/the-rules-of-the-games.html
     -
         title: Spotlight
-        review: Difficult subject matter. Fascinating portrayal of how "journalism" actually gets done. I was a little annoyed about how much emotional labor the only female reporter (Rachel McAdams) did, and how little initiative she seemed to have.
+        review: Difficult subject matter. Fascinating portrayal of how "journalism" actually gets done. I was a little annoyed about how much emotional labor the only female reporter (Rachel McAdams) did, and how little initiative she seemed to have. Schreiber was unrecognizable and phenomenal.
         ratings: 2
         link: https://www.alternateending.com/2016/01/making-the-news.html
 
