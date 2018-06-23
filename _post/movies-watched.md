@@ -98,6 +98,13 @@ movies:
         review: Worst movie of the last 10 years easily. So boring. So cliched. So stupid. I cannot BELIEVE this won Best Picture.
         rating: 1
         link: https://www.alternateending.com/2017/12/shape-water-2017.html
+    -
+        title: The Big Sick
+        review: Can't really say "fun" but I enjoyed it! The trailer oversold it as a comedy. It's better going in thinking it's kind of dark.
+        rating: 2
+        link: https://www.alternateending.com/2017/07/big-sick-2017.html
+    - 
+        
 
 ---
 
