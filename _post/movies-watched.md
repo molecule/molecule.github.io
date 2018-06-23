@@ -123,6 +123,11 @@ movies:
         review: This was so great! Alan Tudyk as K-2SO was excellent. Diego Luna's heavily accented non-villain was marvelous. Very fun.
         rating: 2.5
         link: https://www.alternateending.com/2016/12/thats-no-moon-its-a-space-station.html
+    -
+        title: Hidden Figures
+        review: Such an important story! So glad this was made. I did NOT like the white savior scene where the white male boss smashed the bathroom sign...
+        rating: 2
+        link: https://www.alternateending.com/2016/12/hidden-figures-2016.html
 
 ---
 
