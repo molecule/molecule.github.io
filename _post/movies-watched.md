@@ -5,7 +5,7 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/
 movies:
     -
         title: Sherlock Holmes 1 and 2
-        review: Snooze-fest. I love Rachel McAdams but even I can see she's wrong for the role of Irene Adler. Why can't Robert Downey Jr do a British accent?
+        review: Snooze-fest. I love Rachel McAdams but even I can see she's wrong for the role of Irene Adler. Why can't Robert Downey Jr do a British accent? We didn't even finish film 2. Super lame lady characters.
         rating: 2
         link: https://www.alternateending.com/2010/01/bullshit-sherlock.html
     - 
