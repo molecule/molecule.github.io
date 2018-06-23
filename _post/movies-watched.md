@@ -163,6 +163,11 @@ movies:
         review: So good. Jennifer Lawrence is wonderful and this is my favorite of her characters - the reluctant hero whose deep sense of morality doesn't make her innocent or naive.
         ratings: 2.5
         link: https://www.alternateending.com/2012/03/the-rules-of-the-games.html
+    -
+        title: Spotlight
+        review: Difficult subject matter. Fascinating portrayal of how "journalism" actually gets done. I was a little annoyed about how much emotional labor the only female reporter (Rachel McAdams) did, and how little initiative she seemed to have.
+        ratings: 2
+        link: https://www.alternateending.com/2016/01/making-the-news.html
 
 
 ---
