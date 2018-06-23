@@ -155,7 +155,7 @@ movies:
         link: https://www.alternateending.com/2016/03/disney-animation-i-want-to-try-even-though-i-could-fail.html
     -
         title: Star Wars - The Force Awakens
-        review: Harrison Ford brings back the goofy affable Han Solo I know and love (fave character from the first movie). Rey is wonderful. Finn is wonderful, and Oscar Isaac is also super great. Classic Star Wars while still feeling fresh.
+        review: Harrison Ford brings back the goofy affable Han Solo I know and love (fave character from the first movie). Rey is wonderful. Finn is wonderful, and Oscar Isaac is also super great. Classic Star Wars while still feeling fresh. BB-8!!! Oh, also, having a "dark side" character tempted by the light is actually FASCINATING.
         rating: 2
         link: https://www.alternateending.com/2015/12/we-meet-again-at-last-the-circle-is-now-complete.html
 
