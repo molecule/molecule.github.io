@@ -143,6 +143,11 @@ movies:
         review: Everyone hated this except for me. I LOVE Jennifer Lawrence as the reluctant hero, and she's great here as the emotional center of the film.
         rating: 2
         link: https://www.alternateending.com/2016/06/today-we-are-cancelling-the-apocalypse.html
+    -
+        title: Sing Street
+        review: MARVELOUS! Great songs, amazing makeup, charming and lovely characters who are nice to each other, grow, and don't put up with terrible bullshit in the name of ~*~love~*~.
+        rating: 3
+        link: https://www.alternateending.com/2016/08/catching-up-with-2016-banding-together.html
 
 ---
 
