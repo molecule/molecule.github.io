@@ -148,6 +148,13 @@ movies:
         review: MARVELOUS! Great songs, amazing makeup, charming and lovely characters who are nice to each other, grow, and don't put up with terrible bullshit in the name of ~*~love~*~.
         rating: 3
         link: https://www.alternateending.com/2016/08/catching-up-with-2016-banding-together.html
+    -
+        title: Zootopia
+        review: Really good! Touching, great message, and very funny.
+        rating: 2.5
+        link: https://www.alternateending.com/2016/03/disney-animation-i-want-to-try-even-though-i-could-fail.html
+    -
+    
 
 ---
 
