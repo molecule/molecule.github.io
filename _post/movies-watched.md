@@ -114,7 +114,10 @@ movies:
         rating: 2
         link: https://www.alternateending.com/2017/05/guardians-galaxy-vol-2-2017.html
     -
-        title: 
+        title: Ghost in the Shell
+        review: We watched the original Japanese version and remain baffled as to the appeal of this story.
+        rating: 2
+        link: https://www.alternateending.com/2017/08/ghost-in-the-shell-2017.html
 
 ---
 
