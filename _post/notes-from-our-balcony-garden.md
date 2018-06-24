@@ -151,6 +151,10 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 6. Pruning is fine except in winter. Well-pruned trees have higher fruit output and are less prone to branch breakage [1].
 7. Citrus Problem Solver.[2]
 
+|Planted|Fertilized|Pruned|Fruited|
+|---|---|---|---|
+|~April|24 June|||
+
 #### Apache Thornless Blackberries
 0. Thornless, but still taste good.
 1. Needs rich, moist, soil and full sun exposure to thrive. 
@@ -226,9 +230,10 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 5. Keep the seeds in a lightly shaded area until germination (9-13 days). [6]
 6. Peas prefer cool conditions, so plant them early in the season. When it gets too warm, they stop producing.[6]
 
-|Location|Planted|Sprouted|Flowered|
-|---|---|---|---|
-|Front row|3 June|12 June (9 days)||
+|Location|Planted|Sprouted|Touch pole|Flowered|
+|---|---|---|---|---|
+|Front row|3 June|12 June (9 days)|24 June (21 days)||
+|Second row|24 June||||
 
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html
