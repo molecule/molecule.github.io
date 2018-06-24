@@ -230,7 +230,19 @@ movies:
         link: https://www.alternateending.com/2012/10/time-out-of-mind.html
     -   
         title: Maleficent
-        review: 
+        review: I enjoyed this. Angelina Jolie is captivating, but the story doesn't make sense. Nothing else memorable. 
+        rating: 1.5
+        link: https://www.alternateending.com/2014/06/all-the-powers-of-hell.html
+    - 
+        title: Logan
+        review: The thought of what happens to a mutant with mind-control powers as he ages is fascinating. Meeting a mini, rage-filled female Wolverine is WAY more fun than you might expect. Not only was the character wonderful, but it deepened Wolverine's character as well.
+        rating: 2.5
+        link: https://www.alternateending.com/2017/03/logan-2017.html
+    -
+        title: The Last Unicorn
+        review: Childhood favorite! I will never not love this movie. Just lovely.
+        rating: 2
+        link: https://www.alternateending.com/2016/06/when-the-future-has-past-without-even-a-last-desperate-warning.html
 
 
 ---
