@@ -3,6 +3,11 @@ layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
+    - 
+        title: Incredibles 2
+        review: GORGEOUS animation. Weird message, boring misogynistic man-baby unable to feel happy for his wife's success, and of the two strong female friends one of them - surprise - turns out to be the bad guy. This took 14 years? Maybe they should've spent an extra 2 on the story. (Ok...that's incredibly harsh but I have high expectations. It's 2018).
+        rating: 2
+        link: https://www.alternateending.com/2018/06/incredibles-2-2018.html
     -
         title: Sherlock Holmes 1 and 2
         review: Snooze-fest. I love Rachel McAdams but even I can see she's wrong for the role of Irene Adler. Why can't Robert Downey Jr do a British accent? We didn't even finish film 2. Super lame lady characters.
