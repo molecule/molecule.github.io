@@ -185,10 +185,52 @@ movies:
         link: https://www.alternateending.com/2014/11/space-is-big-really-big-you-just-wont-believe-how-vastly-hugely-mindbogglingly-big-it-is.html
     -
         title: Magic Mike
-        review: Fun! Really changed my view of both Channing Tatum and Matthew McConnaghey
+        review: Fun! Really changed my view of both Channing Tatum and Matthew McConaughey. Firmly part of the McConaussaince.
         rating: 2
         link: https://www.alternateending.com/2012/07/the-long-hard-summer.html
-
+    -
+        title: Invictus
+        review: Only good because it let Tina Fey make a joke about Matt Damon in 30 Rock. "Who was the white guy in that movie?"
+        rating: 1
+        link: https://www.alternateending.com/2009/12/the-menace-of-the-years-finds-and-shall-find-me-unafraid.html
+    -
+        title: Kingsman - The Secret Service
+        review: I can enjoy James Bond movies. I cannot enjoy these Kingsman movies.
+        rating: 1
+        link: https://www.alternateending.com/2015/03/to-chav-and-chav-not.html
+    - 
+        title: Mad Max Fury Road
+        review: OMG SO GOOD. One of the weirdest movies I've ever seen. Just embrace the madness. I didn't understand it until we first see the flaming guitar, but then, oh - oh I got it.
+        rating: 3
+        link: https://www.alternateending.com/2015/05/the-maximum-force-of-the-future.html
+    -
+        title: Les Miserables
+        review: Having been a fan most of my life I was very worried about this one. But it's gorgeous. Hugh Jackman really blew me away. Best priest's house scene I've ever seen. Yes I loved Colm's cameo...how could you not.
+        rating: 2.5
+        link: https://www.alternateending.com/2012/12/let-others-rise-to-take-our-place-until-the-earth-is-free.html
+    - 
+        title: Kubo and the Two Strings
+        review: For some reason, the monkey's monologue before they enter the whale made me laugh harder than I've laughed in the last twenty years, at least. I can't explain it. This film is gorgeous and wonderful. This movie taught me that the only thing you need to do to make two characters seem to like each other is have them smile at each other. They can still banter! They can disagree! But occasional smiles is all it takes to escape the horrible "sitcom nastiness" so endemic to writing these days.
+        rating: 2.5
+        link: https://www.alternateending.com/2016/08/if-you-look-away-even-for-an-instant-then-our-hero-will-surely-perish.html 
+    -
+        title: The Lovely Bones
+        review: This movie introduced me to the narrative technique of "anti-tension", where something that is objectively tense and high stakes is transformed into the most boring possible scene.
+        rating: 1
+        link: https://www.alternateending.com/2009/12/bone-this.html
+    -
+        title: Lars and the Real Girl
+        review: So weird. I'll never watch this again but I did enjoy it.
+        rating: 2
+        link: https://www.alternateending.com/2007/10/plastic-figures.html
+    -   
+        title: Looper
+        review: I enjoyed it! I found Joseph Gordon-Levitt's makeup very distracting but I enjoyed it. Very sexist against men (implies that they NEED saving by some Special Soothing Female and otherwise would be monstrous and beastial is....offensive to say the least).
+        rating: 2
+        link: https://www.alternateending.com/2012/10/time-out-of-mind.html
+    -   
+        title: Maleficent
+        review: 
 
 
 ---
