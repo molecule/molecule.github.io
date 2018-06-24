@@ -130,6 +130,16 @@ roses:
 #### Compost
 The city of Berkeley provides [free compost for Berkeley residents (with a photo id)](https://www.cityofberkeley.info/uploadedFiles/Parks_Rec_Waterfront/Level_3_-_Trees_and_Parks/FREE%20COMPOST%20FLIER%202018.pdf). Since Berkeley has city-wide composting, residents can come and pick up the fruits (and veggies) of someone's labour to enricih their gardens. The rich, steamy compost gets dumped at the Marina starting at 6:30am the first Saturday of every month (unless it's raining in the East Bay and prevents loading the compost). Check the [Berkeley compost website](https://www.cityofberkeley.info/Parks_Rec_Waterfront/Marina/Free_Compost_for_Berkeley_Residents.aspx) for delivery updates. Get there right at 6:30: there were already 10 cars there shoveling the black gold into bags and buckets as fast as they could. I'd bet it's all gone by 8am. 
 
+#### Blueberries
+0. Blueberries typically need a period of extreme cold to fruit.
+1. Some varieties have been bred to be ok with warmer temperatures. One of those is the "Jewel" variety.
+2. Jewel blueberries are one of the Southern Highbush variety. 
+3. They grow upright and have a long harvest period.
+
+|Planted|Fertilized|Pruned|Fruited|
+|---|---|---|---|
+|24 June 2018|24 June 2018|||
+
 #### Amaryllis belladonna 
 Or "naked ladies"
 1. Fleshy seeds often appear after flowers fade, somewhat resembling pomegranate seeds and colored pink or white. The seeds must be fresh to germinate. Sow them in commercial well-draining potting mix and keep the soil moist. The seeds germinate in as little as two weeks. 
@@ -164,6 +174,10 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 5. If you don’t wish to trellis your plant, trim the tops of new canes during the summer months, limiting growth to about 3 to 4 feet.
 6. In the spring, before new growth forms, prune lateral branches back to about 12 inches to encourage larger fruit production.
 7. Don't grow true to seed, so may have thorns if grown from seed.
+
+|Planted|Fertilized|Pruned|Fruited|
+|---|---|---|---|
+|13 June 2018||||
 
 #### Thornless, Fragrant Roses
 0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
