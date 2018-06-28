@@ -30,6 +30,7 @@ Here are the questions I got, to the best of my ability to remember, as well as 
 
 THEIR QUESTIONS AND MY ANSWERS
 1. Specific technical details, how this differed from what had come before, and how it fit into the historical context.
+	- I nearly panicked at this point because I barely remembered this paper at all. In fact, for most of my answers I was mixing it up with another paper I had read recently (Touché, from Disney). This was one of the few I hadn't re-read the week before because I literally thought "What are the odds they'll ask about this paper?" Pretty high it turns out!
 	- I drew the screen, with the light, and a camera a few inches behind, with a hand interacting, and some lines that indicate the light bouncing off of where the hand is touching.
 	- I said multiple people could interact with it (mostly making this up), it could remember an individual over time, with some % accuracy.
 	- I didn't remember historical context at all (indeed: I don't think this was in the paper, and I think we would have needed someone well-versed in the field to explain to us how it fit. This was actually something we had discussed as a study group as something that would be interesting, but didn't know!) (I said this).
