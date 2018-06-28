@@ -3,6 +3,11 @@ layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
+    -
+        title: The Game
+        review: Why did they make the music so creepy? 
+        rating: 2
+        link: 
     - 
         title: Incredibles 2
         review: GORGEOUS animation. Weird message, boring misogynistic man-baby unable to feel happy for his wife's success, and of the two strong female friends one of them - surprise - turns out to be the bad guy. This took 14 years? Maybe they should've spent an extra 2 on the story. (Ok...that's incredibly harsh but I have high expectations. It's 2018).
