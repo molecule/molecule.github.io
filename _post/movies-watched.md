@@ -4,10 +4,20 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
-        title: The Game
-        review: Why did they make the music so creepy? 
+        title: Mission Impossible (1996)
+        review: Baby Tom Cruise! Not sure what else to say, it's a classic. Now I get the jokes about masks in the later ones! And why Ving Rhames was there! Why is one of main communication mediums British Airline flight attendants? How does their training look? "Sometimes you will need to insist that a customer watch a certain film, but do it VERY CRYPTICALLY".
         rating: 2
-        link: 
+        link: https://www.alternateending.com/2015/08/blockbuster-history-your-mission-should-you-choose-to-accept-it.html
+    -
+        title: Jumanji - Welcome to the Jungle
+        review: The female characters like and support one another while being honest. Also watching a teenage girls' mannerisms play out through Jack Black is surprisingly wonderful. I liked seeing what worked and didn't work with his/her techniques. That plot point was also never played for laughs, even when he was giving mouth to mouth, which I appreciate.
+        rating: 2
+        link: https://www.alternateending.com/2017/12/jumanji-welcome-jungle-2017.html
+    -
+        title: The Game
+        review: Not sure I totally understand the mechanism through which Michael Douglas was redeemed, but this movie is a fun twist puzzle.
+        rating: 2
+        link: https://www.imdb.com/title/tt0119174/
     - 
         title: Incredibles 2
         review: GORGEOUS animation. Weird message, boring misogynistic man-baby unable to feel happy for his wife's success, and of the two strong female friends one of them - surprise - turns out to be the bad guy. This took 14 years? Maybe they should've spent an extra 2 on the story. (Ok...that's incredibly harsh but I have high expectations. It's 2018).
