@@ -4,6 +4,11 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: Solo
+        review: This movie was made by someone who has zero understanding of the fundamental appeal of Han Solo, which is someone who BELIEVES he can talk his way out of everything but <a href="https://www.youtube.com/watch?v=3bjEpLoL0ls">who actually is terrible at doing that.</a> This film made us realize the true spiritual successor to Ford's Han Solo is Chris Pratt's Starlord. Goofy, sweet, lucky, and just the right amount of bad-ass. The droid is the BEST character with the only couple of lines that made me laugh out loud. 
+        rating: 1.5
+        link: https://www.alternateending.com/2018/05/solo-a-star-wars-story-2018.html
+    -
         title: Mission Impossible (1996)
         review: Baby Tom Cruise! Not sure what else to say, it's a classic. Now I get the jokes about masks in the later ones! And why Ving Rhames was there! Why is one of main communication mediums British Airline flight attendants? How does their training look? "Sometimes you will need to insist that a customer watch a certain film, but do it VERY CRYPTICALLY".
         rating: 2
