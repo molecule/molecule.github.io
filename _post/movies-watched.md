@@ -170,7 +170,7 @@ movies:
         link: https://www.alternateending.com/2016/12/heres-to-the-fools-who-dream.html
     -
         title: Sully
-        review: We saw this movie in a theatre filled with old white men who seemed extremely gratified to watch Tom Hanks play an old white man who triumphs over technology and beaucracy to save the day. I'll watch Hanks in anything. 
+        review: We saw this movie in a theatre filled with old white men who seemed extremely gratified to watch Tom Hanks play an old white man who triumphs over technology and bureaucracy to save the day. I'll watch Hanks in anything. 
         rating: 2
         link: https://www.alternateending.com/2016/09/this-is-your-captain.html
     -
