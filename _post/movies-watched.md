@@ -5,7 +5,7 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/
 movies:
     -
         title: Mission Impossible 2
-        review: Laughably bad! SO many slow motion scenes of Tom Cruise and Thandie Newton gazing soulfully at each other! Basically soft porn and/or exposition the rest of the time! We muted it and watched it in fast motion (which just emphasized the poor camera work and awkward editing). Some of the scenes still felt slow! Kind of masterpiece of awfulness, really, and therein lies its charm if you can stomach it. Makes Solo look like a gem.
+        review: Laughably bad! SO many slow motion scenes of Tom Cruise and Thandie Newton gazing soulfully at each other! Basically soft porn and/or exposition the rest of the time! We muted it and watched it in fast motion (which just emphasized the poor camera work and awkward editing). Some of the scenes still felt slow! Kind of a masterpiece of awfulness, really, and therein lies its charm if you can stomach it. Makes Solo look like a gem.
         rating: 1.5
         link: https://www.alternateending.com/2015/08/blockbuster-history-this-mission-will-self-destruct.html
     -
@@ -283,7 +283,11 @@ Rating explanation:
 
 **1** -  Awful, waste of my time, terrible movie.
 
+**1.5** - I mean....I wouldn't recommend it.
+
 **2** - I have many critiques but do not regret seeing it.
+
+**2.5** - Great! Wouldn't run to re-watch, but still enjoyed it!
 
 **3** - Excellent! Great! I will watch this again eagerly!
 
