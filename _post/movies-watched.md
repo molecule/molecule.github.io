@@ -273,6 +273,41 @@ movies:
         review: Childhood favorite! I will never not love this movie. Just lovely.
         rating: 2
         link: https://www.alternateending.com/2016/06/when-the-future-has-past-without-even-a-last-desperate-warning.html
+    -
+        title: Downsizing
+        review: I only watched half of this, and it was only interesting insofar as it's obviously liberal propaganda to explain to privileged white dudes who feel like victims today that they have no fucking idea what they're talking about.
+        rating: 1.5
+        link: https://www.alternateending.com/2018/01/downsizing-2017.html
+    -
+        title: Beauty and the Beast (live action)
+        review: This is literally a shot-for-shot remake of the animated classic, but done in slow motion so none of the comedy works.
+        rating: 1
+        link: https://www.alternateending.com/2017/03/beauty-beast-2017.html
+    -
+        title: Get Out
+        review: This movie captured and gave voice to a part of our society that desperately needed it. Iconic.
+        rating: 2.5
+        link: https://www.alternateending.com/2017/03/get-out-2017.html
+    -
+        title: Dr. Strange
+        review: Fun! Great! Tilda Swinton is an absolute treasure!
+        rating: 2.5
+        link: https://www.alternateending.com/2016/11/hes-a-magic-man.html
+    -
+        title: The Nice Guys
+        review: Absolutely blew me away. Unexpectedly wonderful. Truly a gem.
+        rating: 2.5
+        link: https://www.alternateending.com/2016/05/once-upon-a-time-in-los-angeles.html
+    -
+        title: Joy
+        review: Absolutely bizarre. This film chose a really weird framing and style but didn't really make it clear that's what it was doing until about 45 minutes in. Kinda meanders around and then just slams to a halt. I like weird movies, but what I like is the skill and craftsmanship in explaining the new universe and rules to the audience.
+        rating: 1.5
+        link: https://www.alternateending.com/2016/02/tidings-of-joy.html
+    -
+        title: Captain Phillips
+        review: This entire movie exists for the last 10 minutes of Tom Hanks' excellence and it is so so worth it.
+        rating: 2
+        link: https://www.alternateending.com/2013/10/hes-very-very-good-and-be-it-understood-he-commands-a-right-good-crew.html
 
 
 ---
