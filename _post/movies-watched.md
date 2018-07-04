@@ -4,6 +4,11 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: Mission Impossible 2
+        review: Laughably bad! SO many slow motion scenes of Tom Cruise and Thandie Newton gazing soulfully at each other! Basically soft porn and/or exposition the rest of the time! We muted it and watched it in fast motion (which just emphasized the poor camera work and awkward editing). Some of the scenes still felt slow! Kind of masterpiece of awfulness, really, and therein lies its charm if you can stomach it. Makes Solo look like a gem.
+        rating: 1.5
+        link: https://www.alternateending.com/2015/08/blockbuster-history-this-mission-will-self-destruct.html
+    -
         title: Solo
         review: This movie was made by someone who has zero understanding of the fundamental appeal of Han Solo, which is someone who BELIEVES he can talk his way out of everything but <a href="https://www.youtube.com/watch?v=3bjEpLoL0ls">who actually is terrible at doing that.</a> This film made us realize the true spiritual successor to Ford's Han Solo is Chris Pratt's Starlord. Goofy, sweet, lucky, and just the right amount of bad-ass. The droid is the BEST character with the only couple of lines that made me laugh out loud. 
         rating: 1.5
