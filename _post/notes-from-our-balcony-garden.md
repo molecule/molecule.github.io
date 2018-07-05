@@ -247,7 +247,7 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 |Location|Planted|Sprouted|Touch pole|Flowered|
 |---|---|---|---|---|
 |Front row|3 June|12 June (9 days)|24 June (21 days)||
-|Second row|24 June||||
+|Second row|24 June|3 July|||
 
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html

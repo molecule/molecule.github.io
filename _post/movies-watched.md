@@ -4,6 +4,16 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: Mission Impossible 3
+        review: I now understand why they made more! This one is GREAT. Ving Rhames finally had an actual role. J.J. Abrams is excellent at rebooting franchises.
+        rating: 2
+        link: https://www.alternateending.com/2006/05/wacky-tommy.html
+    - 
+        title: Mamma Mia
+        review: I started this and kept expecting to turn it off. "Just a few more minutes...just a few more..." Best choreography in flippers I've seen since Jesus Christ Superstar.
+        rating: 1.5
+        link: https://www.alternateending.com/2008/07/the-loser-has-to-fall.html
+    -
         title: Mission Impossible 2
         review: Laughably bad! SO many slow motion scenes of Tom Cruise and Thandie Newton gazing soulfully at each other! Basically soft porn and/or exposition the rest of the time! We muted it and watched it in fast motion (which just emphasized the poor camera work and awkward editing). Some of the scenes still felt slow! Kind of a masterpiece of awfulness, really, and therein lies its charm if you can stomach it. Makes Solo look like a gem.
         rating: 1.5
