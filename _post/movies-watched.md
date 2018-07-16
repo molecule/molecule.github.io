@@ -3,6 +3,16 @@ layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
+    - 
+        title: Mission Impossible 5 Rogue Nation
+        review: Fun! I'm pretty much on board for these now. Has the best "how do I solve this puzzle?" scene in any action movie ever.
+        rating: 2
+        link: https://www.alternateending.com/2015/08/roguish-charm.html
+    -
+        title: Mission Impossible 4 Ghost Protocol
+        review: Wow! So good!
+        rating: 2
+        link: https://www.alternateending.com/2011/12/this-review-will-self-destruct-in-five-seconds.html
     -
         title: Mission Impossible 3
         review: I now understand why they made more! This one is GREAT. Ving Rhames finally had an actual role. J.J. Abrams is excellent at rebooting franchises.
