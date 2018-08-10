@@ -153,6 +153,9 @@ hidden:
         link: /project/good-person
 
 newsfeed:
+    - 
+        content: This summer has been a bit of a struggle, health-wise. Still working on lots of projects but having a tough time because I spend so much time recovering from migraines.
+        date: 10 Aug 2018
     -
         content: Getting ready for a long vacation in Hawai'i! Kayaking, snorkeling, seeing the Na Pali coast...and enjoying some relaxation with my honey love.
         date: 11 May 2018
