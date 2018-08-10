@@ -3,6 +3,27 @@ layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
+
+    - 
+        title: Jurassic Park
+        review: How is this so iconic? Hard to judge objectively, but I was interested in all the poor storytelling and thinly-defined characters.
+        rating: 1.5
+        link: 
+    - 
+        title: Mission Impossible 6
+        review: Honestly? The trailer was better! Just watch it and let your mind fill in the details, and it will be better than this movie.
+        rating: 2
+        link: 
+    -
+        title: Black Hawk Down
+        review: Such a cast! Ewan McGregor, Ian McEwan, Orlando Bloom, etc.
+        rating: 2
+        link: 
+    -
+        title: Speed
+        review: This is honestly a classic.
+        rating: 2
+        link: 
     - 
         title: Mission Impossible 5 Rogue Nation
         review: Fun! I'm pretty much on board for these now. Has the best "how do I solve this puzzle?" scene in any action movie ever.
