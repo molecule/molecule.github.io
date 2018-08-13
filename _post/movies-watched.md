@@ -5,15 +5,25 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/
 movies:
 
     - 
+        title: Steel Magnolias
+        review: I'm a sucker for movies based on plays and rich wonderful female relationships.
+        rating: 2
+        link: 
+    -
+        title: BlacKKKlansman
+        review: Who was this movie for?
+        rating: 2
+        link: 
+    - 
         title: Jurassic Park
         review: How is this so iconic? Hard to judge objectively, but I was interested in all the poor storytelling and thinly-defined characters.
         rating: 1.5
-        link: 
+        link: https://www.alternateending.com/2013/04/welcome-to-jurassic-park.html
     - 
         title: Mission Impossible 6
         review: Honestly? The trailer was better! Just watch it and let your mind fill in the details, and it will be better than this movie.
         rating: 2
-        link: 
+        link: https://www.alternateending.com/2018/07/mission-impossible-fallout-2018.html
     -
         title: Black Hawk Down
         review: Such a cast! Ewan McGregor, Ian McEwan, Orlando Bloom, etc.
