@@ -374,11 +374,11 @@ Rating explanation:
 
 **1** -  Awful, waste of my time, terrible movie.
 
-**1.5** - I mean....I wouldn't recommend it.
+**1.5** - I have many critiques but do not regret seeing it.
 
-**2** - I have many critiques but do not regret seeing it.
+**2** - Great!
 
-**2.5** - Great! Wouldn't run to re-watch, but still enjoyed it!
+**2.5** - Great! Would re-watch eventually!
 
 **3** - Excellent! Great! I will watch this again eagerly!
 
