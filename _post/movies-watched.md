@@ -4,6 +4,16 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
 
+    -
+        title: The Matrix
+        review: Almost every scene is iconic, even the little throwaway lines. I love this movie! Definitely wish they'd explored the philosophical ramifications more.
+        rating: 2
+        link: 
+    - 
+        title: Down with Love
+        review: Rewatching this ~12 years later, it's clear that 80% of my enjoyment was just the Ewan McGregor porn. What can I say....
+        rating: 1.5
+        link: 
     - 
         title: Ant-Man
         review: Weirdly, Paul Rudd was not my favourite part of this movie. Also they somehow managed to make Evangeline Lilly unattractive. Michael Peña wins everything. Every scene with him is golden, but especially the last one.
