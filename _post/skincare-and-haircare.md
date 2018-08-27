@@ -24,7 +24,12 @@ First, some quick info about the different kinds of damaging sun rays:
 - UVB (B is for BURNING): causes sunburns and skin cancer.
 - UVA (A is for AGING): causes wrinkles, tanning, hyperpigmentation, sun spots.
 
-You need protection from both in order to have healthy skin! Remember that windows don't protect against all UV rays. Check out this amazing picture of a truck driver, and see if you can tell which side of his face was exposed to the sun through a window as he drove his truck for 28 years. 
+You need protection from both in order to have healthy skin! Remember that windows don't protect against all UV rays. Check out this amazing picture of a truck driver, and see if you can tell which side of his face was exposed to the sun through a window as he drove his truck for 28 years:
+
+<div style="float: center; text-align:center; padding:10px; font-size:13px; line-height:8px">
+<img src="/src/img/NewEnglandJournalofMedicine.png" alt="left side was exposed to sun through the window." style="width: 300px;"/>
+<span style="display:block;"> <a href="https://www.nejm.org/doi/full/10.1056/NEJMicm1104059">Image from the New England Journal of Medicine</a>. </span>
+</div>
 
 In the U.S., sunscreen manufacturers are required to report the SPF protection provided by their sunscreen. SPF stands for sun protection factor. It measures a sunscreen's amount of protection from UVB rays. PPD, on the other hand, stands for persistent pigment darkening. It's tested by applying a product to human skin and measuring how long it takes for the skin to darken (i.e. tan) compared to bare skin. Let's say it takes 10 minutes for bare skin to start to tan. If a product was applied and it took instead 160 minutes (2 hours 40 minutes) for the skin to tan, then the product has a PPD of 16, because it took 16 times longer for skin to darken as it normally would have. 
 
