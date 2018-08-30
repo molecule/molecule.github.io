@@ -10,7 +10,8 @@ image:
 
 |Product|Name and link|
 |---|---|
-|Sunscreen|<a target="_blank" href="https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a">CANMAKE Mermaid Skin Gel UV</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=molecule08-20&l=am2&o=1&a=B00X3E456K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> |
+|Sunscreen|<a target="_blank" href="https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a">CANMAKE Mermaid Skin Gel UV (SPF50+ PA++++)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=molecule08-20&l=am2&o=1&a=B00X3E456K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> |
+|Sunscreen|<a target="_blank" href="https://www.amazon.com/gp/product/B01BM1USNO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BM1USNO&linkCode=as2&tag=molecule08-20&linkId=6ab54ca34f3d7186f48c03ae02d0f34d">Skin Aqua Super Moisture Gel pump (SPF50+ PA++++)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=molecule08-20&l=am2&o=1&a=B01BM1USNO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />|
 |Hydrating toner|<a target="_blank" href="https://www.amazon.com/gp/product/B074GX619Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074GX619Q&linkCode=as2&tag=molecule08-20&linkId=c3ee6e00e1366d6984c3b7f3f55677ef">HADALABO Gokujun Hyaluronic Lotion Moist</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=molecule08-20&l=am2&o=1&a=B074GX619Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />|
 |Moisturizer|<a href="https://www.stratiaskin.com/products/liquid-gold">Stratia's Liquid Gold</a>|
 
@@ -18,7 +19,7 @@ image:
 ### Way more details than you ever wanted
 #### Sunscreen
 
-Most folks know that [dermatologists say the #1 thing you can do for anti-aging is wear sunscreen](https://sciencebecomesher.com/science-based-anti-aging-the-no-1-product-you-need/)! Unfortunately most Western sunscreens available in the U.S. are extremely terrible. They're thick, greasy, difficult to spread, and can leave a major "white cast" to your face. What's more, the FDA has very loose requirements on reporting sunscreen effectiveness, and has been slow to approve new UV filters. Japanese and Korean sunscreens, however, are light-years beyond these pitiful FDA-approved options. 
+Most folks know that [dermatologists say the #1 thing you can do for anti-aging is wear sunscreen](https://sciencebecomesher.com/science-based-anti-aging-the-no-1-product-you-need/)! Unfortunately most Western sunscreens available in the U.S. are extremely terrible. They're thick, greasy, difficult to spread, and can leave a major "white cast" to your face. What's more, the FDA has very loose requirements on reporting sunscreen effectiveness, and has been slow to approve new UV filters. [Japanese and Korean sunscreens, however, are light-years beyond these pitiful FDA-approved options](https://www.reddit.com/r/SkincareAddiction/comments/8tdw0o/haul_just_got_these_babies_in_the_mail_today/e16tvky/?st=jj70617a&sh=aea45711). 
 
 First, some quick info about the different kinds of damaging sun rays:
 - UVB (B is for BURNING): causes sunburns and skin cancer.
@@ -50,7 +51,10 @@ This is my absolute, hands-down all-time favorite sunscreen:
 There's a reason Can Make is the favorite sunscreen of every single person who has ever tried it. It is better than any sunscreen has a right to be. It's like a gel moisturizer that just disappears into your skin. It's a joy to apply: it's not drying, it's not greasy, it's absolutely perfect.
 
 <a href="http://www.cosdna.com/eng/cosmetic_fae0300494.html">CosDNA of CANMAKE Mermaid Skin Gel</a>
- 
 
+Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty/comments/91ehyv/have_a_question_ask_here_daily_help_and_questions/e2ycfyh/?context=3).
+ 
+#### Vitamin C
+https://www.reddit.com/r/30PlusSkinCare/comments/54t5a6/ok_so_why_vitamin_c_serum/d8otp8e/?context=3
 
 
