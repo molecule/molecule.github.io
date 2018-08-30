@@ -154,6 +154,9 @@ hidden:
 
 newsfeed:
     - 
+        content: Excited for my AR/VR class and my Questioning New Media class this semester!
+        date: 29 Aug 2018
+    - 
         content: This summer has been a bit of a struggle, health-wise. Still working on lots of projects but having a tough time because I spend so much time recovering from migraines.
         date: 10 Aug 2018
     -
