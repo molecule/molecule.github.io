@@ -5,6 +5,8 @@ date: 2018-07-15
 
 ## Migraines (and what to do about them).
 
+[Another article](https://www.hormonesmatter.com/migraine-all-wrong/) about migraines, indicating that it may be an inability for the brain to process massive glucose influx.
+
 In migraine, peripheral skin temperature feedback (TEMP-FB), blood-volume-pulse feedback (BVP-FB) and electromyographic feedback (EMG-FB) are the most prominent applications, while electroencephalographic feedback (EEG-FB) and galvanic skin response training (GSR-FB) are seldom used. (Nestouric et al., 2008 [[1]])
 
 Migraine patients treated with biofeedback will likely experience symptom improvements of 56–65% over and above those of an average patient in a waiting list control group. (Nestouric et al., 2008 [[1]])
