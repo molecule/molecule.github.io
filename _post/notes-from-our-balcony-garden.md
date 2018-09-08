@@ -174,10 +174,14 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 5. If you don’t wish to trellis your plant, trim the tops of new canes during the summer months, limiting growth to about 3 to 4 feet.
 6. In the spring, before new growth forms, prune lateral branches back to about 12 inches to encourage larger fruit production.
 7. Don't grow true to seed, so may have thorns if grown from seed.
+8. More growing tips: https://ediblelandscaping.com/careguide/Blackberry/
 
-|Planted|Fertilized|Pruned|Fruited|
-|---|---|---|---|
-|13 June 2018||||
+Next order No Is: 029996
+
+
+|Planted|Fertilized|Pruned|Fruited|Died|
+|---|---|---|---|---|
+|13 June 2018|-|-|-|8 Sept 2018|
 
 #### Thornless, Fragrant Roses
 0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
