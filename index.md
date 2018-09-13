@@ -153,6 +153,9 @@ hidden:
         link: /project/good-person
 
 newsfeed:
+    -
+        content: Pushing hard for CHI...got some cool projects coming through. Excited and happy but will be relieved when Sept. 21 has passed!
+        date: 12 Sept 2018
     - 
         content: Excited for my AR/VR class and my Questioning New Media class this semester!
         date: 29 Aug 2018
