@@ -3,6 +3,16 @@ layout: post
 date: 2018-05-26
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 roses:
+    _
+        name: Grande Dame
+        shade: NO.
+        scent: very strong
+        disease-resistant: Excellent.
+        Climbing: No.
+        notes: Gorgeous color, very large 6" blooms.
+        feelings: Number 1.
+        imag: /src/img/roses/GrandeDameHybridTeaRose.jpg
+        link: https://www.edmundsroses.com/P/23786/Grande+Dame+Hybrid+Tea+Rose
     -
         name: Barbra Streisand
         shade: NO.
