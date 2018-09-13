@@ -184,6 +184,7 @@ Next order No Is: 029996
 |13 June 2018|-|-|-|8 Sept 2018|
 
 #### Thornless, Fragrant Roses
+0. The one I bought: https://www.regannursery.com/rose/Grande-Dame
 0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
 
 <table class='roses' style="width:100%">
