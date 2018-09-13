@@ -163,14 +163,14 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 
 |Planted|Fertilized|Pruned|Fruited|
 |---|---|---|---|
-|~April|24 June|||
+|~April|24 June, 1 July, 1 Aug, 1 Sept|||
 
 #### Apache Thornless Blackberries
 0. Thornless, but still taste good.
-1. Needs rich, moist, soil and full sun exposure to thrive. 
+1. Needs rich, moist, soil and full* sun exposure to thrive. (Baby plants seem to prefer some shade during the hottest part of the day - maybe overall partial shade).
 2. Prefer slightly acidic soil with a pH ranging from 6.5 to 7. 
 3. Space plants about 5 feet apart.
-4. Require about an inch of water per week
+4. Require about **an inch of water per week** (I def killed the first batch by overwatering.) Suggestion from the store: don't repot! Leave them in the small pot they come in to make sure root system develops fully, appropriate amount of water is being added, and nutrients are getting where they should to the roots).
 5. If you don’t wish to trellis your plant, trim the tops of new canes during the summer months, limiting growth to about 3 to 4 feet.
 6. In the spring, before new growth forms, prune lateral branches back to about 12 inches to encourage larger fruit production.
 7. Don't grow true to seed, so may have thorns if grown from seed.
@@ -248,10 +248,10 @@ Next order No Is: 029996
 5. Keep the seeds in a lightly shaded area until germination (9-13 days). [6]
 6. Peas prefer cool conditions, so plant them early in the season. When it gets too warm, they stop producing.[6]
 
-|Location|Planted|Sprouted|Touch pole|Flowered|
-|---|---|---|---|---|
-|Front row|3 June|12 June (9 days)|24 June (21 days)||
-|Second row|24 June|3 July|||
+|Location|Planted|Sprouted|Touch pole|Flowered|Eaten by animals|
+|---|---|---|---|---|---|
+|Front row|3 June|12 June (9 days)|24 June (21 days)||24 Aug|
+|Second row|24 June|3 July|||24 Aug|
 
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html
