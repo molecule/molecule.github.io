@@ -3,6 +3,16 @@ layout: post
 date: 2018-05-26
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 roses:
+    _
+        name: Grande Dame
+        shade: NO.
+        scent: very strong
+        disease-resistant: Excellent.
+        Climbing: No.
+        notes: Gorgeous color, very large 6" blooms.
+        feelings: Number 1.
+        imag: /src/img/roses/GrandeDameHybridTeaRose.jpg
+        link: https://www.edmundsroses.com/P/23786/Grande+Dame+Hybrid+Tea+Rose
     -
         name: Barbra Streisand
         shade: NO.
@@ -163,23 +173,29 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 
 |Planted|Fertilized|Pruned|Fruited|
 |---|---|---|---|
-|~April|24 June|||
+|~April|24 June, 1 July, 1 Aug, 1 Sept|||
 
 #### Apache Thornless Blackberries
 0. Thornless, but still taste good.
-1. Needs rich, moist, soil and full sun exposure to thrive. 
+1. Needs rich, moist, soil and full* sun exposure to thrive. (Baby plants seem to prefer some shade during the hottest part of the day - maybe overall partial shade).
 2. Prefer slightly acidic soil with a pH ranging from 6.5 to 7. 
 3. Space plants about 5 feet apart.
-4. Require about an inch of water per week
+4. Require about **an inch of water per week** (I def killed the first batch by overwatering.) Suggestion from the store: don't repot! Leave them in the small pot they come in to make sure root system develops fully, appropriate amount of water is being added, and nutrients are getting where they should to the roots).
 5. If you don’t wish to trellis your plant, trim the tops of new canes during the summer months, limiting growth to about 3 to 4 feet.
 6. In the spring, before new growth forms, prune lateral branches back to about 12 inches to encourage larger fruit production.
 7. Don't grow true to seed, so may have thorns if grown from seed.
+8. More growing tips: https://ediblelandscaping.com/careguide/Blackberry/
 
-|Planted|Fertilized|Pruned|Fruited|
-|---|---|---|---|
-|13 June 2018||||
+Next order No Is: 029996
+
+
+|Planted|Fertilized|Pruned|Fruited|Died|
+|---|---|---|---|---|
+|13 June 2018|-|-|-|8 Sept 2018|
 
 #### Thornless, Fragrant Roses
+0. The one I bought: https://www.regannursery.com/rose/Grande-Dame
+  - A [cute set of comments](https://www.houzz.com/discussions/1573428/does-anyone-have-grande-dame-rose) about the Grande Dame.
 0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
 
 <table class='roses' style="width:100%">
@@ -244,10 +260,10 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 5. Keep the seeds in a lightly shaded area until germination (9-13 days). [6]
 6. Peas prefer cool conditions, so plant them early in the season. When it gets too warm, they stop producing.[6]
 
-|Location|Planted|Sprouted|Touch pole|Flowered|
-|---|---|---|---|---|
-|Front row|3 June|12 June (9 days)|24 June (21 days)||
-|Second row|24 June|3 July|||
+|Location|Planted|Sprouted|Touch pole|Flowered|Eaten by animals|
+|---|---|---|---|---|---|
+|Front row|3 June|12 June (9 days)|24 June (21 days)||24 Aug|
+|Second row|24 June|3 July|||24 Aug|
 
 [1]:https://www.fourwindsgrowers.com/tips-and-advice/growing-dwarf-citrus/in-containers.html
 [2]:https://www.fourwindsgrowers.com/tips-and-advice/problem-solver.html

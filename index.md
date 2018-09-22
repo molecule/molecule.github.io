@@ -156,6 +156,9 @@ newsfeed:
     -
         content: Submitted my first first-author paper! <a href="https://i.imgur.com/XAFRi0k.jpg">Had fun out celebrating with our whole lab (6 papers!!!) and some folks from Bjoern's lab.</a>
         date: 21 Sept 2018
+    -
+        content: Pushing hard for CHI...got some cool projects coming through. Excited and happy but will be relieved when Sept. 21 has passed!
+        date: 12 Sept 2018
     - 
         content: Excited for my AR/VR class and my Questioning New Media class this semester!
         date: 29 Aug 2018
