@@ -5,9 +5,19 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/
 movies:
 
     -
+        title: Isle of Dogs
+        review: Eh. But it's the first Wes Anderson Matt likes so I'm into it.
+        rating: 1.5
+        link:
+    -
+        title: The Matrix Revolutions
+        review: Back to the classic formula but honestly nothing compares to the first one.
+        rating: 1.5
+        link:
+    -
         title: The Matrix Reloaded
-        review:
-        rating: 
+        review: I understand why everyone hated this movie!
+        rating: 1.5
         link: 
     -
         title: The Matrix
