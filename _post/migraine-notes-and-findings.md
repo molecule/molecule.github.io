@@ -11,6 +11,14 @@ Migraine patients treated with biofeedback will likely experience symptom improv
 
 Blood-volume-pulse feedback yielded higher effect sizes than peripheral skin temperature feedback and electromyography feedback. (Nestouric et al., 2007 [[2]])
 
+## CBD
+"Rosado’s regimen varies, he says, but he typically prescribes 0.1 milligrams of sativa for each pound of the patient’s body weight, taken daily, if they use a vaporizer or typical inhalation method. For an edible oil or capsule, his usual recommendation is 30 to 35 milligrams per pound." - [source](https://tonic.vice.com/en_us/article/j5a4by/everything-you-need-to-know-about-using-weed-for-headaches)
+
+"The results showed that THC-CBD was slightly better at reducing the frequency of migraine attacks than the commonly prescribed med (40.4 % versus 40.1%, respectively). And the THC-CBD drug was very effective at reducing migraine pain, cutting it by 43.5%.
+
+The drug was also effective at reducing the severity of pain in cluster headache sufferers, but only if they had a history of migraines from childhood on." - [source](https://www.forbes.com/sites/daviddisalvo/2017/06/29/marijuana-treats-migraine-pain-better-than-prescription-medication-study-finds/#3f8282d53700)
+http://getzenca.com/get-zen-products/serenity-1111-capsules-cannabis-oil/
+
 #### Neurofeedback and biofeedback with 37 migraineurs: a clinical outcome study
 
 37 migraine patients underwent an average of 40 neurofeedback sessions combined with thermal biofeedback. The study involved treatment using EEG biofeedback, pIR HEG biofeedback and handwarming biofeedback for an average total of 40 sessions. 30 minutes at least twice weekly. Results: Of the 37 migraine patients treated, 26 patients or 70% experienced at least a 50% reduction in the frequency of their headaches which was sustained on average 14.5 months after treatments were discontinued. In neurofeedback, sensors are attached to the scalp and the raw EEG signal is amplified, the frequency spectrum is extracted via a Fourier transform and selected frequency components are displayed through a user interface such as a video game.
