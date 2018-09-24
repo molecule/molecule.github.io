@@ -1,6 +1,6 @@
 ---
 title: about
-layout: default
+layout: centered
 projects:
     -
         title: Guardians
