@@ -3,6 +3,11 @@ layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
+    -
+        title: Black Panther
+        review: Excellent.
+        rating: 2.5
+        link: 
 
     -
         title: Isle of Dogs
