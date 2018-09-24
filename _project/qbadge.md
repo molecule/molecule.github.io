@@ -20,7 +20,7 @@ img.proj { display: block; margin: auto; }
 
 ###### [source code][qbadge] - [grace hopper blog][ghc-blog] - [article][steam-article]
 
-| <img src="/src/img/noun_779891.svg" alt="Qualstar awards" style="width: 50px;"/> | <img src="/src/img/noun_779891.svg" alt="Qualstar awards" style="width: 50px;"/> | [ Won 2 Qualstar awards!][qualstars] |
+| <img src="/src/img/icon-noun_779891.svg" alt="Qualstar awards" style="width: 50px;"/> | <img src="/src/img/icon-noun_779891.svg" alt="Qualstar awards" style="width: 50px;"/> | [ Won 2 Qualstar awards!][qualstars] |
 
 
 Arduinos are amazing devices, but even with the incredible community surrounding them, there still seems to be  a huge lack of women interested in low-level programming. I wondered if this was because frequently the only embedded application people know about is robots. Inspired by Leah Buechley’s Lilypad Arduinos, I wanted to show how to use Arduinos for a different kind of application. Working together with the campus team, and 3 other teams at Qualcomm, I designed an event around what I created. Questions I wanted to ask:

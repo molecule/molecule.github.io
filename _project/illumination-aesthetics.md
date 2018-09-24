@@ -13,7 +13,7 @@ img.proj { display: block; margin: auto; }
 
 <img id="illumination" class="proj" src="/src/img/ia-thumbnail.jpg">
 
-| <img src="/src/img/noun_779891.svg" alt="CHI award" style="width: 50px;"/> | Best Paper Award at [CHI 2017][chi] |
+| <img src="/src/img/icon-noun_779891.svg" alt="CHI award" style="width: 50px;"/> | Best Paper Award at [CHI 2017][chi] |
 
 #### Abstract
 Recent digital fabrication tools have enabled new form-giving
