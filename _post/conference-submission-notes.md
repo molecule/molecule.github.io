@@ -30,7 +30,7 @@ submissions:
         link:
     -
         conference: CHI 2017
-        notes: My first ever paper submission cycle! Worked with the truly inspiring César Torres and his graduate student Jasper O'Leary. Joined the project maybe 3 weeks after moving back to the Bay Area from San Diego. Had NO idea of what was going on, but learned so much. Learned how to run user studies and analyze qualitative data. Also learned that I need to be more explicit about how being able to work past 9pm :)
+        notes: My first ever paper submission cycle! Worked with the truly inspiring César Torres and his graduate student Jasper O'Leary. Joined the project maybe 3 weeks after moving back to the Bay Area from San Diego. Had NO idea of what was going on, but learned so much. Learned how to run user studies and analyze qualitative data. Also learned that I need to be more explicit about not being able to work past 9pm :)
         icon:  /src/img/icon-noun_779891.svg
         link: https://molecule.github.io/project/illumination-aesthetics/
 
