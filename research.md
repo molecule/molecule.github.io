@@ -7,7 +7,7 @@ layout: page
 
 # research
 
-| <img src="/src/img/logo-dis18.png" alt="Guardians" style="width: 400px; padding:10px"/> | [Guardians of Practice: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices][dis18]  César Torres, Sarah Sterman, __Molly Jane Nicholas__, Richard Lin, Eric Pai, Eric Paulos. ACM Conference on Designing Interactive Systems  ([DIS'18][dis18-site])|
+| <img src="/src/img/dis18-guardians.png" alt="Guardians" style="width: 400px; padding:10px"/> | [Guardians of Practice: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices][dis18]  César Torres, Sarah Sterman, __Molly Jane Nicholas__, Richard Lin, Eric Pai, Eric Paulos. ACM Conference on Designing Interactive Systems  ([DIS'18][dis18-site])|
 
 [dis18]:http://www.hybrid-ecologies.org/projects
 [dis18-site]:http://dis2018.org/
