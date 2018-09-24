@@ -155,19 +155,19 @@ hidden:
 
 newsfeed:
     -
-        content: Submitted my first first-author paper! <a href="https://i.imgur.com/XAFRi0k.jpg">Had fun out celebrating with our whole lab (6 papers!!!) and some folks from Bjoern's lab.</a>
+        content: Submitted my first first-author paper! <a href="https://i.imgur.com/XAFRi0k.jpg">Had fun out celebrating with some folks from Bjoern's lab.</a>
         date: 21 Sept 2018
     -
-        content: Pushing hard for CHI...got some cool projects coming through. Excited and happy but will be relieved when Sept. 21 has passed!
+        content: Pushing hard for CHI...Excited and happy but will be relieved when Sept. 21 has passed!
         date: 12 Sept 2018
     - 
         content: Excited for my AR/VR class and my Questioning New Media class this semester!
         date: 29 Aug 2018
     - 
-        content: This summer has been a bit of a struggle, health-wise. Still working on lots of projects but having a tough time because I spend so much time recovering from migraines.
+        content: Working on lots of projects but having a tough time because I spend so much time recovering from migraines.
         date: 10 Aug 2018
     -
-        content: Getting ready for a long vacation in Hawai'i! Kayaking, snorkeling, seeing the Na Pali coast...and enjoying some relaxation with my honey love.
+        content: Getting ready for a long vacation in Hawai'i! Kayaking, snorkeling, seeing the Na Pali coast with my honey love.
         date: 11 May 2018
     - 
         content: Really enjoyed presenting our latest projects to the enthusiastic audience at the ARCS Symposium.
