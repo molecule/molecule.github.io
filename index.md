@@ -11,13 +11,13 @@ projects:
     - 
         title: AlterWear
         desc: Battery-Free Wearable Displays for Opportunistic Interactions (Presented at CHI 2019)
-        tags: [res]
+        tags: [res, wear]
         imag: /src/img/alterwear-shoe-toe-only.png
         link: /project/alterwear
     -
         title: Häiriö
         desc: Human Hair as Interactive Material (Presented at TEI 2018)
-        tags: [res]
+        tags: [res, wear]
         imag: /src/img/hairio-gif.gif
         link: /project/hairio
     -
