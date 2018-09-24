@@ -10,9 +10,10 @@ projects:
         link: http://cearto.com/projects/guardians
     - 
         title: AlterWear
-        desc: (coming soon to CHI 2018)
+        desc: Battery-Free Wearable Displays for Opportunistic Interactions (Presented at CHI 2019)
         tags: [res]
         imag: /src/img/alterwear-shoe-toe-only.png
+        link: /project/alterwear
     -
         title: Häiriö
         desc: Human Hair as Interactive Material (Presented at TEI 2018)
