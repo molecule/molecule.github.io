@@ -3,7 +3,7 @@ layout: post
 date: 2018-05-26
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 roses:
-    _
+    -
         name: Grande Dame
         shade: NO.
         scent: very strong
