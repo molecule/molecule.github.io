@@ -8,7 +8,6 @@ movies:
         review: Excellent.
         rating: 2.5
         link: 
-
     -
         title: Isle of Dogs
         review: Eh. But it's the first Wes Anderson Matt likes so I'm into it.
