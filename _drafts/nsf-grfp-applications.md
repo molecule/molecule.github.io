@@ -19,7 +19,7 @@ date: 2018-09-24
 - First sentence: "I don't recall feeling nervous about my decision to drop out of college and go to clown school."
 - Number of editors: at least 11. Varying backgrounds and levels of expertise.
 - Editing pipeline. 
-- # drafts: at least 11.
+- number of drafts drafts: at least 11.
 - For 3 weeks, literally did no classwork, no research, only wrote my application.
 
 #### Letters of Recommendation
