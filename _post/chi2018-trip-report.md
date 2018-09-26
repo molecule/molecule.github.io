@@ -1,3 +1,9 @@
+---
+layout: post
+date: 2018-04-27
+image: /src/img/logo-chi18a.png
+---
+
 The theme of this year's CHI was "Engage". This time, I was lucky enough to be on both sides of engagement: I was enriched by many wonderful presentations, but I also had the amazing opportunity to share our work with the scholars in attendance. We were part of a session on Tangible, Embodied, and Wearable Interaction that included great work from Berkeley's own Kimiko Ryokai on designing interfaces that capture and represent laughter. 
 
 Part of being a 2nd year graduate student is learning to develop your intuition about what makes good research. I operationalize this at conferences by carefully choosing which presentations I attend. Here are a subset of my favourite talks at this years CHI:
