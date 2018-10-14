@@ -198,28 +198,28 @@ Next order No Is: 029996
   - A [cute set of comments](https://www.houzz.com/discussions/1573428/does-anyone-have-grande-dame-rose) about the Grande Dame.
 0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
 
-<table class='roses' style="width:100%">
+<table class="outlinedTable" style="width:100%;">
 <tr class="rose">
-    <th width="30%">Blooms</th>
-    <th width="10%">Name</th>
-    <th width="10%">Shade OK?</th>
-    <th width="10%">Scent?</th>
-    <th width="10%">Disease Resistant?</th>
-    <th width="10%">Climbing or Shrub?</th>
-    <th width="10%">Notes</th>
-    <th width="10%">Feelings</th>
+    <th width="30%" class="outlinedTable">Blooms</th>
+    <th width="10%" class="outlinedTable">Name</th>
+    <th width="10%" class="outlinedTable">Shade OK?</th>
+    <th width="10%" class="outlinedTable">Scent?</th>
+    <th width="10%" class="outlinedTable">Disease Resistant?</th>
+    <th width="10%" class="outlinedTable">Climbing or Shrub?</th>
+    <th width="10%" class="outlinedTable">Notes</th>
+    <th width="10%" class="outlinedTable">Feelings</th>
 </tr>
 
 {% for rose in page.roses %}
-<tr class="rose">
-    <td><img src="{{ rose.imag }}" style="width:250px"/></td>
-    <td><medium>{{ rose.name }}</medium></td>
-    <td>{{ rose.shade }}</td>
-    <td><small>{{ rose.scent }}</small></td>
-    <td><small>{{ rose.disease-resistant }}</small></td>
-    <td><small>{{ rose.climbing }}</small></td>
-    <td><small>{{ rose.notes }}</small></td>
-    <td>{{ rose.feelings }}</td>
+<tr class="outlinedTable">
+    <td class="outlinedTable"><img src="{{ rose.imag }}" style="width:250px"/></td>
+    <td class="outlinedTable"><medium>{{ rose.name }}</medium></td>
+    <td class="outlinedTable">{{ rose.shade }}</td>
+    <td class="outlinedTable"><small>{{ rose.scent }}</small></td>
+    <td class="outlinedTable"><small>{{ rose.disease-resistant }}</small></td>
+    <td class="outlinedTable"><small>{{ rose.climbing }}</small></td>
+    <td class="outlinedTable"><small>{{ rose.notes }}</small></td>
+    <td class="outlinedTable">{{ rose.feelings }}</td>
 </tr> <!--end rose-->
 {% endfor %}
 </table> <!--end roses-->
