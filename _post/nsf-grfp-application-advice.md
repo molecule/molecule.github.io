@@ -4,30 +4,30 @@ date: 2018-09-24
 ---
 
 ## Applying to the NSF GRFP
-This is a collection of notes I took when preparing to apply for the NSF GRFP. Against all odds and to my enormous surprise, I won it! So I'm sharing these notes and resources here in the hopes that they will be helpful to someon else.
+This is a collection of notes I took when preparing to apply for the NSF GRFP. Against all odds and to my enormous surprise, I won it! So I'm sharing these notes and resources here in the hopes that they will be helpful to someone else.
+
+### Links
+
 
 ### General
-- Most people don't get the NSF, so make sure your time spent here is worth it. Have a higher goal: identify/define/articulate your research agenda.
+- Most people don't get the NSF, so make sure your time spent here is worth it. Have a higher goal: identify/define/articulate your research agenda. (I was certain I wouldn't win, so I took this as an opportunity to force myself to define my research agenda as a second year).
 - Tell the story - capture attention early on, see this as an opportunity for you to weave the story of your life together and see the thread that surely connects everything even if it's not obvious.
-- Use formatting to draw attention to important bits, and save whitespace. Bolding, subheadings, use structure to help people navigate. Make sure bold segments are coherent if that's all you read. Makes a difference to the clarity of research proposal.
+- Use formatting to draw attention to important bits, and save whitespace. **Bolding**, subheadings, use structure to help people navigate. Make sure bold segments are coherent if that's all you read. Makes a difference to the clarity of research proposal.
 - Use the smallest possible citation format.
 - It's OK to propose research that you don't end up doing. You're not locked in to this proposal. They fund YOU, not the project. 
 - My app is definitely a bit of a mess, especially my research statement. In other words: you don't have to be perfect.
-- My first sentence: "I don't recall feeling nervous about my decision to drop out of college and go to clown school." My advisor really wanted me to take this out because it starts off w/ something "negative". I kept it in because I kept getting feedback that it blew people away when they read it, and they wanted to keep reading. Plus, I knew I had enough "regular" accomplishments (publications, graduated from a good school, know how to write w/ language of academia, etc) to assuage any concerns that I'm just a kooky nut.
 - Consider your academic self, consider how the reviewers will understand who you are.
 - Think about how your goals fit w/ NSF's vision.
 - I have a weird background, and it's almost all in the app. See any deviation from the normal path as your superpowers.
-- Apps are reviewed at the stage at which they are applying, so apply early. 2nd years are held to a higher standard, presumably. Comparing apples with apples.
+- Apps are reviewed at the stage at which they are applying, so apply early. 2nd years are held to a higher standard. Reviewers compare apples with apples.
 - Expectations for 2nd years? Someone who has had no graduate education will demonstrate competence and mastery of material. 2nd years: that's not enough, need much more extensive understanding of literature, more sophisticated approach to research questions and design.
 - Grades: not that important. Need good mastery of subject, but doesn't correlate.
-- Proposal: keep reviewer awake, clear, consistent, etc.
-- Figures in proposal? Doyle: yes, do it. Flowsheet for methodology, pic of complex equipment. Not more than one. But they take up a lot of space, don't use one unless it's super worth it.
 
 ### Process
 - Read the prompt many many times and make sure you're answering the questions!
 - I had at least 11 people read my apps. Each looked at it at least 2 times, many 3 or more.
 - Get an editing pipeline: I would send DraftA to person 1, get feedback, then edit to get DraftB and send to person 2, get feedback and edit to get DraftC which got sent to person 3, eventually creating DraftD which got edited and sent to person 1 again. 
-- Prioritize editing feedback by editing style: my Mom tends to focus on wordsmithing and we fundamentally disagree about commas, so I sent her later drafts that needed polishing. My friend Daniel absolutely rips things to shreds, so I sent him earlier drafts to get the overall shape right.
+- Prioritize editing feedback by editing style: my Mom tends to focus on wordsmithing and we fundamentally disagree about commas, so I sent her later drafts that needed polishing. My friend Daniel absolutely rips things to shreds, so I sent him earlier drafts to get the overall shape right as early as possible.
 - Get editors with varying backgrounds and levels of expertise. You are not guaranteed that the people reading your app will be experts in your subfield or area, so make sure things are understandable to an outsider. This also strengthens your claims about Broader Impact AND Intellectual Merit: if you can explain something complex such that it's easy to understand, you are showing your skills.
 - I wrote at least 15 full drafts, 8 of which were complete re-writes (I threw everything out and started over from scratch).
 - For 3 weeks, I literally did no classwork, no research, only wrote my application.
@@ -37,13 +37,16 @@ This is a collection of notes I took when preparing to apply for the NSF GRFP. A
 - It's not hyperbole if it's true.
 - Get passion in there, reviewers look for that.
 - Keep re-reading app info. Impression of what's required may change with time.
+- My first sentence: "I don't recall feeling nervous about my decision to drop out of college and go to clown school." My advisor really wanted me to take this out because it starts off w/ something "negative". I kept it in because I kept getting feedback that it blew people away when they read it, and they wanted to keep reading. Plus, I knew I had enough "regular" accomplishments (publications, graduated from a good school, know how to write w/ language of academia, etc) to assuage any concerns that I'm just a kooky nut.
 
 #### Research Proposal
+- Purpose of proposal: keep reviewer awake, clear, consistent, etc.
 - Tell them what you want to study, why it's important. Reviewers may know nothing about this topic. Tell people what's known so far, in a way that makes your reviewers feel intelligent. They'll like you and rate you higher.
 - Reviewers look at proposal as evidence that you have research ability, can think clearly, can communiate clearly, shows your potential. Choose a topic that allows you to demonstrate that.
 - Don't change your mind thru the proposal - write it down clearly and define it. Be consistent. Review what you've said you're doing, to make sure it is consistent.
 - At most 3 sentences of background before you get to what you're doing in your research proposal.
 - Include publications/references as relevant.
+- Figures in proposal? Doyle: yes, do it. Flowsheet for methodology, pic of complex equipment. Not more than one. But they take up a lot of space, don't use one unless it's super worth it.
 - "Write it like an academic" --> Don't feel you have to write like research papers are written, because they're often horrible. People who can write well feel that when they do tech writing they must adopt this new boring style. Don't do that, keep reviewers awake and use an active voice.
 - Technical communication is hard. Don't underestimate this. Probably apocryphal tale of dean of eng here at Berkeley, speaking w alumni and donors about how well-qualified undergraduates are: Not only did eng. undergrads have better SAT scores in Math and other areas, but they came in w better qualifications in writing. One donor raised their hand and said "so what is it you do to them because by the time they get to me they can't write at all."
 - NSF requests description of the resources, how do you do that as an undergrad when you don't know what school you'll need? Don't get into crazy specifics, most universities will have access/can arrange visits.
