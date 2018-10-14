@@ -108,13 +108,6 @@ Remember, UVA rays are the ones responsible for aging and UVB rays are the ones 
 
 Asian sunscreens have much better filters and formulations. Not only do the sun filtering ingredients used in Asian sunscreens degrade less quickly than those in American suncreens, but they are far more cosmetically elegant. They sink in almost instantly, glide on smoothly, dry to a dewy or matte finish (as you prefer), AND the level of sun protection is *significantly* higher. All the sunscreens I recommend are minimum SPF 50 and PA++++.
 
-This is my absolute, hands-down all-time favorite sunscreen:
-<a target="_blank" href="https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a">CANMAKE Mermaid Skin Gel UV</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=molecule08-20&l=am2&o=1&a=B00X3E456K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
-
-There's a reason Can Make is the favorite sunscreen of every single person who has ever tried it. It is better than any sunscreen has a right to be. It's like a gel moisturizer that just disappears into your skin. It's a joy to apply: it's not drying, it's not greasy, it's absolutely perfect.
-
-<a href="http://www.cosdna.com/eng/cosmetic_fae0300494.html">CosDNA of CANMAKE Mermaid Skin Gel</a>
-
 Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty/comments/91ehyv/have_a_question_ask_here_daily_help_and_questions/e2ycfyh/?context=3).
  
 #### Vitamin C
