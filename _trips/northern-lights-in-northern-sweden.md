@@ -104,7 +104,7 @@ As of this writing, there is only one bus from Kiruna airport to Abisko. It is t
 There are also shuttle services, for about 450SEK/person. The advantage of these is that they leave earlier than the 91, so you don't need to spend 4 hours in the Kiruna airport.
 
 ### Train
-We rode the 18-hour train back to Stockholm. Logistically, taking the train down is easier because you don't need to coordinate your flight frp, Kiruna with the bus back to Kiruna, or hire an expensive taxi (~1800SEK). Instead, it's a leisurely walk to the train station in either Abisko Östra or Abisko Turistation. Since we were staying in Abisko Östra, we took a walk across the frozen lake to get back. It was windy and cold, but we eventually made it to the Abisko Turiststation STF accommodations, which offer an excellent buffet for 125SEK/person. We also spent about an hour of time in the wonderful nature museum. There were a bunch of excellent documentaries in English, and some lovely displays about the surrounding area.
+We rode the 18-hour train back to Stockholm. Logistically, taking the train down is easier because you don't need to coordinate your flight from Kiruna with the bus back to Kiruna, or hire an expensive taxi (~1800SEK). Instead, it's a leisurely walk to the train station in either Abisko Östra or Abisko Turistation. Since we were staying in Abisko Östra, we took a walk across the frozen lake to get back. It was windy and cold, but we eventually made it to the Abisko Turiststation STF accommodations, which offer an excellent buffet for 125SEK/person. We also spent about an hour of time in the wonderful nature museum. There were a bunch of excellent documentaries in English, and some lovely displays about the surrounding area.
 
 The overnight train from Abisko to Stockholm is run by a company called "SJ". 
 - You MUST <a href="https://www.sj.se/en/home.html#/">purchase tickets online in advance.</a> They do not sell tickets on the train.
@@ -119,8 +119,7 @@ The overnight train from Abisko to Stockholm is run by a company called "SJ".
 Being from Colorado, I'm relatively experienced with cold weather. Having said that, this was by far the coldest weather I've ever been in, especially while camping. Here's what I wore on a daily basis while in Sweden:
 
 On bottom:
-- Silk long underwear (REI)
-- Synthetic long underwear (REI)
+- Silk long underwear (REI) OR Synthetic long underwear (REI)
 - Wool long underwear (inherited from my Dad)
 - Mammut windproof and water-resistant pants (REI)
 - Synthetic ski socks (REI)
