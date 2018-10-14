@@ -176,7 +176,7 @@ newsfeed:
         content: Really enjoyed presenting our latest projects to the enthusiastic audience at the ARCS Symposium.
         date: 7 May 2018
     -
-        content: Had an amazing at CHI - check out my <a href="https://molecule.github.io/post/chi2018-trip-report/">CHI 2018 trip report!</a>
+        content: Amazing time at CHI - check out my <a href="https://molecule.github.io/post/chi2018-trip-report/">CHI 2018 trip report!</a>
         date: 30 April 2018
     - 
         content: So excited to present <a href="http://www.hybrid-ecologies.org/projects/24-alterwear">our latest work on battery-free dynamic clothing and accessories</a> here at <a href="https://chi2018.acm.org/">CHI</a> in Montreal!
