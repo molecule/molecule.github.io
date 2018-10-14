@@ -79,8 +79,6 @@ moisturizers:
     </table>
 </div><!--end of moisturizers etc.-->
 
-# Skincare and Haircare
-
 ### Way more details than you ever wanted
 #### Sunscreen
 
