@@ -19,7 +19,7 @@ img.proj { display: block; margin: auto; }
 <img id="chicken-stock" class="proj" src="/src/img/chicken-stock.jpg">
 
 
-###### [lunfan site][http://www.lunfan.com/]
+###### [lunfan site](http://www.lunfan.com/)
 
 Using plastic bags, plastic forks, foam, and even bare skin, the award winning Lunatique Fantastique ensemble tells the epic story of the Avian Flu from the birds’ point of view.
 
