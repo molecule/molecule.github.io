@@ -71,10 +71,18 @@ We found a lot of conflicting information online about the availability of food 
 ### Abiskojaure STF Fjällstation
 <img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-view.jpg">
 
-8 miles / 14km from Abisko Östra, this was hands down my favourite part of our trip. The Kungsleden is almost completely flat for this section, with a few fairly gentle hills. We took a friend on her first ever cross-country ski trip and it was tough but doable for her. I can't say enough wonderful things about this place, it was an absolute joy. 
+8 miles / 14km from Abisko Östra, this was hands down my favourite part of our trip. The Kungsleden is almost completely flat for this section, with a few fairly gentle hills. 
 
 <div class="blog-container">
 <img alt="Water from the lake is brought in to wash w/ at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-tree.jpg">
+<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/abiskojaure-trail.jpg">
+<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/abiskojaure-trail-lunch.jpg">
+</div>
+
+We took a friend on her first ever cross-country ski trip and it was tough but doable for her. I can't say enough wonderful things about this place, it was an absolute joy. 
+
+<div class="blog-container">
+<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/abiskojaure-mount-giron.jpg">
 <img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-x-country-04.jpg">
 <img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-ski-lake.jpg">
 </div>
@@ -96,9 +104,10 @@ When you ski up, someone pops their head out of the first hut and invites you in
 <img alt="Abisko.net kitchen" class="blog-img" src="/src/img/sweden/abiskojaure-hut-stove.jpg">
 </div>
 
-<img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-view.jpg">
-
 This was truly a highlight of an amazing trip, and I'd encourage anyone with even a single outdoorsy bone in their body to do it!
+
+REPLACE this pic:
+<img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-sunrise.jpg">
 
 <div class="blog-container">
 <img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/skiing-better.jpg">
