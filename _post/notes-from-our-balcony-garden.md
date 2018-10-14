@@ -186,8 +186,6 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 7. Don't grow true to seed, so may have thorns if grown from seed.
 8. More growing tips: https://ediblelandscaping.com/careguide/Blackberry/
 
-Next order No Is: 029996
-
 
 |Planted|Fertilized|Pruned|Fruited|Died|
 |---|---|---|---|---|
