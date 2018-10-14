@@ -18,6 +18,12 @@ ________________________
 
 Molly Jane Nicholas
 
+**Office: 143 Sutardja Dai Hall**
+
+[Hybrid Ecologies Lab](https://www.hybrid-ecologies.net)
+
+EECS Department
+
 University of California, Berkeley
 
 Berkeley, CA, USA
@@ -29,20 +35,20 @@ _________________________
 
 ### Education
 
-##### University of California, Berkeley <ra>Aug. 2016 - Present</ra>
+<b>University of California, Berkeley</b> <ra>Aug 2016 - Present</ra><br>
 Ph.D. in Computer Science (in progress)
 
-##### University of California, Berkeley <ra>Sept 2011 - May 2014</ra>
+University of California, Berkeley <ra>Sept 2011 - May 2014</ra><br>
 B.A. in Computer Science and Cognitive Science<br>
 *GPA: 3.591*
 
-##### Clown Conservatory, San Francisco Circus Center <ra>August 2007 - May 2009</ra>
+<b>Clown Conservatory, San Francisco Circus Center</b> <ra>Aug 2007 - May 2009</ra><br>
 Professional Clown Certificate<br>
 
-##### Knox College <ra>August 2005 - June 2007</ra>
+Knox College <ra>August 2005 - June 2007</ra><br>
 *GPA: 3.69*
 
-##### Gymnazium Lud'ka Pika, Plze&#328;, Czech Republic <ra>August 2003 - May 2004</ra>
+Gymnazium Lud'ka Pika, Plze&#328;, Czech Republic <ra>Aug 2003 - May 2004</ra><br>
 Language Achievement Certificate
 
 
@@ -78,42 +84,42 @@ Language Achievement Certificate
 
 
 ### Professional Experience
-##### Engineer, Qualcomm Research and Development <ra>June 2014 - August 2016</ra>
+##### Engineer, Qualcomm Research and Development <ra>June 2014 - Aug 2016</ra>
 Developed the new robot control system for FIRST Tech Challenge, creating two Android apps to interface with custom hardware. Invented, designed and developed the [Qbadge][qbadge], a wearable device to facilitate engaging interactive experiences, and enable further hardware exploration.
 
 [qbadge]: https://github.com/molecule/Qbadge
 
-##### Puppeteer, Liebe Wetzel's Lunatique Fantastique <ra>June 2008 - September 2008</ra>
+##### Puppeteer, Liebe Wetzel's Lunatique Fantastique <ra>June 2008 - Sept 2008</ra>
 *[Chicken Stock.][chicken]* 3d live animation using found-object puppets to tell the story of Avian Flu
 from the birds’ point of view. Bunraku-style puppetry involves three people on one puppet.
 
 [chicken]:https://www.lunfan.com/shows/2008_chicken.html
 
 ### Events
-#### Grace Hopper <ra> October 2016 </ra>
+<b>Grace Hopper</b> <ra> October 2016 </ra><br>
 Qualcomm Qnnect (Qbadge event): event lead, speaker.
 
-#### Qualcomm QWCC Conference <ra> January 2016 </ra>
+<b>Qualcomm QWCC Conference</b> <ra> January 2016 </ra><br>
 Sewable Circuits Workshop: workshop lead.
 
-#### Latina Giving Circle <ra> January 2016 </ra>
-Circuit Stickers Workshop: workshop lead.
+<b>Latina Giving Circle</b> <ra> January 2016 </ra><br>
+Circuit Stickers Workshop: workshop lead.<br>
 Tech Talk: speaker.
 
-#### Qualcomm DECA Conference <ra> January 2016 </ra>
+<b>Qualcomm DECA Conference</b> <ra> January 2016 </ra><br>
 Sewable Circuits Workshop: workshop lead.
 Mentor.
 
-#### Grace Hopper <ra> October 2015 </ra>
-Qualcomm HardWEAR Shindig (Qbadge event): event lead, speaker.
+<b>Grace Hopper</b> <ra> October 2015 </ra><br>
+Qualcomm HardWEAR Shindig (Qbadge event): event lead, speaker.<br>
 Student Opportunity Lab: You++ [Resume Critique]: speaker.
 
-#### EmpowHERment Conference, Qualcomm  <ra> August 2015 </ra>
+<b>EmpowHERment Conference, Qualcomm</b>  <ra> August 2015 </ra><br>
 Hackathon mentor, speaker
 
 ### Technical Skills
 
-*Languages* <ra class="skill">Java, Python, Arduino, bash, Czech </ra>
+*Languages* <ra class="skill">Java, Android, Python, Arduino, bash, Czech </ra>
 
 *Hardware Experience* <ra class="skill">Arduino, Particle, PCB design, SMD soldering</ra>
 
@@ -124,7 +130,10 @@ Hackathon mentor, speaker
 
 ##### UC Berkeley
 
-- Needs and Usability Asseessment <ra>INFO 214</ra>
+- Theory and Applications of AR and VR <ra>CS294</ra>
+- Questioning New Media <ra>NWMEDIA 201</ra>
+- HCI Research <ra>CS 260B</ra>
+- Needs and Usability Assessment <ra>INFO 214</ra>
 - Information Visualization <ra>INFO 247</ra>
 - History and Theory of New Media <ra>NWMEDIA 200</ra>
 - Learning for Cooperation and the DARPA Spectrum Collaboration Challenge <ra>CS 294-133</ra>
@@ -134,38 +143,38 @@ Hackathon mentor, speaker
 
 ### Awards
 
-##### NSF GRFP <ra>April 2018</ra>
-<a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a>
+<b>NSF GRFP</b> <ra>April 2018</ra><br>
+<a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a>
 
-##### Best Paper Award ACM CHI'17 <ra>May 2017</ra>
+<b>Best Paper Award ACM CHI'17</b> <ra>May 2017</ra><br>
 for [Illumination Aesthetics][illumination-aesthetics]
 
-##### BCNM 2017 Summer Research Award <ra>May 2017</ra>
+<b>BCNM 2017 Summer Research Award</b> <ra>May 2017</ra><br>
 [This award][bcnm-summer2017-research] is given to a select number of students based on promising academic research proposals.
 
 [bcnm-summer2017-research]:http://bcnm.berkeley.edu/2017/04/06/announcing-our-2017-summer-research-award-recipients/
 
 
-##### EECS Excellence Award <ra>August 2016</ra>
+<b>EECS Excellence Award</b> <ra>August 2016</ra><br>
 Awarded to a select number of students based on outstanding academic record.
 
-##### Achievement Rewards for College Scientists Fellowship <ra>August 2016</ra>
-This fellowship, the result of a highly competitive process, is presented only to Berkeley's top admitted doctoral students. The nomination, as submitted by a faculty member in your program, underwent rigorous review by a campus-wide faculty committee charged with identifying the very best nominees.
+<b>Achievement Rewards for College Scientists Fellowship</b> <ra>August 2016</ra><br>
+This fellowship, the result of a highly competitive process, is presented only to Berkeley's top admitted doctoral students. The nomination, as submitted by a faculty member in the EECS program, underwent rigorous review by a campus-wide faculty committee charged with identifying the very best nominees.
 
 
-##### Qualstar <ra>March 2016</ra>
+<b>Qualstar</b> <ra>March 2016</ra><br>
 For outstanding contributions at Qualcomm, Inc. "For organizing the wearable technology workshop for our team and enthusiastically taking us through each part of the class including wiring, sewing, and programming our arduino core. Thank you for your time and efforts." (Michael DiBattista)
 
-##### Qualstar <ra>December 2015</ra>
+<b>Qualstar</b> <ra>December 2015</ra><br>
 For outstanding contributions at Qualcomm, Inc. "Thanks for leading the Wearables Workshop in partnership with the Learning Center!" (Maritza Borunda)
 
-##### Qualstar <ra>November 2015</ra>
+<b>Qualstar</b> <ra>November 2015</ra><br>
 For outstanding contributions at Qualcomm, Inc. "I'd like to award Molly for her contribution to Grace Hopper 2015. She was responsible for the successful Qbadge event. She came up with the innovative idea and led the task to completion. The event was well received in the conference." (Fang Chen)
 
-##### Qualstar <ra>August 2015</ra>
+<b>Qualstar</b> <ra>August 2015</ra><br>
 For outstanding contributions at Qualcomm, Inc. "Molly's brainchild developed Qbadge prototype which played huge role in making Tinkering Workshop and QBUDS Closing event a great success. She is innovative problem solver, hard working, enthusiastic, great team player and technically very strong." (Rinachi Garg)
 
-##### Qualstar <ra>October 2014</ra>
+<b>Qualstar</b> <ra>October 2014</ra><br>
 For outstanding contributions at Qualcomm, Inc. "Thanks for all of your hard work to make our presence at Grace Hopper a success!" (Vito Bica)
 
 ### Press
