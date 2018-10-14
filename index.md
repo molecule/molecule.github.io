@@ -154,7 +154,7 @@ hidden:
         link: /project/good-person
 
 newsfeed:
-    _
+    -
         content: Matt and I are pleased to announce our engagement!
         date: 11 Oct 2018
     -
