@@ -2,9 +2,8 @@
 layout: post
 date: 2018-08-26
 image: 
-reviews:
+sunscreens:
     -
-        category: Sunscreen
         product: CANMAKE Mermaid Skin Gel UV (SPF50+ PA++++)
         link: https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3E456K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=molecule08-20
@@ -15,17 +14,17 @@ reviews:
 
 <div style="display: table-cell; width:100%; padding:10px;"> 
     <h3>
-        product reviews
+        sunscreens
     </h3>
     <div style="vertical-align:top;">
         <table>
-        {% for review in page.reviews %}
+        {% for sunscreen in page.sunscreens %}
             <tr>
-                <td width="20%"><a target="_blank" href="{{review.link}}">
-                    <img border="0" src="{{ review.img-src }}"></a> </td>
+                <td width="20%"><a target="_blank" href="{{sunscreen.link}}">
+                    <img border="0" src="{{ sunscreen.img-src }}"></a> </td>
                 <td>    
-                    <a target="_blank" href="{{review.link}}">{{review.product}}</a>
-                    <br> {{review.review}} 
+                    <a target="_blank" href="{{sunscreen.link}}">{{sunscreen.product}}</a>
+                    <br> {{sunscreen.review}} 
                     </td>
             </tr>
         {% endfor %}
