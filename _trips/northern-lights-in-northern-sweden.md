@@ -27,7 +27,7 @@ Map:
 #### Abisko.net Hostel
 <div class="blog-container">
 <img alt="Abisko.net reception entrance" class="blog-img" src="/src/img/sweden/abisko-hostel-entrance.jpg">
-<img alt="Abisko.net Winterday hostel from the outside" class="blog-img" src="/src/img/sweden/abisko-hostel-accommodations.jpg">
+<img alt="Abisko.net Winterday hostel from the outside" class="blog-img" src="/src/img/sweden/map-lapporten.jpg">
 <img alt="Intrepid adventurers!" class="blog-img" src="/src/img/sweden/lab-pic.jpg">
 </div>
 
@@ -76,24 +76,25 @@ We found a lot of conflicting information online about the availability of food 
 <div class="blog-container">
 <img alt="Water from the lake is brought in to wash w/ at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-tree.jpg">
 <img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/abiskojaure-trail.jpg">
-<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/abiskojaure-trail-lunch.jpg">
+<img alt="Water from the lake is brought in to wash w/ at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-tree.jpg">
 </div>
+NOTE: Replace 1st pic w/ other skiing pic from phone.
 
 We took a friend on her first ever cross-country ski trip and it was tough but doable for her. I can't say enough wonderful things about this place, it was an absolute joy. 
 
 <div class="blog-container">
-<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/abiskojaure-mount-giron.jpg">
+<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/abiskojaure-trail-lunch.jpg">
 <img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-x-country-04.jpg">
-<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-ski-lake.jpg">
+<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/ski-group.jpg">
 </div>
-NOTE: Replace 3rd pic w/ other skiing pic from phone.
+
 
 We had trouble with our credit card here for the first (and last) time the whole trip, but the patient and dedicated women who worked there found a solution. The sauna is phenomenal, and the chores you have to do (chopping wood or refilling water from the lake) are fun and satisfying. There's a large store with plenty of food options for reasonable prices there. We bought pasta and canned Swedish meatballs.
 
 <div class="blog-container">
 <img alt="Abisko.net reception entrance" class="blog-img" src="/src/img/sweden/abiskojaure-close.jpg">
 <img alt="Abisko.net kitchen" class="blog-img" src="/src/img/sweden/abiskojaure-sauna-view.jpg">
-<img alt="Water hole chopped in thick ice in the lake" class="blog-img" src="/src/img/sweden/water-hole.jpg">
+<img alt="Abisko.net kitchen" class="blog-img" src="/src/img/sweden/abiskojaure-lake-hole-sunrise.jpg">
 </div>
 
 When you ski up, someone pops their head out of the first hut and invites you in. The first thing they do is give you a cup of hot non-alcoholic cider. By this point we were all pretty exhausted, so drinking something hot and flavorful was absolutely perfect. Then you get a tour where they tell you about the chores, you buy and cook dinner, partake of the sauna (see above for sauna tips) and then wait for the Northern Lights.
@@ -106,12 +107,17 @@ When you ski up, someone pops their head out of the first hut and invites you in
 
 This was truly a highlight of an amazing trip, and I'd encourage anyone with even a single outdoorsy bone in their body to do it!
 
-REPLACE this pic:
 <img style="border: 1px solid #000" alt="Abiskojaure hut at sunrise" src="/src/img/sweden/abiskojaure-hut-sunrise.jpg">
 
 <div class="blog-container">
+<img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/abiskojaure-skis.jpg">
+<img alt="Water hole chopped in thick ice in the lake" class="blog-img" src="/src/img/sweden/water-hole.jpg">
 <img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/skiing-better.jpg">
+</div>
+
+<div class="blog-container">
 <img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-ski-lake.jpg">
+<img alt="Abisko.net kitchen" class="blog-img" src="/src/img/sweden/abisko-frozen-lake.jpg">
 <img alt="The sauna at Abiskojaure" class="blog-img" src="/src/img/sweden/molly-ski-island.jpg">
 </div>
 
