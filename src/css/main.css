@@ -36,6 +36,15 @@ ul { list-style-type: square; }
     border: 1px solid #000;
 }
 
+.blog-img-container{
+  float: left; 
+  width:250px; 
+  padding:5px; 
+  text-align:center; 
+  font-size:10px; 
+  line-height:11px
+}
+
 .new-container {
   display: flex;
   margin: 0 auto;
