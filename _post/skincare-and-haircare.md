@@ -112,7 +112,7 @@ Asian sunscreens have these improved filters and formulations. That means higher
 
 Not only do the sun filtering ingredients used in Asian sunscreens degrade less quickly than those in American suncreens, but they are far more cosmetically elegant. They sink in almost instantly, glide on smoothly, dry to a dewy or matte finish (as you prefer), AND the level of sun protection is *significantly* higher. All the sunscreens I recommend are minimum SPF 50 and PA++++.
 
-Please give Asian sunscreens a try! They are absolutely wonderful.
+Even if you've always hated sunscreen, please give Asian sunscreens a try! They are absolutely wonderful.
 
 <div>
     <table>
