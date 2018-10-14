@@ -4,6 +4,11 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: Ant-Man and the Wasp
+        review: At least they fixed Evangeline Lilly's hair? They still haven't figured out how to use Paul Rudd as the comedic lead though. Michael Peña is a treasure, but not utilized to his full extend in this one.
+        rating: 1.5
+        link:
+    -
         title: Black Panther
         review: Excellent.
         rating: 2.5
@@ -399,30 +404,27 @@ movies:
 
 A list of movies we've seen, with mini-reviews. There may be **spoilers** so proceed at your own risk. 
 
-Rating explanation:
+|Rating|Explanation|
+|---|---|
+|**1**|Awful, waste of my time, terrible movie.|
+|**1.5**|I have many critiques but do not regret seeing it.|
+|**2**|Great!|
+|**2.5**|Great! Would re-watch eventually!|
+|**3**|Excellent! Great! I will watch this again eagerly!|
 
-**1** -  Awful, waste of my time, terrible movie.
+<br>
 
-**1.5** - I have many critiques but do not regret seeing it.
+<div>
+    <table>
+    {% for movie in page.movies %}
+        <tr> 
+            <td><a href="{{movie.link}}">{{ movie.title }}</a></td>
+            <td>{{movie.rating}}</td>
+        </tr>
+        <tr> 
+            <td>{{movie.review}} <br><br></td>
+        </tr>
 
-**2** - Great!
-
-**2.5** - Great! Would re-watch eventually!
-
-**3** - Excellent! Great! I will watch this again eagerly!
-
-<table class='movies' style="width:100%">
-<tr class="movie">
-    <th width="30%">Title</th>
-    <th width="60%">Mini-Review</th>
-    <th width="10%">Rating</th>
-</tr>
-
-{% for movie in page.movies %}
-<tr class="movie">
-    <td align="center"><a href="{{movie.link}}">{{ movie.title }}</a></td>
-    <td>{{ movie.review }}</td>
-    <td>{{ movie.rating }}</td>
-</tr> <!--end rose-->
-{% endfor %}
-</table> <!--end roses-->
+    {% endfor %}
+    </table>
+</div><!--end of movies-->
