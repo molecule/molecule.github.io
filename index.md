@@ -155,7 +155,7 @@ hidden:
 
 newsfeed:
     -
-        content: Matt and I are pleased to announce our engagement!
+        content: Matt and I are pleased to announce our engagement :)
         date: 11 Oct 2018
     -
         content: Submitted my first first-author paper! <a href="https://i.imgur.com/XAFRi0k.jpg">Had fun out celebrating with some folks from Bjoern's lab.</a>
