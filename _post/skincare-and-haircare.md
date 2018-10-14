@@ -21,7 +21,7 @@ reviews:
         <table>
         {% for review in page.reviews %}
             <tr>
-                <td width="30%"><a target="_blank" href="{{review.link}}">
+                <td width="20%"><a target="_blank" href="{{review.link}}">
                     <img border="0" src="{{ review.img-src }}"></a> </td>
                 <td>    
                     <a target="_blank" href="{{review.link}}">{{review.product}}</a>
