@@ -10,7 +10,7 @@ submissions:
         link:
     -
         conference: DIS 2018
-        notes: Resurrected our Fall class project, edited it, and submitted it within 24 hours. We had no user study for this one, but I'm still very very proud of what we made.
+        notes: Resurrected our Fall class project, edited it, and submitted it within 24 hours. We had no user study for this one, but I'm still very very proud of what we made. Honestly this has been the project that has most meta-impacted my research life. Read it and see if you can see why!
         icon: /src/img/icon-noun_checkmark_364806.png
         link:
     -
