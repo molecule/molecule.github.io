@@ -95,7 +95,9 @@ You need protection from both in order to have healthy skin! Remember that windo
 <span style="display:block;"> <a href="https://www.nejm.org/doi/full/10.1056/NEJMicm1104059">Image from the New England Journal of Medicine</a>. </span>
 </div>
 
-In the U.S., sunscreen manufacturers are required to report the SPF protection provided by their sunscreen. SPF stands for sun protection factor. It measures a sunscreen's amount of protection from UVB rays. PPD, on the other hand, stands for persistent pigment darkening. It's tested by applying a product to human skin and measuring how long it takes for the skin to darken (i.e. tan) compared to bare skin. Let's say it takes 10 minutes for bare skin to start to tan. If a product was applied and it took instead 160 minutes (2 hours 40 minutes) for the skin to tan, then the product has a PPD of 16, because it took 16 times longer for skin to darken as it normally would have. 
+In the U.S., sunscreen manufacturers are required to report the SPF protection provided by their sunscreen. SPF stands for sun protection factor. It measures a sunscreen's amount of protection from UVB rays. But remember, you want both UVB *and* UVA protection. So how do you get UVA protection? That's where Asian photo protectors come in.
+
+Asian researchers use a measure called "PPD" to measure UVA protection. PPD stands for persistent pigment darkening. It's tested by applying a product to human skin and measuring how long it takes for the skin to darken (i.e. tan) compared to bare skin. Let's say it takes 10 minutes for bare skin to start to tan. If a product was applied and it took 160 minutes (2 hours 40 minutes) instead for the skin to tan, then the product has a PPD of 16, because it took 16 times longer for skin to darken as it normally would have. 
 
 - PA+ = PPD 2-4
 - PA++ = PPD 4-8
@@ -106,7 +108,27 @@ In the U.S., sunscreen manufacturers are required to report the SPF protection p
 
 Remember, UVA rays are the ones responsible for aging and UVB rays are the ones responsible for burning. In the U.S., [sunscreens are only required to report whether they are "broad spectrum"](https://www.ecfr.gov/cgi-bin/retrieveECFR?gp=1&SID=0089115bdbc8686f591ab359c37abea0&ty=HTML&h=L&mc=true&n=pt21.5.352&r=PART#se21.5.352_173), not any PPD value. Unfortunately, even if a sunscreen claims "broad spectrum", you just don't know how much UVA protection it has. For example, many sunscreens use *avobenzone* for UVA protection, which degrades incredibly quickly in sunlight. [Avobenzone loses 50% of it's UV protective property in less than an hour](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2133.2004.06173.x). Several hours later you are nearly completely vulnerable to UVA if your sunscreen doesn't contain other UVA filters or Avobenzone stabilizers, like Tinosorb and Octisalate.
 
-Asian sunscreens have much better filters and formulations. Not only do the sun filtering ingredients used in Asian sunscreens degrade less quickly than those in American suncreens, but they are far more cosmetically elegant. They sink in almost instantly, glide on smoothly, dry to a dewy or matte finish (as you prefer), AND the level of sun protection is *significantly* higher. All the sunscreens I recommend are minimum SPF 50 and PA++++.
+Asian sunscreens have these improved filters and formulations. That means higher, more complete, and longer-lasting protection.
+
+Not only do the sun filtering ingredients used in Asian sunscreens degrade less quickly than those in American suncreens, but they are far more cosmetically elegant. They sink in almost instantly, glide on smoothly, dry to a dewy or matte finish (as you prefer), AND the level of sun protection is *significantly* higher. All the sunscreens I recommend are minimum SPF 50 and PA++++.
+
+Please give Asian sunscreens a try! They are absolutely wonderful.
+
+<div>
+    <table>
+    {% for sunscreen in page.sunscreens %}
+        <tr>
+            <td width="20%"><a target="_blank" href="{{sunscreen.link}}">
+                <img border="0" src="{{ sunscreen.img-src }}"></a> </td>
+            <td>    
+                <a target="_blank" href="{{sunscreen.link}}">{{sunscreen.product}}</a>
+                </td>
+        </tr>
+    {% endfor %}
+    </table>
+</div><!--end of sunscreens-->
+
+### Notes
 
 Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty/comments/91ehyv/have_a_question_ask_here_daily_help_and_questions/e2ycfyh/?context=3).
  
