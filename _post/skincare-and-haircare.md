@@ -25,12 +25,17 @@ moisturizers:
         product: HADALABO Gokujyun Hyaluronic Lotion Moist
         link: https://www.amazon.com/gp/product/B074GX619Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074GX619Q&linkCode=as2&tag=molecule08-20&linkId=c3ee6e00e1366d6984c3b7f3f55677ef
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B074GX619Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20
-        review: I thought this was a joke when I first tried it. It looks watery and weak, not at all the thick, goopy business I'm used to with Western moisturizers. I first splashed my face w water and patted 5 drops into my skin and I've never looked back. This is hands-down the most hydrating product I've tried. Usually best applied to damp skin under a moisturizing layer.
+        review: I thought this was a joke when I first tried it. It looks watery and weak, not at all the thick, goopy business I'm used to with Western moisturizers. This is hands-down the most hydrating product I've tried. Splash your face with water and pat 3-5 drops into your skin, then repeat as needed.
     -
         product: Stratia Liquid Gold
         link: https://www.stratiaskin.com/products/liquid-gold
         img-src: 
         review: Every once in a while I overexfoliate and my skin gets red, irritated, itchy, and stings w/ even gentle cleansing. This always soothes my skin immmediately. I like to mix it with a few drops of Rosehip Seed Oil just for fun.
+    -
+        product:
+        link: https://www.amazon.com/gp/product/B00I4BUBN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I4BUBN8&linkCode=as2&tag=molecule08-20&linkId=cae1e176937c799ed1b1dc5805d4fef7
+        img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00I4BUBN8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20
+        review: This is the most heavy-duty, slightly occlusive moisturizing product I own. I slather on a bunch before I get on a plane, and if my face needs the extra moisture. But I probably won't buy it again, because I hate the packaging. 
     -
         product: HADALABO Gokujyun Hyaluronic Lotion Premium
         link: https://www.amazon.com/gp/product/B01JRXH3W8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JRXH3W8&linkCode=as2&tag=molecule08-20&linkId=1b2dc6622f6d8074d4aaa6fda8e173fd
