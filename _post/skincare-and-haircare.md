@@ -40,7 +40,7 @@ moisturizers:
         product: HADALABO Gokujyun Hyaluronic Lotion Premium
         link: https://www.amazon.com/gp/product/B01JRXH3W8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JRXH3W8&linkCode=as2&tag=molecule08-20&linkId=1b2dc6622f6d8074d4aaa6fda8e173fd
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01JRXH3W8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20
-        review: The same as the Moist, but w' 5 sizes of hyaluronic acid for deeper penetration. If you have super dry skin, I'd actually go with the Moist because it's so light you can do like 3-5 layers but they still sink in perfectly. This one is thicker and doesn't sink in as well for me. I don't notice any difference in their hydrating abilities!
+        review: The same as the Moist, but with 5 sizes of hyaluronic acid for deeper penetration. If you have super dry skin, I'd actually go with the Moist because it's so light you can do like 3-5 layers but they still sink in perfectly. This one is thicker and doesn't sink in as well for me. I don't notice any difference in their hydrating abilities!
     -
 
 ---
