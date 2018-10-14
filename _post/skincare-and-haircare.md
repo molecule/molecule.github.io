@@ -13,8 +13,6 @@ reviews:
 
 ---
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=0dc167ecbfa77a09f98dd01cbc880cb4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3E456K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20" ></a>
-
 <div style="display: table-cell; width:100%; padding:10px;"> 
     <h3>
         product reviews
@@ -34,8 +32,6 @@ reviews:
         </table>
     </div><!--end of newsfeed-->
 </div>
-
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=260cacc95d2888e9056f0cd89a0907bf"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3E456K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=molecule08-20" ></a>
 
 # Skincare and Haircare
 
