@@ -196,7 +196,7 @@ Next order No Is: 029996
 #### Thornless, Fragrant Roses
 0. The one I bought: https://www.regannursery.com/rose/Grande-Dame
   - A [cute set of comments](https://www.houzz.com/discussions/1573428/does-anyone-have-grande-dame-rose) about the Grande Dame.
-0. [List of thornless roses.](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list.](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list)
+0. [List of thornless roses](https://www.heirloomroses.com/info/care/roses/thornless-roses/). [Another list](https://www.davidaustinroses.com/us/specific-planting-situations/thornless-roses?mode=list).
 
 <table class="outlinedTable" style="width:100%;">
 <tr class="rose">
