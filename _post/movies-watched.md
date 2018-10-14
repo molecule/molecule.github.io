@@ -402,7 +402,7 @@ movies:
 
 ---
 
-A list of movies we've seen, with mini-reviews. There may be **spoilers** so proceed at your own risk. 
+A list of movies I've seen, with mini-reviews. There may be **spoilers** so proceed at your own risk. 
 
 |Rating|Explanation|
 |---|---|
