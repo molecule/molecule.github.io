@@ -40,9 +40,11 @@ This is a collection of notes I took when preparing to apply for the NSF GRFP. A
 - My first sentence: "I don't recall feeling nervous about my decision to drop out of college and go to clown school." My advisor really wanted me to take this out because it starts off w/ something "negative". I kept it in because I kept getting feedback that it blew people away when they read it, and they wanted to keep reading. Plus, I knew I had enough "regular" accomplishments (publications, graduated from a good school, know how to write w/ language of academia, etc) to assuage any concerns that I'm just a kooky nut.
 
 #### Research Proposal
-- Purpose of proposal: keep reviewer awake, clear, consistent, etc.
-- Tell them what you want to study, why it's important. Reviewers may know nothing about this topic. Tell people what's known so far, in a way that makes your reviewers feel intelligent. They'll like you and rate you higher.
+- Part of what you're showing off is your ability to scope research. The scope in this case is 3 years. Make it seem like it's feasible in this time-frame. Longer vision can go into Broader Impacts.
 - Reviewers look at proposal as evidence that you have research ability, can think clearly, can communiate clearly, shows your potential. Choose a topic that allows you to demonstrate that.
+- Sub-goals of proposal: keep reviewer awake, be clear, be consistent, etc.
+- Research Statement is about future, can mention current projects as sign that you're already capable, and have access to resources (people, tools, skills, methods, etc.)
+- Tell them what you want to study, why it's important. Reviewers may know nothing about this topic. Tell people what's known so far, in a way that makes your reviewers feel intelligent. They'll like you and rate you higher.
 - Don't change your mind thru the proposal - write it down clearly and define it. Be consistent. Review what you've said you're doing, to make sure it is consistent.
 - At most 3 sentences of background before you get to what you're doing in your research proposal.
 - Include publications/references as relevant.
@@ -90,10 +92,7 @@ My letters of recommendation (all asked for drafts of my personal and research s
 ### General
 - Proposals are ranked separately depending on your year/level of experience, so apply as early as you can.
 - Reviewers read between the lines of what is not stated. Get people to read it and point out what you haven't said.
-- For undergrads, recommend against specificity of what you'll learn with who. Reviewers aren't experts anyway, they're looking for well thought-out statement and familiarity. Can talk about techniques you might need. 
- 
-- Part of what you're showing off is your ability to scope research. The scope in this case is 3 years. Make it seem like it's feasible in this time-frame. Longer vision can go into Broader Impacts. 
-- Research Statement is about future, can mention current projects as sign that you're already capable, and have access to resources (people, tools, skills, methods, etc.)
+- For undergrads, recommend against specificity of what you'll learn with who. Reviewers aren't experts anyway, they're looking for well thought-out statement and familiarity. Can talk about techniques you might need.
 
 ### Logistics
 - Grad students can only apply once in their graduate career, unless you had a break of at least 2 years.
