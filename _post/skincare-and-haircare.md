@@ -9,6 +9,14 @@ sunscreens:
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3E456K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=molecule08-20
         review: There's a reason Can Make is the favorite sunscreen of every single person who has ever tried it. It is better than any sunscreen has a right to be. It's like a gel moisturizer that just disappears into your skin. It's a joy to apply. It's not drying, it's not greasy, it's absolutely perfect.
     -
+        product: Skin Aqua Super Moisture Gel pump (SPF50+ PA++++)
+        link: https://www.amazon.com/gp/product/B01BM1USNO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BM1USNO&linkCode=as2&tag=molecule08-20&linkId=6ab54ca34f3d7186f48c03ae02d0f34d
+        img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BM1USNO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20
+        review: A light, quickly absorbing sunscreen with all the UVB and UVA protection you could ever want. Two pumps are the full 1/4 teaspoon required for sun protection. Not quiiiite as nice as Can Make, but I love how huge the bottle is.
+    -
+moisturizers:
+    -
+    -
 
 ---
 
@@ -29,18 +37,12 @@ sunscreens:
             </tr>
         {% endfor %}
         </table>
-    </div><!--end of newsfeed-->
+    </div><!--end of sunscreens-->
 </div>
 
 # Skincare and Haircare
 
 ### Quick recs
-
-#### Sunscreen
-
-||Review|
-|---|---|
-|<a target="_blank"  href="https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=5b57e3bc454a473118090040823332c9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3E456K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=molecule08-20&l=am2&o=1&a=B00X3E456K" width="3" height="3" border="0" alt="" style="border:none !important; margin:0px !important;" /> | <a target="_blank" href="https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a">CANMAKE Mermaid Skin Gel UV (SPF50+ PA++++)</a> <br>There's a reason Can Make is the favorite sunscreen of every single person who has ever tried it. It is better than any sunscreen has a right to be. It's like a gel moisturizer that just disappears into your skin. It's a joy to apply: it's not drying, it's not greasy, it's absolutely perfect.|
 
 
 |Product|Link and Review|
