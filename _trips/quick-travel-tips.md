@@ -1,9 +1,27 @@
 ---
 layout: post
-date: 2018-05-30
+share: true
+comments: true
+tags: [Travel]
+date: 2018-10-14
+description: For tips and notes that don't need to be in their own post.
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/map-image.svg
 ---
+## St Louis
+Definitely visit the City Museum! An epic, climbable indoor/outdoor jungle gym. There's no way it's safe. Be sure to buy kneepads.
 
+Shaved Duck - I've eaten here many times, and was only disappointed on the most recent visit. Try it again. Burnt Ends are better than they sound. Skip the dense, dry cornbread.
+
+Zoo - the zoo is free! Penguin exhibit and Sea Lion tunnel are particularly nice.
+
+Museums - all the museums are free too! Too bad museums are boring.
+
+Sugarfire - downtown, INCREDIBLE barbeque. 
+
+Gooey Butter Cake - a local treat. Delicious and ridiculous.
+
+
+## Tips for living abroad
 When you live in a foreign country, you have two choices: you can keep your current name, and learn to live with the painful experience of every person you meet mispronouncing your name, or you can choose a name from the local culture and learn to respond to a new set of phonemes. 
 
 When I lived in the Czech Republic, I kept my American name, "Molly". Pronounced properly in Czech, it means "small" or "moths". Pronounced the way it's spelled, it sounds like "Mow-leh". No one wanted to refer to me as "moths", so I had to get used to people misprouncing my name all day, every day. It seems like a small thing, but it was rage-inducing. (Side note: if you live in a diverse place, learn to pronounce people's names correctly: it's worth it to put in the effort). 
