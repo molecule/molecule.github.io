@@ -4,7 +4,7 @@ share: true
 comments: true
 tags: [Travel]
 date: 2018-10-14
-description: For tips and notes that don't need to be in their own post. St. Louis, Kansas City, ... 
+description: For tips and notes that don't need to be in their own post. St. Louis, Kansas City, San Diego, ... 
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/map-image.svg
 ---
 
