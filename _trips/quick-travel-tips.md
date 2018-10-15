@@ -4,10 +4,10 @@ share: true
 comments: true
 tags: [Travel]
 date: 2018-10-14
-description: For tips and notes that don't need to be in their own post.
+description: For tips and notes that don't need to be in their own post. St. Louis, Kansas City, 
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/map-image.svg
 ---
-## Visit St Louis
+## St Louis
 Definitely visit the City Museum! An epic, climbable indoor/outdoor jungle gym. There's no way it's safe. Be sure to buy kneepads.
 
 Shaved Duck - I've eaten here many times, and was only disappointed on the most recent visit. Try it again. Burnt Ends are better than they sound. Skip the dense, dry cornbread.
@@ -16,14 +16,14 @@ Zoo - the zoo is free! Penguin exhibit and Sea Lion tunnel are particularly nice
 
 Museums - all the museums are free too! Too bad museums are boring.
 
-Sugarfire - downtown, INCREDIBLE barbeque. 
+Sugarfire - downtown, INCREDIBLE barbeque. Ribs were good. Mixed plate is a way to try it all.
 
 Gooey Butter Cake - a local treat. Delicious and ridiculous.
 
 The Arch - um, duh! It's GORGEOUS. The museum inside is free. Cool display of the top 5 finalists in the Arch design competition so you can see what the other proposals were.
 
-## Visit Kansas City, Missouri
-JackStack is THE BEST BBQ in town. Highly recommend the corn, beans, and burnt ends.
+## Kansas City, Missouri
+JackStack is THE BEST BBQ in town. Highly recommend the corn, beans, and burnt ends (they're better than the name makes them sound).
 
 
 ## Tips for living abroad
