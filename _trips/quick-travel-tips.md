@@ -9,6 +9,8 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/map-im
 ---
 
 ## San Diego
+<b>Bonafides: Lived here for 2 years, engaged to a local! </b>
+
 Everyone will tell you to go to Extraordinary Desserts. Skip it! Head to the little French pastry shop downtown instead - much higher quality and a more nuanced balance of sugar and fat.
 
 Head to La Jolla for the best, richest, and most delicious chocolate gelato I've ever had in my life. Only downside of eating here: I can't eat chocolate gelato anywhere else now, because it's all a pale comparison to this heavenly product.
@@ -22,6 +24,8 @@ Black's Beach - clothing optional, w/ nude sentinels standing watch, you won't e
 It's a chain for a reason: Rubio's makes killer fish tacos. Check it out on a tuesday for a sweet deal.
 
 ## St Louis
+<b>Bonafides: Visited 5 times for several weeks at a time for work conferences.</b>
+
 Definitely visit the City Museum! An epic, climbable indoor/outdoor jungle gym. There's no way it's safe. Be sure to buy kneepads.
 
 Shaved Duck - I've eaten here many times, and was only disappointed on the most recent visit. Try it again. Burnt Ends are better than they sound. Skip the dense, dry cornbread.
@@ -30,13 +34,15 @@ Zoo - the zoo is free! Penguin exhibit and Sea Lion tunnel are particularly nice
 
 Museums - all the museums are free too! Too bad museums are boring.
 
-Sugarfire - downtown, INCREDIBLE barbeque. Ribs were good. Mixed plate is a way to try it all.
+Sugarfire - downtown, INCREDIBLE barbeque. Ribs were good. Mixed plate is a great way to try it all.
 
 Gooey Butter Cake - a local treat. Delicious and ridiculous.
 
 The Arch - um, duh! It's GORGEOUS. The museum inside is free. Cool display of the top 5 finalists in the Arch design competition so you can see what the other proposals were.
 
 ## Kansas City, Missouri
+<b>Bonafides: Visited many times to see Granny and Grandpa Nicholas!</b>
+
 JackStack is THE BEST BBQ in town. Highly recommend the corn, beans, and burnt ends (they're better than the name makes them sound).
 
 
