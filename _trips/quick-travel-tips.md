@@ -11,13 +11,13 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/map-im
 ## San Diego
 Everyone will tell you to go to Extraordinary Desserts. Skip it! Head to the little French pastry shop downtown instead - much higher quality and a more nuanced balance of sugar and fat.
 
-Head to La Jolla for the best, richest, and most delicious chocolate gelato I've ever had in my life.
+Head to La Jolla for the best, richest, and most delicious chocolate gelato I've ever had in my life. Only downside of eating here: I can't eat chocolate gelato anywhere else now, because it's all a pale comparison to this heavenly product.
 
 The Indian food next door is also amazing, with a view of La Jolla Cove if you pick the right table.
 
 The ambience leaves a bit to be desired (it's a tiny shop w/ outdoor seating in one of San Diego's ubiquitous "business parks"), but the food is incredible. All the Indian engineers at Qualcomm ate here.
 
-Black's Beach - clothing optional, w/ nude sentinels standing watch, you won't even notice the walk down because you'll be distracted by one of the most spectacular views in the continental United States. You'll definitely notice the walk back up to the free parking at the GliderPort. Great sandwiches at this off-the-grid shop. Once you've made it to the bottom, go South past the orange traffic cones to be outside the nudie area. Keep walking and you'll end up at La Jolla Shores if the tide is right. The water is easier to get used to if you jump in all at once.
+Black's Beach - clothing optional, w/ nude sentinels standing watch, you won't even notice the steep, 1500 step walk down because you'll be distracted by one of the most spectacular views in the continental United States. You'll definitely notice the walk back up. Free parking at the GliderPort. Great sandwiches at this off-the-grid shop, too. Once you've made it to the bottom, go South past the orange traffic cones to be outside the nudie area. Keep walking and you'll end up at La Jolla Shores if the tide is right. The water is easier to get used to if you jump in all at once.
 
 It's a chain for a reason: Rubio's makes killer fish tacos. Check it out on a tuesday for a sweet deal.
 
