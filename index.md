@@ -155,18 +155,27 @@ hidden:
 
 newsfeed:
     -
-        content: Matt and I are pleased to announce our engagement :)
-        date: 11 Oct 2018
+        content: Enjoyed contributing to the Graduate Pathways to STEM mentoring program. Fun working with the team, and especially my three personable and accomplished mentees.
+        date: 13 Oct 2018
+    -
+        content: Finished writing up my <a href="/post/nsf-grfp-application-advice/">NSF-GRFP application advice tips</a> just in time to participate in the department-organized panel about the process.
+        date: 24 Sep 2018
     -
         content: Submitted my first first-author paper! <a href="https://i.imgur.com/XAFRi0k.jpg">Had fun out celebrating with some folks from Bjoern's lab.</a>
-        date: 21 Sept 2018
+        date: 21 Sep 2018
+    -
+        content: So enjoyed meeting my mentees in the LAGSES fellowship workshop. Reading lots of good NSF GRFP drafts...
+        date: 18 Sep 2018
     -
         content: Pushing hard for CHI...Excited and happy but will be relieved when Sept. 21 has passed!
-        date: 12 Sept 2018
-    - 
+        date: 12 Sep 2018
+    -
         content: Excited for my AR/VR class and my Questioning New Media class this semester!
         date: 29 Aug 2018
     - 
+        content: Matt and I are pleased to announce our engagement :)
+        date: 20 Aug 2018
+    -
         content: Working on lots of projects but having a tough time because I spend so much time recovering from migraines.
         date: 10 Aug 2018
     -
@@ -177,7 +186,7 @@ newsfeed:
         date: 7 May 2018
     -
         content: Amazing time at CHI - check out my <a href="https://molecule.github.io/post/chi2018-trip-report/">CHI 2018 trip report!</a>
-        date: 30 April 2018
+        date: 30 Apr 2018
     - 
         content: So excited to present <a href="http://www.hybrid-ecologies.org/projects/24-alterwear">our latest work on battery-free dynamic clothing and accessories</a> here at <a href="https://chi2018.acm.org/">CHI</a> in Montreal!
         date: 20 Apr 2018
