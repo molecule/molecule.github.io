@@ -28,7 +28,21 @@ Git and github can both be confusing when you're first introduced to them. Here'
 
 That was a full year from start to finish. So don't worry if it takes some time for things to fully click.
 
-## Tutorial
+# My Top x Git Patterns
+### saving a change
+0. ```git status``` - run this command to see the current state of your repository.
+1. ```git diff``` - if you're not sure what changes happened in a current file, this command will show you all the changes.
+2. ```git add <files>``` - Choose which files you want to save by "adding" them.
+3. ```git commit``` - This will open a VIM interface for you to write a commit message. Good commit messages are short, but identify what changed so if you need to roll back, you know what to roll back to.
+
+### checkout out a branch
+#### new branch
+#### new branch from an old commit (advanced)
+
+### merging changes from a branch back into the master branch
+#### dealing w/ merge conflicts
+
+# Tutorial
 We're going to walk through [the official github intro tutorial](https://guides.github.com/activities/hello-world/) together. They teach you about branches right away. I suspect this is because branches are excellent and everyone should use branches: but they're *very* confusing when you first start. So we're going to jump around a bit and leave branches to the end. We'll do things in this order:
 
 - Step 0: Install and setup git. [This](https://lifehacker.com/5983680/how-the-heck-do-i-use-github) has a nice walk-through.
