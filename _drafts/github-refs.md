@@ -84,3 +84,5 @@ We're going to walk through [the official github intro tutorial](https://guides.
 2. Variations (commit chunks of a file: https://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git)
 3. Troubleshooting
 4. Danger zone
+5. Random tips and tricks
+5.a. Show hidden files in Finder on Mac: ```CMD + SHIFT + . ```
