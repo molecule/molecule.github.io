@@ -59,7 +59,8 @@ The way to save something on "git" is called "committing" it, or "making a commi
 0. a. (if you're not sure what branches exist, type ```git branch``` to see a complete list).
 1. Run ```git log``` and look at the commit messages: make sure everything is in a working state before you merge into master. The rule is: master is always in a working state!
 2. Go back to master: ```git checkout master```
-3. Pull the latest from the cloud: ```git pull master```
+2. a. TODO: What to do if you get a warning about unsaved/tracked changes before switching a branch.
+3. Pull the latest from the cloud: ```git pull origin master```
 4. Merge your branch into the master branch: ```git merge <branch name>```
 5. Test everything and make sure it still works.
 6. Now push everything back up to the server: ```git push```
