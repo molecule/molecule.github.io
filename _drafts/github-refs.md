@@ -38,8 +38,10 @@ That was a full year from start to finish. So don't worry if it takes some time 
 ### saving a change
 0. ```git status``` - run this command to see the current state of your repository.
 1. ```git diff``` - if you're not sure what changes happened in a current file, this command will show you all the changes.
-2. ```git add <files>``` - Choose which files you want to save by "adding" them.
+2. ```git add <file names>``` - Choose which files you want to save by "adding" them. If you want to add all the untracked files (all the red files), type: ```git add .```
 3. ```git commit``` - This will open a VIM interface for you to write a commit message. Good commit messages are short, but identify what changed so if you need to roll back, you know what to roll back to.
+
+### saving a change (advanced)
 
 ### checkout out a branch
 #### new branch
