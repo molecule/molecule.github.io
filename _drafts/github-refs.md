@@ -29,6 +29,12 @@ Git and github can both be confusing when you're first introduced to them. Here'
 That was a full year from start to finish. So don't worry if it takes some time for things to fully click.
 
 # My Top x Git Patterns
+
+### Working w/ a repo
+#### If you are a collaborator
+
+### If you are NOT a collaborator
+
 ### saving a change
 0. ```git status``` - run this command to see the current state of your repository.
 1. ```git diff``` - if you're not sure what changes happened in a current file, this command will show you all the changes.
