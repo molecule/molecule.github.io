@@ -40,6 +40,15 @@ That was a full year from start to finish. So don't worry if it takes some time 
 #### new branch from an old commit (advanced)
 
 ### merging changes from a branch back into the master branch
+0. First, check out the branch you'd like to merge back: ```git checkout <branch name>``` 
+0. a. (if you're not sure what branches exist, type ```git branch``` to see a complete list).
+1. Run ```git log``` and look at the commit messages: make sure everything is in a working state before you merge into master. The rule is: master is always in a working state!
+2. Go back to master: ```git checkout master```
+3. Pull the latest from the cloud: ```git pull master```
+4. Merge your branch into the master branch: ```git merge <branch name>```
+5. Test everything and make sure it still works.
+6. Now push everything back up to the server: ```git push```
+
 #### dealing w/ merge conflicts
 
 # Tutorial
