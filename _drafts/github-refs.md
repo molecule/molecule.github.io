@@ -28,7 +28,7 @@ Git and github can both be confusing when you're first introduced to them. Here'
 
 That was a full year from start to finish. So don't worry if it takes some time for things to fully click.
 
-# My Top x Git Patterns
+# The Top X Beginning Git Patterns
 
 ### Working w/ a repo
 #### If you are a collaborator
@@ -42,22 +42,20 @@ Use these instructions if you have full read/write permissions on a repository.
 ### If you are NOT a collaborator
 Use these instructions if you do NOT have read/write permissions on a repository. In that case, you'll first need to fork the repository. Then, everything will be the same as if you are a collaborator, since now it's your own personal repository!
 
-### saving a change
-The way to save something on "git" is called "committing" it, or "making a commit." Any time you want to save a change to a file, you "commit" it, along w/ a little message to understand what the change is.
+### saving a change to anything in the repository
+The way to save something on "git" is called "committing" it, or "making a commit." Any time you want to save a change to a file, you "commit" those changes, along w/ a little message to understand what the change is.
 
 0. ```git status``` - run this command to see the current state of your repository. You might see some red files (changes that are not being tracked) and some green files (files that are being tracked, and their changes are already queued for commit).
 1. ```git diff``` - if you're not sure what changes happened in a current file, this command will show you all the changes.
 2. ```git add <file names>``` - Choose which files you want to save by "adding" them. If you want to add all the untracked files (all the red files), type: ```git add .``` (Be sure you're only doing files that are related together! It's good practice to keep commits small).
 3. ```git commit``` - This will open a your default text-editing interface so you can write a commit message. Good commit messages are short, but identify what changed so if you need to roll back, you know what to roll back to.
 
-### saving a change (advanced)
-
 ### checkout out a branch
 #### new branch
 #### new branch from an old commit (advanced)
 
 ### merging changes from a branch back into the master branch
-0. First, check out the branch you'd like to merge back: ```git checkout <branch name>``` 
+0. First, check out the branch you'd like to merge: ```git checkout <branch name>``` 
 0. a. (if you're not sure what branches exist, type ```git branch``` to see a complete list).
 1. Run ```git log``` and look at the commit messages: make sure everything is in a working state before you merge into master. The rule is: master is always in a working state!
 2. Go back to master: ```git checkout master```
