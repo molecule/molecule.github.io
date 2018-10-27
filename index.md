@@ -155,6 +155,9 @@ hidden:
 
 newsfeed:
     -
+        content: Proud of the <a href="https://imgur.com/a/W6gdv0h">visual graphic design I just created for my nerdy reddit hobby.</a>
+        date: 27 Oct 2018
+    -
         content: Enjoyed contributing to the Graduate Pathways to STEM mentoring program. Fun working with the team, and especially my three personable and accomplished mentees.
         date: 13 Oct 2018
     -
