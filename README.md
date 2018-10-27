@@ -27,11 +27,15 @@ _site is created when you run a server locally (see above).
 It's ignored by git and not saved anywhere. 
 Don't edit files there, they will be overwritten.
 
-### try this.
+#### Update gems
+- [long-winded explanation](https://bundler.io/v1.16/guides/updating_gems.html)
+```
+$ bundle update <gem name>
+```
 
 
 
-(c) 2017 Molly Nicholas
+(c) 2018 Molly Nicholas
 
 
 
