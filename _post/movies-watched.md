@@ -4,6 +4,11 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: The Grand Budapest Hotel
+        review: Lovely! I LOVE the highly choreographed yet weirdly natural style of blocking.
+        rating: 2
+        link:
+    -
         title: Ant-Man and the Wasp
         review: At least they fixed Evangeline Lilly's hair? They still haven't figured out how to use Paul Rudd as the comedic lead though. Michael Peña is a treasure, but not utilized to his full extend in this one.
         rating: 1.5
