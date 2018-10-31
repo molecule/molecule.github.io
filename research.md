@@ -25,7 +25,9 @@ layout: page
 [hairio-instructable]:https://www.instructables.com/id/HairIO-Hair-As-Interactive-Material/
 [hairio-proj]:https://molecule.github.io/project/hairio/
 
-| <img src="/src/img/ia-thumbnail.jpg" alt="Illumination Aesthetics" style="width: 400px; padding:10px"/> | [Illumination Aesthetics: Light as a Creative Material within Computational Design.][chi17cp]  César Torres, Jasper O’Leary, __Molly Jane Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems ([CHI'17][chi17-site]) - [Teaser Video][chi17teaser] - [Full Video][chi17video] - [Project page][ia-proj]|
+
+| <img src="/src/img/ia-thumbnail.jpg" alt="Illumination Aesthetics" style="width: 400px; padding:10px"/> | [Illumination Aesthetics: Light as a Creative Material within Computational Design.][chi17cp]  César Torres, Jasper O’Leary, __Molly Jane Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems ([CHI'17][chi17-site]) - [Teaser Video][chi17teaser] - [Full Video][chi17video] - [Project page][ia-proj]| 
+
 
 
 [chi17teaser]:https://www.youtube.com/watch?time_continue=1&v=P4xLN5ezXHs
