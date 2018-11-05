@@ -34,15 +34,15 @@ That was a full year from start to finish. So don't worry if it takes some time 
 #### If you are a collaborator
 Use these instructions if you have full read/write permissions on a repository.
 
-0. Go to the repository in github, and copy the "clone" url.
+0. Go to the repository in github, and copy the SSH "clone" url.
 1. In terminal, go to the folder on your computer where you want to save these files.
-2. Type: ```git clone <clone url>```
-3. Now you can save changes (following the instructions below) and push them to the remote repo!
+2. Type: ```git clone <clone url>```. You should see some print outs about receiving objects...resolving deltas and other stuff. You should now have the repository on your computer, and be able to see it from the terminal or from Finder/File Explorer.
+3. Now you can make changes (following the instructions below) and push them to the remote repo.
 
 ### If you are NOT a collaborator
 Use these instructions if you do NOT have read/write permissions on a repository. In that case, you'll first need to fork the repository. Then, everything will be the same as if you are a collaborator, since now it's your own personal repository!
 
-### saving a change to anything in the repository
+### making a change to anything in the repository
 The way to save something on "git" is called "committing" it, or "making a commit." Any time you want to save a change to a file, you "commit" those changes, along w/ a little message to understand what the change is.
 
 0. ```git status``` - run this command to see the current state of your repository. You might see some red files (changes that are not being tracked) and some green files (files that are being tracked, and their changes are already queued for commit).
