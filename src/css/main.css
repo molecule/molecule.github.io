@@ -9,7 +9,16 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
+
+.min-spacing{
+  letter-spacing: -.025rem;
+  margin-bottom: -1rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
