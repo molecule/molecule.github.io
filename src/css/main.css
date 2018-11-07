@@ -33,6 +33,35 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 
+.cv-date{
+  color:#666666;
+  font-style: italic;
+  text-rendering: optimizeLegibility;
+  margin-bottom: -0.025rem;
+}
+
+.cv-bold{
+  font-weight: bold;
+  color: #313131;
+  margin-bottom: -0.025rem;
+}
+
+.cv-standard{
+  color: #313131;
+  margin-bottom: -0.025rem;
+}
+
+.cv-italics{
+  font-style: italic;
+  color: #313131;
+  margin-bottom: -0.025rem;
+}
+
+.cv-light{
+  color:#999999;
+  margin-bottom: -0.025rem;
+}
+
 ul { list-style-type: square; }
 
 
