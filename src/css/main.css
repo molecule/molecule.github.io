@@ -19,11 +19,18 @@ h1, h2, h3, h4, h5, h6 {
 .min-spacing{
   letter-spacing: -.025rem;
   margin-bottom: -1rem;
-  font-weight: bold;
-  line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
   text-align: left;
+}
+
+.cv-left{
+  letter-spacing: -.025rem;
+  margin-bottom: -1rem;
+  color:#666666;
+  font-style: italic;
+  text-align: right;
+  text-rendering: optimizeLegibility;
 }
 
 ul { list-style-type: square; }
