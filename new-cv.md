@@ -221,6 +221,25 @@ rows:
     -
         left: in the press
         right: <a href="https://hackaday.com/2018/03/29/hairio-an-interactive-extension-of-the-self/">“HäirIÖ&#58; An Interactive Extension of the Self“</a>. Kristina Panos, <b>Hackaday</b>, 29 March 2018
+    -
+        left:
+        right: <a href="https://blog.arduino.cc/2018/03/20/these-interactive-hair-extensions-can-communicate-over-bluetooth/?utm_content=buffer0fd5e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">“These interactive hair extensions can communicate over Bluetooth“</a>. Arduino Team, <b>Arduino</b>, 20 March 2018
+    -
+        left:
+        right: <a href="https://blog.hackster.io/hair-turned-into-an-interactive-medium-with-hairio-3c27cbcd4c23">“HäirIÖ Turns Hair Extensions into an Interactive Medium”</a>. Jeremy S. Cook, <b>Hackster.io</b>, 19 March 2018
+    -
+        left:
+        right: <a href="https://blog.adafruit.com/2015/10/28/neopixels-for-fauxhawks-and-other-hair-fun-wearablewednesday/">“NeoPixels for Fauxhawks and Other Hair Fun WearableWednesday"</a>. Leslie Birch, <b>Adafruit</b>, 28 October 2015.
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <h2 style="text-align:left">teaching</h2>
+    -
+        left: Oct 2016
+        right: <b>Workshop lead</b>, UC Berkeley [40 students] Crafting electronics, Athena Awards community workshop.
+
 
 
 
