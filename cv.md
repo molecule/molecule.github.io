@@ -1,187 +1,269 @@
 ---
 title: resume
 layout: page
+rows:
+    -
+        left:
+        right: <h1>molly jane nicholas</h1>
+    -
+        left:
+        right: <h6 class="min-spacing" style="font-size:15px;">Department of Electrical Engineering and Computer Sciences</h6>
+    -
+        left:
+        right: <h6 class="min-spacing" style="font-size:15px;">University of California Berkeley</h6>
+    -
+        left:
+        right: <h4 class="min-spacing" style="font-size:15px;">Berkeley, CA 94720</h4>
+    -
+        left:
+        right: <br>
+    -
+        left: contact information
+        right: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#109;&#111;&#108;&#101;&#99;&#117;&#108;&#101;&#064;&#101;&#101;&#99;&#115;&#046;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117;">molecule [at] eecs [dot] berkeley [dot] edu</a>
+    -
+        left:
+        right: <a href="https://molecule.github.io/">https://molecule.github.io/</a>
+    -
+        left:
+        right: <a href="github.com/molecule/">github.com/molecule/</a>
+    -
+        left:
+        right: <a href="https://www.google.com/url?q=https://scholar.google.com/citations?user%3DUs4u1VQAAAAJ%26hl%3Den&sa=D&ust=1541611539885000">Google Scholar Profile</a>
+    -
+        left:
+        right: <a href="https://twitter.com/i/moments/953613429935259649" target="_blank" title="twitter">@fakepaperclips</a>
+    -
+        left:
+        right: <br><br>
+    -
+        left: research interests
+        right: <p class="cv-standard">Molly is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways.</p>
+    -
+        left:
+        right: <br>
+    -
+        left: keywords
+        right: <p class="cv-standard">Human-Computer Interaction, Performance Studies, New Media, Creativity Support Tools, Maker Culture.</p>
+    -
+        left: 
+        right: <br>
+    -
+        left:
+        right: <h2 style="text-align:left">education</h2>
+    -
+        left:
+        right: <p class="cv-bold">Ph.D., Electrical Engineering and Computer Science </p>
+               <p class="cv-standard">Designated Emphasis in <a href="http://bcnm.berkeley.edu/academic/designated-emphasis-program/">New Media</a></p>
+               <p class="cv-italics">University of California, Berkeley, Berkeley, CA</p>
+               <p class="cv-date">Aug 2016 - (May 2022)</p>
+               <p class="cv-standard">Advisor&#58; Eric Paulos (EECS)</p>
+    -   left:
+        right: <br>
+    -
+        left:
+        right: <p class="cv-bold">Bachelor of Arts, Computer Science and Cognitive Science</p>
+               <p class="cv-italics">University of California, Berkeley, Berkeley, CA</p>
+               <p class="cv-date">Aug 2011 - May 2014</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <p class="cv-bold">Professional Certificate, Clown Conservatory</p> 
+                <p class="cv-italics">San Francisco Circus Center, San Francisco, CA</p>
+                <p class="cv-date">Aug 2007 - May 2009</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <h2 style="text-align:left">research experience</h2>
+    -
+        left:
+        right: <p class="cv-bold">Graduate Student Researcher</p>
+                <p class="cv-standard"><a href="http://www.hybrid-ecologies.org/">Hybrid Ecologies Lab</a> • UC Berkeley, Berkeley, CA</p>
+                <p class="cv-standard">Advisor&#58; <a href="http://www.paulos.net/">Eric Paulos</a></p>
+                <p class="cv-italics">Electrical Engineering and Computer Sciences Department</p>
+                <p class="cv-date">Aug 2016 - Present</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <p class="cv-bold">Research Assistant and Lab Manager</p>
+                <p class="cv-standard"><a href="http://jacobs.berkeley.edu/">CogEvoDevo Lab</a> • UC Berkeley, Berkeley, CA</p>
+                <p class="cv-standard">Advisor&#58; <a href="https://vcresearch.berkeley.edu/faculty/lucia-f-jacobs">Lucia Jacobs</a></p>
+                <p class="cv-italics">Berkeley Psychology Department</p>
+                <p class="cv-date">Aug 2010 - Jan 2012</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <p class="cv-bold">Research Assistant</p>
+                <p class="cv-standard"><a href="https://www.humansleepscience.com/">Human Sleep Science Lab</a> • UC Berkeley, Berkeley, CA</p>
+                <p class="cv-standard">Advisor&#58; <a href="https://psychology.berkeley.edu/people/matthew-p-walker">Matt Walker</a> | Mentor <a href="https://www.linkedin.com/in/andrea-goldstein-piekarski-637322a3/">Andrea Goldstein-Piekarski</a></p>
+                <p class="cv-italics">Berkeley Psychology Department</p>
+                <p class="cv-date">Aug 2010 - Dec 2010</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <h2 style="text-align:left">selected professional experience</h2>
+    -
+        left:
+        right: <p class="cv-bold">Stage Manager</p>
+                <p class="cv-standard"><a href="http://www.lunfan.com/">Lunatique Fantastique</a> • Berkeley, CA</p>
+                <p class="cv-date">Oct 2017 - Dec 2017</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <p class="cv-bold">Engineer</p>
+                <p class="cv-standard">Qualcomm, Inc. - Research and Development • San Diego, CA</p>
+                <p class="cv-date">Jun 2014 – Aug 2016</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <p class="cv-bold">Engineer Intern</p>
+                <p class="cv-standard">Qualcomm, Inc. - Research and Development • San Diego, CA</p>
+                <p class="cv-date">May 2013 - Aug 2013</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <p class="cv-bold">Puppeteer</p>
+                <p class="cv-standard">Bay Area Children’s Theatre • Berkeley, CA</p>
+                <p class="cv-date">Aug 2011 – Dec 2011</p>
+    -
+        left:
+        right: <br>
+    -
+        left: volunteer positions
+        right: <p class="cv-bold">Inventioneer</p>
+                <p class="cv-standard">Invention Lab, CITRIS, UC Berkeley • Berkeley, CA</p>
+                <p class="cv-date">Jan 2017-Present</p>
+    -
+        left: 
+        right: <p class="cv-bold">Inventioneer</p>
+                <p class="cv-standard">Invention Lab, CITRIS, UC Berkeley • Berkeley, CA</p>
+                <p class="cv-date">April-June 2014</p>
+    -
+        left: 
+        right: <p class="cv-bold">Geek In Residence</p>
+                <p class="cv-standard">FabLab • San Diego, CA</p>
+                <p class="cv-date">Oct 2015-May 2016</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <h2 style="text-align:left">publications</h2>
+    -
+        left:
+        right: <p class="cv-italics">4 papers, 1 first-author, 1 under review</p>
+    -
+        left: under review
+        right: <b>Molly Jane Nicholas</b>, Sarah Sterman, Christine Dierk, Daniel Drew, Kris Pister, and Eric Paulos. Taction&#58; Millimeter Scale Haptics For MEMS-Based Wearables. Under review CHI '19. ACM, New York, NY, USA.
+    -
+        left:
+        right: <br>
+    -
+        left: Human Factors in Computing Systems Community (ACM SIGCHI)
+        right: (1) César Torres, Jasper O'Leary, <b>Molly Jane Nicholas,</b> and Eric Paulos. 2017. <a href="http://www.hybrid-ecologies.org/projects/20-illumination-aesthetics">Illumination Aesthetics&#58; Light as a Creative Material within Computational Design.</a> CHI'17. ACM, New York, NY, USA.
+            <p class="cv-light">[<1% Best Paper Award, 25% acceptance]</p> 
+            <p class="cv-bold">BEST PAPER AWARD</p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: (3) Christine Dierk, <b>Molly Jane Nicholas</b>, and Eric Paulos. 2018. <a href="http://www.hybrid-ecologies.org/projects/24-alterwear">AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.</a> (CHI '18). ACM, New York, NY, USA
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: (Workshop) Molly Jane Nicholas, Sarah Sterman, and Eric Paulos. CHI 2018. <a href="http://hcioutdoors.net/wp-content/uploads/2018/03/Nicholas-blurring-boundaries.pdf">Between Technology and Nature&#58; Blurring Boundaries in Outdoor HCI.</a>
+    -
+        left:
+        right: <br>
+    -
+        left: Designing Interactive Systems Community (DIS)
+        right: (4) Cesar Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, and Eric Paulos. 2018. <a href="http://www.hybrid-ecologies.org/projects/25-guardians-of-practice">Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices.</a>(DIS '18). ACM, New York, NY, USA, 1259-1267.
+            <p class="cv-light">[23% acceptance]</p>
+    -
+        left:
+        right: <br>
+    -
+        left: Tangible, Embedded, and Embodied Interaction (TEI)
+        right: (2) Christine Dierk, Sarah Sterman, Molly Jane Nicholas, and Eric Paulos. 2018. <a href="">HäirIÖ&#58; Human Hair as Interactive Material.</a> (TEI '18). ACM, New York, NY, USA, 148-157.
+    -
+        left:
+        right: <br>
+    -
+        left: 
+        right: (5) César Torres, Molly Jane Nicholas, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. Conditionally accepted to TEI '19. ACM, New York, NY, USA.
+    -
+        left: reports and blogs
+        right: <a href="https://www.qualcomm.com/news/onq/2016/05/04/stem-steam-young-artists-can-become-engineers-too">“From STEM to STEAM&#58; Young artists can become engineers, too”</a>. Molly Jane Nicholas, Qualcomm, Inc. 4 May 2016.
+    -
+        left:
+        right: <a href="https://www.qualcomm.com/news/onq/2015/10/23/grace-hopper-conference-celebrates-women-computing">“Grace Hopper conference celebrates women in computing“</a>. Molly Jane Nicholas, Qualcomm, Inc., 23 October 2015.
+    -
+        left: invited talks
+        right: “Wearable Computing&#58; What the future holds”. Invited Speaker, ARCS Symposium, May 2018
+    -
+        left: in the press
+        right: <a href="https://hackaday.com/2018/03/29/hairio-an-interactive-extension-of-the-self/">“HäirIÖ&#58; An Interactive Extension of the Self“</a>. Kristina Panos, <b>Hackaday</b>, 29 March 2018
+    -
+        left:
+        right: <a href="https://blog.arduino.cc/2018/03/20/these-interactive-hair-extensions-can-communicate-over-bluetooth/?utm_content=buffer0fd5e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">“These interactive hair extensions can communicate over Bluetooth“</a>. Arduino Team, <b>Arduino</b>, 20 March 2018
+    -
+        left:
+        right: <a href="https://blog.hackster.io/hair-turned-into-an-interactive-medium-with-hairio-3c27cbcd4c23">“HäirIÖ Turns Hair Extensions into an Interactive Medium”</a>. Jeremy S. Cook, <b>Hackster.io</b>, 19 March 2018
+    -
+        left:
+        right: <a href="https://blog.adafruit.com/2015/10/28/neopixels-for-fauxhawks-and-other-hair-fun-wearablewednesday/">“NeoPixels for Fauxhawks and Other Hair Fun WearableWednesday"</a>. Leslie Birch, <b>Adafruit</b>, 28 October 2015.
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <h2 style="text-align:left">teaching</h2>
+    -
+        left: Oct 2016
+        right: <b>Workshop lead</b>, UC Berkeley [40 students] Crafting electronics, Athena Awards community workshop.
+
+
+
+
+
 ---
 
 # molly jane nicholas
 
-<div style="float: right; text-align:center; width:240px; padding:5px; font-size:8px; line-height:8px">
-<img src="/src/img/Academic-Molly.png"/>
-</div>
-
-
-### [cv as pdf](/cv-molly-nicholas-2017-12-11.pdf){:target="_blank"}
-
-<!--Welcome to my CV-->
-
-________________________
-
-Molly Jane Nicholas
-
-**Office: 143 Sutardja Dai Hall**
-
-[Hybrid Ecologies Lab](https://www.hybrid-ecologies.net)
-
-EECS Department
-
-University of California, Berkeley
-
-Berkeley, CA, USA
-
-molecule [at] berkeley [dot] edu
-
-_________________________
-
-
-### Education
-
-<b>University of California, Berkeley</b> <ra>Aug 2016 - Present</ra><br>
-Ph.D. in Computer Science (in progress)
-
-University of California, Berkeley <ra>Sept 2011 - May 2014</ra><br>
-B.A. in Computer Science and Cognitive Science<br>
-*GPA: 3.591*
-
-<b>Clown Conservatory, San Francisco Circus Center</b> <ra>Aug 2007 - May 2009</ra><br>
-Professional Clown Certificate<br>
-
-Knox College <ra>August 2005 - June 2007</ra><br>
-*GPA: 3.69*
-
-Gymnazium Lud'ka Pika, Plze&#328;, Czech Republic <ra>Aug 2003 - May 2004</ra><br>
-Language Achievement Certificate
-
-
-### Publications
-
-| <img src="/src/img/logo-dis18.png" alt="Guardians" style="width: 400px; padding:10px"/> | [Guardians of Practice: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices][dis18]  César Torres, Sarah Sterman, __Molly Jane Nicholas__, Richard Lin, Eric Pai, Eric Paulos. ACM Conference on Designing Interactive Systems  ([DIS'18][dis18-site])|
-
-[dis18]:http://www.hybrid-ecologies.org/projects
-[dis18-site]:http://dis2018.org/
-
-| <img src="/src/img/alterwear-square-gif.gif" alt="AlterWear" style="width: 300px; padding:10px"/> | [AlterWear: Battery-Free Wearable Displaysfor Opportunistic Interactions.][chi18cp]  Christine Dierk, __Molly Jane Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems  ([CHI'18][chi18-site])|
-
-[chi18cp]:http://www.hybrid-ecologies.org/projects
-[chi18-site]:https://chi2018.acm.org/
-
-| <img src="/src/img/hairio-thumbnail.JPG" alt="HairIO" style="width: 400px; padding:10px"/> | [Häiriö: Human Hair as an Interactive Material.][tei18cp]  Christine Dierk, Sarah Sterman, __Molly Jane Nicholas__, Eric Paulos. ACM Conference on Tangible, Embedded, and Embodied Interaction ([TEI'18][tei18-site]) - [Video][tei18-video] - [Instructable][hairio-instructable] - [Project page][hairio-proj]|
-
-[tei18cp]:http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf
-[tei18-site]:https://tei.acm.org/2018/
-[tei18-video]:https://www.youtube.com/watch?v=8JV2D7gJ5HI
-[hairio-instructable]:https://www.instructables.com/id/HairIO-Hair-As-Interactive-Material/
-[hairio-proj]:https://molecule.github.io/project/hairio/
-
-| <img src="/src/img/ia-thumbnail.jpg" alt="Illumination Aesthetics" style="width: 400px;"/> | [Illumination Aesthetics: Light as a Creative Material within Computational Design.][chi17cp]  Cesar Torres, Jasper O’Leary, __Molly Nicholas__, Eric Paulos. ACM Conference on Human Factors in Computing Systems ([CHI'17][chi17]) - [Teaser Video][chi17teaser] - [Full Video][chi17video]|
-
-
-[chi17teaser]:https://www.youtube.com/watch?time_continue=1&v=P4xLN5ezXHs
-[chi17]:https://chi2017.acm.org/
-[chi17cp]:/src/papers/IlluminationAesthetics-chi2017.pdf
-[chi17video]:https://www.youtube.com/watch?v=tcaZyJqJElw
-
-<br>
-
-
-### Professional Experience
-##### Engineer, Qualcomm Research and Development <ra>June 2014 - Aug 2016</ra>
-Developed the new robot control system for FIRST Tech Challenge, creating two Android apps to interface with custom hardware. Invented, designed and developed the [Qbadge][qbadge], a wearable device to facilitate engaging interactive experiences, and enable further hardware exploration.
-
-[qbadge]: https://github.com/molecule/Qbadge
-
-##### Puppeteer, Liebe Wetzel's Lunatique Fantastique <ra>June 2008 - Sept 2008</ra>
-*[Chicken Stock.][chicken]* 3d live animation using found-object puppets to tell the story of Avian Flu
-from the birds’ point of view. Bunraku-style puppetry involves three people on one puppet.
-
-[chicken]:https://www.lunfan.com/shows/2008_chicken.html
-
-### Events
-<b>Grace Hopper</b> <ra> October 2016 </ra><br>
-Qualcomm Qnnect (Qbadge event): event lead, speaker.
-
-<b>Qualcomm QWCC Conference</b> <ra> January 2016 </ra><br>
-Sewable Circuits Workshop: workshop lead.
-
-<b>Latina Giving Circle</b> <ra> January 2016 </ra><br>
-Circuit Stickers Workshop: workshop lead.<br>
-Tech Talk: speaker.
-
-<b>Qualcomm DECA Conference</b> <ra> January 2016 </ra><br>
-Sewable Circuits Workshop: workshop lead.
-Mentor.
-
-<b>Grace Hopper</b> <ra> October 2015 </ra><br>
-Qualcomm HardWEAR Shindig (Qbadge event): event lead, speaker.<br>
-Student Opportunity Lab: You++ [Resume Critique]: speaker.
-
-<b>EmpowHERment Conference, Qualcomm</b>  <ra> August 2015 </ra><br>
-Hackathon mentor, speaker
-
-### Technical Skills
-
-*Languages* <ra class="skill">Java, Android, Python, Arduino, bash, Czech </ra>
-
-*Hardware Experience* <ra class="skill">Arduino, Particle, PCB design, SMD soldering</ra>
-
-*Development Tools* <ra class="skill">Version control, Unix CLI tools, Android Studio</ra>
-
-
-### Selected Coursework
-
-##### UC Berkeley
-
-- Theory and Applications of AR and VR <ra>CS294</ra>
-- Questioning New Media <ra>NWMEDIA 201</ra>
-- HCI Research <ra>CS 260B</ra>
-- Needs and Usability Assessment <ra>INFO 214</ra>
-- Information Visualization <ra>INFO 247</ra>
-- History and Theory of New Media <ra>NWMEDIA 200</ra>
-- Learning for Cooperation and the DARPA Spectrum Collaboration Challenge <ra>CS 294-133</ra>
-- Algorithmic Human Robotic Interaction <ra> <a href="https://people.eecs.berkeley.edu/~anca/AHRI.html" target="_blank">CS 294-115</a> </ra>
-- Critical Making                       <ra> <a href="http://make.berkeley.edu" target="_blank">NWMEDIA C203</a> </ra>
-
-
-### Awards
-
-<b>NSF GRFP</b> <ra>April 2018</ra><br>
-<a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a>
-
-<b>Best Paper Award ACM CHI'17</b> <ra>May 2017</ra><br>
-for [Illumination Aesthetics][illumination-aesthetics]
-
-<b>BCNM 2017 Summer Research Award</b> <ra>May 2017</ra><br>
-[This award][bcnm-summer2017-research] is given to a select number of students based on promising academic research proposals.
-
-[bcnm-summer2017-research]:http://bcnm.berkeley.edu/2017/04/06/announcing-our-2017-summer-research-award-recipients/
-
-
-<b>EECS Excellence Award</b> <ra>August 2016</ra><br>
-Awarded to a select number of students based on outstanding academic record.
-
-<b>Achievement Rewards for College Scientists Fellowship</b> <ra>August 2016</ra><br>
-This fellowship, the result of a highly competitive process, is presented only to Berkeley's top admitted doctoral students. The nomination, as submitted by a faculty member in the EECS program, underwent rigorous review by a campus-wide faculty committee charged with identifying the very best nominees.
-
-
-<b>Qualstar</b> <ra>March 2016</ra><br>
-For outstanding contributions at Qualcomm, Inc. "For organizing the wearable technology workshop for our team and enthusiastically taking us through each part of the class including wiring, sewing, and programming our arduino core. Thank you for your time and efforts." (Michael DiBattista)
-
-<b>Qualstar</b> <ra>December 2015</ra><br>
-For outstanding contributions at Qualcomm, Inc. "Thanks for leading the Wearables Workshop in partnership with the Learning Center!" (Maritza Borunda)
-
-<b>Qualstar</b> <ra>November 2015</ra><br>
-For outstanding contributions at Qualcomm, Inc. "I'd like to award Molly for her contribution to Grace Hopper 2015. She was responsible for the successful Qbadge event. She came up with the innovative idea and led the task to completion. The event was well received in the conference." (Fang Chen)
-
-<b>Qualstar</b> <ra>August 2015</ra><br>
-For outstanding contributions at Qualcomm, Inc. "Molly's brainchild developed Qbadge prototype which played huge role in making Tinkering Workshop and QBUDS Closing event a great success. She is innovative problem solver, hard working, enthusiastic, great team player and technically very strong." (Rinachi Garg)
-
-<b>Qualstar</b> <ra>October 2014</ra><br>
-For outstanding contributions at Qualcomm, Inc. "Thanks for all of your hard work to make our presence at Grace Hopper a success!" (Vito Bica)
-
-### Press
-[NeoPixels for Fauxhawks and Other Hair Fun #WearableWednesday][adafruit-neopixel]. Leslie Birch, Adafruit. 28 Oct 2015
-
-
-<small> &copy; {{ site.time | date: '%Y' }} / [{{ site.author.name }}](/) / [license](/mit-license) / [email](mailto:{{ site.author.email }})</small>
-
-[illumination-aesthetics]:https://molecule.github.io/project/illumination-aesthetics/
-[adafruit-neopixel]:https://blog.adafruit.com/2015/10/28/neopixels-for-fauxhawks-and-other-hair-fun-wearablewednesday/
+<div>
+    <table style="width:100%;">
+    <tr>
+    <th width="25%">left side</th>
+    <th width="75%">right side</th>
+    </tr> <!-- end of header-->
+    {% for row in page.rows %}
+        <tr> 
+            <td valign="top"><p class="cv-left">{{row.left}}</p></td>
+            <td><p class="cv-standard">{{row.right}}</p></td>
+        </tr>
+    {% endfor %}
+    </table>
+</div><!--end of cv-->
+
+[//]: # ( m: &#109 o: &#111 l: &#108 e: &#101 c: &#99 u: &#117 @: &#64 y: &#121 )
+[//]: # ( molecule: &#109;&#111;&#108;&#101;&#99;&#117;&#108;&#101)
+[//]: # ( @berkeley.edu: &#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117;)
+[//]: # ( @eecs.berkeley.edu: &#064;&#101;&#101;&#99;&#115;&#046;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117;)

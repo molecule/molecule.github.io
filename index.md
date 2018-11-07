@@ -155,6 +155,9 @@ hidden:
 
 newsfeed:
     -
+        content: Happy to celebrate with the wonderful people of <a href="https://www.arcsfoundation.org/">ARCS</a>! So grateful for the support.
+        date: 6 Nov 2018
+    -
         content: Proud of the <a href="https://imgur.com/a/W6gdv0h">visual graphic design I just created for my nerdy reddit hobby.</a>
         date: 27 Oct 2018
     -
