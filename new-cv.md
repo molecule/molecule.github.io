@@ -42,16 +42,20 @@ rows:
         left:
         right: Human-Computer Interaction, Performance Studies, New Media, Creativity Support Tools, Maker Culture.
     -
+        left: 
+        right: <br><br><br>
+    -
+
 
 ---
 
 # molly jane nicholas
 
 <div>
-    <table style="width:100%;">
+    <table style="width:100%;" cellpadding="2px">
     <tr>
-    <th width="20%">left side</th>
-    <th width="80%">right side</th>
+    <th width="25%">left side</th>
+    <th width="75%">right side</th>
     </tr> <!-- end of header-->
     {% for row in page.rows %}
         <tr> 
