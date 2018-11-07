@@ -251,8 +251,8 @@ rows:
 <div>
     <table style="width:100%;">
     <tr>
-    <th width="25%">left side</th>
-    <th width="75%">right side</th>
+    <th width="25%"></th>
+    <th width="75%"></th>
     </tr> <!-- end of header-->
     {% for row in page.rows %}
         <tr> 
