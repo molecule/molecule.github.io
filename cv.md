@@ -210,6 +210,9 @@ rows:
         left: 
         right: (5) César Torres, Molly Jane Nicholas, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. Conditionally accepted to TEI '19. ACM, New York, NY, USA.
     -
+        left:
+        right: <br>
+    -
         left: reports and blogs
         right: <a href="https://www.qualcomm.com/news/onq/2016/05/04/stem-steam-young-artists-can-become-engineers-too">“From STEM to STEAM&#58; Young artists can become engineers, too”</a>. Molly Jane Nicholas, Qualcomm, Inc. 4 May 2016.
     -
@@ -218,6 +221,12 @@ rows:
     -
         left: invited talks
         right: “Wearable Computing&#58; What the future holds”. Invited Speaker, ARCS Symposium, May 2018
+    -
+        left:
+        right: <b>Panelist</b>, Maker Faire '17.
+    -
+        left:
+        right: <b>Panelist</b>, "Applying to the NSF", Department presentation, Oct 2018,
     -
         left: in the press
         right: <a href="https://hackaday.com/2018/03/29/hairio-an-interactive-extension-of-the-self/">“HäirIÖ&#58; An Interactive Extension of the Self“</a>. Kristina Panos, <b>Hackaday</b>, 29 March 2018
@@ -238,7 +247,62 @@ rows:
         right: <h2 style="text-align:left">teaching</h2>
     -
         left: Oct 2016
-        right: <b>Workshop lead</b>, UC Berkeley [40 students] Crafting electronics, Athena Awards community workshop.
+        right: <b>Workshop lead (Crafting electronics)</b>, Athena Awards community workshop, UC Berkeley [40 students].
+    -   
+        left: Jan 2016
+        right: <b>Workshop lead (Sewable Circuits Workshop)</b>, Qualcomm QWCC Conference, Qualcomm, [80 students].
+    -
+        left: Jan 2016
+        right: <b>Workshop lead (Circuit Stickers), Tech talk speaker (CS and EE)</b>, Latina Giving Circle, Qualcomm [40 students].
+    -
+        left: Jan 2016
+        right: <b>Workshop lead (Sewable Circuits)</b>, Qualcomm DECA Conference, Qualcomm [50 students].
+    -
+        left: Oct 2015
+        right: <b>Event lead (Qbadge event), Speaker</b>, Qualcomm HardWEAR Shindig, Grace Hopper [50 students].
+    -
+        left: Oct 2015
+        right: <b>Speaker (You++ [Resume Critique])</b>, Student Opportunity Lab, Grace Hopper [125 students].
+    -
+        left: Aug 2015
+        right: <b>Panelist (Women in CS), Hackathon mentor</b>, EmpowHERment Conference, Qualcomm [50 students].
+    -
+        left:
+        right: <br>
+    -
+        left: 
+        right: <h2 style="text-align:left">mentorship</h2>
+    -
+        left: CS + Cognitive Science
+        right: Arianna Ninh (2 years)
+    -
+        left: GPS
+        right: Kiranpreet Kaur, Runlin Guo, Rene Figueroa
+    -
+        left: LAGSES Fellowship 
+        right: Jordan Edmund, Rachel Zoll, Nathaniel Weinman
+    -
+        left:
+        right: <br>
+    -
+        left: 
+        right: <h2 style="text-align:left">service</h2>
+    -
+        left: peer reviews
+        right: 8 reviews total. CHI ‘16 - '18,  DIS '16 - '18,  TEI '18 - ’19
+    -
+        left: student volunteer
+        right: CHI '18
+    -
+        left: institutional service
+        right: <b>Officer</b>, Women in Computer Science and Engineering (WICSE), UC Berkeley, CA
+    -
+        left: 
+        right: <b>Organizer</b>, Semester Reading Parties. Increased participation from 8 to over 30, from four different departments across campus.
+    -
+        left: 
+        right: <b>HCI Faculty Search Committee</b>, School of Information '18, CS '18
+    
 
 
 
