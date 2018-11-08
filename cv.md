@@ -302,10 +302,22 @@ rows:
     -
         left: 
         right: <b>HCI Faculty Search Committee</b>, School of Information '18, CS '18
-    
-
-
-
+    -
+        left:
+        right: <br>
+    -
+        left: 
+        right: <h2 style="text-align:left">awards and fellowships</h2>
+    -
+        left: Fellowships
+        right: NSF Graduate Research Fellow, 2018 “Wearable Interfaces Inspired by Performance Studies”
+    -
+        left:
+        right: ARCS Scholar, <a href="https://grad.berkeley.edu/news/headlines/honors-awards/arcs-student-celebration/">Jane Fuller Gillespie Memorial Scholar</a>, 2014
+    -
+        left: Research Awards
+        right: Best Paper ACM CHI'17, <a href="https://molecule.github.io/project/illumination-aesthetics/">Illumination Aesthetics</a>.
+    -
 
 
 ---
