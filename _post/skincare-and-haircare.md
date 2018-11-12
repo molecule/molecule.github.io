@@ -140,10 +140,12 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
   - [Hada Labo Gokujyun Lotion Moist] - (1-2 layers, applied on damp skin)
   - [Hada Labo Premium Lotion] - (If my skin feels extra dry)
   - [Stratia Liquid Gold] - (1 pump or 2, if needed) mixed with 3 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil]
-- Actives
-  - [TO - Niacinamide 10% and Zinc 1%] - (after Moist but before Premium on moisturizing days)
-  - [20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (after Moist on 'active am' days)
-  - [Salicylic Acid 2% Solution] - (20 mins after Vit C on 'active am' days, only on trouble areas of chin and forehead)
+- Actives (Monday, Wednesday, Friday)
+  - [TO - Niacinamide 10% and Zinc 1%] - (after Moist but before Premium on moisturizing days). Will probably switch to Stratia Rewind which has a better-supported formulation when this runs out.
+  - [Azelaic Acid Suspension 10%] - (after Niacinamide). Will probably switch to Garden of Wisdom when this runs out as I've seen lots of amazing reviews of it.
+- Actives (Tuesday, Thursday)
+  - [20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (after Moist)
+  - [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead)
 - Sunscreen:
   - [CANMAKE Mermaid Skin Gel PA++++ SPF 50+], AND
   - [Australian Gold Botanical SPF 50 tinted], (just for the tint and because it dries a beautiful matte texture - it's basically makeup for me. I don't apply enough to get SPF benefits from it). 
@@ -156,12 +158,12 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
   - [Vanicream Gentle Cleanser] - ([pH 6-7](https://www.reddit.com/r/SkincareAddiction/comments/8zbu6q/psa_vanicream_cleanser_ph_levels_from_the_company/), which is a little high. I'd like to switch to the [Hada Labo Gentle Hydrating Cleanser](https://smile.amazon.com/Hada-Labo-Tokyo-Hydrating-Cleanser/dp/B01AAX6C26/ref=sr_1_3_a_it?ie=UTF8&qid=1534477928&sr=8-3&keywords=hada+labo+tokyo+gentle+hydrating+cleanser) or the [Hada Labo Foaming Cleanser](https://smile.amazon.com/Hada-Labo-Gokujyn-Hyaluronic-Cleansing/dp/B01CE5P580/ref=sr_1_4_a_it?ie=UTF8&qid=1534477928&sr=8-4&keywords=hada%2Blabo%2Btokyo%2Bgentle%2Bhydrating%2Bcleanser&th=1) (both are [pH 5-6](https://docs.google.com/spreadsheets/d/1VqO_uF8m4oKBzzk5ass37gHcjIk-_2Tv4W2KgJJmUQc/edit#gid=1844869261))).
 - Actives
    - Monday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
-   - Tuesday night, [TO - Lactic Acid 10% HA 2%]
+   - Tuesday night, [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Hada Labo Skin Plumping Gel].
    - Wednesday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
-   - Thursday night, [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Hada Labo Skin Plumping Gel], [Stratia Liquid Gold], [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil].
+   - Thursday night, [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Stratia Liquid Gold], [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil].
    - Friday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
    - Saturday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
-    - Sunday night, hydrate or lactic acid again if my skin seems like it can handle it.
+    - Sunday night, Hydration only.
  
 
 [Hada Labo Gokujyun Lotion Moist]: https://www.amazon.com/gp/product/B074GX619Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074GX619Q&linkCode=as2&tag=molecule08-20&linkId=c3ee6e00e1366d6984c3b7f3f55677ef
@@ -177,6 +179,8 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
 [Australian Gold Botanical SPF 50 tinted]: https://www.amazon.com/gp/product/B01M8G39OW/ref=as_li_tl?ie=UTF8&tag=molecule08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M8G39OW&linkId=bbd606980100762118a308d48259ce3b
 [Skin Aqua Super Moisture Gel pump SPF 50 PA++++]: https://smile.amazon.com/gp/product/B01BM1USNO/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
 [Kiss My Face SPF 30]: https://www.amazon.com/gp/product/B0014C8COY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014C8COY&linkCode=as2&tag=molecule08-20&linkId=3e387cd83ddd064c6dade12d9ded2d04?
+
+[Azelaic Acid Suspension 10%]: https://theordinary.com/product/rdn-azelaic-acid-suspension-10pct-30ml?ccm=6afb414ca0a748bd85ed7ead6c4e6729f133993f2fd49d2697d9aa1f3700dc05f70102cb1d00da802a8fe86a4f7a904b2cc58b019d79610ab89b7e00b33f328bc753a4096d6833cfdfd104393f7b6d2e2913e5314e84bd999a0878da8fd4b5c871b29d78438faf6bffca77ad9dad5fdf14f9784956a839aad36da8cf1a7a6d13e1d0a421aaf86906677449624723d2d9&ccvis=1
 
 
 [Hada Labo Gokujun Cleansing Oil]: https://www.amazon.com/gp/product/B004OQHZ2M/ref=as_li_tl?ie=UTF8&tag=molecule08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004OQHZ2M&linkId=7f4789fbfb1eaf0ffc78fe9a9305e265
