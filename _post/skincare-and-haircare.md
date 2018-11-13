@@ -141,11 +141,11 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
   - [Hada Labo Premium Lotion] - (If my skin feels extra dry)
   - [Stratia Liquid Gold] - (1 pump or 2, if needed) mixed with 3 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil]
 - Actives (Monday, Wednesday, Friday)
-  - [TO - Niacinamide 10% and Zinc 1%] - (after Moist but before Premium on moisturizing days). Will probably switch to Stratia Rewind which has a better-supported formulation when this runs out.
-  - [Azelaic Acid Suspension 10%] - (after Niacinamide). Will probably switch to Garden of Wisdom when this runs out as I've seen lots of amazing reviews of it.
-- Actives (Tuesday, Thursday)
   - [20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (after Moist)
   - [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead)
+- Actives (Tuesday, Thursday)
+  - [TO - Niacinamide 10% and Zinc 1%] - (after Moist but before Premium on moisturizing days). Will probably switch to Stratia Rewind which has a better-supported formulation when this runs out.
+  - [Azelaic Acid Suspension 10%] - (after Niacinamide). Will probably switch to Garden of Wisdom when this runs out as I've seen lots of amazing reviews of it.
 - Sunscreen:
   - [CANMAKE Mermaid Skin Gel PA++++ SPF 50+], AND
   - [Australian Gold Botanical SPF 50 tinted], (just for the tint and because it dries a beautiful matte texture - it's basically makeup for me. I don't apply enough to get SPF benefits from it). 
