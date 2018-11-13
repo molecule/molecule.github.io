@@ -158,10 +158,10 @@ newsfeed:
         content: Happy to celebrate with the wonderful people of <a href="https://www.arcsfoundation.org/">ARCS</a>! So grateful for the support.
         date: 6 Nov 2018
     -
-        content: Major congrats to <a href="/src/img/dj-wedding.jpg">my brother and JieHan</a> on the start of their marriage! Perfect day for the start of a perfect union. Also I <a href="/src/img/dj-wedding-action.jpg">photograph</a> weddings <a href="/src/img/dj-wedding-photog.jpg">now</a>.
+        content: Major congrats to <a href="/src/img/dj-wedding.jpg">my brother and JieHan</a> on the start of their marriage! Perfect day for the start of a perfect union. Also I <a href="/src/img/dj-wedding-action.jpg">photograph</a> weddings <a href="/src/img/dj-wedding-photog.jpg">now</a>. Contact for rates ;)
         date: 1 Nov 2018
     -   
-        content: Proud of the <a href="https://imgur.com/a/W6gdv0h">visual graphic design I just created for my nerdy reddit hobby.</a>
+        content: Proud of the <a href="https://imgur.com/a/W6gdv0h">visual graphic design I just created for my nerdy reddit hobby.</a> Here's the <a href="https://i.imgur.com/PwaTnrc.png">final version.</a>
         date: 27 Oct 2018
     -
         content: Enjoyed contributing to the Graduate Pathways to STEM mentoring program. Fun working with my three personable and accomplished mentees.
