@@ -4,40 +4,45 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: Sorry To Bother You
+        review: One of the weirdest movies I've seen recently!!! So weird!!! So interesting!!!
+        rating: 2
+        link: https://www.alternateending.com/2018/07/sorry-to-bother-you-2018.html
+    -
         title: The Grand Budapest Hotel
         review: Lovely! I LOVE the highly choreographed yet weirdly natural style of blocking.
         rating: 2
-        link:
+        link: https://www.alternateending.com/2014/03/wes-has-his-cake-and-eats-it-too.html
     -
         title: Ant-Man and the Wasp
-        review: At least they fixed Evangeline Lilly's hair? They still haven't figured out how to use Paul Rudd as the comedic lead though. Michael Peña is a treasure, but not utilized to his full extend in this one.
+        review: At least they fixed Evangeline Lilly's hair? They still haven't figured out how to use Paul Rudd as the comedic lead though. Michael Peña is still the best thing about it but that's not saying much this time.
         rating: 1.5
-        link:
+        link: https://www.alternateending.com/2018/07/ant-man-and-the-wasp-2018.html
     -
         title: Black Panther
         review: Excellent.
         rating: 2.5
-        link: 
+        link: https://www.alternateending.com/2018/02/black-panther-2018.html
     -
         title: Isle of Dogs
         review: Eh. But it's the first Wes Anderson Matt likes so I'm into it.
         rating: 1.5
-        link:
+        link: https://www.alternateending.com/2018/04/isle-dogs-2018.html
     -
         title: The Matrix Revolutions
         review: Back to the classic formula but honestly nothing compares to the first one.
         rating: 1.5
-        link:
+        link: https://www.alternateending.com/2012/05/matrixide-part-2-ex-machina.html
     -
         title: The Matrix Reloaded
         review: I understand why everyone hated this movie!
         rating: 1.5
-        link: 
+        link: https://www.alternateending.com/2012/05/matrixide-part-1-a-steaming-load.html
     -
         title: The Matrix
         review: Almost every scene is iconic, even the little throwaway lines. I love this movie! Definitely wish they'd explored the philosophical ramifications more.
         rating: 2
-        link: 
+        link: https://www.alternateending.com/2010/07/blockbuster-history-mindfcking.html
     - 
         title: Down with Love
         review: Rewatching this ~12 years later, it's clear that 80% of my enjoyment was just the Ewan McGregor porn. What can I say....
