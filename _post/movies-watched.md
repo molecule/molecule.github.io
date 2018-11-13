@@ -40,7 +40,7 @@ movies:
         link: https://www.alternateending.com/2012/05/matrixide-part-1-a-steaming-load.html
     -
         title: The Matrix
-        review: Almost every scene is iconic, even the little throwaway lines. I love this movie! Definitely wish they'd explored the philosophical ramifications more.
+        review: Almost every scene is iconic, even the little throwaway lines. I love this movie! Definitely wish they'd explored the philosophical ramifications more. Too bad they never made any sequels.
         rating: 2
         link: https://www.alternateending.com/2010/07/blockbuster-history-mindfcking.html
     - 
