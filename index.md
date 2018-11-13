@@ -164,7 +164,7 @@ newsfeed:
         content: Proud of the <a href="https://imgur.com/a/W6gdv0h">visual graphic design I just created for my nerdy reddit hobby.</a>
         date: 27 Oct 2018
     -
-        content: Enjoyed contributing to the Graduate Pathways to STEM mentoring program. Fun working with the team, and especially my three personable and accomplished mentees.
+        content: Enjoyed contributing to the Graduate Pathways to STEM mentoring program. Fun working with my three personable and accomplished mentees.
         date: 13 Oct 2018
     -
         content: Finished writing up my <a href="/post/nsf-grfp-application-advice/">NSF-GRFP application advice tips</a> just in time to participate in the department-organized panel about the process.
