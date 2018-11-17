@@ -5,7 +5,11 @@ image:
 ---
 
 ## REBUTTAL ADVICE
-(From Wendy Mackay, Scott Klemmer, Gene Golovchinsky and Bjoern Hartmann)
+
+An [excellent rebuttal process suggestion from Albrecth Schmidt](http://albrecht-schmidt.blogspot.com/2012/11/sigchi-rebuttals-some-suggestions-to.html).
+
+(The following is from Wendy Mackay, Scott Klemmer, Gene Golovchinsky and Bjoern Hartmann)
+
 Wendy: Rebuttals are usually the most emotionally charged part of writing a paper. Remember that, no matter what the reviews say, you need to respond in a polite, clear and factual manner. Your goal is not to argue with the reviewers, but rather to convince the program committee that your paper is worth accepting. This is a tricky writing exercise, no matter how much experience you have.
 
 ### Two principles from Scott Klemmer at Stanford:
