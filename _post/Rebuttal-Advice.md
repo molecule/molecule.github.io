@@ -117,3 +117,27 @@ Remember:
 
 #### Day four:
 - Once your co-authors are happy, find at least one non-author to review the rebuttal
+
+### Example rebuttal 1
+
+We thank the externals and the 1AC for their thorough and detailed expert reviews. All reviewers find novelty, thoughtful writing, and good coverage of implementation and generalizability. We first discuss issues identified by the 1AC, then additional individual concerns.
+
+VALIDITY/EVALUATION: 
+- Borderline ratings are mainly due to concerns about the evaluation. 
+- We agree that our evaluation is exploratory. Three procedures characterize 1) what kind of pages users visit during coding tasks and how those pages are distributed in source files; 2) whether annotated source documents are indeed helpful (they are); 3) how text annotation with visited pages can benefit other domains. 
+- Is this exploration sufficient for a note? We agree that the evaluation can be deepened but believe it illuminates usability and utility at a level that matches the CFP criteria (notes about new implementation approaches and new interaction techniques are not expected to show extensive evaluation.)
+- R1 suggests dedicating more space to our existing results while shortening other sections. We agree and will do so if given the chance.
+- The externals also suggest excellent additional evaluation procedures that we had not considered: investigating the efficacy of individual heuristics at filtering (R4) and preserving privacy (R1); scalability of algorithms (R1); the sensitivity (R3) and usability (R4) of associating pages to a limited number of characters. We agree these are worth investigating in the future.
+
+HOW PAGES ARE ASSOCIATED TO CODE: DOES N=2 WORK?
+- We chose the threshold of n=2 after pilot studies with a larger threshold revealed the danger of associating pages with unrelated code after more edits. The current choice errs on the conservative side - users may have to search more, but are less likely to see annotations in irrelevant locations. The main danger with a small n is in losing annotations. This happens when the characters that carry the annotation are deleted.
+- While HyperSource associates pages to individual characters, the user sees annotations for entire lines and active selections. The granularity of tracking annotations is fine; the granularity of interacting with annotations is under user control by selecting more or less characters.
+
+RELATED WORK
+- R3 asks about the difference to CodeTrail; R1 provides the answer: HyperSource helps to automatically capture resources that are conceptually related to the programming task, not just documentation of specific APIs used in the code itself (example: musical scales in the study). In CodeTrail, users can also explicitly bookmark pages at the file level; HyperSource uses explicit bookmarking only as a signal of importance - it still captures other (non-blacklisted) pages. HyperSource also introduces a novel user interface for showing and interacting with annotations (R3). We are happy to foreground these distinctions.
+- We will include a reference to Pirolli for information scent and can replace HipiKat with Mylar (R4) and either Mica or TeamTracks (R3). Condensing Figures 3 and 4 (R1,R4) could provide some space for these changes.
+
+INDIVIDUAL CONCERNS
+- ASSOCIATING METADATA WITH TEXT IS NOT NOVEL (R3): We agree; the confusion may be due to poor phrasing. The novelty is in the specific instance of association web pages with characters, not the abstract concept.
+- FILE FORMAT & REPERCUSSIONS NOT DESCRIBED (R3): We regret the omission. HyperSource writes a shadow file in addition to the traditional source file (a separate .hypersrc file is placed alongside the source file). Use of this file is optional. This means collaborators can still read the original source file. If collaborators edit the source file without HyperSource, shadow file and source file are out of sync. File differencing algorithms could be used to re-sync the shadow file.
+- ARE UNRELATED PAGES CAPTURED OR NOT? (R3) We clarify: our *model* of alternating edit-browse-cycles does not take into account whether browsing is code-related or not. This means that the state machine that implements this model does not discriminate between different page types. This discrimination is made based on heuristics and black lists (R1: the heuristics are "extremely promising".)
