@@ -202,13 +202,13 @@ rows:
         right: <br>
     -
         left: Tangible, Embedded, and Embodied Interaction (TEI)
-        right: (2) Christine Dierk, Sarah Sterman, Molly Jane Nicholas, and Eric Paulos. 2018. <a href="">HäirIÖ&#58; Human Hair as Interactive Material.</a> (TEI '18). ACM, New York, NY, USA, 148-157.
+        right: (2) Christine Dierk, Sarah Sterman, <b>Molly Jane Nicholas</b>, and Eric Paulos. 2018. <a href="">HäirIÖ&#58; Human Hair as Interactive Material.</a> (TEI '18). ACM, New York, NY, USA, 148-157.
     -
         left:
         right: <br>
     -
         left: 
-        right: (5) César Torres, Molly Jane Nicholas, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. Conditionally accepted to TEI '19. ACM, New York, NY, USA.
+        right: (5) César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. Conditionally accepted to TEI '19. ACM, New York, NY, USA.
     -
         left:
         right: <br>
