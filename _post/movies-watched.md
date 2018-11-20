@@ -4,6 +4,11 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: Valkyrie
+        review: Fascinating story, weird filming/direction, great acting.
+        rating: 2
+        link: https://www.alternateending.com/2009/01/killing-adolf-hitler-or-if-its-2009-why-am-i-still-reviewing-frakking-wwii-movies.html
+    -
         title: Sorry To Bother You
         review: One of the weirdest movies I've seen recently!!! So weird!!! So interesting!!!
         rating: 2
