@@ -143,6 +143,7 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
 - Actives (Monday, Wednesday, Friday)
   - [20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (after Moist)
   - [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead)
+  - [TO - Salicylic Acid 2% Solution] - patch-testing on forehead and chin 20 mins after Vit C.
 - Actives (Tuesday, Thursday)
   - [TO - Niacinamide 10% and Zinc 1%] - (after Moist but before Premium on moisturizing days). Will probably switch to Stratia Rewind which has a better-supported formulation when this runs out.
   - [Azelaic Acid Suspension 10%] - (after Niacinamide). Will probably switch to Garden of Wisdom when this runs out as I've seen lots of amazing reviews of it.
@@ -172,7 +173,7 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
 [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil]: https://theordinary.com/product/rdn-100pct-organic-cold-pressed-rose-hip-seed-oil-30ml?ccm=6afb414ca0a748bd85ed7ead6c4e6729f133993f2fd49d2697d9aa1f3700dc05f70102cb1d00da802a8fe86a4f7a904b2cc58b019d79610ab89b7e00b33f328bc753a4096d6833cfdfd104393f7b6d2ea9c94c428c7dfb98df67373effa002ea0bb4ccc0631fe620f433ce3ceb247add1301e999e842b00448683c81f4fa84bd637043838043f764bfcc52c6ab2b852c&ccvis=1
 [TO - Niacinamide 10% and Zinc 1%]: https://theordinary.com/product/rdn-niacinamide-10pct-zinc-1pct-30ml
 [20% VITAMIN C + E FERULIC ACID SERUM 1 OZ]: https://www.timelessha.com/products/20-vitamin-c-e-ferulic-acid-serum-1-oz
-[Salicylic Acid 2% Solution]: https://theordinary.com/product/rdn-salicylic-acid-2pct-solution-30ml
+[TO - Salicylic Acid 2% Solution]: https://theordinary.com/product/rdn-salicylic-acid-2pct-solution-30ml
 [TO - Lactic Acid 10% HA 2%]: https://theordinary.com/product/rdn-lactic-acid-10pct-ha-2pct-30ml?redir=1
 
 [CANMAKE Mermaid Skin Gel PA++++ SPF 50+]: https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a
