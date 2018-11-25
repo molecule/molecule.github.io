@@ -315,20 +315,18 @@ newsfeed:
                 <h4>{{ project.title }} </h4>
                 <small>{{ project.desc }}</small>
             </div><!--end proj info-->
-            </div>
-            <div class="project-description"> {{project.description}} </div>
-            </a>
         </div><!--end proj wrapper-->
+        <div class="project-description"> {{project.description}} </div>
+        </a>
+        </div><!--end proj-->
         <div id="project_details">
             <div id="project_details_title">{{ project.title }}</div>
             <div id="project_details_description">{{ project.description }}</div>
         </div><!--end proj details-->
     {% endfor %}
-    </div><!--end of proj div-->
-</div><!--end projs-->
-
-
+</div><!--end of projects-->
 </div>
+
 <div style="float:center; padding:10px">
     <div style="float:center; text-align:center; padding:10px; font-size:13px; line-height:8px">
         <img src="/src/img/logo-nsf.png" alt="NSF logo" style="width: 150px;"/>
