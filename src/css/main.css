@@ -655,7 +655,7 @@ code.highlighter-rouge {
   font-family: Roboto, sans-serif;
   font-weight: 900;
   font-style: italic;
-  font-size: 32px;
+  font-size: 18px;
 }
 
 .project-wrapper:hover > .project-info {
@@ -680,13 +680,13 @@ code.highlighter-rouge {
   height: 20px;
   opacity: 0;
   color: #313131;
-  padding: 12px 24px;
+  padding: 5px;
   border-radius: 0 0 10px 10px;
   transition: height 100ms, opacity 100ms;
   background-color: rgba(255, 255, 255, 0.7);
   font-family: Roboto, sans-serif;
   font-weight: 500;
-  font-size: 26px;
+  font-size: 14px;
   left: 0;
 }
 .project-info > h3 {

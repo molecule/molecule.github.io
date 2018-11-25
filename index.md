@@ -10,19 +10,19 @@ projects:
         link:
     -
         title: Guardians
-        desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (Presented at DIS 2018). Failure, whether it be “complete-and-utter” or “a minor set-back”, occurs in a variety of different creative practices...
+        desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (Presented at DIS 2018).
         tags: [res, cla]
         imag: /src/img/guardians-pic.png
         link: http://cearto.com/projects/guardians
     - 
         title: AlterWear
-        desc: Battery-Free Wearable Displays for Opportunistic Interactions (Presented at CHI 2019). As the landscape of wearable devices continues to expand, power remains a major issue for adoption, usability, and miniaturization...
+        desc: Battery-Free Wearable Displays for Opportunistic Interactions (Presented at CHI 2019).
         tags: [res, wear]
         imag: /src/img/alterwear-shoe-toe-only.png
         link: /project/alterwear
     -
         title: HäirIÖ
-        desc: Human Hair as Interactive Material (Presented at TEI 2018). Human hair is a cultural material, with a rich history displaying individuality, cultural expression and group identity...
+        desc: Human Hair as Interactive Material (Presented at TEI 2018).
         tags: [res, wear]
         imag: /src/img/hairio-gif.gif
         link: /project/hairio
@@ -34,7 +34,7 @@ projects:
         link: /project/eo-9066
     -
         title: Illumination Aesthetics
-        desc: Light as a Creative Material within Computational Design (Presented at CHI 2017). Recent digital fabrication tools have enabled new form-giving using a wide range of physical materials...
+        desc: Light as a Creative Material within Computational Design (Presented at CHI 2017).materials...
         tags: [res, win]
         imag: /src/img/ia-thumbnail.jpg
         link: /project/illumination-aesthetics
@@ -313,12 +313,9 @@ newsfeed:
             <img src="{{ project.imag }}" class="project-image"/>
             <div class="project-info">
                 <h4>{{ project.title }} </h4>
-                <p>{{ project.desc }}</p>
+                <small>{{ project.desc }}</small>
             </div><!--end proj info-->
-            <div class="project-tags">
-                {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
-                {% endfor %}</div>
-            </div><!--end proj tags-->
+            </div>
             <div class="project-description"> {{project.description}} </div>
             </a>
         </div><!--end proj wrapper-->
