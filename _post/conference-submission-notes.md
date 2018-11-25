@@ -3,6 +3,11 @@ layout: post
 date: 2018-09-23
 image:
 submissions:
+    -
+        conference: TEI 2019
+        notes: Recycled our paper from UIST 2018 - finally accepted! We did another user study to flesh out the world and expand our framework. I didn't help as much with this second round (mostly helped w the camera-ready and a bit with the video).
+        icon: /src/img/icon-noun_checkmark_364806.png
+        link: 
     - 
         conference: CHI 2019
         notes: Collaborating with another lab, we worked for several weeks to design and construct an extremely elaborate and delicate user study setup for testing something very delicate, then ran 18 participants. Ok, *running* user studies isn't my favourite part (I do like it), *analyzing* user data is my favourite part.
@@ -12,7 +17,7 @@ submissions:
         conference: DIS 2018
         notes: Resurrected our Fall class project, edited it, and submitted it within 24 hours. We had no user study for this one, but I'm still very very proud of what we made. Honestly this has been the project that has most meta-impacted my research life. Read it and see if you can see why!
         icon: /src/img/icon-noun_checkmark_364806.png
-        link:
+        link: http://www.hybrid-ecologies.org/uploads/project/paper/25/Torres_et_al._-_2018_-_Guardians_of_Practice_A_Contextual_Inquiry_of_Fai.pdf
     -
         conference: CHI 2018
         notes: Worked with Christie Dierk on her super cool wearable interfaces. Lots of circuit building and another 1-hr user study (quickly becoming my favourite part).
