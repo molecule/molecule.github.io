@@ -269,9 +269,9 @@ newsfeed:
 [//]: # ( m: &#109 o: &#111 l: &#108 e: &#101 c: &#99 u: &#117 @: &#64 y: &#121 )
 [//]: # ( molecule: &#109;&#111;&#108;&#101;&#99;&#117;&#108;&#101)
 [//]: # ( @berkeley.edu: &#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117; )
-
+<div style="width:100%">
 <div style="width:100% padding:10px;">
-<div style="float:right; width:30%">
+    <div style="float:right; width:30%">
         <div style="float: center; text-align:center; width:150px; padding:10px; font-size:8px; line-height:8px display:block;">
             <img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
             <span style="display:block;"> Fig. a) The author, enjoying everything very much, thank you.</span>
@@ -298,14 +298,6 @@ newsfeed:
         {% endfor %}
         </table>
     </div><!--end of newsfeed-->
-    <div style="float: center; text-align:center; padding:10px; font-size:13px; line-height:8px">
-    <img src="/src/img/logo-nsf.png" alt="NSF logo" style="width: 150px;"/>
-    <img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists logo" style="width: 150px;"/>
-    <span style="display:block;"> I'm honored to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a> and the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a> </span>
-    </div>
-    <p style="margin: 0.5em 0em 10em 0em;">
-    <small><i>updated {{ site.time | date: "%b %-d, %Y"}} </i></small>
-    </p>
 </div><!--end of floating left newsfeed container-->
 
 
@@ -339,7 +331,17 @@ newsfeed:
 </div><!--end projs-->
 
 
-
+</div>
+<div style="float:center; padding:10px">
+    <div style="float:center; text-align:center; padding:10px; font-size:13px; line-height:8px">
+        <img src="/src/img/logo-nsf.png" alt="NSF logo" style="width: 150px;"/>
+        <img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists logo" style="width: 150px;"/>
+        <span style="display:block;"> I'm honored to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a> and the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a></span>
+    </div>
+    <p style="margin: 0.5em 0em 10em 0em;">
+    <small><i>updated {{ site.time | date: "%b %-d, %Y"}} </i></small>
+    </p>
+</div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="/src/js/index.js"> </script>
