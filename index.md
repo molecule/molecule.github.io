@@ -304,7 +304,7 @@ newsfeed:
 
 <div id='projects' style="float:right; width:60%">
     <h3>
-            latest work
+            latest projects
     </h3>
     {% for project in page.projects %}
     <div class="project">
