@@ -6,13 +6,13 @@ projects:
         title: Conversations with Actuators
         desc: An Exploratory Design Environment for Hybrid Materials (Coming soon to TEI 2019).
         tags: [res]
-        imag: /src/img/dis19-cwa.jpg
+        imag: /src/img/cwa-gif.gif
         link:
     -
         title: Guardians
         desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (Presented at DIS 2018).
         tags: [res, cla]
-        imag: /src/img/guardians-pic.png
+        imag: /src/img/guardians-kiln-gods.jpg
         link: http://cearto.com/projects/guardians
     - 
         title: AlterWear

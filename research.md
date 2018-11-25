@@ -17,7 +17,7 @@ submissions:
         title: Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices
         authors: César Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, Eric Paulos.
         link: http://www.hybrid-ecologies.org/projects
-        img: /src/img/dis18-guardians.png
+        img: /src/img/guardians-kiln-gods.jpg
         conf: ACM Conference on Designing Interactive Systems
         conf-short: (DIS '18)
         conf-link: http://dis2018.org/
