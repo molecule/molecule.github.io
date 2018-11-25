@@ -2,16 +2,16 @@
 layout: post
 date: 2018-09-23
 image:
-submissions:
-    -
-        conference: TEI 2019
-        notes: Recycled our paper from UIST 2018 - finally accepted! We did another user study to flesh out the world and expand our framework. I didn't help as much with this second round (mostly helped w the camera-ready and a bit with the video).
-        icon: /src/img/icon-noun_checkmark_364806.png
-        link: 
+submissions: 
     - 
         conference: CHI 2019
         notes: Collaborating with another lab, we worked for several weeks to design and construct an extremely elaborate and delicate user study setup for testing something very delicate, then ran 18 participants. Ok, *running* user studies isn't my favourite part (I do like it), *analyzing* user data is my favourite part.
         icon: /src/img/icon-noun_Question_727759.png
+        link:
+    -
+        conference: TEI 2019
+        notes: Recycled our paper from UIST 2018 - finally accepted! We did another user study to flesh out the world and expand our framework. I didn't help as much with this second round (mostly helped w the camera-ready and a bit with the video).
+        icon: /src/img/icon-noun_checkmark_364806.png
         link:
     -
         conference: DIS 2018
