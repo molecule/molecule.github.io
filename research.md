@@ -3,7 +3,18 @@ title: papers
 layout: page
 submissions:
     -
-        title: Guardians of Practice - A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices
+        title: A Conversation with Actuators&#58; An Exploratory Design Environment for Hybrid Materials
+        authors: César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, Eric Paulos.
+        link:
+        img: /src/img/dis19-cwa.jpg
+        conf: ACM Conference on Tangible, Embedded, and Embodied Interaction
+        conf-short: (TEI '19)
+        conf-link: http://www.tei-conf.org/
+        award:
+        links:
+        video:
+    -
+        title: Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices
         authors: César Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, Eric Paulos.
         link: http://www.hybrid-ecologies.org/projects
         img: /src/img/dis18-guardians.png
@@ -14,7 +25,7 @@ submissions:
         links: <a href="http://www.hybrid-ecologies.org/uploads/project/paper/25/Torres_et_al._-_2018_-_Guardians_of_Practice_A_Contextual_Inquiry_of_Fai.pdf">Paper</a>
         video:
     -
-        title: AlterWear - Battery-Free Wearable Displays for Opportunistic Interactions.
+        title: AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.
         authors: Christine Dierk, <b>Molly Jane Nicholas</b>, Eric Paulos.
         link: http://www.hybrid-ecologies.org/projects
         img: /src/img/alterwear-square-gif.gif
@@ -25,7 +36,7 @@ submissions:
         links: <a href="http://www.hybrid-ecologies.org/uploads/project/paper/24/18_CHI_AlterWear.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=J88p4Cf2DSs&t=1s">Video</a>
         video:
     -
-        title: Häiriö - Human Hair as an Interactive Material.
+        title: Häiriö&#58; Human Hair as an Interactive Material.
         authors: Christine Dierk, Sarah Sterman, <b>Molly Jane Nicholas</b>, Eric Paulos.
         link: https://molecule.github.io/project/hairio/
         img: /src/img/hairio-thumbnail.JPG
@@ -36,7 +47,7 @@ submissions:
         links: <a href="http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=8JV2D7gJ5HI">Video</a> | <a href="https://www.instructables.com/id/HairIO-Hair-As-Interactive-Material/">Instructable</a>
         video: https://www.youtube.com/watch?v=8JV2D7gJ5HI
     -
-        title: Illumination Aesthetics - Light as a Creative Material within Computational Design.
+        title: Illumination Aesthetics&#58; Light as a Creative Material within Computational Design.
         authors: César Torres, Jasper O’Leary, <b>Molly Jane Nicholas</b>, Eric Paulos.
         link: https://molecule.github.io/project/illumination-aesthetics/
         img: /src/img/ia-thumbnail.jpg
