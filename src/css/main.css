@@ -118,7 +118,7 @@ ul { list-style-type: square; }
 .timeline tr td{
   padding:5px;
   font-size: .6rem;
-  width:55ch;
+  width:80%;
 }
 
 .timeline tr td:nth-child(2) {
@@ -601,7 +601,7 @@ code.highlighter-rouge {
 #projects {
   text-align: center;
   margin: 0px auto 0 auto;
-  margin-left: -35px;
+  margin-left: -135px;
   width: 950px;
 }
 .project {

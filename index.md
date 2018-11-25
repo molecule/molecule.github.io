@@ -158,6 +158,9 @@ hidden:
 
 newsfeed:
     -
+        content: Our work on creating a conversational profile for actuators that was previously not accepted to UIST was just accepted to TEI!
+        date: 20 Nov 2018
+    -
         content: Collecting various helpful <a href="post/Rebuttal-Advice/">pieces of advice for writing rebuttals here</a>.
         date: 17 Nov 2018
     -
@@ -267,23 +270,23 @@ newsfeed:
 [//]: # ( molecule: &#109;&#111;&#108;&#101;&#99;&#117;&#108;&#101)
 [//]: # ( @berkeley.edu: &#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117; )
 
-<div style="width: 100%; display: table;">
-    <div style="display: table-row; width:100%">
-        <div style="display: table-cell; width:48%; float:left;"> 
-            <div style="float:left;">
-                <div style="float: left; text-align:center; width:200px; padding:10px; font-size:8px; line-height:8px">
+<div style="width:100%">
+<div style="float: right; text-align:center; width:150px; padding:10px; font-size:8px; line-height:8px">
                     <img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
                     <span style="display:block;"> Fig. a) The author, enjoying everything very much, thank you.</span>
                 </div>
-            </div>
-        <p> Molly Jane Nicholas is a Ph.D. student studying Human Computer Interaction
+<div style="float:left; width:75%; padding:10px">
+    <p> Molly Jane Nicholas is a Ph.D. student studying Human Computer Interaction
   with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Molly is honored to be supported by the <a href="https://www.arcsfoundation.org/">ARCS foundation</a> and the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a> Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p> 
-        </div>
-        <div style="display: table-cell; width:48%; float:right; padding:10px;"> 
+  </div>
+
+</div>
+
+<div style="float:left; padding:10px; width:100%"> 
         <h3>
             news and updates
         </h3>
-        <div class='newsfeed' style="height:300px; overflow:scroll; vertical-align:top; font-size:.7rem">
+        <div class='newsfeed' style="height:150px; overflow:scroll; vertical-align:top; font-size:.7rem">
             <table class="timeline">
             {% for news in page.newsfeed %}
                 <tr>
@@ -293,9 +296,6 @@ newsfeed:
             {% endfor %}
             </table>
         </div><!--end of newsfeed-->
-    </div>
-</div>
-
 
 <div id="tags">
   <span class="tag res">research</span>
