@@ -155,7 +155,7 @@ hidden:
 
 newsfeed:
     -
-        content: Collecting various helpful <a href="post/Rebuttal-Advice/">info about writing rebuttals here</a>.
+        content: Collecting various helpful <a href="post/Rebuttal-Advice/">pieces of advice for writing rebuttals here</a>.
         date: 17 Nov 2018
     -
         content: Happy to celebrate with the wonderful people of <a href="https://www.arcsfoundation.org/">ARCS</a>! So grateful for the support.
