@@ -283,8 +283,8 @@ newsfeed:
     </div>
 </div>
 
-<div style="float:left; padding:10px; width:100%"> 
-    <div style="float:left; width:30%">
+<div style="float:left; width:100%"> 
+    <div style="float:left; width:40%">
     <h3>
         news and updates
     </h3>
@@ -302,7 +302,7 @@ newsfeed:
 
 
 
-<div id='projects' style="float:right; width:70%">
+<div id='projects' style="float:right; width:60%">
     <h3>
             latest work
     </h3>

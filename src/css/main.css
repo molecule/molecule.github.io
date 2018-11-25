@@ -118,7 +118,7 @@ ul { list-style-type: square; }
 .timeline tr td{
   padding:5px;
   font-size: .6rem;
-  width:80%;
+  width:70%;
 }
 
 .timeline tr td:nth-child(2) {
@@ -606,12 +606,11 @@ code.highlighter-rouge {
 }
 .project {
   border: 3px solid #fff;
-  border-radius: 16px 16px 0 0;
   display: inline-block;
   padding: 0px;
-  width: 240px;
-  height: 240px;
-  border-radius: 12px;
+  width: 150px;
+  height: 150px;
+  border-radius: 1px;
   position: relative;
   cursor: pointer;
 }
@@ -621,8 +620,8 @@ code.highlighter-rouge {
 }
 .project-wrapper {
   padding: 0px;
-  width: 240px;
-  height: 240px;
+  width: 150px;
+  height: 150px;
   border-radius: 12px;
   position: relative;
   cursor: pointer;
