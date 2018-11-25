@@ -3,59 +3,62 @@ title: about
 layout: centered
 projects:
     -
-        title: Guardians
-        desc: (coming soon to DIS 2018)
+        title: Conversations with Actuators
+        desc: An Exploratory Design Environment for Hybrid Materials (Coming soon to TEI 2019).
         tags: [res]
+        imag: /src/img/dis19-cwa.jpg
+        link:
+    -
+        title: Guardians
+        desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (Presented at DIS 2018). Failure, whether it be “complete-and-utter” or “a minor set-back”, occurs in a variety of different creative practices...
+        tags: [res, cla]
         imag: /src/img/guardians-pic.png
         link: http://cearto.com/projects/guardians
     - 
         title: AlterWear
-        desc: Battery-Free Wearable Displays for Opportunistic Interactions (Presented at CHI 2019)
+        desc: Battery-Free Wearable Displays for Opportunistic Interactions (Presented at CHI 2019). As the landscape of wearable devices continues to expand, power remains a major issue for adoption, usability, and miniaturization...
         tags: [res, wear]
         imag: /src/img/alterwear-shoe-toe-only.png
         link: /project/alterwear
     -
-        title: Häiriö
-        desc: Human Hair as Interactive Material (Presented at TEI 2018)
+        title: HäirIÖ
+        desc: Human Hair as Interactive Material (Presented at TEI 2018). Human hair is a cultural material, with a rich history displaying individuality, cultural expression and group identity...
         tags: [res, wear]
         imag: /src/img/hairio-gif.gif
         link: /project/hairio
     -
         title: E.O. 9066
-        desc: Lunatique Fantastique production
+        desc: A Lunatique Fantastique production about the internment of American citizens during WW2.
         tags: [per]
         imag: /src/img/eo9066-two-kids.jpg
         link: /project/eo-9066
     -
         title: Illumination Aesthetics
-        desc: CHI 2017
-        description: This is a long description of the Illumination Aesthetics project.
+        desc: Light as a Creative Material within Computational Design (Presented at CHI 2017). Recent digital fabrication tools have enabled new form-giving using a wide range of physical materials...
         tags: [res, win]
         imag: /src/img/ia-thumbnail.jpg
         link: /project/illumination-aesthetics
     -
         title: Qbadge
-        desc: Qualcomm
-        description: This is a longer description of the Qbadge project.
+        desc: Arduinos are amazing devices, but even with the incredible community surrounding them, there still seems to be a huge lack of women interested in low-level programming...
         tags: [wee, win, wear]
         imag: /src/img/qbadge.jpg
         link: /project/qbadge
     -
         title: Lightning Cloud
-        description: This is a longer description of the cloud project.
-        desc: Personal project
+        desc: The first step towards creating a little ambient weather indicator...
         tags: [wee, win]
         imag: /src/img/lightning-cloud-crop.gif
         link: /project/lightning-cloud
     -
         title: Wearable Neopixel Sparkle
-        desc: Personal project
+        desc: I wondered if I could create a better framework for interacting by wearing an eye-catching piece of electronic jewelry...
         tags: [wee, wear]
         imag: /src/img/wearable-sparkle.jpg
         link: /project/neopixel-sparkle
     -
         title: InfraRed Receiver
-        desc: Personal project
+        desc: A very simple IR receiver. A lightweight way to add “remote control” to any project.
         tags: [wee]
         imag: /src/img/ir-receiver.jpg
         link: /project/infrared-receiver
@@ -311,7 +314,7 @@ newsfeed:
     <img src="{{ project.imag }}" class="project-image"/>
     <div class="project-info">
         <h4>{{ project.title }} </h4>
-        <small>{{ project.desc }}</small>
+        <p>{{ project.desc }}</p>
     </div>
   <div class="project-tags">
     {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
