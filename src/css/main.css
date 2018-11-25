@@ -170,7 +170,7 @@ ul { list-style-type: square; }
 }
 
 .small-container {
-  max-width: 36rem;
+  max-width:50rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left: auto;

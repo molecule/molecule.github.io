@@ -271,21 +271,24 @@ newsfeed:
 [//]: # ( @berkeley.edu: &#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117; )
 
 <div style="width:100% padding:10px;">
-    <div style="float: right; text-align:center; width:150px; padding:10px; font-size:8px; line-height:8px">
-        <img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
-        <span style="display:block;"> Fig. a) The author, enjoying everything very much, thank you.</span>
+<div style="float:right; width:30%">
+        <div style="float: center; text-align:center; width:150px; padding:10px; font-size:8px; line-height:8px display:block;">
+            <img src="/src/img/1-jacket-glasses-chin-up.JPG"/>
+            <span style="display:block;"> Fig. a) The author, enjoying everything very much, thank you.</span>
+        </div>
     </div>
-    <div style="float:left; width:75%; padding:10px">
+    <div style="float:left; width:70%; padding:20px">
         <p> Molly Jane Nicholas is a Ph.D. student studying Human Computer Interaction
     with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Molly is honored to be supported by the <a href="https://www.arcsfoundation.org/">ARCS foundation</a> and the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a> Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p> 
     </div>
 </div>
 
 <div style="float:left; padding:10px; width:100%"> 
+    <div style="float:left; width:45%">
     <h3>
         news and updates
     </h3>
-    <div class='newsfeed' style="height:150px; overflow:scroll; vertical-align:top; font-size:.7rem">
+    <div class='newsfeed' style="vertical-align:top; font-size:.7rem">
         <table class="timeline">
         {% for news in page.newsfeed %}
             <tr>
@@ -295,51 +298,48 @@ newsfeed:
         {% endfor %}
         </table>
     </div><!--end of newsfeed-->
-
-<div id="tags">
-  <span class="tag res">research</span>
-  <span class="tag cla">class project</span>
-  <span class="tag wee">weekend projects</span>
-  <span class="tag wear">wearable</span>
-  <span class="tag win">award-winning</span>
-  <span class="tag per">performances</span>
-</div>
-
-<div id='projects'>
-{% for project in page.projects %}
-<div class="project">
-  <a href="{{ project.link }}">
-  <div class="project-wrapper">
-    <img src="{{ project.imag }}" class="project-image"/>
-    <div class="project-info">
-        <h4>{{ project.title }} </h4>
-        <p>{{ project.desc }}</p>
+    <div style="float: center; text-align:center; padding:10px; font-size:13px; line-height:8px">
+    <img src="/src/img/logo-nsf.png" alt="NSF logo" style="width: 150px;"/>
+    <img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists logo" style="width: 150px;"/>
+    <span style="display:block;"> I'm honored to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a> and the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a> </span>
     </div>
-  <div class="project-tags">
-    {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
-    {% endfor %}</div>
-  </div>
-  <div class="project-description"> {{project.description}} </div>
-    </a>
-</div>
-
-<div id="project_details">
-    <div id="project_details_title">{{ project.title }}</div>
-    <div id="project_details_description">{{ project.description }}</div>
-</div>
-{% endfor %}
-</div>
-
-<div style="float: center; text-align:center; padding:10px; font-size:13px; line-height:8px">
-<img src="/src/img/logo-nsf.png" alt="NSF logo" style="width: 150px;"/>
-<img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists logo" style="width: 150px;"/>
-<span style="display:block;"> I'm honored to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a> and the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a> </span>
-</div>
+    <p style="margin: 0.5em 0em 10em 0em;">
+    <small><i>updated {{ site.time | date: "%b %-d, %Y"}} </i></small>
+    </p>
+</div><!--end of floating left newsfeed container-->
 
 
 
-<p style="margin: 0.5em 0em 10em 0em;">
-<small><i>
+<div id='projects' style="float:right; width:55%">
+    <h3>
+            latest work
+    </h3>
+    {% for project in page.projects %}
+    <div class="project">
+        <a href="{{ project.link }}">
+        <div class="project-wrapper">
+            <img src="{{ project.imag }}" class="project-image"/>
+            <div class="project-info">
+                <h4>{{ project.title }} </h4>
+                <p>{{ project.desc }}</p>
+            </div><!--end proj info-->
+            <div class="project-tags">
+                {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
+                {% endfor %}</div>
+            </div><!--end proj tags-->
+            <div class="project-description"> {{project.description}} </div>
+            </a>
+        </div><!--end proj wrapper-->
+        <div id="project_details">
+            <div id="project_details_title">{{ project.title }}</div>
+            <div id="project_details_description">{{ project.description }}</div>
+        </div><!--end proj details-->
+    {% endfor %}
+    </div><!--end of proj div-->
+</div><!--end projs-->
+
+
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="/src/js/index.js"> </script>
@@ -356,6 +356,3 @@ newsfeed:
 </script>
 
 
-<!--<a href="/mit-license">license</a> --->
-updated {{ site.time | date: "%b %-d, %Y"}} </i></small>
-</p>
