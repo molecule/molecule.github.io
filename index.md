@@ -51,7 +51,7 @@ projects:
         imag: /src/img/lightning-cloud-crop.gif
         link: /project/lightning-cloud
     -
-        title: Wearable Neopixel Sparkle
+        title: Wearable Sparkle
         desc: I wondered if I could create a better framework for interacting by wearing an eye-catching piece of electronic jewelry...
         tags: [wee, wear]
         imag: /src/img/wearable-sparkle.jpg

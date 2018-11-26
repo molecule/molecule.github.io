@@ -15,7 +15,7 @@ img#neopixel-sparkle { width: 10em; }
 img.proj { display: block; margin: auto; }
 </style>
 
-<img id="neopixel-sparkle" class="proj" src="/src/img/wearable-sparkle.jpg">
+<img id="neopixel-sparkle" class="proj" src="/src/img/sparkle-gif.gif">
 
 
 ###### [source code][github] - [video][video] - [instructable][instructable] - [adafruit blog post][adafruit-neopixel]
