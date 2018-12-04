@@ -118,6 +118,10 @@ Remember:
 #### Day four:
 - Once your co-authors are happy, find at least one non-author to review the rebuttal
 
+### If you won't submit a rebuttal, at least submit this:
+
+We thank the reviewers for their valuable and constructive critique and will use it to develop this work further for a future venue. Thank you!
+
 ### Example rebuttal 1
 
 We thank the externals and the 1AC for their thorough and detailed expert reviews. All reviewers find novelty, thoughtful writing, and good coverage of implementation and generalizability. We first discuss issues identified by the 1AC, then additional individual concerns.
