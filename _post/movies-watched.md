@@ -4,6 +4,11 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: Jack Reacher 2
+        review: I get what they were trying to do with this movie, and I was right beside them, cheering them on as they failed.
+        rating: 2
+        link: https://www.alternateending.com/2016/11/the-major-and-the-minor.html
+    -
         title: Valkyrie
         review: Fascinating story, weird filming/direction, great acting.
         rating: 2
