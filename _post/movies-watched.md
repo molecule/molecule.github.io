@@ -4,6 +4,11 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 movies:
     -
+        title: Venom
+        review: This movie was so bad! Tom Hardy is great. The best line is when Venom suggests tearing the heads off a bunch of bad guys and stacking the bodies in the corner. Tom says "why would we want to do that?" and Venom matter-of-factly replies "pile of heads pile of bodies". That kind of baffling, zany cultural miscommuncation between humans and aliens is what I live for.
+        rating: 1.5
+        link: https://www.alternateending.com/2018/10/venom-2018.html
+    -
         title: Jack Reacher 2
         review: I get what they were trying to do with this movie, and I was right beside them, cheering them on as they failed.
         rating: 2
