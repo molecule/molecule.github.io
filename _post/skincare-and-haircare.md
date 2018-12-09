@@ -137,16 +137,16 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
 #### AM
 - Splash face w/ cool water. ~~Wait 15 minutes.~~ ([No need to wait to reset skin pH](https://theacidqueenblog.com/2015/12/04/skin-ph-and-urban-legends-an-argument-against-wait-times-and-ph-adjusting-toners/)). 
 - Moisturize/Hydrate
-  - [Hada Labo Gokujyun Lotion Moist] - (1-2 layers, applied on damp skin)
+  - [Hada Labo Gokujyun Lotion Moist] - (1-2 layers, applied on damp skin) OR
   - [Hada Labo Premium Lotion] - (If my skin feels extra dry)
   - [Stratia Liquid Gold] - (1 pump or 2, if needed) mixed with 3 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil]
 - Actives (Monday, Wednesday, Friday)
-  - [20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (after Moist)
-  - [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead)
-  - [TO - Salicylic Acid 2% Solution] - patch-testing on forehead and chin 20 mins after Vit C.
+  - [20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (on dry skin)
+  - BHA: [TO - Salicylic Acid 2% Solution] - patch-testing on forehead and chin 20 mins after Vit C OR
+  - AHA: [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead)
 - Actives (Tuesday, Thursday)
   - [TO - Niacinamide 10% and Zinc 1%] - (after Moist but before Premium on moisturizing days). Will probably switch to Stratia Rewind which has a better-supported formulation when this runs out.
-  - [Azelaic Acid Suspension 10%] - (after Niacinamide). Will probably switch to Garden of Wisdom when this runs out as I've seen lots of amazing reviews of it.
+  - [Azelaic Acid Suspension 10%] - (after Niacinamide). Will probably switch to Garden of Wisdom when this runs out as I've seen lots of amazing reviews of it. This has a tendency to pill under everything else and looks white and chalky if I use a bit too much.
 - Sunscreen:
   - [CANMAKE Mermaid Skin Gel PA++++ SPF 50+], AND
   - [Australian Gold Botanical SPF 50 tinted], (just for the tint and because it dries a beautiful matte texture - it's basically makeup for me. I don't apply enough to get SPF benefits from it). 
@@ -156,15 +156,15 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
 - Cleanse
   - [Garnier SkinActive Micellar Cleansing Water](https://smile.amazon.com/gp/product/B017PCGABI/ref=oh_aui_detailpage_o03_s00?ie=UTF8&th=1) - Only if I'm removing makeup. (For me, water was not enough to remove this and I was getting red, itchy, irritated skin but with a 2nd cleanser this works fine).
   - [Hada Labo Gokujun Cleansing Oil]
-  - [Vanicream Gentle Cleanser] - ([pH 6-7](https://www.reddit.com/r/SkincareAddiction/comments/8zbu6q/psa_vanicream_cleanser_ph_levels_from_the_company/), which is a little high. I'd like to switch to the [Hada Labo Gentle Hydrating Cleanser](https://smile.amazon.com/Hada-Labo-Tokyo-Hydrating-Cleanser/dp/B01AAX6C26/ref=sr_1_3_a_it?ie=UTF8&qid=1534477928&sr=8-3&keywords=hada+labo+tokyo+gentle+hydrating+cleanser) or the [Hada Labo Foaming Cleanser](https://smile.amazon.com/Hada-Labo-Gokujyn-Hyaluronic-Cleansing/dp/B01CE5P580/ref=sr_1_4_a_it?ie=UTF8&qid=1534477928&sr=8-4&keywords=hada%2Blabo%2Btokyo%2Bgentle%2Bhydrating%2Bcleanser&th=1) (both are [pH 5-6](https://docs.google.com/spreadsheets/d/1VqO_uF8m4oKBzzk5ass37gHcjIk-_2Tv4W2KgJJmUQc/edit#gid=1844869261))).
-- Actives (Currently ramping up from 0.04% micro gel to 0.1% yikes)
+  - [Vanicream Gentle Cleanser] - ([pH 6-7](https://www.reddit.com/r/SkincareAddiction/comments/8zbu6q/psa_vanicream_cleanser_ph_levels_from_the_company/), which is a little higher than what's typically recommended but I tried the [Hada Labo Gentle Hydrating Cleanser](https://smile.amazon.com/Hada-Labo-Tokyo-Hydrating-Cleanser/dp/B01AAX6C26/ref=sr_1_3_a_it?ie=UTF8&qid=1534477928&sr=8-3&keywords=hada+labo+tokyo+gentle+hydrating+cleanser) that has a [pH 5-6](https://docs.google.com/spreadsheets/d/1VqO_uF8m4oKBzzk5ass37gHcjIk-_2Tv4W2KgJJmUQc/edit#gid=1844869261) and my skin haaaaates it so...idk.
+- Actives (Currently ramping up from 0.04% micro gel to 0.1% which has so far been an easy transition)
    - Monday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
    - Tuesday night, [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Hada Labo Skin Plumping Gel].
    - Wednesday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
    - Thursday night, [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Stratia Liquid Gold], [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil].
    - Friday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
-   - Saturday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
-    - Sunday night, Hydration only.
+   - Saturday night, Hydration only.
+    - Sunday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
  
 
 [Hada Labo Gokujyun Lotion Moist]: https://www.amazon.com/gp/product/B074GX619Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074GX619Q&linkCode=as2&tag=molecule08-20&linkId=c3ee6e00e1366d6984c3b7f3f55677ef
