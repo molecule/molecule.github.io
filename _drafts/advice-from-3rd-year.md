@@ -1,0 +1,31 @@
+---
+layout: post
+share: true
+comments: true
+tags: [Documentation]
+date: 2018-12-10
+description: Advice to 1st and 2nd years from a 3rd year.
+image: https://github.com/molecule/molecule.github.io/blob/master/src/img/map-image.svg
+---
+
+One of the hardest things about graduate school compared w/ undergrad is the almost complete lack of clear expectations. This, coupled with high levels of perceived prestige and the fact that you (dear fresh graduate student) have probably been overachieving since you were a kid makes for a very high stress situation. Combine all that with the fact that advisors have not received any formal training in how to mentor or lead means it's so easy for simple communication break-downs to spiral into a majorly stressful experience. I remain steadfast in the belief that graduate school does not need to be this way! Here are my recommendations for your first and second years.
+
+I'm writing this from the perspective of someone who didn't know anything about the field she was joining as a graduate student: you can tweak as fits your situation. I'm also writing from the field of HCI within Computer Science: your field may have different expectations and norms! 
+
+I read a lot of amazing advice posts from former graduate students when I was struggling during my first year. So many of them gave advice along the lines of "reserve some time every day to think about research". But they gave no clues about how to operationalize this advice. During my first semester, I literally reserved 2 hours of every morning to "think" about research, and I'd diligently sit in my chair and think "well I have no idea how to do research". This was stresful AND ineffective. As I proceeded through grad school, I stumbled on various approaches that would have helped me through class assignments and talking with other graduate students. I've collected them here!
+
+## First year
+Activities and Goals
+
+- Get to know the foundational papers of your field. Find a list of at least 40 papers that are considered the foundational papers of your field, and read them 3-4 times. Memorize them. Be able to place them on a timeline and understand how the field has evolved over time. Generate critiques of methodologies, and be able to apply techniques from one paper to the domain of another paper. Relate everything you read to something you're familiar with: reinterpret classic papers in today's world; apply old techniques to new systems. It's best if you can do this in a group with a cohort of other first year graduate students.
+- Once a month, do this "10 Fabulous Ideas" activity. Write down 10 project ideas. For each project idea, give it a title, describe the core contribution in 2-3 sentences (i.e., what the HCI community will learn), and explain what exactly you're planning to build or what the method will be for the study you are planning. In addition, for each idea, cite one published paper or article that is a central piece of published, academic related work, and describe its relevance to your idea.
+From those ten ideas, select 1) your most logical idea, 2) your most unexpected idea, and 3) your idea most likely to inspire. Label these LOGICAL, UNEXPECTED, INSPIRE. Don't re-read last month's or worry too much about "sounding academic". Just save these to look back on later.
+- Keep a single document where you save all the papers you read that you really like for some reason. Don't worry about why you like them: just collect them all somewhere. Don't worry about categorizing them or finding themes. Just collect them and save them like precious jewels.
+- Do NOT worry about submitting to a conference. If anyone suggests conferences you should apply to, *ignore them*. You do not know how to do research yet: that's why you are in graduate school. You are here to learn and you haven't had time to learn yet. If you want to write up a project and submit it, that's fine, but only do it if it's fun. 
+
+## Second year
+Activities and Goals
+
+- Look through the list of papers that that resonate with you you've been updating since your first year, and notice what authors and conferences they have in common. If there's anyone that appears multiple times, look through the rest of their work and subscribe to their Google Scholar alerts. Start pulling up related work from your favourite papers and start building an understanding of the subfields you're interested in. Start to categorize them. A given paper may end up in several categories (that's good!). The categories should read like conference names: "Tangible and Embodied Interaction" or "Spatial User Interfaces". Make sure you understand any terms or definitions that are used frequently (read orginal papers to get it straight from the source). Figure out the historical papers that are cited a lot by the papers you're interested in. Start noticing trends and common approaches. Take notes on all of this.
+- Once a month, write down "3 Fabulous Ideas". For 3 project ideas, give it a title, write an introduction where you describe the core contribution in 2-3 paragraphs, describe your method, and generate some fake data (user study quotes, graphs, etc) to make sure your proposed method will generate the kind of data you want to analyze. In addition, for each idea, cite 5 published papers or articles that are each a central piece of published, academic related work, and describe its relevance to your idea. 
+- Read through the "work in progress" contributions of fields in your area. Consider submitting a project (from class or just a project you've been working on) to the Work in Progress track at a conference that seems like a good fit. It doesn't need to be polished or complete: describe your approach and what you've tried. You'll get feedback from reviewers, and if it gets published you'll get to present a poster and get even more feedback. This should help you feel like you're asking research questions rather than making statements. During my first two years I felt uncomfortable writing a paper because I felt like I had to be completely sure of what I was saying. If you're not sure: don't pretend you are! Just be honest about what you're trying, make sure your approach is justified, and present preliminary findings. Works In Progress tracks are perfect for this. 
