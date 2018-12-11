@@ -1,13 +1,13 @@
 ---
 layout: post
-date: 2018-09-23
+date: 2018-12-10
 image:
 submissions: 
     - 
         conference: CHI 2019
-        notes: Collaborating with another lab, we worked for several weeks to design and construct an extremely elaborate and delicate user study setup for testing something very delicate, then ran 18 participants. Ok, *running* user studies isn't my favourite part (I do like it), *analyzing* user data is my favourite part.
+        notes: Collaborating with another lab, we worked for several weeks to design and construct an extremely elaborate and delicate user study setup for testing something very delicate, then ran 18 participants. Ok, *running* user studies isn't my favourite part (I do like it), *analyzing* user data is my favourite part. In total our lab submitted 6 papers, and all 6 were rejected. Ouch!
         icon: /src/img/icon-noun_Question_727759.png
-        link:
+        link: /src/img/icon-noun_X_1890803.png
     -
         conference: TEI 2019
         notes: Recycled our paper from UIST 2018 - finally accepted! We did another user study to flesh out the world and expand our framework. I didn't help as much with this second round (mostly helped w the camera-ready and a bit with the video).
