@@ -5,6 +5,13 @@ date: 2018-07-15
 
 ## Migraines (and what to do about them).
 
+## Histamine info for menstrual migraines
+
+- https://www.larabriden.com/8-ways-that-magnesium-rescues-hormones/
+- https://www.larabriden.com/histamine-intolerance-pms-pmdd/
+- https://www.ncbi.nlm.nih.gov/pubmed/26752497
+- https://www.larabriden.com/birth-control-cause-headaches-migraines/
+
 [Another article](https://www.hormonesmatter.com/migraine-all-wrong/) about migraines, indicating that it may be an inability for the brain to process massive glucose influx. This article was really strange to read because it describes me in strange ways:
 - Migraineurs already have very low blood pressure. 
 - migraine’s most prominent feature for migraineurs is not the pain but the disability that comes with vomiting, vertigo, diarrhea, loss of memory, loss of sensitivity of half the body (in case of hemiplegic migraine), speech difficulties, etc.
