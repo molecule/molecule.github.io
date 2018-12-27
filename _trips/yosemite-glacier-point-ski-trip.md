@@ -81,6 +81,15 @@ All in all it was an absolutely glorious trip that I highly recommend. It was ac
 Pack list:
 <iframe width="100%" height="500px" src="https://docs.google.com/document/d/e/2PACX-1vSbpywq5n77C1IQWkG1ItOtbk552QZv9t_tQh8IBztWQMOSIYo_AVzkvsrLWIFp0ZBqQSFWzjpyYX5v/pub?embedded=true"></iframe>
 
+- Trip in: 6hrs. Trip out: 4 hours 45 mins
+- Coldest temperature: ~22deg Fahrenheit (in the morning watching the sunrise).
+- Warmest temperature: ~40deg Fahrenheit? Just guessing. It was warm and sunny.
+- Slept at 7,214 feet. Elevation change: 2,483 according to AllTrails. 
+- Snowed about 3-5 inches while we were out there. The valley got drenched in rain apparently.
+- We did need snow chains after the snow. Well....snow chains were required, but unclear whether we "needed" them (I'm experienced in driving in the show, my car has new all-season tires with front wheel drive, and it was the end of the day so things were as melted as they were going to get).
+- It was perfectly clear and sunny in the valley. We almost didn't believe there would be enough snow to ski, but about 10 minutes out from the Ski and Snowboard area there was suddenly tons of snow.
+- I drank 1 liter on the way in (and a liter at the campsite), and 1 liter on the way out (plus a liter in the car, and a liter in the morning). Still probably not enough.
+- We actually didn't stop for lunch on the way out: we had to make sure we were back in time to return the skis so we just pushed through. 
 - Useful (and not so useful) phone numbers:
 <table style="width:100%;">
 <tr class="outlinedTable">
