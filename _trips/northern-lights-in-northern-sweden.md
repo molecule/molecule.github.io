@@ -109,8 +109,8 @@ We found a lot of conflicting information online about the availability of food 
 
 <div class="blog-container">
 <div class="blog-img-container">
-<img alt="NOTE: Replace 1st pic w/ other skiing pic from phone." class="blog-img" src="/src/img/sweden/molly-tree.jpg">
-<span style="display:block;">NOTE: Replace 1st pic w/ other skiing pic from phone..</span>
+<img alt="Early on in the trip." class="blog-img" src="/src/img/sweden/abisko-smile.jpg">
+<span style="display:block;">Early on in the trip</span>
 </div>
 
 <div class="blog-img-container">
@@ -326,7 +326,7 @@ The overnight train from Abisko to Stockholm is run by a company called "SJ".
 - The dining car has pre-made sandwiches, milk, pastries, and other "train food". 
 
 ### Clothing
-Being from Colorado, I'm relatively experienced with cold weather. Having said that, this was by far the coldest weather I've ever been in, especially while camping. Here's what I wore on a daily basis while in Sweden:
+Being from Colorado, I'm relatively experienced with cold weather. Having said that, this was by far the coldest weather I've ever been in, especially while camping. The day we skied from Abisko was about 18 degrees Fahrenheit. I couldn't keep my hands out of my gloves for more than about 30 seconds before they got too cold. I was up at around 5am for camp chores, and the little temperature gauge showed -30 degrees Celsius -22 Fahrenheit. I thought it was broken, but I dipped my glove in some water as I was doing the chores and it froze again instantly. It was definitely the coldest I've ever been.Here's what I wore on a daily basis while in Sweden:
 
 On bottom:
 - Silk long underwear (REI) OR Synthetic long underwear (REI)
@@ -347,5 +347,9 @@ On top:
 - Sheepskin gloves (Custom made for me in Breckenridge)
 
 While cross-country skiing, I usually took off the puffy down jacket and opened the vents on my windproof pants to avoid sweating too much (if you sweat when it's super cold out, you can get chilled and it's quite uncomfortable). The most important thing was ski goggles to protect my eyes against the bright sun (and snow-reflected sun) and also to protect most of my face against the wind.
+
+### Itinerary
+
+<iframe width="100%" height="500px" src="https://docs.google.com/document/d/e/2PACX-1vTy3Qem2rQJc_GpER4Hkx-nIOTEXXQga2yIUxjoLahbn0v5bvOy5ClYbZyfLao5I_whB7wNyxlIuM9q/pub?embedded=true"></iframe>
 
 
