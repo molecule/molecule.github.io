@@ -158,6 +158,9 @@ hidden:
 
 newsfeed:
     -
+        content: Just got back from a <a href="/trips/yosemite-glacier-point-ski-trip/">spectacular cross-country ski trip to Glacier Point in Yosemite!</a>
+        date: 25 Dec 2018
+    -
         content: All 6 of the papers submitted from our lab were rejected from CHI! Our worst year ever but of course grad school is a marathon not a sprint so onward to the next thing :)
         date: 14 Dec 2018
     -
