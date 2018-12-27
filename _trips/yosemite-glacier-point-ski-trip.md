@@ -3,7 +3,7 @@ layout: post
 share: true
 comments: true
 tags: [Travel, Yosemite]
-date: 2018-12-24
+date: 2018-12-26
 description: A cross-country ski trip to the Glacier Point Ski Hut in Yosemite National Park over Christmas.
 ---
 
