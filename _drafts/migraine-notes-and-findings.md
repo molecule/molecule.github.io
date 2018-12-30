@@ -5,6 +5,41 @@ date: 2018-07-15
 
 ## Migraines (and what to do about them).
 
+## Exertional migraine info
+``` 
+Benign exertional headache(BEH) was first described in 1932
+by Tinel et al. (1 ). This type of headache occurs, by definition,
+during different physical activities increasing the intrathoracic
+pressure such as coughing, breath-keeping, laughing, crying,
+running, etc...The headache began always suddenly during exercise 
+in both frontal regions, was pulsating and lasted between 12 and 48 hr. 
+It was often accompanied by photophobia, nausea and vomiting...
+The pathogenesis of BEH is not fully understood. A possible
+pathophysiological mechanism similar to that of "altitude head
+ache" has been suggested (9)...The detection of impaired regional cerebral 
+blood flow (rCBF) by 99mTc-HMPAO brain SPECT indicates a perfusion-related 
+pathology in this type of headache.
+```
+[Basoglu, Tarik, et al. "Demonstration of Frontal Hypoperfusion in Benign Exertional Headache by Technetium-99m-HMPAO SPECT." The Journal of Nuclear Medicine, vol. 37, no. 7, 1996, pp. 1172-4. ProQuest, https://search-proquest-com.libproxy.berkeley.edu/docview/219233269?accountid=14496.](http://jnm.snmjournals.org/content/37/7/1172)
+
+```
+Primary Exertional Headache
+There is no treatment guideline for EH. Conventional approaches include nonpharmacological and pharmacological interventions. Nonpharmacological interventions include biobehavioral strategies such as sports training, proper warm-up before exercise, or hydration with sports drinks. Pharmacological interventions might be tailored to clinical characteristics of EH. Acetaminophen or NSAIDs, especially indomethacin [40], might be considered in patients with mild to moderate EH. Specific antimigrainous treatment, such as triptans, might be used in EH sufferers bearing more migrainous features. Nonetheless, large-scaled controlled studies are required to provide more evidence for decision making.
+```
+[Wang, SJ. & Fuh, JL. "The “Other” Headaches: Primary Cough, Exertion, Sex, and Primary Stabbing Headaches" Curr Pain Headache Rep (2010) 14: 41. https://doi.org/10.1007/s11916-009-0083-0](https://link.springer.com/article/10.1007/s11916-009-0083-0#citeas)
+
+```
+Among EH sufferers 73.7% reported their headache as bilateral. This finding is similar to results of other studies in this field...The most common aggravating factor was exercise in hot weather (81.6%)...
+```
+[Tofangchiha, Shahnaz et al. “A Study of Exertional Headache's Prevalence and Characteristics Among Conscripts” Asian journal of sports medicine vol. 7,3 e30720. 21 May. 2016, doi:10.5812/asjsm.30720](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5098066/)
+
+```
+Exercise headaches may have migrainous features such as a pulsating quality, as will be discussed in greater detail below, but if an exercise-induced headache otherwise meets diagnostic criteria for migraine, it should be considered as a migraine...It should also be noted that the criteria for PEH require strenuous physical activity, which distinguishes this entity from others such as headaches induced by cough or Valsalva maneuver. Also specified in the diagnostic criteria is the caveat that symptomatic causes of exercise headache, including arterial dissection, reversible cerebral vasoconstriction syndrome, and subarachnoid hemorrhage, must be ruled out in a patient with a first exercise headache...The pathophysiology of PEH is not well understood. Some investigators feel that it represents a vascular disorder, with decreased venous return and/or arterial distension leading to traction on pain-sensitive cerebral structures...It is fascinating to speculate as to why this disorder presents and then (in most cases) vanishes as it came, one of the few primary headache disorders with a typically time-limited course...
+
+No good-quality evidence regarding treatment of PEH exists...However, studies indicate that PEH is self-limited, resolving in most individuals within months to years...Some experts recommend an extended warm-up period prior to any exercise, or a gradual increase in activity level over weeks to months...PEH also seems more frequent in hot weather and at high altitude, so avoiding these potentially aggravating factors may also be prudent when feasible...From a pharmacological perspective, small studies have suggested a role for indomethacin 25 mg tid, while other experts recommend indomethacin 25–50 mg, or other NSAIDs such as naproxen, taken as needed 30–60 min prior to exercise...
+```
+[Sandoe, C.H. & Kingston, W. "Exercise Headache: a Review" Curr Neurol Neurosci Rep (2018) 18: 28. https://doi.org/10.1007/s11910-018-0840-8](https://link.springer.com/article/10.1007/s11910-018-0840-8)
+
 ## Histamine info for menstrual migraines
 
 - https://www.larabriden.com/8-ways-that-magnesium-rescues-hormones/
