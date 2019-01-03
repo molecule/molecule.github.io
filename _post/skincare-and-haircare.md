@@ -141,12 +141,15 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
   - [Hada Labo Premium Lotion] - (If my skin feels extra dry)
   - [Stratia Liquid Gold] - (1 pump or 2, if needed) mixed with 3 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil]
 - Actives (Monday, Wednesday, Friday)
-  - [20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (on dry skin)
-  - BHA: [TO - Salicylic Acid 2% Solution] - patch-testing on forehead and chin 20 mins after Vit C OR
-  - AHA: [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead)
+  - Finacea 15% Rx.  I now have a prescription for Finacea 15% which I am currently patch-testing.
+  - ~~[20% VITAMIN C + E FERULIC ACID SERUM 1 OZ]~~ - (on dry skin). NOTE: I will not repurchase this. With the 20-minute waiting times it's way too much hassle for me in the mornings, and I didn't notice much difference, plus it still stings even after several months. I may purchase Stratia Rewind to replace it since I like their formulation better.
+  - ~~AHA: [TO - Lactic Acid 10% HA 2%]~~ - (20 mins after Vit C, only on trouble areas of chin and forehead). This really irritates my skin! It takes about 2 days to feel so it took me a while to figure out what the problem was. I will not repurchase this. 
 - Actives (Tuesday, Thursday)
-  - [TO - Niacinamide 10% and Zinc 1%] - (after Moist but before Premium on moisturizing days). Will probably switch to Stratia Rewind which has a better-supported formulation when this runs out.
-  - [Azelaic Acid Suspension 10%] - (after Niacinamide). Will probably switch to Garden of Wisdom when this runs out as I've seen lots of amazing reviews of it. This has a tendency to pill under everything else and looks white and chalky if I use a bit too much.
+  - Stratia Rewind. Haven't ordered this yet but I look forward to getting it in the future!
+  - BHA: [TO - Salicylic Acid 2% Solution] - My goal with this was to remove cc's that 0.04% tret has not gotten rid of. Maybe 20% successful after 3 months. I will probably not repurchase this? Haven't noticed much difference and it's so much hassle in the mornings. It does not sting at all even on my sensitive skin, though. If I can layer it under Stratia Rewind I may continue using it but likely won't repurchase. 
+  - ~~[TO - Niacinamide 10% and Zinc 1%]~~ Switching to Stratia Rewind which has a better-supported formulation. This also stings a LOT on application and really dries me out so if you have oily skin it might be good for you! 
+  - ~~[Azelaic Acid Suspension 10%]~~ This has a tendency to pill under everything else and looks white and chalky if I use a bit too much. Will not repurchase even though I did notice a decrease in redness!
+  
 - Sunscreen:
   - [CANMAKE Mermaid Skin Gel PA++++ SPF 50+], AND
   - [Australian Gold Botanical SPF 50 tinted], (just for the tint and because it dries a beautiful matte texture - it's basically makeup for me. I don't apply enough to get SPF benefits from it). 
@@ -159,9 +162,9 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
   - [Vanicream Gentle Cleanser] - ([pH 6-7](https://www.reddit.com/r/SkincareAddiction/comments/8zbu6q/psa_vanicream_cleanser_ph_levels_from_the_company/), which is a little higher than what's typically recommended but I tried the [Hada Labo Gentle Hydrating Cleanser](https://smile.amazon.com/Hada-Labo-Tokyo-Hydrating-Cleanser/dp/B01AAX6C26/ref=sr_1_3_a_it?ie=UTF8&qid=1534477928&sr=8-3&keywords=hada+labo+tokyo+gentle+hydrating+cleanser) that has a [pH 5-6](https://docs.google.com/spreadsheets/d/1VqO_uF8m4oKBzzk5ass37gHcjIk-_2Tv4W2KgJJmUQc/edit#gid=1844869261) and my skin haaaaates it so...idk.
 - Actives (Currently ramping up from 0.04% micro gel to 0.1% which has so far been an easy transition)
    - Monday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
-   - Tuesday night, [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Hada Labo Skin Plumping Gel].
+   - Tuesday night, hydration only: [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Stratia Liquid Gold], [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil].
    - Wednesday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
-   - Thursday night, [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Stratia Liquid Gold], [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil].
+   - Thursday night, hydration only.
    - Friday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
    - Saturday night, Hydration only.
     - Sunday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
