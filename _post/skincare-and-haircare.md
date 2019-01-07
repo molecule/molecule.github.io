@@ -133,6 +133,7 @@ Even if you've always hated sunscreen, please give Asian sunscreens a try! They 
 Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty/comments/91ehyv/have_a_question_ask_here_daily_help_and_questions/e2ycfyh/?context=3).
 
 ### My Routine
+I change this on a daily basis depending on how my skin feels. For example, if my skin stings at all while applying one of the Hada Labo hydrating toners I skip all actives for at least 8 hours.
 
 #### AM
 - Splash face w/ cool water. ~~Wait 15 minutes.~~ ([No need to wait to reset skin pH](https://theacidqueenblog.com/2015/12/04/skin-ph-and-urban-legends-an-argument-against-wait-times-and-ph-adjusting-toners/)). 
