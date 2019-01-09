@@ -143,8 +143,8 @@ I change this on a daily basis depending on how my skin feels. For example, if m
   - [Stratia Liquid Gold] - (1 pump or 2, if needed) mixed with 3 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil]
 - Actives (Monday, Wednesday, Friday)
   - Finacea 15% Rx.  I now have a prescription for Finacea 15% which I am currently patch-testing.
-  - ~~[20% VITAMIN C + E FERULIC ACID SERUM 1 OZ]~~ - (on dry skin). NOTE: I will not repurchase this. With the 20-minute waiting times it's way too much hassle for me in the mornings, and I didn't notice much difference, plus it still stings even after several months. I may purchase Stratia Rewind to replace it since I like their formulation better.
-  - ~~AHA: [TO - Lactic Acid 10% HA 2%]~~ - (20 mins after Vit C, only on trouble areas of chin and forehead). This really irritates my skin! It takes about 2 days to feel so it took me a while to figure out what the problem was. I will not repurchase this. 
+  - ~~[20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (on dry skin).~~ NOTE: I will not repurchase this. With the 20-minute waiting times it's way too much hassle for me in the mornings, and I didn't notice much difference, plus it still stings even after several months. I may purchase Stratia Rewind to replace it since I like their formulation better.
+  - ~~AHA: [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead).~~ This really irritates my skin! It takes about 2 days to feel so it took me a while to figure out what the problem was. I will not repurchase this. 
 - Actives (Tuesday, Thursday)
   - Stratia Rewind. Haven't ordered this yet but I look forward to getting it in the future!
   - BHA: [TO - Salicylic Acid 2% Solution] - My goal with this was to remove cc's that 0.04% tret has not gotten rid of. Maybe 20% successful after 3 months. I will probably not repurchase this? Haven't noticed much difference and it's so much hassle in the mornings. It does not sting at all even on my sensitive skin, though. If I can layer it under Stratia Rewind I may continue using it but likely won't repurchase. 
