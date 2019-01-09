@@ -139,17 +139,16 @@ I change this on a daily basis depending on how my skin feels. For example, if m
 - Splash face w/ cool water. ~~Wait 15 minutes.~~ ([No need to wait to reset skin pH](https://theacidqueenblog.com/2015/12/04/skin-ph-and-urban-legends-an-argument-against-wait-times-and-ph-adjusting-toners/)). 
 - Moisturize/Hydrate
   - [Hada Labo Gokujyun Lotion Moist] - (1-2 layers, applied on damp skin) OR
-  - [Hada Labo Premium Lotion] - (If my skin feels extra dry)
-  - [Stratia Liquid Gold] - (1 pump or 2, if needed) mixed with 3 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil]
+  - [Hada Labo Premium Lotion] - (If my skin feels extra dry).
+  - Vanicream gentle hydrating moisturizer. SO light and wonderful. I don't use Stratia Liquid Gold during the day because it's really orange on my very pale skin.
 - Actives (Monday, Wednesday, Friday)
-  - Finacea 15% Rx.  I now have a prescription for Finacea 15% which I am currently patch-testing.
-  - ~~[20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (on dry skin).~~ NOTE: I will not repurchase this. With the 20-minute waiting times it's way too much hassle for me in the mornings, and I didn't notice much difference, plus it still stings even after several months. I may purchase Stratia Rewind to replace it since I like their formulation better.
-  - ~~AHA: [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead).~~ This really irritates my skin! It takes about 2 days to feel so it took me a while to figure out what the problem was. I will not repurchase this. 
+  - Add two drops of [TO - Niacinamide 10% and Zinc 1%] to the Vanicream. The niacinamide is wayyyyy too irritating on my skin by itself but feels great mixed w/ this light moisturizer!
+  - Finacea 15% Rx.  I now have a prescription for Finacea 15% foam which I am currently patch-testing. It is really annoying to apply and stings and is itchy so far!
 - Actives (Tuesday, Thursday)
-  - Stratia Rewind. Haven't ordered this yet but I look forward to getting it in the future!
-  - BHA: [TO - Salicylic Acid 2% Solution] - My goal with this was to remove cc's that 0.04% tret has not gotten rid of. Maybe 20% successful after 3 months. I will probably not repurchase this? Haven't noticed much difference and it's so much hassle in the mornings. It does not sting at all even on my sensitive skin, though. If I can layer it under Stratia Rewind I may continue using it but likely won't repurchase. 
-  - ~~[TO - Niacinamide 10% and Zinc 1%]~~ Switching to Stratia Rewind which has a better-supported formulation. This also stings a LOT on application and really dries me out so if you have oily skin it might be good for you! 
-  - ~~[Azelaic Acid Suspension 10%]~~ This has a tendency to pill under everything else and looks white and chalky if I use a bit too much. Will not repurchase even though I did notice a decrease in redness!
+  - ~~[20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (on dry skin).~~ I'm still using this but I will not repurchase this. With the 20-minute waiting times it's way too much hassle for me in the mornings, and I didn't notice much difference, plus it still stings even after several months. I may purchase Stratia Rewind to replace it since I like their formulation better.
+  - BHA: [TO - Salicylic Acid 2% Solution] - My goal with this was to remove cc's that 0.04% tret has not gotten rid of. Maybe 20% successful after 3 months. I will probably not repurchase this? Haven't noticed much difference and it's so much hassle in the mornings. It does not sting at all even on my sensitive skin, though. 
+  - ~~AHA: [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead).~~ This really irritates my skin! It takes about 2 days to feel so it took me a while to figure out what the problem was. I will not repurchase this.  
+  - ~~[Azelaic Acid Suspension 10%]~~ This has a tendency to pill under everything else and looks white and chalky if I use a bit too much. Will not repurchase even though I did notice a decrease in redness! I got a prescription for Finacea 15% foam instead.
   
 - Sunscreen:
   - [CANMAKE Mermaid Skin Gel PA++++ SPF 50+], AND
@@ -159,8 +158,8 @@ I change this on a daily basis depending on how my skin feels. For example, if m
 #### PM
 - Cleanse
   - [Garnier SkinActive Micellar Cleansing Water](https://smile.amazon.com/gp/product/B017PCGABI/ref=oh_aui_detailpage_o03_s00?ie=UTF8&th=1) - Only if I'm removing makeup. (For me, water was not enough to remove this and I was getting red, itchy, irritated skin but with a 2nd cleanser this works fine).
-  - [Hada Labo Gokujun Cleansing Oil]
-  - [Vanicream Gentle Cleanser] - ([pH 6-7](https://www.reddit.com/r/SkincareAddiction/comments/8zbu6q/psa_vanicream_cleanser_ph_levels_from_the_company/), which is a little higher than what's typically recommended but I tried the [Hada Labo Gentle Hydrating Cleanser](https://smile.amazon.com/Hada-Labo-Tokyo-Hydrating-Cleanser/dp/B01AAX6C26/ref=sr_1_3_a_it?ie=UTF8&qid=1534477928&sr=8-3&keywords=hada+labo+tokyo+gentle+hydrating+cleanser) that has a [pH 5-6](https://docs.google.com/spreadsheets/d/1VqO_uF8m4oKBzzk5ass37gHcjIk-_2Tv4W2KgJJmUQc/edit#gid=1844869261) and my skin haaaaates it so...idk.
+  - [Hada Labo Gokujun Cleansing Oil]. Love this. Super easy to use, very effective, and washes off with water.
+  - [Vanicream Gentle Cleanser] - ([pH 6-7](https://www.reddit.com/r/SkincareAddiction/comments/8zbu6q/psa_vanicream_cleanser_ph_levels_from_the_company/), which is a little higher than what's typically recommended but I tried the [Hada Labo Gentle Hydrating Cleanser](https://smile.amazon.com/Hada-Labo-Tokyo-Hydrating-Cleanser/dp/B01AAX6C26/ref=sr_1_3_a_it?ie=UTF8&qid=1534477928&sr=8-3&keywords=hada+labo+tokyo+gentle+hydrating+cleanser) that has a [pH 5-6](https://docs.google.com/spreadsheets/d/1VqO_uF8m4oKBzzk5ass37gHcjIk-_2Tv4W2KgJJmUQc/edit#gid=1844869261) and my skin haaaaates it so...idk.)
 - Actives (Currently ramping up from 0.04% micro gel to 0.1% which has so far been an easy transition)
    - Monday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
    - Tuesday night, hydration only: [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Stratia Liquid Gold], [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil].
