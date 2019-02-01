@@ -157,6 +157,15 @@ hidden:
         link: /project/good-person
 
 newsfeed:
+    - 
+        content: I'm a finalist for the Snap fellowship!!! So excited and honored!!!
+        date: 31 Jan 2019
+    -
+        content: Joined a theatre class where we work on a production with the amazing Stan Lai.
+        date: 22 Jan 2019
+    -
+        content: Submitted a significantly reworked version of our CHI reject paper to DIS.
+        date: 15 Jan 2019
     -
         content: Just got back from a <a href="/trips/yosemite-glacier-point-ski-trip/">spectacular cross-country ski trip to Glacier Point in Yosemite!</a>
         date: 25 Dec 2018
