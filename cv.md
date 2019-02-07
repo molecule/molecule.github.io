@@ -169,7 +169,7 @@ rows:
         right: <p class="cv-italics">4 papers, 1 first-author, 1 under review</p>
     -
         left: under review
-        right: <b>Molly Jane Nicholas</b>, Sarah Sterman, Christine Dierk, Daniel Drew, Kris Pister, and Eric Paulos. Taction&#58; Millimeter Scale Haptics For MEMS-Based Wearables. Under review DIS '19. ACM, New York, NY, USA.
+        right: <b>Molly Jane Nicholas</b>, Sarah Sterman, Christine Dierk, Daniel Drew, Kris Pister, and Eric Paulos. Under review DIS '19. ACM, New York, NY, USA.
     -
         left:
         right: <br>
