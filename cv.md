@@ -31,7 +31,7 @@ rows:
         right: <a href="https://www.google.com/url?q=https://scholar.google.com/citations?user%3DUs4u1VQAAAAJ%26hl%3Den&sa=D&ust=1541611539885000">Google Scholar Profile</a>
     -
         left:
-        right: <a href="https://twitter.com/i/moments/953613429935259649" target="_blank" title="twitter">@fakepaperclips</a>
+        right: Twitter&#58; <a href="https://twitter.com/i/moments/953613429935259649" target="_blank" title="twitter">@fakepaperclips</a>
     -
         left:
         right: <br><br>
