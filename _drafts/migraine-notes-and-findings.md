@@ -3,6 +3,8 @@ layout: post
 date: 2018-07-15
 ---
 
+TO READ: https://americanmigrainefoundation.org/resource-library/understanding-migrainefiling-for-medical-disability-a-guide-for-migraine-patients/
+
 ## Migraines (and what to do about them).
 
 ## Exertional migraine info
