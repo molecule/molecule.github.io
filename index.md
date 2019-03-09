@@ -157,6 +157,9 @@ hidden:
         link: /project/good-person
 
 newsfeed:
+    -
+        content: I won the <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Snap Research fellowship!!</a>
+        date: 4 Feb 2019
     - 
         content: I'm a finalist for the Snap fellowship!!! So excited and honored!!!
         date: 31 Jan 2019

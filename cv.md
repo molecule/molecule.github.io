@@ -315,6 +315,10 @@ rows:
         left:
         right: ARCS Scholar, <a href="https://grad.berkeley.edu/news/headlines/honors-awards/arcs-student-celebration/">Jane Fuller Gillespie Memorial Scholar</a>, 2014
     -
+        left:
+        right: <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Snap Research Fellow</a>, 2019. Awarded based on "the relevance and quality of their research, their technical and communication skills, and their understanding of how research initiatives can inspire future innovation at Snap."
+
+    -   
         left: Research Awards
         right: Best Paper ACM CHI'17, <a href="https://molecule.github.io/project/illumination-aesthetics/">Illumination Aesthetics</a>.
     -
