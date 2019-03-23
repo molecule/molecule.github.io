@@ -2,7 +2,57 @@
 layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
-movies:
+media:
+    -
+        title: Ancillary Justice, Mercy, and Sword, by Ann Leckie
+        review: MARVELOUS. Really unique character and world. Also unique approach to the plot. Instead of expanding outward with greater and bigger stakes, collapses inward with greater (but differen) stakes.
+        rating: 2
+        link:
+    -
+        title: A Wrinkle in Time, by Madeleine L'engle
+        review: A classic. 
+        rating: 2
+        link:
+    -
+        title: The Name of the Wind, by Patrick Rothfuss
+        review: A re-read. Fun! Unreliable narrator! Cool world and magic/science!
+        rating: 2
+        link:
+    -  
+        title: Who Fears Death, by Nnedi Okorafor
+        review: I love magical worlds and discovering them. The slow reveal of this one was delicious. I appreciate the way the author dealt with some tough subject matter but frankly I don't want to read this many graphic descriptios of rape.
+        rating: 1.5
+        link:
+    -
+        title: Perdido Street Station, by China Mieville
+        review: A re-read. I LOVE this story. The characters are rich and lifelike and complex and evolving without ever feeling trite. The world is incredibly well-described and so unique. The plot is thrilling and so tight.
+        rating: 2.5
+        link:
+    - 
+        title: Aurora, by Kim Stanley Robinson
+        review: I...did not like this. I appreciated the scope and the science but I did not enjoy the main character and I found the ending deeply unsatisfying.
+        rating: 1.5
+        link:
+    -
+        title: Acorna, by Ann McCaffrey and 
+        review: An entire book of good guys that's still compelling! A tasteful approach to dealing with really dark subject matter in a way that doesn't victimize anyone! A treasure!
+        rating: 2
+        link:
+    - 
+        title: Spiderman into the Spiderverse
+        review: GORGEOUS! Amazingly stunningly beautiful animation. Great characters, fresh take on a story.
+        rating: 2.5
+        link:
+    -
+        title: Widows
+        review: Garbage. So boring, so moody. A waste of amazing actresses. A masterclass in underwhelming 'reveals' and supremely boring 'twists'. We could barely finish it.
+        rating: 1
+        link:
+    -
+        title: Russian Doll
+        review: Phenomenal. I watched it through 4x in a row. Truly marvelous.
+        rating: 3
+        link:
     -
         title: Venom
         review: This movie was so bad! Tom Hardy is great. The best line is when Venom suggests tearing the heads off a bunch of bad guys and stacking the bodies in the corner. Tom says "why would we want to do that?" and Venom matter-of-factly replies "pile of heads pile of bodies". That kind of baffling, zany cultural miscommuncation between humans and aliens is what I live for.
@@ -427,29 +477,29 @@ movies:
 
 ---
 
-A list of movies I've seen, with mini-reviews. There may be **spoilers** so proceed at your own risk. 
+A list of media I've consumed, with mini-reviews. There may be **spoilers** so proceed at your own risk. 
 
 |Rating|Explanation|
 |---|---|
-|**1**|Awful, waste of my time, terrible movie.|
-|**1.5**|I have many critiques but do not regret seeing it.|
+|**1**|Awful, waste of my time, terrible.|
+|**1.5**|I have many critiques but do not regret engaging with it.|
 |**2**|Great!|
-|**2.5**|Great! Would re-watch eventually!|
-|**3**|Excellent! Great! I will watch this again eagerly!|
+|**2.5**|Great! Would re-experience eventually!|
+|**3**|Excellent! Great! I will experience this again eagerly!|
 
 <br>
 
 <div>
     <table>
-    {% for movie in page.movies %}
+    {% for medium in page.media %}
         <tr> 
-            <td><a href="{{movie.link}}">{{ movie.title }}</a></td>
-            <td>{{movie.rating}}</td>
+            <td><a href="{{medium.link}}">{{ medium.title }}</a></td>
+            <td>{{medium.rating}}</td>
         </tr>
         <tr> 
-            <td>{{movie.review}} <br><br></td>
+            <td>{{medium.review}} <br><br></td>
         </tr>
 
     {% endfor %}
     </table>
-</div><!--end of movies-->
+</div><!--end of media-->
