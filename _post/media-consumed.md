@@ -4,6 +4,16 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 media:
     -
+        title: Lincoln in the Bardo
+        review: Such an unusual structure! So unique! Really compelling and emotionally deep story. Loved it.
+        rating: 2
+        link:
+    - 
+        title: The Favourite
+        review: SO weird I absolutely loved it. Olivia Colman is a TREASURE. Rachel Weisz impressive as always. Emma Stone in top form. So compelling.
+        rating: 2
+        link:
+    -
         title: Ancillary Justice, Mercy, and Sword, by Ann Leckie
         review: MARVELOUS. Really unique character and world. Also unique approach to the plot. Instead of expanding outward with greater and bigger stakes, collapses inward with greater (but differen) stakes.
         rating: 2
