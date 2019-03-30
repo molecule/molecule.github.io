@@ -491,11 +491,13 @@ A list of media I've consumed, with mini-reviews. There may be **spoilers** so p
 
 |Rating|Explanation|
 |---|---|
-|**1**|Awful, waste of my time, terrible.|
-|**1.5**|I have many critiques but do not regret engaging with it.|
-|**2**|Great!|
-|**2.5**|Great! Would re-experience eventually!|
 |**3**|Excellent! Great! I will experience this again eagerly!|
+|**2.5**|Great! Would re-experience eventually!|
+|**2**|Great!|
+|**1.5**|I have many critiques but do not regret engaging with it.|
+|**1**|Awful, waste of my time, terrible.|
+
+
 
 <br>
 
