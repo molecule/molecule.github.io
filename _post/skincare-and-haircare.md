@@ -4,15 +4,20 @@ date: 2018-08-26
 image: 
 sunscreens:
     -
+        product: Biore Sarasara UV Aqua Rich Watery Essence Sunscreen SPF50+ PA+++ 85g 
+        link: https://www.amazon.com/gp/product/B0791WCWHX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0791WCWHX&linkCode=as2&tag=molecule08-20&linkId=5b098332e7dd7de5148b704cb2cc4a00
+        img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0791WCWHX&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=molecule08-20
+        review: WONDERFUL, truly a joy to apply, so moisturizing. For some reason this one stings my eyes. Also it's [not oil resistant](https://www.ratzillacosme.com/sun/japanese-sunscreen-comparison-chart/) so I won't repurchase, but absolutely wonderful aside from that. I'm trying to order the ROHTO Skin Aqua Super Moisture Milk (SPF50 PA ++++) 40mL but haven't found a good source.
+    -
         product: CANMAKE Mermaid Skin Gel UV (SPF50+ PA++++)
         link: https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3E456K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=molecule08-20
-        review: There's a reason Can Make is the favorite sunscreen of every single person who has ever tried it. It is better than any sunscreen has a right to be. It's like a gel moisturizer that just disappears into your skin. It's a joy to apply. It's not drying, it's not greasy, it's absolutely perfect.
+        review: This sunscreen is a DREAM (better than any sunscreen has a right to be. It's like a gel moisturizer that just disappears into your skin. It's a joy to apply. It's not drying, it's not greasy, it's absolutely perfect) BUT it's [not sebum, water or sweat resistant](https://www.ratzillacosme.com/sun/canmake-mermaid-skin-gel-uv/), so I've stopped using it.
     -
-        product: Skin Aqua Super Moisture Gel pump (SPF50+ PA++++)
+        product: ROHTO Skin Aqua Super Moisture Gel pump (SPF50+ PA++++)
         link: https://www.amazon.com/gp/product/B01BM1USNO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BM1USNO&linkCode=as2&tag=molecule08-20&linkId=6ab54ca34f3d7186f48c03ae02d0f34d
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BM1USNO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20
-        review: A light, quickly absorbing sunscreen with all the UVB and UVA protection you could ever want. Two pumps are the full 1/4 teaspoon required for sun protection. Not quiiiite as nice as Can Make, but I love how huge the bottle is.
+        review: A light, quickly absorbing sunscreen with all the UVB and UVA protection you could ever want. Two pumps are the full 1/4 teaspoon required for sun protection. Not quiiiite as nice as Can Make (leaves a greasier/shinier residue on me), but I love how huge the bottle is. [Not oil resistant](https://www.ratzillacosme.com/sun/japanese-sunscreen-comparison-chart/) so I won't repurchase this one!
     -
         product: Kiss My Face SPF 30
         link: https://www.amazon.com/gp/product/B0014C8COY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014C8COY&linkCode=as2&tag=molecule08-20&linkId=3e387cd83ddd064c6dade12d9ded2d04
@@ -42,6 +47,10 @@ moisturizers:
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00I4BUBN8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20
         review: This is the most heavy-duty, slightly occlusive moisturizing product I own. I slather on a bunch before I get on a plane, and if my face needs the extra moisture. But I probably won't buy it again, because I hate the packaging. 
     -
+        product: CeraVe Hydrating Face Wash
+        link: https://www.amazon.com/gp/product/B01MSSDEPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSSDEPK&linkCode=as2&tag=molecule08-20&linkId=6ab90afdc729a8dbd4f9e520ee4b428d
+        img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MSSDEPK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=molecule08-20
+        review: Not a moisturizer but still such a beautifully hydrating cleanser. Wonderful!
 
 ---
 
@@ -143,32 +152,28 @@ I change this on a daily basis depending on how my skin feels. For example, if m
   - Vanicream gentle hydrating moisturizer. SO light and wonderful. I don't use Stratia Liquid Gold during the day because it's really orange on my very pale skin.
 - Actives (Monday, Wednesday, Friday)
   - Add two drops of [TO - Niacinamide 10% and Zinc 1%] to the Vanicream. The niacinamide is wayyyyy too irritating on my skin by itself but feels great mixed w/ this light moisturizer!
-  - Finacea 15% Rx.  I now have a prescription for Finacea 15% foam which I am currently patch-testing. It is really annoying to apply and stings and is itchy so far!
-- Actives (Tuesday, Thursday)
-  - ~~[20% VITAMIN C + E FERULIC ACID SERUM 1 OZ] - (on dry skin).~~ I'm still using this but I will not repurchase this. With the 20-minute waiting times it's way too much hassle for me in the mornings, and I didn't notice much difference, plus it still stings even after several months. I may purchase Stratia Rewind to replace it since I like their formulation better.
-  - BHA: [TO - Salicylic Acid 2% Solution] - My goal with this was to remove cc's that 0.04% tret has not gotten rid of. Maybe 20% successful after 3 months. I will probably not repurchase this? Haven't noticed much difference and it's so much hassle in the mornings. It does not sting at all even on my sensitive skin, though. 
-  - ~~AHA: [TO - Lactic Acid 10% HA 2%] - (20 mins after Vit C, only on trouble areas of chin and forehead).~~ This really irritates my skin! It takes about 2 days to feel so it took me a while to figure out what the problem was. I will not repurchase this.  
-  - ~~[Azelaic Acid Suspension 10%]~~ This has a tendency to pill under everything else and looks white and chalky if I use a bit too much. Will not repurchase even though I did notice a decrease in redness! I got a prescription for Finacea 15% foam instead.
   
 - Sunscreen:
-  - [CANMAKE Mermaid Skin Gel PA++++ SPF 50+], AND
-  - [Australian Gold Botanical SPF 50 tinted], (just for the tint and because it dries a beautiful matte texture - it's basically makeup for me. I don't apply enough to get SPF benefits from it). 
+  - [CANMAKE Mermaid Skin Gel PA++++ SPF 50+], AND 
   - For neck/torso/arms or if I'll be sweating: [Kiss My Face SPF 30]
   
 #### PM
 - Cleanse
   - [Garnier SkinActive Micellar Cleansing Water](https://smile.amazon.com/gp/product/B017PCGABI/ref=oh_aui_detailpage_o03_s00?ie=UTF8&th=1) - Only if I'm removing makeup. (For me, water was not enough to remove this and I was getting red, itchy, irritated skin but with a 2nd cleanser this works fine).
   - [Hada Labo Gokujun Cleansing Oil]. Love this. Super easy to use, very effective, and washes off with water.
-  - [Vanicream Gentle Cleanser] - ([pH 6-7](https://www.reddit.com/r/SkincareAddiction/comments/8zbu6q/psa_vanicream_cleanser_ph_levels_from_the_company/), which is a little higher than what's typically recommended but I tried the [Hada Labo Gentle Hydrating Cleanser](https://smile.amazon.com/Hada-Labo-Tokyo-Hydrating-Cleanser/dp/B01AAX6C26/ref=sr_1_3_a_it?ie=UTF8&qid=1534477928&sr=8-3&keywords=hada+labo+tokyo+gentle+hydrating+cleanser) that has a [pH 5-6](https://docs.google.com/spreadsheets/d/1VqO_uF8m4oKBzzk5ass37gHcjIk-_2Tv4W2KgJJmUQc/edit#gid=1844869261) and my skin haaaaates it so...idk.)
-- Actives (Currently ramping up from 0.04% micro gel to 0.1% which has so far been an easy transition)
+  - [Cerave Hydrating Cleanser] - Soooo hydrating: my lips feel so soft and plump after this. Love it!
+- Actives (Currently on 0.1% microgel tretinoin after ~3 year of 0.04% microgel)
    - Monday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
-   - Tuesday night, hydration only: [Hada Labo Gokujyun Lotion Moist], [Hada Labo Premium Lotion], [Stratia Liquid Gold], [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil].
-   - Wednesday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
-   - Thursday night, hydration only.
+   - Tuesday night, hydration only: [Hada Labo Premium Lotion], [Stratia Liquid Gold] mixed with 3-4 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil], Really thin layer of vaseline on top as an occlusive.
+   - Wednesday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
+   - Thursday night, [Stratia Soft Touch - Mandelic acid], [Shero Vitamin C 15%], let dry, then hydration: [Hada Labo Premium Lotion], [Stratia Liquid Gold] mixed with 3-4 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil], Really thin layer of vaseline on top as an occlusive.
    - Friday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
-   - Saturday night, Hydration only.
-    - Sunday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.04% micro gel.
+   - Saturday night, [Stratia Soft Touch - Mandelic acid], [Shero Vitamin C 15%], let dry, then hydration: [Hada Labo Premium Lotion], [Stratia Liquid Gold] mixed with 3-4 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil], Really thin layer of vaseline on top as an occlusive.
+    - Sunday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
  
+[CeraVe Hydrating Face Wash]: https://www.amazon.com/gp/product/B01MSSDEPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSSDEPK&linkCode=as2&tag=molecule08-20&linkId=686aa1fd5bc8552385cc1f80b73781c4
+[Stratia Soft Touch - Mandelic acid]: 
+[Shero Vitamin C 15%]: 
 
 [Hada Labo Gokujyun Lotion Moist]: https://www.amazon.com/gp/product/B074GX619Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074GX619Q&linkCode=as2&tag=molecule08-20&linkId=c3ee6e00e1366d6984c3b7f3f55677ef
 [Hada Labo Premium Lotion]: https://www.amazon.com/gp/product/B01JRXH3W8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JRXH3W8&linkCode=as2&tag=molecule08-20&linkId=1b2dc6622f6d8074d4aaa6fda8e173fd
@@ -192,7 +197,7 @@ I change this on a daily basis depending on how my skin feels. For example, if m
 [Hada Labo Skin Plumping Gel]: https://www.amazon.com/gp/product/B00I4BUBN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I4BUBN8&linkCode=as2&tag=molecule08-20&linkId=cae1e176937c799ed1b1dc5805d4fef7
  
 #### Vitamin C
-- LAA is both pH dependent and also should not be combined with niacinamide, so best to wait 30 min in between using those two.
+- LAA is pH dependent. It can be combined with niacinamide but some prefer not to since it causes flushing, so best to wait 30 min in between using those two.
 - Most common actives require a 15-20 minute absorption/activation window in the right pH for that product, and in the event that you include multiple actives in a single routine, you'll want to follow an order of lowest pH to highest pH. 
 - For people who use LAA-based Vitamin C serums (which are pH dependent), that will usally be Vitamin C >> BHA >> AHA.
 - Vit C needs to go on a 'bare' face.
