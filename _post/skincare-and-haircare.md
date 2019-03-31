@@ -7,17 +7,17 @@ sunscreens:
         product: Biore Sarasara UV Aqua Rich Watery Essence Sunscreen SPF50+ PA+++ 85g 
         link: https://www.amazon.com/gp/product/B0791WCWHX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0791WCWHX&linkCode=as2&tag=molecule08-20&linkId=5b098332e7dd7de5148b704cb2cc4a00
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0791WCWHX&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=molecule08-20
-        review: WONDERFUL, truly a joy to apply, so moisturizing. For some reason this one stings my eyes. Also it's [not oil resistant](https://www.ratzillacosme.com/sun/japanese-sunscreen-comparison-chart/) so I won't repurchase, but absolutely wonderful aside from that. I'm trying to order the ROHTO Skin Aqua Super Moisture Milk (SPF50 PA ++++) 40mL but haven't found a good source.
+        review: WONDERFUL, truly a joy to apply, so moisturizing. For some reason this one stings my eyes. Also it's <a href="https://www.ratzillacosme.com/sun/japanese-sunscreen-comparison-chart/">not oil resistant</a> so I won't repurchase, but absolutely wonderful aside from that. I'm trying to order the ROHTO Skin Aqua Super Moisture Milk (SPF50 PA ++++) 40mL but haven't found a good source.
     -
         product: CANMAKE Mermaid Skin Gel UV (SPF50+ PA++++)
         link: https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3E456K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=molecule08-20
-        review: This sunscreen is a DREAM (better than any sunscreen has a right to be. It's like a gel moisturizer that just disappears into your skin. It's a joy to apply. It's not drying, it's not greasy, it's absolutely perfect) BUT it's [not sebum, water or sweat resistant](https://www.ratzillacosme.com/sun/canmake-mermaid-skin-gel-uv/), so I've stopped using it.
+        review: This sunscreen is a DREAM (better than any sunscreen has a right to be. It's like a gel moisturizer that just disappears into your skin. It's a joy to apply. It's not drying, it's not greasy, it's absolutely perfect) BUT it's <a href="https://www.ratzillacosme.com/sun/canmake-mermaid-skin-gel-uv/">not sebum, water or sweat resistant</a>, so I've stopped using it.
     -
         product: ROHTO Skin Aqua Super Moisture Gel pump (SPF50+ PA++++)
         link: https://www.amazon.com/gp/product/B01BM1USNO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BM1USNO&linkCode=as2&tag=molecule08-20&linkId=6ab54ca34f3d7186f48c03ae02d0f34d
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BM1USNO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20
-        review: A light, quickly absorbing sunscreen with all the UVB and UVA protection you could ever want. Two pumps are the full 1/4 teaspoon required for sun protection. Not quiiiite as nice as Can Make (leaves a greasier/shinier residue on me), but I love how huge the bottle is. [Not oil resistant](https://www.ratzillacosme.com/sun/japanese-sunscreen-comparison-chart/) so I won't repurchase this one!
+        review: A light, quickly absorbing sunscreen with all the UVB and UVA protection you could ever want. Two pumps are the full 1/4 teaspoon required for sun protection. Not quiiiite as nice as Can Make (leaves a greasier/shinier residue on me), but I love how huge the bottle is. <a href="https://www.ratzillacosme.com/sun/japanese-sunscreen-comparison-chart/">Not oil resistant</a> so I won't repurchase this one!
     -
         product: Kiss My Face SPF 30
         link: https://www.amazon.com/gp/product/B0014C8COY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014C8COY&linkCode=as2&tag=molecule08-20&linkId=3e387cd83ddd064c6dade12d9ded2d04
