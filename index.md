@@ -158,7 +158,16 @@ hidden:
 
 newsfeed:
     -
-        content: I won the <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Snap Research fellowship!!</a>
+        content: ONE WEEK until we move to Santa Monica for the summer!!
+        date: 3 May 2019
+    -
+        content: My semester is done! Finishing the show with Stan Lai and Sandra Woodall was a fantastic and transformative experience. I treasure everything I learned from the process.
+        date: 30 April 2019
+    -
+        content: Looks like I'll be working at Snap Research this summer! I'm sooo excited to dig into and expand their awesome work with AR.
+        date: 15 Feb 2019
+    -
+        content: I won the <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Snap Research fellowship!!</a> I'm truly flabbergasted and so honoured.
         date: 4 Feb 2019
     - 
         content: I'm a finalist for the Snap fellowship!!! So excited and honored!!!
