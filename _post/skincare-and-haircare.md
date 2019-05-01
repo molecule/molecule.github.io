@@ -145,13 +145,11 @@ Another popular one is [SkinAqua's Sarafit](https://www.reddit.com/r/AsianBeauty
 I change this on a daily basis depending on how my skin feels. For example, if my skin stings at all while applying one of the Hada Labo hydrating toners I skip all actives for at least 8 hours.
 
 #### AM
-- Splash face w/ cool water. ~~Wait 15 minutes.~~ ([No need to wait to reset skin pH](https://theacidqueenblog.com/2015/12/04/skin-ph-and-urban-legends-an-argument-against-wait-times-and-ph-adjusting-toners/)). 
+- Splash face w/ cool water.
 - Moisturize/Hydrate
   - [Hada Labo Gokujyun Lotion Moist] - (1-2 layers, applied on damp skin) OR
   - [Hada Labo Premium Lotion] - (If my skin feels extra dry).
   - Vanicream gentle hydrating moisturizer. SO light and wonderful. I don't use Stratia Liquid Gold during the day because it's really orange on my very pale skin.
-- Actives (Monday, Wednesday, Friday)
-  - Add two drops of [TO - Niacinamide 10% and Zinc 1%] to the Vanicream. The niacinamide is wayyyyy too irritating on my skin by itself but feels great mixed w/ this light moisturizer!
   
 - Sunscreen:
   - [CANMAKE Mermaid Skin Gel PA++++ SPF 50+], AND 
@@ -160,7 +158,7 @@ I change this on a daily basis depending on how my skin feels. For example, if m
 #### PM
 - Cleanse
   - [Garnier SkinActive Micellar Cleansing Water](https://smile.amazon.com/gp/product/B017PCGABI/ref=oh_aui_detailpage_o03_s00?ie=UTF8&th=1) - Only if I'm removing makeup. (For me, water was not enough to remove this and I was getting red, itchy, irritated skin but with a 2nd cleanser this works fine).
-  - [Hada Labo Gokujun Cleansing Oil]. Love this. Super easy to use, very effective, and washes off with water.
+  - [Hada Labo Gokujun Cleansing Oil]. Love this. Super easy to use, very effective, and it emulsifies, which means it easily washes off with water.
   - [Cerave Hydrating Cleanser] - Soooo hydrating: my lips feel so soft and plump after this. Love it!
 - Actives (Currently on 0.1% microgel tretinoin after ~3 year of 0.04% microgel)
    - Monday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
@@ -168,7 +166,7 @@ I change this on a daily basis depending on how my skin feels. For example, if m
    - Wednesday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
    - Thursday night, [Stratia Soft Touch - Mandelic acid], [Shero Vitamin C 15%], let dry, then hydration: [Hada Labo Premium Lotion], [Stratia Liquid Gold] mixed with 3-4 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil], Really thin layer of vaseline on top as an occlusive.
    - Friday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
-   - Saturday night, [Stratia Soft Touch - Mandelic acid], [Shero Vitamin C 15%], let dry, then hydration: [Hada Labo Premium Lotion], [Stratia Liquid Gold] mixed with 3-4 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil], Really thin layer of vaseline on top as an occlusive.
+   - Saturday night, [Shero Vitamin C 15%], let dry, then hydration: [Hada Labo Premium Lotion], [Stratia Liquid Gold] mixed with 3-4 drops of [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil], Really thin layer of vaseline on top as an occlusive.
     - Sunday night, [Hada Labo Gokujyun Lotion Moist], let dry, pea-size amount of Tret 0.1% micro gel.
  
 [CeraVe Hydrating Face Wash]: https://www.amazon.com/gp/product/B01MSSDEPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSSDEPK&linkCode=as2&tag=molecule08-20&linkId=686aa1fd5bc8552385cc1f80b73781c4

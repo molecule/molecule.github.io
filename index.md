@@ -162,7 +162,10 @@ newsfeed:
         date: 3 May 2019
     -
         content: My semester is done! Finishing the show with Stan Lai and Sandra Woodall was a fantastic and transformative experience. I treasure everything I learned from the process.
-        date: 30 April 2019
+        date: 30 Apr 2019
+    -
+        content: Aaaand our paper was rejected again :( Got some excellent input on the reviews, though, so trying again at ISWC.
+        date: 27 Mar 2019
     -
         content: Looks like I'll be working at Snap Research this summer! I'm sooo excited to dig into and expand their awesome work with AR.
         date: 15 Feb 2019
