@@ -158,7 +158,16 @@ hidden:
 
 newsfeed:
     -
-        content: ONE WEEK until we move to Santa Monica for the summer!!
+        content: I'm updating notes about our awesome stay in Santa Monica <a href="/trips/santa-monica/">here</a> for anyone curious
+        date: 12 May 2019
+    -  
+        content: Our Santa Monica apartment looks out over the original muscle beach!
+        date: 11 May 2019 
+    -
+        content: <a href="/src/img/lab-et-al-2019-may.jpeg">Last lab get-together</a> before we all scatter for the summer
+        date: 8 May 2019
+    -
+        content: ONE WEEK until we move to Santa Monica for the summer!! Also just resubmitted our twice-rejected paper to ISWC!
         date: 3 May 2019
     -
         content: My semester is done! Finishing the show with Stan Lai and Sandra Woodall was a fantastic and transformative experience. I treasure everything I learned from the process.
