@@ -56,6 +56,9 @@ Short reviews of my favourite restaurants in LA.
     </table>
 </div><!--end of restayrabts-->
 
+### Activities
+Fashion District: 
+
 ### Public Transport
 - BBB accepts Metro's EZ transit pass Zone Zero.
 - EZ transit pass is a monthly-calendar pass that is loaded on your TAP card. It is good for local travel on 24 transit agencies, including Big Blue Bus. ($110).
