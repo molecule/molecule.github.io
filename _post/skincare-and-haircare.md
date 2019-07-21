@@ -7,7 +7,7 @@ sunscreens:
         product: Biore Sarasara UV Aqua Rich Watery Essence Sunscreen SPF50+ PA+++ 85g 
         link: https://www.amazon.com/gp/product/B0791WCWHX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0791WCWHX&linkCode=as2&tag=molecule08-20&linkId=5b098332e7dd7de5148b704cb2cc4a00
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0791WCWHX&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=molecule08-20
-        review: WONDERFUL, truly a joy to apply, so moisturizing. For some reason this one stings my eyes. Also it's <a href="https://www.ratzillacosme.com/sun/japanese-sunscreen-comparison-chart/">not oil resistant</a> so I won't repurchase, but absolutely wonderful aside from that. I'm trying to order the ROHTO Skin Aqua Super Moisture Milk (SPF50 PA ++++) 40mL but haven't found a good source.
+        review: I LOVED this sunscreen but after months of using it, it started to really dry out and irritate my skin! Had to discontinue :( Also it's <a href="https://www.ratzillacosme.com/sun/japanese-sunscreen-comparison-chart/">not oil resistant</a> so I won't repurchase.
     -
         product: CANMAKE Mermaid Skin Gel UV (SPF50+ PA++++)
         link: https://www.amazon.com/gp/product/B00X3E456K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3E456K&linkCode=as2&tag=molecule08-20&linkId=1fdddb3b6fd180a242ee87b70a0c6b9a
