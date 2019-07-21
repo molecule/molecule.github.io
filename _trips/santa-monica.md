@@ -7,6 +7,18 @@ image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/
 
 restaurants:
     -
+        name: Rose Cafe
+        review: Inch-thick bacon. Gorgeous ambience - would be a nice place to get married. Excellent coffee according to Matt so you know it's good. Country sourdough bread is phenomenal.
+        link: https://goo.gl/maps/8yXapkMwnQ2m2kR18
+    -
+        name: Rodini Park
+        review: Hard to find in a business park (they validate parking for 90 minutes in the nearby parking structure). Fantastic gyros. The owner also invented something called Baklava Cheesecake. This kind of skill and inventiveness should be richly rewarded!!
+        link: https://goo.gl/maps/hifJWvAPuCQYgkBQ6
+    -
+        name: Manpuku Tokyko BBQ
+        review: Parking is TOUGH unless you get here before 6. No neighborhood parking at all. Phenomenal quality of meat - possibly the best I've ever tasted. 
+        link: https://goo.gl/maps/N8H4jJNHHmYgxQwE9
+    -
         name: Uovo 
         review: Fun location, cool ambience, food is...fine?
         link: https://www.yelp.com/biz/uovo-santa-monica
