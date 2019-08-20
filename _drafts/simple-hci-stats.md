@@ -41,6 +41,7 @@ qqnorm(residuals(m)); qqline(residuals(m)) # plot residuals
 ### Notes
 1. Chi-squared test of proportions is used to identify significance. You need one variable/sample but can use it with multiple response categories.
 2. The 'exact' version of the chi-squared is binomial (for 2 response categories) or multinomial (for >2 response categories).
+3. W >2 response categories, the degrees of freedom for chi-square test should be 2. (sanity check).
 
 ### Questions
 2. Chi-squared vs Friedman for Ranking?
