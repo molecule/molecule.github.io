@@ -36,3 +36,4 @@ qqnorm(residuals(m)); qqline(residuals(m)) # plot residuals
 1. Paired vs non-paired
 2. Chi-squared vs Friedman for Ranking?
 3. Wilcox vs Wilcoxon Signed Rank? Parametric vs nonparametric? When to use these?
+4. How can an analysis of varience test show statistical significance but the post-hoc doesn't? (Indication something is wrong?) 
