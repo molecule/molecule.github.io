@@ -38,6 +38,10 @@ qqnorm(residuals(m)); qqline(residuals(m)) # plot residuals
 3. Test of proportions: when you find yourself counting subjects. Like "how many subjects preferred X over Y?"
 4. Nominal/categorical. Subject ID (as if it were a name / label)
 
+### Notes
+1. Chi-squared test of proportions is used to identify significance. You need one variable/sample but can use it with multiple response categories.
+2. The 'exact' version of the chi-squared is binomial (for 2 response categories) or multinomial (for >2 response categories).
+
 ### Questions
 2. Chi-squared vs Friedman for Ranking?
 3. Wilcox vs Wilcoxon Signed Rank? Parametric vs nonparametric? When to use these?
