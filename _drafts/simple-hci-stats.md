@@ -51,4 +51,5 @@ qqnorm(residuals(m)); qqline(residuals(m)) # plot residuals
 3. Wilcox vs Wilcoxon Signed Rank? Parametric vs nonparametric? When to use these?
 4. How can an analysis of varience test show statistical significance but the post-hoc doesn't? (Indication something is wrong?) 
 5. Exact vs. ____?
+6. Post-hoc test: binomial/multinomial vs wilcox?
 
