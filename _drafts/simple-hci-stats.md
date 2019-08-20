@@ -3,7 +3,7 @@
 1. Look at your data.
 2. Check for the assumptions
     - Normality
-    - Homoscedasticity
+       - To understand why normality failed: Homoscedasticity, sphericity.
     - Independence (not really a test, good experiment design).
 3. Shapiro-Wilk tests for normality. You have to run it on the residuals. Here's an example running on preference.
 
@@ -28,8 +28,9 @@ qqnorm(residuals(m)); qqline(residuals(m)) # plot residuals
 ```
 
 4. Since we have a departure from normality, we need to use nonparametric tests.
-4. We have Between-subjects, 3 levels (3 modes), 1 factor (participant ID) (I think).
+4. We have Within-subjects, 3 levels (3 modes), 1 factor (participant ID) (I think).
 5. So that means Friedman test.
+6. Post-hoc (flavor of the day).
 
 ### Terms
 1. Paired vs non-paired
