@@ -31,10 +31,14 @@ qqnorm(residuals(m)); qqline(residuals(m)) # plot residuals
 4. We have Between-subjects, 3 levels (3 modes), 1 factor (participant ID) (I think).
 5. So that means Friedman test.
 
-
-### Questions
+### Terms
 1. Paired vs non-paired
     - "This data is described as unpaired or independent when the sets of data arise from separate individuals or paired when it arises from the same individual at different points in time" - [wikipedia](https://en.m.wikipedia.org/wiki/Paired_data)
+2. Sample: Variable. I.e., asked their opinion on one question. (Binary?)
+3. Test of proportions: when you find yourself counting subjects. Like "how many subjects preferred X over Y?"
+4. Nominal/categorical. Subject ID (as if it were a name / label)
+
+### Questions
 2. Chi-squared vs Friedman for Ranking?
 3. Wilcox vs Wilcoxon Signed Rank? Parametric vs nonparametric? When to use these?
 4. How can an analysis of varience test show statistical significance but the post-hoc doesn't? (Indication something is wrong?) 
