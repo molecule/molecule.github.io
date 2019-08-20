@@ -30,3 +30,9 @@ qqnorm(residuals(m)); qqline(residuals(m)) # plot residuals
 4. Since we have a departure from normality, we need to use nonparametric tests.
 4. We have Between-subjects, 3 levels (3 modes), 1 factor (participant ID) (I think).
 5. So that means Friedman test.
+
+
+### Questions
+1. Paired vs non-paired
+2. Chi-squared vs Friedman for Ranking?
+3. Wilcox vs Wilcoxon Signed Rank? Parametric vs nonparametric? When to use these?
