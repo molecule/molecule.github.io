@@ -92,7 +92,8 @@ rows:
         left:
         right: <p class="cv-bold">Research Intern</p>
                 <p class="cv-standard"><a href="https://www.snap.com/en-US/">Snap, Inc.</a> • Snap, Inc., Santa Monica, CA, USA</p>
-                <p class="cv-standard">Manager&#58; <a href="http://www.rajanvaish.com/index.html">Rajan Vaish</a> | Mentor&#58; <a href="http://www.cs.columbia.edu/~brian/">Brian Smith</a></p>
+                <p class="cv-standard">Manager&#58; <a href="http://www.rajanvaish.com/index.html">Rajan Vaish</a></p>
+                <p class="cv-standard">Mentor&#58; <a href="http://www.cs.columbia.edu/~brian/">Brian Smith</a></p>
                 <p class="cv-italics">Research</p>
                 <p class="cv-date">May 2019 - December 2019 </p>
     -
@@ -230,7 +231,7 @@ rows:
         right: <a href="https://www.qualcomm.com/news/onq/2015/10/23/grace-hopper-conference-celebrates-women-computing">“Grace Hopper conference celebrates women in computing“</a>. Molly Jane Nicholas, Qualcomm, Inc., 23 October 2015.
     -
         left: invited talks
-        right: right: "Artivive&#58; Incorporating Augmented Reality into the arts". <b>Invited Speaker</b>, November 2019
+        right: "Artivive&#58; Incorporating Augmented Reality into the arts". <b>Invited Speaker</b>, November 2019
     -
         left:
         right: "Artivive&#58; Incorporating Augmented Reality into the arts". <b>Invited Speaker</b>, October 2019
