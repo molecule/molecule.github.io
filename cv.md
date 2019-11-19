@@ -90,6 +90,17 @@ rows:
         right: <br>
     -
         left:
+        right: <p class="cv-bold">Research Intern</p>
+                <p class="cv-standard"><a href="https://www.snap.com/en-US/">Snap, Inc.</a> • Snap, Inc., Santa Monica, CA, USA</p>
+                <p class="cv-standard">Manager&#58; <a href="http://www.rajanvaish.com/index.html">Rajan Vaish</a></p>
+                <p class="cv-standard">Mentor&#58; <a href="http://www.cs.columbia.edu/~brian/">Brian Smith</a></p>
+                <p class="cv-italics">Research</p>
+                <p class="cv-date">May 2019 - December 2019 </p>
+    -
+        left:
+        right: <br>
+    -
+        left:
         right: <p class="cv-bold">Research Assistant and Lab Manager</p>
                 <p class="cv-standard"><a href="http://jacobs.berkeley.edu/">CogEvoDevo Lab</a> • UC Berkeley, Berkeley, CA</p>
                 <p class="cv-standard">Advisor&#58; <a href="https://vcresearch.berkeley.edu/faculty/lucia-f-jacobs">Lucia Jacobs</a></p>
