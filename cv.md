@@ -91,7 +91,7 @@ rows:
     -
         left:
         right: <p class="cv-bold">Research Intern</p>
-                <p class="cv-standard"><a href="https://www.snap.com/en-US/">Snap, Inc.</a> • Snap, Inc., Santa Monica, CA, USA</p>
+                <p class="cv-standard"><a href="https://www.snap.com/en-US/">Snap, Inc.</a> • Santa Monica, CA, USA</p>
                 <p class="cv-standard">Manager&#58; <a href="http://www.rajanvaish.com/index.html">Rajan Vaish</a></p>
                 <p class="cv-standard">Mentor&#58; <a href="http://www.cs.columbia.edu/~brian/">Brian Smith</a></p>
                 <p class="cv-italics">Research</p>
@@ -177,7 +177,7 @@ rows:
         right: <h2 style="text-align:left">publications</h2>
     -
         left:
-        right: <p class="cv-italics">4 papers, 1 first-author, 1 under review</p>
+        right: <p class="cv-italics">5 papers, 1 first-author, 1 under review</p>
     -
         left: under review
         right: <b>Molly Jane Nicholas</b>, Sarah Sterman, Christine Dierk, Daniel Drew, Kris Pister, and Eric Paulos. Under review DIS '19. ACM, New York, NY, USA.
@@ -231,10 +231,7 @@ rows:
         right: <a href="https://www.qualcomm.com/news/onq/2015/10/23/grace-hopper-conference-celebrates-women-computing">“Grace Hopper conference celebrates women in computing“</a>. Molly Jane Nicholas, Qualcomm, Inc., 23 October 2015.
     -
         left: invited talks
-        right: "Artivive&#58; Incorporating Augmented Reality into the arts". <b>Invited Speaker</b>, November 2019
-    -
-        left:
-        right: "Artivive&#58; Incorporating Augmented Reality into the arts". <b>Invited Speaker</b>, October 2019
+        right: "Artivive&#58; Incorporating Augmented Reality into the arts. <b>Invited Speaker</b>, October 2019"
     -
         left:
         right: “Wearable Computing&#58; What the future holds”. <b>Invited Speaker</b>, ARCS Symposium, May 2018
@@ -311,14 +308,14 @@ rows:
         left: 
         right: <h2 style="text-align:left">service</h2>
     -
-        left: paper reviews
-        right: 12 reviews total. CHI ‘16 - '19,  DIS '16 - '18,  TEI '18 - ’19, C&C '19, 
+        left: peer reviews
+        right: 12 reviews total. CHI ‘16 - '19,  DIS '16 - '19,  TEI '18 - ’19, C&C '19
     -
         left: student volunteer
         right: CHI '18, C&C/DIS '19
     -
         left: institutional service
-        right: Graduate Admissions
+        right: <b>Graduate admissions panel</b>, College of Computer Science and Electrical Engineering, UC Berkeley, CA
     -
         left:
         right: <b>Officer</b>, Women in Computer Science and Engineering (WICSE) 2018-2019, UC Berkeley, CA
@@ -342,7 +339,7 @@ rows:
         right: <b>ARCS Scholar</b>, <a href="https://grad.berkeley.edu/news/headlines/honors-awards/arcs-student-celebration/">Jane Fuller Gillespie Memorial Scholar</a>, 2014
     -
         left:
-        right: <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship"><b>Snap Research Fellow</b></a>, 2019. Awarded based on "the relevance and quality of their research, their technical and communication skills, and their understanding of how research initiatives can inspire future innovation at Snap."
+        right: <b>Snap Research Fellow</b>, 2019. <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Awarded</a> based on "the relevance and quality of their research, their technical and communication skills, and their understanding of how research initiatives can inspire future innovation at Snap."
 
     -   
         left: Research Awards
