@@ -36,7 +36,7 @@ moisturizers:
         product: HADALABO Gokujyun Hyaluronic Lotion Premium
         link: https://www.amazon.com/gp/product/B01JRXH3W8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JRXH3W8&linkCode=as2&tag=molecule08-20&linkId=1b2dc6622f6d8074d4aaa6fda8e173fd
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01JRXH3W8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=molecule08-20
-        review: The same as the Moist, but with 5 sizes of hyaluronic acid for deeper penetration. For me, this is enough on it's own, and it doesn't pill under sunscreen so I use it every morning. The "Moist" layers better so if you want a Tahani-style 12-step skincare routine I'd go w/ Moist, but for a one-stop shop this one is hard to beat. Don't layer this under tretinoin: it increases absorption which dramatically increases irritation!
+        review: The same as the Moist, but with 5 sizes of hyaluronic acid for deeper penetration. For me, this is enough on it's own, and it doesn't pill under sunscreen so I use it every morning. The "Moist" layers better so if you want a Tahani-style 12-step skincare routine I'd go w/ Moist, but for a one-stop shop this one is hard to beat. Don't layer this under tretinoin. It increases absorption which dramatically increases irritation!
     -
         product: HADALABO Gokujyun Hyaluronic Lotion Moist
         link: https://www.amazon.com/gp/product/B074GX619Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074GX619Q&linkCode=as2&tag=molecule08-20&linkId=c3ee6e00e1366d6984c3b7f3f55677ef
@@ -51,7 +51,7 @@ moisturizers:
         product: Vanicream Gentle Hydrating Cleanser
         link: https://www.amazon.com/gp/product/B00QY1XZ4W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QY1XZ4W&linkCode=as2&tag=molecule08-20&linkId=dd4a6615a6122d316c33c12b31a4d8bc
         img-src: //ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00QY1XZ4W&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=molecule08-20
-        review: This hydrating cleanser is less stripping than the Cerave foaming wash, but way more effective than the Cerave Hydrating cleansr. It's the perfect Goldilocks middle: my face feels clean but never stripped, tight or dry. 
+        review: This hydrating cleanser is less stripping than the Cerave foaming wash, but way more effective than the Cerave Hydrating cleansr. It's the perfect Goldilocks middle. My face feels clean but never stripped, tight or dry. 
     -
         product: Stratia Liquid Gold
         link: https://www.stratiaskin.com/products/liquid-gold
