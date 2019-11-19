@@ -92,8 +92,7 @@ rows:
         left:
         right: <p class="cv-bold">Research Intern</p>
                 <p class="cv-standard"><a href="https://www.snap.com/en-US/">Snap, Inc.</a> • Snap, Inc., Santa Monica, CA, USA</p>
-                <p class="cv-standard">Manager&#58; <a href="http://www.rajanvaish.com/index.html">Rajan Vaish</a></p>
-                <p class="cv-standard">Mentor&#58; <a href="http://www.cs.columbia.edu/~brian/">Brian Smith</a></p>
+                <p class="cv-standard">Manager&#58; <a href="http://www.rajanvaish.com/index.html">Rajan Vaish</a> | Mentor&#58; <a href="http://www.cs.columbia.edu/~brian/">Brian Smith</a></p>
                 <p class="cv-italics">Research</p>
                 <p class="cv-date">May 2019 - December 2019 </p>
     -
@@ -231,7 +230,13 @@ rows:
         right: <a href="https://www.qualcomm.com/news/onq/2015/10/23/grace-hopper-conference-celebrates-women-computing">“Grace Hopper conference celebrates women in computing“</a>. Molly Jane Nicholas, Qualcomm, Inc., 23 October 2015.
     -
         left: invited talks
-        right: “Wearable Computing&#58; What the future holds”. Invited Speaker, ARCS Symposium, May 2018
+        right: right: "Artivive&#58; Incorporating Augmented Reality into the arts". <b>Invited Speaker</b>, November 2019
+    -
+        left:
+        right: "Artivive&#58; Incorporating Augmented Reality into the arts". <b>Invited Speaker</b>, October 2019
+    -
+        left:
+        right: “Wearable Computing&#58; What the future holds”. <b>Invited Speaker</b>, ARCS Symposium, May 2018
     -
         left:
         right: <b>Panelist</b>, Maker Faire '17.
@@ -256,6 +261,12 @@ rows:
     -
         left:
         right: <h2 style="text-align:left">teaching</h2>
+    -
+        left: Nov 2019
+        right: <b>Workshop lead (Authoring Augmented Reality)</b>, Faculty and Staff continuing education, UC Berkeley [7 participants].
+    -
+        left: Oct 2019
+        right: <b>Workshop lead (Authoring Augmented Reality)</b>, Faculty and Staff continuing education, UC Berkeley [4 participants].
     -
         left: Oct 2016
         right: <b>Workshop lead (Crafting electronics)</b>, Athena Awards community workshop, UC Berkeley [40 students].
@@ -299,14 +310,17 @@ rows:
         left: 
         right: <h2 style="text-align:left">service</h2>
     -
-        left: peer reviews
-        right: 8 reviews total. CHI ‘16 - '18,  DIS '16 - '18,  TEI '18 - ’19
+        left: paper reviews
+        right: 12 reviews total. CHI ‘16 - '19,  DIS '16 - '18,  TEI '18 - ’19, C&C '19, 
     -
         left: student volunteer
-        right: CHI '18
+        right: CHI '18, C&C/DIS '19
     -
         left: institutional service
-        right: <b>Officer</b>, Women in Computer Science and Engineering (WICSE), UC Berkeley, CA
+        right: Graduate Admissions
+    -
+        left:
+        right: <b>Officer</b>, Women in Computer Science and Engineering (WICSE) 2018-2019, UC Berkeley, CA
     -
         left: 
         right: <b>Organizer</b>, Semester Reading Parties. Increased participation from 8 to over 30, from four different departments across campus.
@@ -321,17 +335,17 @@ rows:
         right: <h2 style="text-align:left">awards and fellowships</h2>
     -
         left: Fellowships
-        right: NSF Graduate Research Fellow, 2018 “Wearable Interfaces Inspired by Performance Studies”
+        right: <b>NSF Graduate Research Fellow</b>, 2018 “Wearable Interfaces Inspired by Performance Studies”
     -
         left:
-        right: ARCS Scholar, <a href="https://grad.berkeley.edu/news/headlines/honors-awards/arcs-student-celebration/">Jane Fuller Gillespie Memorial Scholar</a>, 2014
+        right: <b>ARCS Scholar</b>, <a href="https://grad.berkeley.edu/news/headlines/honors-awards/arcs-student-celebration/">Jane Fuller Gillespie Memorial Scholar</a>, 2014
     -
         left:
-        right: <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Snap Research Fellow</a>, 2019. Awarded based on "the relevance and quality of their research, their technical and communication skills, and their understanding of how research initiatives can inspire future innovation at Snap."
+        right: <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship"><b>Snap Research Fellow</b></a>, 2019. Awarded based on "the relevance and quality of their research, their technical and communication skills, and their understanding of how research initiatives can inspire future innovation at Snap."
 
     -   
         left: Research Awards
-        right: Best Paper ACM CHI'17, <a href="https://molecule.github.io/project/illumination-aesthetics/">Illumination Aesthetics</a>.
+        right: <b>Best Paper</b> ACM CHI'17, <a href="https://molecule.github.io/project/illumination-aesthetics/">Illumination Aesthetics</a>.
     -
 
 
