@@ -37,7 +37,7 @@ rows:
         right: <br><br>
     -
         left: research interests
-        right: <p class="cv-standard">Molly is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways.</p>
+        right: <p class="cv-standard">Molly Jane Nicholas is particularly interested in how technology can enhance, augment, and support remote shared experiences through <i>copresence</i> and <i>shared attention</i>. In particular she thinks about how the ‘liveness’ of an experience affects those participating, and what aspects of ‘liveness’ are best mediated by technology.</p>
     -
         left:
         right: <br>
@@ -104,6 +104,7 @@ rows:
         right: <p class="cv-bold">Research Assistant and Lab Manager</p>
                 <p class="cv-standard"><a href="http://jacobs.berkeley.edu/">CogEvoDevo Lab</a> • UC Berkeley, Berkeley, CA</p>
                 <p class="cv-standard">Advisor&#58; <a href="https://vcresearch.berkeley.edu/faculty/lucia-f-jacobs">Lucia Jacobs</a></p>
+                <p class="cv-standard">Mentor&#58; <a href="http://catsandsquirrels.com/aboutme/">Mikel Delgado</a></p>
                 <p class="cv-italics">Berkeley Psychology Department</p>
                 <p class="cv-date">Aug 2010 - Jan 2012</p>
     -
@@ -177,10 +178,10 @@ rows:
         right: <h2 style="text-align:left">publications</h2>
     -
         left:
-        right: <p class="cv-italics">5 papers, 1 first-author, 1 under review</p>
+        right: <p class="cv-italics">5 papers, 1 first-author, 2 under review</p>
     -
         left: under review
-        right: <b>Molly Jane Nicholas</b>, Sarah Sterman, Christine Dierk, Daniel Drew, Kris Pister, and Eric Paulos. Under review DIS '19. ACM, New York, NY, USA.
+        right: Sarah Sterman, <b>Molly Jane Nicholas</b>, Christine Dierk, Daniel Drew, Kris Pister, and Eric Paulos. Soon under review DIS '20. ACM, New York, NY, USA.
     -
         left:
         right: <br>
@@ -231,6 +232,12 @@ rows:
         right: <a href="https://www.qualcomm.com/news/onq/2015/10/23/grace-hopper-conference-celebrates-women-computing">“Grace Hopper conference celebrates women in computing“</a>. Molly Jane Nicholas, Qualcomm, Inc., 23 October 2015.
     -
         left: invited talks
+        right: "Artivive&#58; Incorporating Augmented Reality into the arts. <b>Invited Speaker</b>, December 2019"
+    -
+        left:
+        right: "Artivive&#58; Incorporating Augmented Reality into the arts. <b>Invited Speaker</b>, November 2019"
+    -
+        left:
         right: "Artivive&#58; Incorporating Augmented Reality into the arts. <b>Invited Speaker</b>, October 2019"
     -
         left:

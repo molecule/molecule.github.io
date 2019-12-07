@@ -7,7 +7,7 @@ sunscreens:
         product: La Roche Posay ANTHELIOS SHAKA Non-Perfumed Fluid SPF50+
         link: https://www.ebay.com/itm/La-Roche-Posay-ANTHELIOS-SHAKA-Non-Perfumed-Fluid-SPF50-50ml-1-7oz/221195090660?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649
         img-src: 
-        review: This sunscreen is my HG. It's really light and easy to apply, has a PPD of 46 (!!), uses fantastic filters, sinks in quickly and isn't drying. It's also WATERPROOF. I wear it daily especially if I'll be walking around outside at all. I absolutely adore this sunscreen! I buy it from eBay (to get the European formulated one w the newer filters) from the seller <a href="https://www.ebay.com/usr/healthy_center?_trksid=p2047675.l2559">healthy_center.</a.
+        review: This sunscreen is my HG. It's really light and easy to apply, has a PPD of 46 (!!), uses fantastic filters, sinks in quickly and isn't drying. It's also WATERPROOF. I wear it daily especially if I'll be walking around outside at all. I absolutely adore this sunscreen! I buy it from eBay (to get the European formulated one w the newer filters) from the seller <a href="https://www.ebay.com/usr/healthy_center?_trksid=p2047675.l2559">healthy_center</a>.
         
     -
         product: CANMAKE Mermaid Skin Gel UV (SPF50+ PA++++)
@@ -189,7 +189,8 @@ I change this on a daily basis depending on how my skin feels. For example, if m
     - Sunday night, either hydration + azelaic acid or tretinoin.
  
  
-CURRENT PRODUCTS
+<!--CURRENT PRODUCTS-->
+
 [Hada Labo Gokujyun Lotion Moist]: https://www.amazon.com/gp/product/B074GX619Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074GX619Q&linkCode=as2&tag=molecule08-20&linkId=c3ee6e00e1366d6984c3b7f3f55677ef
 
 [Hada Labo Premium Lotion]: https://www.amazon.com/gp/product/B01JRXH3W8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JRXH3W8&linkCode=as2&tag=molecule08-20&linkId=1b2dc6622f6d8074d4aaa6fda8e173fd
@@ -212,7 +213,8 @@ CURRENT PRODUCTS
 
 [Jojoba Oil (from Garden of Wisdom)]: https://gardenofwisdom.com/products/jojoba-gold-oil-organic
  
- DISCONTINUED
+ <!--DISCONTINUED-->
+
 [CeraVe Hydrating Face Wash]: https://www.amazon.com/gp/product/B01MSSDEPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSSDEPK&linkCode=as2&tag=molecule08-20&linkId=686aa1fd5bc8552385cc1f80b73781c4
 [Stratia Liquid Gold]: https://www.stratiaskin.com/products/liquid-gold
 [TO - 100% Organic Cold-Pressed Rose Hip Seed Oil]: https://theordinary.com/product/rdn-100pct-organic-cold-pressed-rose-hip-seed-oil-30ml?ccm=6afb414ca0a748bd85ed7ead6c4e6729f133993f2fd49d2697d9aa1f3700dc05f70102cb1d00da802a8fe86a4f7a904b2cc58b019d79610ab89b7e00b33f328bc753a4096d6833cfdfd104393f7b6d2ea9c94c428c7dfb98df67373effa002ea0bb4ccc0631fe620f433ce3ceb247add1301e999e842b00448683c81f4fa84bd637043838043f764bfcc52c6ab2b852c&ccvis=1
