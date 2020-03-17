@@ -158,6 +158,12 @@ hidden:
 
 newsfeed:
     -
+        content: Very lucky to be able to work from home starting today! Stay safe.
+        date: 13 Mar 2020
+    -
+        content: This semester I'm so excited to be teaching Critical Making alongside my advisor Eric Paulos!!!
+        date: Jan 23 2020
+    -
         content: I'm updating notes about our awesome stay in Santa Monica <a href="/trips/santa-monica/">here</a> for anyone curious
         date: 12 May 2019
     -  
