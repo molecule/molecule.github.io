@@ -7,10 +7,10 @@ about
 
 Here is the code for my website, released under MIT License.
 
-It uses the jekyll templating engine. Some notes:
+It uses the jekyll templating engine.
 
-- only h2 and h6 are centered
-- class img.prof is left aligned
+#### Setup
+Install jekyll and other gems. While in the main directory, run: ```bundle install'''
 
 #### How to start a server:
 jekyll serve -w
