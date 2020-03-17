@@ -4,7 +4,7 @@ layout: centered
 projects:
     -
         title: Conversations with Actuators
-        desc: An Exploratory Design Environment for Hybrid Materials (Coming soon to TEI 2019).
+        desc: An Exploratory Design Environment for Hybrid Materials (Presented at TEI 2019).
         tags: [res]
         imag: /src/img/cwa-gif.gif
         link:
