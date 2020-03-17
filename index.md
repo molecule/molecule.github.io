@@ -13,7 +13,7 @@ projects:
         desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (DIS'18).
         tags: [res, cla]
         imag: /src/img/guardians-kiln-gods.jpg
-        link: http://cearto.com/projects/guardians
+        link: /project/guardians
     - 
         title: AlterWear
         desc: Battery-Free Wearable Displays for Opportunistic Interactions (CHI'19).
