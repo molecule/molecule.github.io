@@ -3,23 +3,6 @@ layout: project
 title: AlterWear - Battery-Free Wearable Displays for Opportunistic Interactions
 ---
 
- title: AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.
-        authors: Christine Dierk, <b>Molly Jane Nicholas</b>, Eric Paulos.
-        link: http://www.hybrid-ecologies.org/projects
-        img: /src/img/alterwear-square-gif.gif
-        conf: ACM Conference on Human Factors in Computing Systems
-        conf-short: (CHI '18)
-        conf-link: https://chi2018.acm.org/
-        award:
-        links: <a href="http://www.hybrid-ecologies.org/uploads/project/paper/24/18_CHI_AlterWear.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=J88p4Cf2DSs&t=1s">Video</a>
-        video:
-
-title: AlterWear
-        desc: Battery-Free Wearable Displays for Opportunistic Interactions (CHI'18).
-        tags: [res, wear]
-        imag: 
-        link: /project/alterwear
-
 <table class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
     <th width="15%"></th>
