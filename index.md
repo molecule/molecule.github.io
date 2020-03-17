@@ -4,25 +4,25 @@ layout: centered
 projects:
     -
         title: Conversations with Actuators
-        desc: An Exploratory Design Environment for Hybrid Materials (Presented at TEI 2019).
+        desc: An Exploratory Design Environment for Hybrid Materials (TEI'19).
         tags: [res]
         imag: /src/img/cwa-gif.gif
-        link:
+        link: http://www.hybrid-ecologies.org/projects/32-a-conversation-with-actuators
     -
-        title: Guardians
-        desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (Presented at DIS 2018).
+        title: Guardians of History
+        desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (DIS'18).
         tags: [res, cla]
         imag: /src/img/guardians-kiln-gods.jpg
         link: http://cearto.com/projects/guardians
     - 
         title: AlterWear
-        desc: Battery-Free Wearable Displays for Opportunistic Interactions (Presented at CHI 2019).
+        desc: Battery-Free Wearable Displays for Opportunistic Interactions (CHI'19).
         tags: [res, wear]
         imag: /src/img/alterwear-shoe-toe-only.png
         link: /project/alterwear
     -
         title: HäirIÖ
-        desc: Human Hair as Interactive Material (Presented at TEI 2018).
+        desc: Human Hair as Interactive Material (TEI'18).
         tags: [res, wear]
         imag: /src/img/hairio-gif.gif
         link: /project/hairio
@@ -34,7 +34,7 @@ projects:
         link: /project/eo-9066
     -
         title: Illumination Aesthetics
-        desc: Light as a Creative Material within Computational Design (Presented at CHI 2017).materials...
+        desc: Light as a Creative Material within Computational Design (CHI'17)
         tags: [res, win]
         imag: /src/img/ia-thumbnail.jpg
         link: /project/illumination-aesthetics
