@@ -158,7 +158,7 @@ hidden:
 
 newsfeed:
     -
-        content: Very lucky to be able to work from home starting today! Stay safe.
+        content: Very lucky to be able to work from home starting today! Stay safe during this coronavirus pandemic.
         date: 13 Mar 2020
     -
         content: This semester I'm so excited to be teaching Critical Making alongside my advisor Eric Paulos!!!
