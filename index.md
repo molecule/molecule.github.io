@@ -162,7 +162,10 @@ newsfeed:
         date: 13 Mar 2020
     -
         content: This semester I'm so excited to be teaching Critical Making alongside my advisor Eric Paulos!!!
-        date: 23 Jan 2020
+        date: 1 Feb 2020
+    -
+        content: Submitted an AWESOME paper to DIS with my co-researcher Sarah. So so so excited, probably the most I've loved a project.
+        date: 31 Jan 2020
     -
         content: Matt and I got married :)
         date: 9 Sep 2019

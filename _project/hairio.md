@@ -3,24 +3,41 @@ layout: project
 title: HäirIÖ
 ---
 
-## HäirIÖ
 
-<style>
-img { display: block; }
-img#illumination { width: 10em; }
-img.proj { display: inline-block; margin: 0 auto; }
-</style>
+<table class='submissions' style="width:100%; border-spacing:1em;">
+<tr class="submish">
+    <th width="10%"></th>
+    <th width="80%"></th>
+    <th width="10%"></th>
+</tr> <!-- end column def-->
 
-<img id="hairio" src="/src/img/hairio-thumbnail.JPG" style="width:10em">
-
-###### [source code][hairio-github] - [Instructable][hairio-instructable] - [Hackster article][hairio-hackster] - [Hackaday article][hairio-hackaday] - [Arduino article][hairio-arduino]
+<tr class="submish">
+    <td> <a href="https://www.youtube.com/watch?v=8JV2D7gJ5HI"><img src="/src/img/hairio-thumbnail.JPG" style="width:90px"/></a><a href="https://tei.acm.org/2018/">(TEI '18)</a></td>
+    <td><a href="http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf">HäirIÖ&#58; Human Hair as an Interactive Material.</a> Christine Dierk, Sarah Sterman, <b>Molly Jane Nicholas</b>, Eric Paulos. ACM Conference on Tangible, Embedded, and Embodied Interaction<br>
+        <a href="http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf">Paper</a> | 
+        <a href="https://www.youtube.com/watch?v=8JV2D7gJ5HI">Video</a> | 
+        <a href="https://www.instructables.com/id/HairIO-Hair-As-Interactive-Material/">Instructable</a> | 
+        <a href="https://github.com/ssterman/hairIO">Source code</a></td>
+</tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->
+</table> <!--end submission-->
 
 #### Abstract
 Human hair is a cultural material, with a rich history displaying individuality, cultural expression and group identity. It is malleable in length, color and style, highly visible, and embedded in a range of personal and group interactions. As wearable technologies move ever closer to the body, and embodied interactions become more common and desirable, hair presents a unique and little-explored site for novel interactions. In this paper, we present an exploration and working prototype of hair as a site for novel interaction, leveraging its positionas something both public and private, social and personal,malleable and permanent. We develop applications and inter-actions around this new material in HäirIÖ: a novel integration of hair-based technologies and braids that combine capacitive touch input and dynamic output through color and shape change. Finally, we evaluate this hair-based interactive technology with users, including the integration of HäirIÖ within the landscape of existing wearable and mobile technologies.
 
-<center>
+#### Media
+
+ [Hackster article][hairio-hackster]
+
+ [Hackaday article][hairio-hackaday]
+
+ [Arduino article][hairio-arduino]
+
+#### My role
+
+
+<left>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8JV2D7gJ5HI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</center>
+</left>
 
 An amazing meme created by [@Kirgan_S](https://twitter.com/Kirgan_S) on Twitter.
 <img id="hairio-meme" src="/src/img/hairio-meme.jpg" style="width:10em">
@@ -35,6 +52,7 @@ We presented this work, along with a wearable demo at TEI 2018 in Stockholm, Swe
 <img alt="hairio braid in context" class="proj" style="width:10em; height:10em" src="/src/img/hairio-pink-over-shoulder-01.JPG">
 </div>
 
+[hairio-pdf]:http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf
 [hairio-github]:https://github.com/ssterman/hairIO
 [hairio-instructable]:https://www.instructables.com/id/HairIO-Hair-As-Interactive-Material/
 [hairio-hackster]:https://blog.hackster.io/hair-turned-into-an-interactive-medium-with-hairio-3c27cbcd4c23
