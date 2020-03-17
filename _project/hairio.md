@@ -6,14 +6,14 @@ title: HäirIÖ
 
 <table class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
-    <th width="10%"></th>
-    <th width="80%"></th>
+    <th width="15%"></th>
+    <th width="75%"></th>
     <th width="10%"></th>
 </tr> <!-- end column def-->
 
 <tr class="submish">
     <td> <a href="https://www.youtube.com/watch?v=8JV2D7gJ5HI"><img src="/src/img/hairio-thumbnail.JPG" style="width:90px"/></a>
-        <a href="https://tei.acm.org/2018/">(TEI '18)</a>
+        <a href="https://tei.acm.org/2018/">TEI'18</a>
         </td>
     <td><a href="http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf">HäirIÖ&#58; Human Hair as an Interactive Material.</a> Christine Dierk, Sarah Sterman, <b>Molly Jane Nicholas</b>, Eric Paulos. ACM Conference on Tangible, Embedded, and Embodied Interaction<br>
         <a href="http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf">Paper</a> | 
