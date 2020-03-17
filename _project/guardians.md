@@ -2,7 +2,6 @@
 layout: project
 title: Guardians
 ---
-
 <table class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
     <th width="15%"></th>

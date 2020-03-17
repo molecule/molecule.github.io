@@ -16,7 +16,7 @@ projects:
         link: /project/guardians
     - 
         title: AlterWear
-        desc: Battery-Free Wearable Displays for Opportunistic Interactions (CHI'19).
+        desc: Battery-Free Wearable Displays for Opportunistic Interactions (CHI'18).
         tags: [res, wear]
         imag: /src/img/alterwear-shoe-toe-only.png
         link: /project/alterwear
