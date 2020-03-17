@@ -43,7 +43,7 @@ Human hair is a cultural material, with a rich history displaying individuality,
 #### My role
 This project started as a paper that Christie had been working on for a while. She invited Sarah and I to collaborate with her, and when the deadline was extended, we did a major brainstorming session and re-did nearly the whole thing. As with many of our lab's papers, this project was highly collaborative. Christie was the lead when it came to design decisions, but we all contributed to writing the code, designing the circuit, framing the paper, planning the user study, and writing the paper. 
 
-I was primarily responsible for running and analyzing the user study. 
+I was primarily responsible for running and analyzing the user study. I also did the filming and editing of the video.
 
 <left>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8JV2D7gJ5HI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
