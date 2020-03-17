@@ -162,7 +162,13 @@ newsfeed:
         date: 13 Mar 2020
     -
         content: This semester I'm so excited to be teaching Critical Making alongside my advisor Eric Paulos!!!
-        date: Jan 23 2020
+        date: 23 Jan 2020
+    -
+        content: Matt and I got married :)
+        date: 9 Sep 2019
+    -
+        content: Happy to be back in Berkeley and finished with my Snap internship. If you have any questions about working with Snap, reach out!
+        date: 26 Aug 2019
     -
         content: I'm updating notes about our awesome stay in Santa Monica <a href="/trips/santa-monica/">here</a> for anyone curious
         date: 12 May 2019
