@@ -32,8 +32,18 @@ Human hair is a cultural material, with a rich history displaying individuality,
 
  [Arduino article][hairio-arduino]
 
-#### My role
+<div class="new-container">
+<img id="hairio" alt="dramatic style change with hairio" class="proj"  style="width:10em; height:10em" src="/src/img/hairio-dramatic-square.gif">
 
+<img alt="circuit" class="proj" style="width:10em; height:10em" src="/src/img/hairio-upright-no-battery.JPG">
+
+<img alt="hairio braid in context" class="proj" style="width:10em; height:10em" src="/src/img/hairio-pink-over-shoulder-01.JPG">
+</div>
+
+#### My role
+This project started as a paper that Christie had been working on for a while. She invited Sarah and I to collaborate with her, and when the deadline was extended, we did a major brainstorming session and re-did nearly the whole thing. As with many of our lab's papers, this project was highly collaborative. Christie was the lead when it came to design decisions, but we all contributed to writing the code, designing the circuit, framing the paper, planning the user study, and writing the paper. 
+
+I was primarily responsible for running and analyzing the user study. 
 
 <left>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8JV2D7gJ5HI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -42,15 +52,8 @@ Human hair is a cultural material, with a rich history displaying individuality,
 An amazing meme created by [@Kirgan_S](https://twitter.com/Kirgan_S) on Twitter.
 <img id="hairio-meme" src="/src/img/hairio-meme.jpg" style="width:10em">
 
-We presented this work, along with a wearable demo at TEI 2018 in Stockholm, Sweden. It was so fun sharing our research with everyone!
 
-<div class="new-container">
-<img id="hairio" alt="dramatic style change with hairio" class="proj"  style="width:10em; height:10em" src="/src/img/hairio-dramatic-square.gif">
 
-<img alt="circuit" class="proj" style="width:10em; height:10em" src="/src/img/hairio-upright-no-battery.JPG">
-
-<img alt="hairio braid in context" class="proj" style="width:10em; height:10em" src="/src/img/hairio-pink-over-shoulder-01.JPG">
-</div>
 
 [hairio-pdf]:http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf
 [hairio-github]:https://github.com/ssterman/hairIO
