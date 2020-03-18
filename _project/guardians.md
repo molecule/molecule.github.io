@@ -2,6 +2,9 @@
 layout: project
 title: Guardians
 ---
+
+### Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices.
+
 <table class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
     <th width="15%"></th>

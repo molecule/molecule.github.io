@@ -3,6 +3,8 @@ layout: project
 title: AlterWear - Battery-Free Wearable Displays for Opportunistic Interactions
 ---
 
+### AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.
+
 <table class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
     <th width="15%"></th>

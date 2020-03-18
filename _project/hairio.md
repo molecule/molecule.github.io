@@ -3,6 +3,7 @@ layout: project
 title: HäirIÖ
 ---
 
+### HäirIÖ&#58; Human Hair as an Interactive Material.
 
 <table class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
