@@ -273,6 +273,9 @@ rows:
         left:
         right: <h2 style="text-align:left">teaching</h2>
     -
+        left: Jan 2020
+        right: <b>Graduate Student Instructor (Critical Making)</b>, Graduate-level course, UC Berkeley [28 participants].
+    -
         left: Nov 2019
         right: <b>Workshop lead (Authoring Augmented Reality)</b>, Faculty and Staff continuing education, UC Berkeley [7 participants].
     -
