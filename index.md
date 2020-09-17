@@ -158,7 +158,25 @@ hidden:
 
 newsfeed:
     -
-        content: Very lucky to be able to work from home starting today! Stay safe during this coronavirus pandemic.
+        content: Submitted 3 papers to CHI! SO so so excited about all of them.
+        date: 17 Sep 2020
+    -
+        content: Celebrated our 1 year wedding anniversary with a handshake.
+        date: 9 Sep 2020
+    -
+        content: Extremely depressed about global climate change.
+        date: 7 Sep 2020
+    -
+        content: Oh, wow, MSR is a magical place.
+        date: 14 Jul 2020
+    -
+        content: First day as a remote intern "at" Microsoft!
+        date: 1 Jun 2020
+    -
+        content: DIS paper rejected :(
+        date: 9 Apr 2020
+    -
+        content: Very lucky to be able to work from home starting today! Stay safe during this Coronavirus pandemic.
         date: 13 Mar 2020
     -
         content: This semester I'm so excited to be teaching Critical Making alongside my advisor Eric Paulos!!!
