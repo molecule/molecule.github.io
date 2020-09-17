@@ -3,3 +3,5 @@ _site/*
 deploy_key
 deploy_key.pub
 vendor
+
+.jekyll-cache/*
