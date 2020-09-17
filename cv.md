@@ -280,25 +280,25 @@ rows:
         right: <b>Workshop lead (Authoring Augmented Reality)</b>, Faculty and Staff continuing education, UC Berkeley [4 participants].
     -
         left: Oct 2016
-        right: <b>Workshop lead (Crafting electronics)</b>, Athena Awards community workshop, UC Berkeley [40 students].
+        right: <b>Workshop lead (Crafting electronics)</b>, Athena Awards community workshop, UC Berkeley [40 participants].
     -   
         left: Jan 2016
-        right: <b>Workshop lead (Sewable Circuits Workshop)</b>, Qualcomm QWCC Conference, Qualcomm, [80 students].
+        right: <b>Workshop lead (Sewable Circuits Workshop)</b>, Qualcomm QWCC Conference, Qualcomm, [80 participants].
     -
         left: Jan 2016
-        right: <b>Workshop lead (Circuit Stickers), Tech talk speaker (CS and EE)</b>, Latina Giving Circle, Qualcomm [40 students].
+        right: <b>Workshop lead (Circuit Stickers), Tech talk speaker (CS and EE)</b>, Latina Giving Circle, Qualcomm [40 participants].
     -
         left: Jan 2016
         right: <b>Workshop lead (Sewable Circuits)</b>, Qualcomm DECA Conference, Qualcomm [50 students].
     -
         left: Oct 2015
-        right: <b>Event lead (Qbadge event), Speaker</b>, Qualcomm HardWEAR Shindig, Grace Hopper [50 students].
+        right: <b>Event lead (Qbadge event), Speaker</b>, Qualcomm HardWEAR Shindig, Grace Hopper [50 participants].
     -
         left: Oct 2015
-        right: <b>Speaker (You++ [Resume Critique])</b>, Student Opportunity Lab, Grace Hopper [125 students].
+        right: <b>Speaker (You++ [Resume Critique])</b>, Student Opportunity Lab, Grace Hopper [125 participants].
     -
         left: Aug 2015
-        right: <b>Panelist (Women in CS), Hackathon mentor</b>, EmpowHERment Conference, Qualcomm [50 students].
+        right: <b>Panelist (Women in CS), Hackathon mentor</b>, EmpowHERment Conference, Qualcomm [50 participants].
     -
         left:
         right: <br>
@@ -310,10 +310,10 @@ rows:
         right: Arianna Ninh (2 years)
     -
         left: GPS
-        right: Kiranpreet Kaur, Runlin Guo, Rene Figueroa
+        right: Three scholars.
     -
         left: LAGSES Fellowship 
-        right: Jordan Edmund, Rachel Zoll, Nathaniel Weinman
+        right: Three scholars
     -
         left:
         right: <br>
