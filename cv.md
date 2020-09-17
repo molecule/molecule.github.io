@@ -184,10 +184,10 @@ rows:
         right: <b>Molly Jane Nicholas</b>, Sarah Sterman, Janaki Vivrekar, and Eric Paulos.
     -
         left:
-        right: <b>Molly Jane Nicholas</b>, Brian Smith, Rajan Vaish.
+        right: <b>Molly Jane Nicholas</b>, Brian Smith, and Rajan Vaish.
     -
         left:
-        right: Panda Payod, Mar Gonzalez-Franco, Kori Inkpen, <b>Molly Jane Nicholas</b>, Eyal Ofek, Ross Cutler, Jaron Lanier.
+        right: Panda Payod, Mar Gonzalez-Franco, Kori Inkpen, <b>Molly Jane Nicholas</b>, Eyal Ofek, Ross Cutler, and Jaron Lanier.
     -
         left:
         right: <br>
