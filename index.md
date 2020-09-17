@@ -164,7 +164,7 @@ newsfeed:
         content: Celebrated our 1 year wedding anniversary with a <a href="https://imgur.com/a/tLYiwfV">handshake.</a> Classic.
         date: 9 Sep 2020
     -
-        content: Extremely depressed about global climate change.
+        content: Extremely depressed about global climate change. Wildfires here in California are intense.
         date: 7 Sep 2020
     -
         content: Oh, wow, MSR is a magical place.
