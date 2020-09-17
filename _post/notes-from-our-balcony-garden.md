@@ -256,6 +256,10 @@ Sources: [SFGate](http://homeguides.sfgate.com/plant-naked-ladies-72891.html) an
 - [Arizona](https://www.regannursery.com/rose/Arizona)
 - [Anna's Promise](https://www.regannursery.com/rose/Rosa-Annas-Promise-Downton-Abbey-Collection)
 
+Rose care:
+
+- "The ideal nitrogen-phosphorous-potassium ratio for roses is 1-2-1. A monthly application of a high phosphorous fertilizer, such as 9-14-9, encourages blooming and provides adequate nutrients for your plant." - [src.](https://homeguides.sfgate.com/climbing-rose-growing-well-but-not-blooming-flowers-96860.html)
+
 #### Sugar Snap Peas
 1. Sow 2 or 3 times, 7 to 10 days apart, to extend harvest. [5]
 2. To save space, sow in double rows 3" apart with 2 1/2 to 3' of space between double rows.[5]
