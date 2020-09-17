@@ -1,0 +1,26 @@
+I"�<style>
+img { max-width: 500px; }
+</style>
+
+<h2 id="ir-receiver">IR Receiver</h2>
+
+<style>
+img { display: inline; }
+img#ir-receiver { width: 10em; }
+img.proj { display: block; margin: auto; }
+</style>
+
+<p><img id="ir-receiver" class="proj" src="/src/img/ir-receiver.jpg" /></p>
+
+<h6 id="source-code---video---instructable"><a href="https://github.com/molecule/InfraRed-Receiver">source code</a> - <a href="https://www.youtube.com/watch?v=RxHHlSOWxaQ">video</a> - <a href="http://www.instructables.com/id/InfraRed-Receiver-1/">instructable</a></h6>
+
+<p>A very simple IR receiver. A lightweight way to add “remote control” to any project.</p>
+
+<center>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RxHHlSOWxaQ" frameborder="0" allowfullscreen=""></iframe>
+</center>
+
+<p><small> © 2020 / Molly Jane Nicholas /
+<a href="mailto:molecule@berkeley.edu">email</a></small></p>
+
+:ET

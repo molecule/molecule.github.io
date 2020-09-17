@@ -1,0 +1,41 @@
+I"�<style>
+img { max-width: 500px; }
+</style>
+
+<h2 id="wearable-neopixel-sparkle">Wearable Neopixel Sparkle</h2>
+
+<style>
+img { display: inline; }
+img#neopixel-sparkle { width: 10em; }
+img.proj { display: block; margin: auto; }
+</style>
+
+<p><img id="neopixel-sparkle" class="proj" src="/src/img/sparkle-gif.gif" /></p>
+
+<h6 id="source-code---video---instructable---adafruit-blog-post"><a href="https://github.com/molecule/neopixelplasma">source code</a> - <a href="https://www.youtube.com/watch?v=iLoJX2KLo94">video</a> - <a href="http://www.instructables.com/id/Wearable-Neopixel-Sparkle/">instructable</a> - <a href="https://blog.adafruit.com/2015/10/28/neopixels-for-fauxhawks-and-other-hair-fun-wearablewednesday/">adafruit blog post</a></h6>
+
+<p>I find that networking at conferences usually feels awkward and unnatural to me. I can’t find a natural starting point for a conversation, and I feel very weird asking for contact information. I wondered if I could create a better framework for interacting by wearing an eye-catching piece of electronic jewelry, and offering to provide <a href="http://www.instructables.com/id/Wearable-Neopixel-Sparkle/">instructions for how to make it</a> to anyone I met. I found that:</p>
+
+<ul>
+  <li>I spoke with many more people than I typically do at conferences, and got the contact information of over 25 people who were interested in making one (that’s about a 8000% increase over previous conferences).</li>
+  <li>Getting contact information felt much more natural, because it wasn’t an abstract “let’s network” experience, but a concrete “I’ll tell you how to make this thing” offer.</li>
+  <li>I haven’t kept in touch with anyone since – the connections felt a little shallow, but if I did want to reach out, I would have something stronger to say than “we met at a conference.”</li>
+</ul>
+
+<p>Further questions:</p>
+
+<ul>
+  <li>There are different ways to network: some argue that without a deeper connection the network is meaningless, while others see a lot of value in more casual connections. Connections spawned by this wearable certainly fall more into the “casual” side, but by providing value (instructions for how to make it) and creating a stronger memory, the connection feels stronger than a typical conference connection.</li>
+  <li>We’re still at the point where electronic jewelry like this is a novelty – is novelty a necessary component of experiences like this? What does that imply about the longevity of designs like this? Is it possible to build an element of randomness into the final product, and how does that change the experience?</li>
+</ul>
+
+<p>Inspired by the wonderful Adafruit Neopixel Crown, but a bit less labor-intensive, and with a much lower profile.</p>
+
+<center>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/iLoJX2KLo94" frameborder="0" allowfullscreen=""></iframe>
+</center>
+
+<p><small> © 2020 / Molly Jane Nicholas /
+<a href="mailto:molecule@berkeley.edu">email</a></small></p>
+
+:ET
