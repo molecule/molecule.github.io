@@ -293,7 +293,7 @@ newsfeed:
         content: Arrived in Sweden! Brrrr! Excited for our presentation and demo at <a href="https://tei.acm.org/2018/">TEI.</a>
         date: 16 Mar 2018
     -
-        content: Honored to be funded by the amazing <a href="http://bcnm.berkeley.edu/">Berkeley Center for New Media</a> to present at TEI and CHI!
+        content: Honoured to be funded by the amazing <a href="http://bcnm.berkeley.edu/">Berkeley Center for New Media</a> to present at TEI and CHI!
         date: 6 Mar 2018
     - 
         content: My <a href="http://cearto.com/projects/guardians">class project</a> in collaboration with <a href="http://cearto.com/">César</a>, Sarah, Eric, and Richard was accepted to DIS 2018!
@@ -351,7 +351,7 @@ newsfeed:
     </div>
     <div style="float:left; width:70%; padding:20px">
         <p> Molly Jane Nicholas is a Ph.D. student studying Human Computer Interaction
-    with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Molly is honored to be supported by the <a href="https://www.arcsfoundation.org/">ARCS foundation</a> and the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a> Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p> 
+    with <a href="http://www.paulos.net/">Eric Paulos</a> in the <a href="http://www.cs.berkeley.edu" target="_blank">Computer Science department</a> at UC Berkeley. She is particularly interested in exploring how the performing arts and technology can combine in new and interesting ways. Molly is honoured to be supported by the <a href="https://www.arcsfoundation.org/">ARCS foundation</a> and the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a> Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. from the University of California, Berkeley with a double major in Computer Science and Cognitive Science in 2014. </p> 
     </div>
 </div>
 
@@ -403,7 +403,7 @@ newsfeed:
     <div style="float:center; text-align:center; padding:10px; font-size:13px; line-height:8px">
         <img src="/src/img/logo-nsf.png" alt="NSF logo" style="width: 150px;"/>
         <img src="/src/img/logo-arcs.png" alt="Achievement Rewards for College Scientists logo" style="width: 150px;"/>
-        <span style="display:block;"> I'm honored to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a> and the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a></span>
+        <span style="display:block;"> I'm honoured to be supported by the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP</a> and the <a href="https://www.arcsfoundation.org/">ARCS Foundation.</a></span>
     </div>
     <p style="margin: 0.5em 0em 10em 0em;">
     <small><i>updated {{ site.time | date: "%b %-d, %Y"}} </i></small>
