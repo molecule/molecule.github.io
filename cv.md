@@ -178,10 +178,16 @@ rows:
         right: <h2 style="text-align:left">publications</h2>
     -
         left:
-        right: <p class="cv-italics">5 papers, 1 first-author, 2 under review</p>
+        right: <p class="cv-italics">5 published papers, 3 under review</p>
     -
         left: under review
-        right: Sarah Sterman, <b>Molly Jane Nicholas</b>, Christine Dierk, Daniel Drew, Kris Pister, and Eric Paulos. Soon under review DIS '20. ACM, New York, NY, USA.
+        right: <b>Molly Jane Nicholas</b>, Sarah Sterman, Janaki Vivrekar, and Eric Paulos.
+    -
+        left:
+        right: <b>Molly Jane Nicholas</b>, Brian Smith, Rajan Vaish.
+    -
+        left:
+        right: Panda Payod, Mar Gonzalez-Franco, Kori Inkpen, <b>Molly Jane Nicholas</b>, Eyal Ofek, Ross Cutler, Jaron Lanier.
     -
         left:
         right: <br>
