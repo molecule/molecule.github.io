@@ -181,7 +181,7 @@ rows:
         right: <p class="cv-italics">5 published papers, 3 under review</p>
     -
         left: under review
-        right: <b>Molly Jane Nicholas</b>, Sarah Sterman, Janaki Vivrekar, and Eric Paulos.
+        right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, Janaki Vivrekar, and Eric Paulos. *both authors contributed equally.
     -
         left:
         right: <b>Molly Jane Nicholas</b>, Brian Smith, and Rajan Vaish.

@@ -158,10 +158,10 @@ hidden:
 
 newsfeed:
     -
-        content: Submitted 3 papers to CHI! SO so so excited about all of them.
+        content: Submitted 3 papers to CHI! Then we had a <a href="https://imgur.com/a/lqXhJha">Zoom lab celebration!</a>
         date: 17 Sep 2020
     -
-        content: Celebrated our 1 year wedding anniversary with a handshake.
+        content: Celebrated our 1 year wedding anniversary with a <a href="https://imgur.com/a/tLYiwfV">handshake.</a> Classic.
         date: 9 Sep 2020
     -
         content: Extremely depressed about global climate change.
@@ -173,7 +173,7 @@ newsfeed:
         content: First day as a remote intern "at" Microsoft!
         date: 1 Jun 2020
     -
-        content: DIS paper rejected :(
+        content: DIS paper rejected :( We actually expected this, and are looking forward to making some changes to it for CHI.
         date: 9 Apr 2020
     -
         content: Very lucky to be able to work from home starting today! Stay safe during this Coronavirus pandemic.
@@ -185,7 +185,7 @@ newsfeed:
         content: Submitted an AWESOME paper to DIS with my co-researcher Sarah. So so so excited, probably the most I've loved a project.
         date: 31 Jan 2020
     -
-        content: Matt and I got married :)
+        content: Matt and I got <a href="https://imgur.com/jNIUP2o">married :)</a>
         date: 9 Sep 2019
     -
         content: Happy to be back in Berkeley and finished with my Snap internship. If you have any questions about working with Snap, reach out!
@@ -215,7 +215,7 @@ newsfeed:
         content: I won the <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Snap Research fellowship!!</a> I'm truly flabbergasted and so honoured.
         date: 4 Feb 2019
     - 
-        content: I'm a finalist for the Snap fellowship!!! So excited and honored!!!
+        content: I'm a finalist for the Snap fellowship!!! So excited and honoured!!!
         date: 31 Jan 2019
     -
         content: Joined a theatre class where we work on a production with the amazing Stan Lai.
