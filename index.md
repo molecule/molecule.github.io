@@ -179,7 +179,7 @@ newsfeed:
         content: First day as a remote intern "at" Microsoft!
         date: 1 Jun 2020
     -
-        content: DIS paper rejected :( We actually expected this, and are looking forward to making some changes to it for CHI.
+        content: DIS paper rejected :( We kinda expected this, and are looking forward to making some changes for CHI.
         date: 9 Apr 2020
     -
         content: Very lucky to be able to work from home starting today! Stay safe during this Coronavirus pandemic.
