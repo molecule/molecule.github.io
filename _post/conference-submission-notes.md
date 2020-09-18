@@ -3,11 +3,21 @@ layout: post
 date: 2018-12-10
 image:
 submissions: 
+    -
+        conference: CHI 2021
+        notes: Submitted three papers. 1. One we had written last year, then submitted with the wrong format to IMWUT and got desk-rejected. 2. The rejected DIS 2020 paper, significantly reworked. We completely changed the structure and re-wrote it three times in the week leading up to the deadline. We are SO proud of it and hope the reviewers love it as much as we do! 3. A paper from an amazing summer project lead by a fellow intern at Microsoft. Was asked if I wanted to contribute an hour and a half before the Abstract deadline...uh...yes???? So proud of what we made.
+        icon: /src/img/icon-noun_Question_727759.png
+        link:
+    -
+        conference: DIS 2020
+        notes: Submitted a first draft of a paper. We LOVED this project and I think our love blinded us to the faults in our work. Rejected!
+        icon: /src/img/icon-noun_X_1890803.png
+        link:
     - 
         conference: CHI 2019
         notes: Collaborating with another lab, we worked for several weeks to design and construct an extremely elaborate and delicate user study setup for testing something very delicate, then ran 18 participants. Ok, *running* user studies isn't my favourite part (I do like it), *analyzing* user data is my favourite part. In total our lab submitted 6 papers, and all 6 were rejected. Ouch!
-        icon: /src/img/icon-noun_Question_727759.png
-        link: /src/img/icon-noun_X_1890803.png
+        icon: /src/img/icon-noun_X_1890803.png
+        link: 
     -
         conference: TEI 2019
         notes: Recycled our paper from UIST 2018 - finally accepted! We did another user study to flesh out the world and expand our framework. I didn't help as much with this second round (mostly helped w the camera-ready and a bit with the video).
@@ -40,6 +50,12 @@ submissions:
         link: https://molecule.github.io/project/illumination-aesthetics/
 
 ---
+<!-- 
+X: /src/img/icon-noun_X_1890803.png>
+Question mark: /src/img/icon-noun_Question_727759.png
+Award: /src/img/icon-noun_779891.svg
+Check mark: /src/img/icon-noun_checkmark_364806.png
+-->
 
 ### submission cycle notes through the years
 
