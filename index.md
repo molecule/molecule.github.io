@@ -3,6 +3,12 @@ title: about
 layout: centered
 projects:
     -
+        title: Kaleidoscope
+        desc: Coming soon.
+        tags: [res]
+        imag: /src/img/kaleidoscope-gif.gif
+        link: http://kaleidoscope.hybrid-ecologies.org/
+    -
         title: Conversations with Actuators
         desc: An Exploratory Design Environment for Hybrid Materials (TEI'19).
         tags: [res]
