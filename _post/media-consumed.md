@@ -4,6 +4,21 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 media:
     -
+        title: Legend of Korra
+        review: Great just to stay in touch with the world, but the characters don't have the same goofy charm as ATLA. Adults can be goofy too! Why won't they let adults and teenagers be goofy too?
+        rating: 2
+        link:
+    -
+        title: Avatar the Last Airbender
+        review: Started rewatching it the day after we finished it. Perfect in every way.
+        rating: 3
+        link:
+    -
+        title: Queen's Thief series
+        review: The only books I read now.
+        rating: 3
+        link:
+    -
         title: Lincoln in the Bardo
         review: Such an unusual structure! So unique! Really compelling and emotionally deep story. Loved it.
         rating: 2
@@ -110,7 +125,7 @@ media:
         link: https://www.alternateending.com/2012/05/matrixide-part-2-ex-machina.html
     -
         title: The Matrix Reloaded
-        review: I understand why everyone hated this movie!
+        review: Watched this for the first time. I now understand why everyone hated this movie!
         rating: 1.5
         link: https://www.alternateending.com/2012/05/matrixide-part-1-a-steaming-load.html
     -
@@ -120,7 +135,7 @@ media:
         link: https://www.alternateending.com/2010/07/blockbuster-history-mindfcking.html
     - 
         title: Down with Love
-        review: Rewatching this ~12 years later, it's clear that 80% of my enjoyment was just the Ewan McGregor porn. What can I say....
+        review: Rewatching this ~12 years later, it's clear that 80% of my enjoyment was just Ewan McGregor. What can I say....
         rating: 1.5
         link: 
     - 
@@ -140,7 +155,7 @@ media:
         link: 
     - 
         title: Jurassic Park
-        review: How is this so iconic? Hard to judge objectively, but I was interested in all the poor storytelling and thinly-defined characters.
+        review: How is this so iconic? Hard to judge objectively, but I did find the poor storytelling and thinly-defined characters very interesting.
         rating: 1.5
         link: https://www.alternateending.com/2013/04/welcome-to-jurassic-park.html
     - 
@@ -180,7 +195,7 @@ media:
         link: https://www.alternateending.com/2008/07/the-loser-has-to-fall.html
     -
         title: Mission Impossible 2
-        review: Laughably bad! SO many slow motion scenes of Tom Cruise and Thandie Newton gazing soulfully at each other! Basically soft porn and/or exposition the rest of the time! We muted it and watched it in fast motion (which just emphasized the poor camera work and awkward editing). Some of the scenes still felt slow! Kind of a masterpiece of awfulness, really, and therein lies its charm if you can stomach it. Makes Solo look like a gem.
+        review: Laughably bad! SO many slow motion scenes of Tom Cruise and Thandie Newton gazing soulfully at each other! Basically soft porn and/or exposition the rest of the time! We muted it and watched it in fast motion (which just emphasized the poor camera work and awkward editing). Even in fast motion, some of the scenes still felt slow! Kind of a masterpiece of awfulness, really, and therein lies its charm if you can stomach it. Makes Solo look like a gem.
         rating: 1.5
         link: https://www.alternateending.com/2015/08/blockbuster-history-this-mission-will-self-destruct.html
     -
@@ -205,7 +220,7 @@ media:
         link: https://www.imdb.com/title/tt0119174/
     - 
         title: Incredibles 2
-        review: GORGEOUS animation. Weird message, boring misogynistic man-baby unable to feel happy for his wife's success, and of the two strong female friends one of them - surprise - turns out to be the bad guy. This took 14 years? Maybe they should've spent an extra 2 on the story. (Ok...that's incredibly harsh but I have high expectations. It's 2018).
+        review: GORGEOUS animation. Weird message of boring misogynistic man-baby unable to feel happy for his wife's success, and of the two strong female friends one of them - surprise - turns out to be the bad guy. This took 14 years? Maybe they should've spent an extra 2 on the story...
         rating: 2
         link: https://www.alternateending.com/2018/06/incredibles-2-2018.html
     -
@@ -245,7 +260,7 @@ media:
         link: https://www.alternateending.com/2018/03/annihilation-2018.html
     -
         title: Game Night
-        review: It's not great but....what do you want. Jason Bateman and Rachel McAdams (one of the prettiest women alive) play characters who are in over their heads. I love how the couple seems to actually like and support each other. Great cameo by the excellent Chelsea Peretti.
+        review: It's not great but.... Jason Bateman and Rachel McAdams (one of the prettiest women alive) play characters who are in over their heads. I love how the couple seems to actually like and support each other. Great cameo by the excellent Chelsea Peretti.
         rating: 2
         link: https://www.alternateending.com/2018/03/game-night-2018.html
     -
@@ -410,12 +425,12 @@ media:
         link: https://www.alternateending.com/2015/05/the-maximum-force-of-the-future.html
     -
         title: Les Miserables
-        review: Having been a fan most of my life I was very worried about this one. But it's gorgeous. Hugh Jackman really blew me away. Best priest's house scene I've ever seen. Yes I loved Colm's cameo...how could you not.
+        review: Having been a fan most of my life I was very worried about this one. But it's gorgeous. Hugh Jackman really blew me away. Best priest's house scene I've ever seen. Yes I loved Colm's cameo.
         rating: 2.5
         link: https://www.alternateending.com/2012/12/let-others-rise-to-take-our-place-until-the-earth-is-free.html
     - 
         title: Kubo and the Two Strings
-        review: For some reason, the monkey's monologue before they enter the whale made me laugh harder than I've laughed in the last twenty years, at least. I can't explain it. This film is gorgeous and wonderful. This movie taught me that the only thing you need to do to make two characters seem to like each other is have them smile at each other. They can still banter! They can disagree! But occasional smiles is all it takes to escape the horrible "sitcom nastiness" so endemic to writing these days.
+        review: For some reason, the monkey's monologue before they enter the whale made me laugh harder than I've laughed in the last twenty years, at least. I can't explain it. This film is gorgeous and wonderful. This movie taught me that the only thing you need to do to make two characters seem to like each other is have them smile at each other. They can still have sassy banter! They can disagree! But occasional smiles is all it takes to escape the horrible "sitcom nastiness" so endemic to writing these days.
         rating: 2.5
         link: https://www.alternateending.com/2016/08/if-you-look-away-even-for-an-instant-then-our-hero-will-surely-perish.html 
     -
@@ -460,7 +475,7 @@ media:
         link: https://www.alternateending.com/2017/03/beauty-beast-2017.html
     -
         title: Get Out
-        review: This movie captured and gave voice to a part of our society that desperately needed it. Iconic.
+        review: Iconic. I enjoy asking people what they think the scariest scene is.
         rating: 2.5
         link: https://www.alternateending.com/2017/03/get-out-2017.html
     -
