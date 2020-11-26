@@ -11,6 +11,7 @@ Some more advice from Gene Golovchinsky at FXPAL: http://palblog.fxpal.com/?p=50
 Jeff Bigham: http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html
 Meri Morris: https://cs.stanford.edu/~merrie/merrie_rebuttal_tips.pdf
 Niklas Elmqvist: https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/
+Hyunyoung Song: https://hyunyoungsong.wordpress.com/2010/12/18/how-to-write-a-acm-sigchi-rebuttal/
 
 (The following is from Wendy Mackay, Scott Klemmer, Gene Golovchinsky and Bjoern Hartmann)
 
@@ -148,3 +149,37 @@ INDIVIDUAL CONCERNS
 - ASSOCIATING METADATA WITH TEXT IS NOT NOVEL (R3): We agree; the confusion may be due to poor phrasing. The novelty is in the specific instance of association web pages with characters, not the abstract concept.
 - FILE FORMAT & REPERCUSSIONS NOT DESCRIBED (R3): We regret the omission. HyperSource writes a shadow file in addition to the traditional source file (a separate .hypersrc file is placed alongside the source file). Use of this file is optional. This means collaborators can still read the original source file. If collaborators edit the source file without HyperSource, shadow file and source file are out of sync. File differencing algorithms could be used to re-sync the shadow file.
 - ARE UNRELATED PAGES CAPTURED OR NOT? (R3) We clarify: our *model* of alternating edit-browse-cycles does not take into account whether browsing is code-related or not. This means that the state machine that implements this model does not discriminate between different page types. This discrimination is made based on heuristics and black lists (R1: the heuristics are "extremely promising".)
+
+## Hyunyoung Song
+I originally wanted to post this during the SIGCHI rebuttal period. However, I was afraid that it may hurt the acceptance rate of my paper somehow. (Maybe by revealing my identity to the external reviewers? I don’t know. Anything is possible. No?) Hence, I decided to write this immediately after the notification, while everything is still hot in my head.  Maybe students that have to write a rebuttal for CHI2012 may find my post useful.
+
+First, I will start by my opinion on why it is difficult to write a convincing rebuttal.
+
+If 90% of writing a paper requires knowing how to explain a research idea and 10% knowing how to convince another researcher, writing a rebuttal requires 10% of the former and 90% of the latter. As a junior researcher (like myself, a graduate student), the only senior researcher you talk to in a daily basis is your advisor.  Yet, your advisor is only one sample point among the pool of senior researchers. How on earth would you know how to convince another senior researcher when you do not even know how to initiate a serious conversation with them?
+
+It is always difficult to take criticism. This is especially the case for people like us Ph.D. students who always strive to produce results that are flawless. We seldom hear that our work is a crap in our face. Additionally, the criticism that we have to take in the review seems unjust especially when you believe that the person who’s making the criticism spent maybe a day or two reading a document that you spent endless nights editing over and over again for several months.  Some reviewers are actually nasty too. Although it is written in fancy and erudite terms, sometimes the reason that they are rejecting your paper is simply because, “you did not do a good job in impressing me” or “I do not buy your research story”. How would you possibly stay sane when you read these comments?
+
+Despite, many reasons to yell at your reviewers and say, “you are full of s**t~!!”. We should not even express this in any indirect way while writing our rebuttal. In the past, I always had to discard the very first draft that I produced after reading the harsh reviews. My rebuttal was bitter, smirking, cynical and mean. This was not obvious until I slept at least two days crying over it and returned to my calm and reasonable self.
+
+This year, due to my post (in my Korean blog) about my experience in writing a CHI rebuttal in the past years, I’ve been asked by several junior students (outside my institute) to help out in writing their rebuttal. While doing so, there are several tips that I repeated. Here are some of them.
+
+[Understanding and analyzing the review]
+Read your reviews with another coauthor and have an in-depth discussion. It is important to address the most important issues first and address only the problems that reviewers raise. Sometimes, I realize that I misunderstood what the reviewer meant and was addressing something that was totally unnecessary. Sometimes, I structured my arguments in the wrong order: order of least importance to most importance.  Many authors actually make these mistakes during the writing process, not because they are careless, but because the reviews are somewhat encrypted. Not all of them are kind enough to tell us “A is unconvincing and A’ is my opinion. B and C are what I do not understand but authors should only address B because C is not as important”. It comes more like this, “A is weird, B is weird, C is weird”. Usually, meta-reviewer tries help us by decrypting the dialect of the external reviewers so that the authors are not at a loss. However, not all meta-reviewer are nice either. For this reason, I always talk with my advisor or one of my coauthors for 2~3 hours about the reviews before writing anything. This usually helps a lot.
+
+[Writing process]
+Agree with your reviewers. Last year, one of the rebuttal of the paper that I reviewed basically stated that “R1 (myself) is wrong because so and so, and our paper is awesome”. This rebuttal didn’t acknowledge some of the important problems that I pointed out and tried to challenge my judgement. I was offended and became more strict in finding faults of the paper during the discussion period. This is the last thing that the authors want. Making an enemy among the reviewers. To make an ally, you have to tell them how useful their feedbacks are and you have to sincerely mean it too.
+
+Specify how the camera ready version will be reflected based on the reviewer’s request. Often, there are rebuttals that just say, “I understand R2’s point”. This is only half-baked response. The goal of the rebuttal is to demonstrate how the camera ready version will be changed according to the issues raised. Hence, the response should be more specific and go even one step further. Like this:  “the question A is raised by R2 because we only explained B in section C when it is also needed in section D. In the camera ready version we will clarify B in section D”
+
+Do not say that the draft will be improved with a major change. I have seen several authors that say in their rebuttal “After the submission we did A,B, and C which addresses all of R1,R2, R3 questions which will be updated in the final draft”. This approach is very bad. First, you are admitting that current draft has many issues. Second, during the PC meeting, papers are discussed “as is”. If it is concluded in the PC meeting that the paper requires major revision, PC members advise that it should be submitted to a future venue. Better approach is to figure out what reviewers misunderstood. Explain why there was a miscommunication and offer ways for reviewers to solve those misunderstandings. Point to a paragraph or a figure in the paper. If needed, direct them to a reference that is not cited in your paper. This is what a rebuttal is for; to clarify.
+
+[Formatting and Style]
+Although 5000 characters limit may seem insufficient to explain everything, do not hesitate to allocate some of those characters in white spaces and phrases such as (in response to R1, as mentioned by R2, in our RELATED WORK section, in p8~9). At a glance, they want to see which major raised points have been addressed and which part of the paper they should read again. Sometimes, I use the web browser search tool (namely Ctrl+F) to locate my reviewer id (RX) in the rebuttal and read the accompanying paragraph more carefully to make sure that I didn’t miss anything.
+
+Last but not least, write short and direct sentences. Any sentence that you write to explain in your rebuttal have 50/50 chance of helping your paper and hurting your paper. The longer and indirect a sentence, the higher chance of mis-interpretation. On top of that, reviewers have very short attention span. If sentence become convoluted, they will read what they think the sentence is saying as opposed to what the sentence is actually saying.
+
+The biggest question behind all this is, “Does reviewers actually change their score after reading a rebuttal?”.
+
+And the answer is “YES”~!!. Among the 7 papers that I reviewed this year, I increased the score by 0.5 in one paper because I was happy to learn something that I didn’t know from the rebuttal. Among my 4 papers (2 in previous years and 2 in current year) that have been accepted, 3 paper scores actually increased (by +0.4, +0.1, +0.4) after the rebuttal period.
+
+Although it is painful and tedious process to write a good rebuttal, it is very rewarding once you DO write a good one.
