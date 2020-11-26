@@ -1,7 +1,7 @@
 ---
-title: Mountain Dew Dumplings
+title: Mountain Dew Monstrosity Dumplings
 layout: recipe
-description: Also known as "dutch babies" these are the best pancakes in the world.
+description: Watch out when making this recipe. It is phenomenally delicious.
 image_path: /src/img/image-coming-soon.png
 ---
 
@@ -25,3 +25,5 @@ image_path: /src/img/image-coming-soon.png
 7. Pour Mountain Dew around edges.
 8. Sprinkle with cinnamon.
 9. Bake for 40 minutes at 350 degrees.
+
+These freeze and re-heat very very well.
