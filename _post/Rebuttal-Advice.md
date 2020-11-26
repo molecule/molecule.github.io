@@ -8,6 +8,9 @@ image:
 
 An [excellent rebuttal process suggestion from Albrecth Schmidt](http://albrecht-schmidt.blogspot.com/2012/11/sigchi-rebuttals-some-suggestions-to.html).
 Some more advice from Gene Golovchinsky at FXPAL: http://palblog.fxpal.com/?p=5001
+Jeff Bigham: http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html
+Meri Morris: https://cs.stanford.edu/~merrie/merrie_rebuttal_tips.pdf
+Niklas Elmqvist: https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/
 
 (The following is from Wendy Mackay, Scott Klemmer, Gene Golovchinsky and Bjoern Hartmann)
 
