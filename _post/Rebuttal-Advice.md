@@ -1,17 +1,28 @@
 ---
 layout: post
-date: 2018-11-17
+date: 2020-11-25
 image:
 ---
 
-## REBUTTAL ADVICE
+## REBUTTAL GUIDES
 
-An [excellent rebuttal process suggestion from Albrecth Schmidt](http://albrecht-schmidt.blogspot.com/2012/11/sigchi-rebuttals-some-suggestions-to.html).
-Some more advice from Gene Golovchinsky at FXPAL: http://palblog.fxpal.com/?p=5001
-Jeff Bigham: http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html
-Meri Morris: https://cs.stanford.edu/~merrie/merrie_rebuttal_tips.pdf
-Niklas Elmqvist: https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/
-Hyunyoung Song: https://hyunyoungsong.wordpress.com/2010/12/18/how-to-write-a-acm-sigchi-rebuttal/
+1. An [excellent rebuttal process suggestion from Albrecth Schmidt](http://albrecht-schmidt.blogspot.com/2012/11/sigchi-rebuttals-some-suggestions-to.html).
+2. Some more [advice from Gene Golovchinsky at FXPAL](http://palblog.fxpal.com/?p=5001)
+3. [Jeff Bigham](http://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html)
+4. [Meri Morris](https://cs.stanford.edu/~merrie/merrie_rebuttal_tips.pdf)
+5. [Niklas Elmqvist](https://sites.umiacs.umd.edu/elm/2016/11/19/writing-rebuttals/)
+6. [Hyunyoung Song](https://hyunyoungsong.wordpress.com/2010/12/18/how-to-write-a-acm-sigchi-rebuttal/)
+
+### If your paper is definitely getting rejected
+Always thank the reviewers anyway.
+
+“We thank the reviewers for their time and efforts in providing thoughtful feedback on our paper.  We look forward to using this feedback to improve the paper and look forward to a future submission.  Thank you.” (Phrasing suggested by Eric Paulos)
+
+"A sincere thank you to all the reviewers of this paper; your reviews were very thorough and raised excellent points that will help us improve this paper and communicate more effectively for future submissions." (Phrasing suggested by Payod Panda)
+
+"We thank the reviewers for their valuable and constructive critique and will use it to develop this work further for a future venue. Thank you!" (Phrasing suggested by Wendy Mackay)
+
+## REBUTTAL ADVICE
 
 (The following is from Wendy Mackay, Scott Klemmer, Gene Golovchinsky and Bjoern Hartmann)
 
@@ -36,7 +47,7 @@ Say, "Statistic Y is (BLANK). We will present this instead of / in addition
 to statistic X." In other words, don't *say* what you will do. Do it,
 and summarize the upshot in the rebuttal.
 
-Bjoern would add:
+### Bjoern would add:
 1. Address the most significant issues first, and smaller clarifications last. Issues raised by the 1AC or 2AC are often especially relevant, as they have distilled multiple reviews for you, and they will be present when the paper is discussed.
 2. Use headings (e.g., IN CAPITAL LETTERS) to signal what topic is addressed in which paragraph.
 3. Mention the reviewers who raised each issue (e.g., R1, R3 question
@@ -122,9 +133,6 @@ Remember:
 #### Day four:
 - Once your co-authors are happy, find at least one non-author to review the rebuttal
 
-### If you won't submit a rebuttal, at least submit this:
-
-We thank the reviewers for their valuable and constructive critique and will use it to develop this work further for a future venue. Thank you!
 
 ### Example rebuttal 1
 
@@ -163,17 +171,17 @@ Despite, many reasons to yell at your reviewers and say, “you are full of s**t
 
 This year, due to my post (in my Korean blog) about my experience in writing a CHI rebuttal in the past years, I’ve been asked by several junior students (outside my institute) to help out in writing their rebuttal. While doing so, there are several tips that I repeated. Here are some of them.
 
-[Understanding and analyzing the review]
+### [Understanding and analyzing the review]
 Read your reviews with another coauthor and have an in-depth discussion. It is important to address the most important issues first and address only the problems that reviewers raise. Sometimes, I realize that I misunderstood what the reviewer meant and was addressing something that was totally unnecessary. Sometimes, I structured my arguments in the wrong order: order of least importance to most importance.  Many authors actually make these mistakes during the writing process, not because they are careless, but because the reviews are somewhat encrypted. Not all of them are kind enough to tell us “A is unconvincing and A’ is my opinion. B and C are what I do not understand but authors should only address B because C is not as important”. It comes more like this, “A is weird, B is weird, C is weird”. Usually, meta-reviewer tries help us by decrypting the dialect of the external reviewers so that the authors are not at a loss. However, not all meta-reviewer are nice either. For this reason, I always talk with my advisor or one of my coauthors for 2~3 hours about the reviews before writing anything. This usually helps a lot.
 
-[Writing process]
+### [Writing process]
 Agree with your reviewers. Last year, one of the rebuttal of the paper that I reviewed basically stated that “R1 (myself) is wrong because so and so, and our paper is awesome”. This rebuttal didn’t acknowledge some of the important problems that I pointed out and tried to challenge my judgement. I was offended and became more strict in finding faults of the paper during the discussion period. This is the last thing that the authors want. Making an enemy among the reviewers. To make an ally, you have to tell them how useful their feedbacks are and you have to sincerely mean it too.
 
 Specify how the camera ready version will be reflected based on the reviewer’s request. Often, there are rebuttals that just say, “I understand R2’s point”. This is only half-baked response. The goal of the rebuttal is to demonstrate how the camera ready version will be changed according to the issues raised. Hence, the response should be more specific and go even one step further. Like this:  “the question A is raised by R2 because we only explained B in section C when it is also needed in section D. In the camera ready version we will clarify B in section D”
 
 Do not say that the draft will be improved with a major change. I have seen several authors that say in their rebuttal “After the submission we did A,B, and C which addresses all of R1,R2, R3 questions which will be updated in the final draft”. This approach is very bad. First, you are admitting that current draft has many issues. Second, during the PC meeting, papers are discussed “as is”. If it is concluded in the PC meeting that the paper requires major revision, PC members advise that it should be submitted to a future venue. Better approach is to figure out what reviewers misunderstood. Explain why there was a miscommunication and offer ways for reviewers to solve those misunderstandings. Point to a paragraph or a figure in the paper. If needed, direct them to a reference that is not cited in your paper. This is what a rebuttal is for; to clarify.
 
-[Formatting and Style]
+### [Formatting and Style]
 Although 5000 characters limit may seem insufficient to explain everything, do not hesitate to allocate some of those characters in white spaces and phrases such as (in response to R1, as mentioned by R2, in our RELATED WORK section, in p8~9). At a glance, they want to see which major raised points have been addressed and which part of the paper they should read again. Sometimes, I use the web browser search tool (namely Ctrl+F) to locate my reviewer id (RX) in the rebuttal and read the accompanying paragraph more carefully to make sure that I didn’t miss anything.
 
 Last but not least, write short and direct sentences. Any sentence that you write to explain in your rebuttal have 50/50 chance of helping your paper and hurting your paper. The longer and indirect a sentence, the higher chance of mis-interpretation. On top of that, reviewers have very short attention span. If sentence become convoluted, they will read what they think the sentence is saying as opposed to what the sentence is actually saying.
