@@ -5,7 +5,7 @@ image:
 submissions: 
     -
         conference: CHI 2021
-        notes: Submitted three papers. 1. One we had written last year, then submitted with the wrong format to IMWUT and got desk-rejected. 2. The rejected DIS 2020 paper, significantly reworked. We completely changed the structure and re-wrote it three times in the week leading up to the deadline. We are SO proud of it and hope the reviewers love it as much as we do! 3. A paper from an amazing summer project lead by a fellow intern at Microsoft. Was asked if I wanted to contribute an hour and a half before the Abstract deadline...uh...yes???? So proud of what we made.
+        notes: Submitted three papers. 1. One we had written last year, then submitted with the wrong format to IMWUT and got desk-rejected. 2. The rejected DIS 2020 paper, significantly reworked. We completely changed the structure and re-wrote it three times in the week leading up to the deadline. We are SO proud of it and hope the reviewers love it as much as we do! 3. A paper from an amazing summer project lead by a fellow intern at Microsoft. Was asked if I wanted to contribute an hour and a half before the Abstract deadline...uh...yes???? So proud of what we made. Results for Paper 1 MetaReviewer (1AC) - 2.5; Reviewer 1 (2AC) - 3;  Reviewer 2 - 3; Reviewer 3 - 2. We're taking it as a hopeful sign that the 2AC gave us a 3... Results for Paper 2 MetaReviewer (1AC) - 2.5; Reviewer 2 (2AC) - 2; Reviewer 1 - 3; Reviewer 3 - 2. Paper 3 got all 1.5s, so we submitted no rebuttal. 
         icon: /src/img/icon-noun_Question_727759.png
         link:
     -
