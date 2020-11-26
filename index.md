@@ -164,6 +164,9 @@ hidden:
 
 newsfeed:
     -
+        content: Made it through the waking nightmare that is the <a href="https://i.imgur.com/tMIbxeY.png">CHI rebuttal process.</a> Happy Thanksgiving!
+        date: 26 Nov 2020
+    -
         content: Submitted 3 papers to CHI! Then we had a <a href="https://imgur.com/a/lqXhJha">Zoom lab celebration!</a>
         date: 17 Sep 2020
     -
