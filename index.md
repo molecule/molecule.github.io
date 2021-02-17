@@ -164,7 +164,7 @@ hidden:
 
 newsfeed:
     -
-        content: Spent the last 3 months writing and polishing 5 papers for DIS and IMWUT. So proud of what we've been working on!
+        content: Spent the last 3 months writing and polishing 5 papers for DIS and IMWUT. So proud!!
         date: 11 Feb 2021
     -
         content: All our CHI papers were rejected, BUT we got some fantastic, thorough, thoughtful reviews!
