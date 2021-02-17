@@ -2,7 +2,7 @@
 title: Peak to Peak Pancakes
 layout: recipe
 description: Also known as "dutch babies" these are the best pancakes in the world.
-image_path: /src/img/image-coming-soon.png
+image_path: /src/img/peak-to-peak.jpg
 ---
 
 #### Ingredients
@@ -36,3 +36,5 @@ image_path: /src/img/image-coming-soon.png
 6. Reduce oven temperature to 325 degrees and bake 8-10 minutes.  
 7. Invert on serving platter.  
 8. Sprinkle with powdered sugar and serve with fresh berries and warm maple syrup on the side. 
+
+This recipe was originally made for high altitude, but it seems to work fine at sea level too.
