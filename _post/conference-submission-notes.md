@@ -4,9 +4,19 @@ date: 2020-09-17
 image:
 submissions: 
     -
-        conference: CHI 2021
-        notes: Submitted three papers. 1. One we had written last year, then submitted with the wrong format to IMWUT and got desk-rejected. 2. The rejected DIS 2020 paper, significantly reworked. We completely changed the structure and re-wrote it three times in the week leading up to the deadline. We are SO proud of it and hope the reviewers love it as much as we do! 3. A paper from an amazing summer project lead by a fellow intern at Microsoft. Was asked if I wanted to contribute an hour and a half before the Abstract deadline...uh...yes???? So proud of what we made. Results for Paper 1 MetaReviewer (1AC) - 2.5; Reviewer 1 (2AC) - 3;  Reviewer 2 - 3; Reviewer 3 - 2. We're taking it as a hopeful sign that the 2AC gave us a 3... Results for Paper 2 MetaReviewer (1AC) - 2.5; Reviewer 2 (2AC) - 2; Reviewer 1 - 3; Reviewer 3 - 2. Paper 3 got all 1.5s, so we submitted no rebuttal. 
+        conference: IMWUT 2021
+        notes: Reworked our rejected CHI 2021 submission. It makes more sense for this conference anyway!
         icon: /src/img/icon-noun_Question_727759.png
+        link: 
+    -
+        conference: DIS 2021
+        notes: Submitted 4 papers. P1, P2, Significantly reworked versions of the rejected CHI'21 paper, now split into two papers. We were consistently getting feedback that the story was too messy but we had so much cool stuff to talk about so we wrote two full papers. P3 I was finally struck by inspiration for how to present work from a project I had completed in Spring of 2019! P4 A summer hackathon project we were all super excited about. 
+        icon: /src/img/icon-noun_Question_727759.png
+        link:
+    -
+        conference: CHI 2021
+        notes: Submitted three papers. PAPER 1) One we had written last year, then submitted with the wrong format to IMWUT and got desk-rejected. MetaReviewer (1AC) - 2.5; Reviewer 1 (2AC) - 3;  Reviewer 2 - 3; Reviewer 3 - 2. We're taking it as a hopeful sign that the 2AC gave us a 3... PAPER 2) The rejected DIS 2020 paper, significantly reworked. We completely changed the structure and re-wrote it three times in the week leading up to the deadline. We are SO proud of it and hope the reviewers love it as much as we do! MetaReviewer (1AC) - 2.5; Reviewer 2 (2AC) - 2; Reviewer 1 - 3; Reviewer 3 - 2. PAPER 3) A paper from an amazing summer project lead by a fellow intern at Microsoft. Was asked if I wanted to contribute an hour and a half before the Abstract deadline...uh...yes???? Reviews all 1.5s, so we submitted no rebuttal. All rejected in the end!
+        icon: /src/img/icon-noun_X_1890803.png
         link:
     -
         conference: DIS 2020
