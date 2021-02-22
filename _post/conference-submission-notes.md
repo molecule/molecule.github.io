@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2020-09-17
+date: 2021-02-21
 image:
 submissions: 
+    -
+        conference: CnC 2021
+        notes: Tis the season for rejected paper revival I guess! Reviving a paper that was rejected from CHI, DIS, then ISWC for CnC. This is definitely the best version of it that has ever existed.
+        icon: /src/img/icon-noun_Question_727759.png
+        link: 
     -
         conference: IMWUT 2021
         notes: Reworked our rejected CHI 2021 submission. It makes more sense for this conference anyway!
