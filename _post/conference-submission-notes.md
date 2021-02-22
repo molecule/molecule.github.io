@@ -15,7 +15,7 @@ submissions:
         link: 
     -
         conference: DIS 2021
-        notes: Submitted 4 papers. P1, P2, Significantly reworked versions of the rejected CHI'21 paper, now split into two papers. We were consistently getting feedback that the story was too messy but we had so much cool stuff to talk about so we wrote two full papers. P3 I was finally struck by inspiration for how to present work from a project I had completed in Spring of 2019! P4 A summer hackathon project we were all super excited about. 
+        notes: Submitted 4 papers. P1, P2 - Significantly reworked versions of the rejected CHI'21 paper, now split into two papers. We were consistently getting feedback that the story was too messy but we had so much cool stuff to talk about so we wrote two full papers. P3 - I was finally struck by inspiration for how to present work from a project I had completed in Spring of 2019! P4 - A summer hackathon project we were all super excited about. 
         icon: /src/img/icon-noun_Question_727759.png
         link:
     -
@@ -25,7 +25,7 @@ submissions:
         link:
     -
         conference: DIS 2020
-        notes: Submitted a first draft of a paper. We LOVED this project and I think our love blinded us to the faults in our work. Rejected!
+        notes: Submitted a first draft of a paper. We LOVED this project and I think our love blinded us to the faults in our draft. Rejected!
         icon: /src/img/icon-noun_X_1890803.png
         link:
     - 
