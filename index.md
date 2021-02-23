@@ -164,7 +164,7 @@ hidden:
 
 newsfeed:
     -
-        content: In the last week I've submitted 7 papers to 4 different conferences. DIS - 4, IMWUT - 1, Frontiers - 1, C&C - 1.
+        content: In the last week I've submitted 7 papers to 4 different conferences. DIS(4), IMWUT(1), Frontiers(1), C&C(1).
         date: 22 Feb 2021
     -
         content: Spent the last 3 months writing and polishing 5 papers for DIS and IMWUT. So proud!!
