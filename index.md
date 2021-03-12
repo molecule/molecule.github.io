@@ -164,6 +164,9 @@ hidden:
 
 newsfeed:
     -
+        content: I just learned I've received <a href="https://twitter.com/FakePaperclips/status/1370131214430924803?s=20">recognition for writing two excellent reviews???</a> Why is this information <a href="https://new.precisionconference.com/reviewing_history">so hidden on the PCS website??</a>
+        date: 11 Mar 2021
+    -
         content: In the last week I've submitted 7 papers to 4 different conferences. DIS(4), IMWUT(1), Frontiers(1), C&C(1).
         date: 22 Feb 2021
     -
