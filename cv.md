@@ -208,6 +208,9 @@ rows:
     -
         left:
         right: Panda Payod, Mar Gonzalez-Franco, Kori Inkpen, <b>Molly Jane Nicholas</b>, Eyal Ofek, Ross Cutler, and Jaron Lanier.
+     -
+        left:
+        right: Sarah Sterman, <b>Molly Jane Nicholas*</b>, (many others) and Eric Paulos.
     -
         left:
         right: <br>
