@@ -189,10 +189,19 @@ rows:
         right: <h2 style="text-align:left">publications</h2>
     -
         left:
-        right: <p class="cv-italics">5 published papers, 3 under review</p>
+        right: <p class="cv-italics">5 published papers, 7 under review</p>
     -
         left: under review
         right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, Janaki Vivrekar, and Eric Paulos. *both authors contributed equally.
+    -
+        left:
+        right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, and Eric Paulos. *both authors contributed equally.
+    -
+        left:
+        right: <b>Molly Jane Nicholas</b>, Payod Panda, Eyal Ofek, Mar Gonzalez-Franco, Ken Hinckley, Jaron Lanier, Sean Rintel.
+    -
+        left:
+        right: Payod Panda, Mar Gonzalez-Franco, <b>Molly Jane Nicholas</b>, Kori Inkpen, Eyal Ofek, Ross Cutler, Jaron Lanier.
     -
         left:
         right: <b>Molly Jane Nicholas</b>, Brian Smith, and Rajan Vaish.
@@ -336,7 +345,10 @@ rows:
         right: <h2 style="text-align:left">service</h2>
     -
         left: peer reviews
-        right: 12 reviews total. CHI ‘16 - '19,  DIS '16 - '19,  TEI '18 - ’19, C&C '19
+        right: 42 reviews total as of 2020. CHI ‘16 - '21,  DIS '16 - '21,  TEI '18 - ’19, C&C '19-'21.
+    -
+        left: Special Recognitions for Outstanding Reviews
+        right: DIS 2020 (1), CSCW 2021 (2)
     -
         left: student volunteer
         right: CHI '18, C&C/DIS '19
