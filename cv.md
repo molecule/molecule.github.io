@@ -210,7 +210,7 @@ rows:
         right: Panda Payod, Mar Gonzalez-Franco, Kori Inkpen, <b>Molly Jane Nicholas</b>, Eyal Ofek, Ross Cutler, and Jaron Lanier.
      -
         left:
-        right: Sarah Sterman, <b>Molly Jane Nicholas*</b>, (many others) and Eric Paulos.
+        right: Sarah Sterman, <b>Molly Jane Nicholas</b>, (many others) and Eric Paulos.
     -
         left:
         right: <br>
@@ -358,7 +358,7 @@ rows:
     -
         left: special recognition for outstanding reviews
         right: DIS 2020 (1), CSCW 2021 (2)
-     -
+    -
         left:
         right: <br>
     -
