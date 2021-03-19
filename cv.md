@@ -332,8 +332,11 @@ rows:
         left: 
         right: <h2 style="text-align:left">mentorship</h2>
     -
+        left: HCI Research
+        right: Jessie Mindel (BCNM Research Fellow, 1 year)
+    -
         left: CS + Cognitive Science
-        right: Arianna Ninh (2 years)
+        right: Arianna Ninh (BCNM Research Fellow, 2 years)
     -
         left: GPS
         right: Three scholars.
