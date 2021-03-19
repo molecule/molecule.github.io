@@ -344,11 +344,17 @@ rows:
         left: 
         right: <h2 style="text-align:left">service</h2>
     -
-        left: peer reviews
+        left: reviews
         right: 42 reviews total as of 2020. CHI ‘16 - '21,  DIS '16 - '21,  TEI '18 - ’19, C&C '19-'21.
     -
-        left: Special Recognitions for Outstanding Reviews
+        left:
+        right: <br>
+    -
+        left: special recognition for outstanding reviews
         right: DIS 2020 (1), CSCW 2021 (2)
+     -
+        left:
+        right: <br>
     -
         left: student volunteer
         right: CHI '18, C&C/DIS '19
