@@ -198,6 +198,9 @@ rows:
         right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, and Eric Paulos. *both authors contributed equally.
     -
         left:
+        right: Sarah Sterman, <b>Molly Jane Nicholas</b>, many others, and Eric Paulos.
+    -
+        left:
         right: <b>Molly Jane Nicholas</b>, Payod Panda, Eyal Ofek, Mar Gonzalez-Franco, Ken Hinckley, Jaron Lanier, Sean Rintel.
     -
         left:
@@ -208,9 +211,6 @@ rows:
     -
         left:
         right: Panda Payod, Mar Gonzalez-Franco, Kori Inkpen, <b>Molly Jane Nicholas</b>, Eyal Ofek, Ross Cutler, and Jaron Lanier.
-     -
-        left:
-        right: Sarah Sterman, <b>Molly Jane Nicholas</b>, (many others) and Eric Paulos.
     -
         left:
         right: <br>
