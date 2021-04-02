@@ -5,7 +5,7 @@ image:
 ---
 
 ## REVIEW GUIDES
-There are TONS of incredible resources for writing rebuttals[1],  and excellent critiques of the peer review system[2],[3], but there are far fewer guides for writing helpful **reviews.** I've collected the few that I've found here!
+There are TONS of incredible resources for writing rebuttals[[1]],  and excellent critiques of the peer review system[[2]],[[3]], but there are far fewer guides for writing helpful **reviews.** I've collected the few that I've found here!
 
 - [Bjoern Hartmann has a thoughtful writeup.](https://people.eecs.berkeley.edu/~bjoern/advice/reviewing.html)
 - Ken Hinckley wrote [an absolute classic about the importance of looking for the merit in work, rather than trying to identify flaws.](http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf)
