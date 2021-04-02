@@ -9,7 +9,7 @@ There are TONS of incredible resources for writing rebuttals[1],  and excellent 
 
 - [Bjoern Hartmann has a thoughtful writeup.](https://people.eecs.berkeley.edu/~bjoern/advice/reviewing.html)
 - Ken Hinckley wrote [an absolute classic about the importance of looking for the merit in work, rather than trying to identify flaws.](http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf)
-- Dan Cosley wrote [a blog about the reviewing process](https://blogs.cornell.edu/danco/2014/06/12/how-i-review-papers/).
+- Dan Cosley wrote [an excellent and thorough blog about the reviewing process](https://blogs.cornell.edu/danco/2014/06/12/how-i-review-papers/).
 - [Another one from Rice Lab](https://ricelab.github.io/blog/2018/writing-reviews-for-hci/)
 - Max Wilson [wrote one a very brief blog post, as part of a class for the COVID-cancelled CHI 2020](http://www.cs.nott.ac.uk/~pszmw/peer-review-course/).
 - And then there's [an extended abstract about reviewing.](https://dl.acm.org/doi/10.1145/3027063.3027097)
