@@ -1,6 +1,6 @@
- ---
+---
 layout: post
-date: 2021-04-02
+date: 2021-03-31
 image:
 ---
 
@@ -16,4 +16,8 @@ There are TONS of incredible resources for writing rebuttals[1],  and excellent 
 - CHI has [an official guide that is sort of helpful.](https://chi2020.acm.org/guide-to-reviewing-papers/)
 - Then there's the [Unofficial Guide to reviewing for HCI](https://docs.google.com/document/d/1MpH3zV8WFU5avQHqrVTtxu-wNWzeTstxWy7K__HK5Nc/edit#heading=h.mq8hia60enm8), which is much more interesting but still not that helpful.
 
-But what I always wanted was to see specific examples of high quality reviews, which I was never able to find. Well, as I found out accidentally, it turns out [I myself am an award-winning review writer!](https://twitter.com/FakePaperclips/status/1370131214430924803) To date, I have won 3 "special recognitions" for "outstanding reviews". I'm working on anonymizing those to post them here soon!!
+But what I always wanted was to see specific, concrete, actual examples of high quality reviews, which I was never able to find. Well, as I found out accidentally, it turns out that [I myself am an award-winning review writer!](https://twitter.com/FakePaperclips/status/1370131214430924803) To date, I have won 3 "special recognitions" for "outstanding reviews". I'm working on anonymizing those to post them here soon!!
+
+[1]:(https://molecule.github.io/post/Rebuttal-Advice/)
+[2]:(https://twitter.com/mcmullarkey/status/1366091589345501194?s=20)
+[3]:(https://www.sigarch.org/why-we-should-include-one-shot-revision-in-our-review-process/)
