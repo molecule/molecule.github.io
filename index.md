@@ -94,7 +94,7 @@ projects:
         link: /project/food-and-fitness
     -
         title: Flying Trapeze
-        desc: Circus training
+        desc: I still train circus skills!
         tags: [per]
         imag: /src/img/flying-catch-square.gif
     -
