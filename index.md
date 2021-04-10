@@ -93,6 +93,11 @@ projects:
         imag: /src/img/24-second-food-and-fitness.jpg
         link: /project/food-and-fitness
     -
+        title: Flying Trapeze
+        desc: Circus training
+        tags: [per]
+        imag: /src/img/flying-catch-square.gif
+    -
         title: Emil of Lonneberga
         desc: Bay Area Children's Theatre production
         tags: [per]
