@@ -174,6 +174,9 @@ hidden:
 
 newsfeed:
     -
+        content: My first first-author paper was accepted to DIS 2021!! More details later...
+        date: 9 Apr 2021
+    -
         content: I just learned I've received <a href="https://twitter.com/FakePaperclips/status/1370131214430924803?s=20">recognition for writing three excellent reviews???</a> Why is this information <a href="https://new.precisionconference.com/reviewing_history">so hidden on the PCS website??</a>
         date: 11 Mar 2021
     -
