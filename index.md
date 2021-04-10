@@ -3,6 +3,11 @@ title: about
 layout: centered
 projects:
     -
+        title: Technology-Mediated Theatre Experiences
+        desc: DIS 2021 paper coming soon.
+        tags: [res]
+        imag: /src/img/theatre-teaser.png
+    -
         title: Kaleidoscope
         desc: Coming soon.
         tags: [res]
