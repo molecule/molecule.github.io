@@ -40,6 +40,15 @@ https://betterbythebeat.com/the-levine-protocol-for-exercising-with-pots/
 https://www.dysautonomiainternational.org/pdf/CHOP_Modified_Dallas_POTS_Exercise_Program.pdf
 
 https://betterbythebeat.com/how-to-calculate-your-levine-protocol-training-paces/
+Step 1: Find your Max Heart Rate (MaxHR): 220 – your age = 220 - 36 = 184
+Step 2: Find Heart Rate Reserve (HRR): MaxHR – supine resting HR = 184 - 84 = 100
+Step 3: Multiple HRR by .75 (75% of HRR): 100 * .75 = 75.
+Step 4: Find Mid-Maximal Steady State (MSS) HR: 75% of HRR + Resting HR = 75 + 84 = 159
+Step 5: Find MSS pace: 5 bpm +/- MSS HR: 154 - 164
+Step 6: Find base pace: Subtract 20 bpm from low end of MSS pace range: 154 - 20 = 134
+Step 7: Find recovery pace: Less than your lowest base pace HR: < 134
+Step 8: Find race pace: Multiply .95 by MaxHR: 184 * .95 = 175
+Step 9: Find Interval Pace: Anything higher than your greatest race pace value (but not more than your MaxHR!). 175 - 184
 
 https://dropitlikeitspots.com/modified-levine-protocol/
 
