@@ -5,7 +5,48 @@ date: 2018-07-15
 
 TO READ: https://americanmigrainefoundation.org/resource-library/understanding-migrainefiling-for-medical-disability-a-guide-for-migraine-patients/
 
+# My migraine history
+
+## Menstrual migraines
+I got my very first migraine at the tender age of 13. I remember sitting in class and being VERY confused about why half of my vision was gone. Things got worse from there, and I spent the rest of the afternoon curled up in a ball, blocking my eyes from the light until my parents could come pick me up. Later a doctor would explain to me this was an "aura", and it would become a monthly occurrence. 
+
+These menstrual migraines were brutal until I turned ~25. They'd knock me out for an entire day, unable to move, in too much pain to sleep, nauseous, in absolute misery. I remember once begging my Mom to shoot me to end the pain. Over time the pain diminished, until I was in my late 20s, when they "weren't that bad". No medication really seemed to help them anyway, so I just became accustomed to powering through them. I wouldn't even skip work, just wear sunglasses indoors. I do not recommend doing this. Even if you only get a migraine 1-2x a month, it's absolutely worth finding a medication that helps. Eventually I figured out that Exedrin migraine relieved some of the headache pain.
+
+## Activity-induced migraines
+Around 2014 I started getting more frequent migraines. They were very different from my menstrual migraines - at first I didn't even realize that they were migraines. The light sensitivity was the same, which is how I realized they were migraines at all, but I also started throwing up. Since I had never thrown up from a migraine before I actually thought I was getting food poisoning, despite the fact that we were all eating the same food and I was the only one having issues.
+
+I couldn't figure out WHY I was getting migraines on hikes, and for about two years I assumed I just wasn't drinking enough water, and the dehydration was my trigger. (In those days, I NEVER drank enough water, so it was very easy to believe that this was my trigger). For 6 months I'd diligently drain multiple liters on a hike, only to end up shivering in my closet at the end, laid low by another migraine. 
+
+At first it was only major hikes: multi-day treks in Yosemite, for example. And it wasn't EVERY activity. I remember hoping that a 16-mile cross-country ski trip I took in 2018 wouldn't trigger a migraine (it did). So that was 4 years of not understanding what was going on.
+
+FINALLY, around 2015, my brother pointed out the obvious: if I was finally drinking enough water, *maybe dehydration wasn't the trigger?*
+
+This was a HUGE turning point. This made me completely re-analyze everything I thought I knew about my migraines. Re-thinking the triggers made me question everything I thought I knew about my own migraines, and I started really really carefully tracking, and doing little "experiments" to try and disambiguate potentially confounding triggers. For example, was it dehydration? Or was it bright sunlight? Was it squinting in the bright sunlight? Or looking down at the trail? Was it the food I always ate on hikes? Was it the long drive I typically took before a hike? 
+
+After about 2 years of careful notes and tracking, it was clear that my trigger was serious activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine, though.
+
+I messaged Seth about dehydration possibly not being the trigger in June of 2019, so maybe that's when I finally started questioning it?
+
+Twitter thread: https://twitter.com/FakePaperclips/status/1383606181189488641
+
+
+## POTS
+https://chronicallysalty.com/2018/12/17/athletes-with-dysautonomia-tips-and-tricks-to-battling-pots/
+
+https://chronicallysalty.com/2019/03/06/the-levine-protocol-what-it-is-and-how-it-helps-pots/
+
+https://betterbythebeat.com/the-levine-protocol-for-exercising-with-pots/
+
+https://www.dysautonomiainternational.org/pdf/CHOP_Modified_Dallas_POTS_Exercise_Program.pdf
+
+https://betterbythebeat.com/how-to-calculate-your-levine-protocol-training-paces/
+
+https://dropitlikeitspots.com/modified-levine-protocol/
+
+
 ## Migraines (and what to do about them).
+
+# Research
 
 ## Exertional migraine info
 ``` 
