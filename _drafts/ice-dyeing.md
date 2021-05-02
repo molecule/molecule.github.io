@@ -13,7 +13,7 @@ image:
 ## Calculations
 - Soda ash: 2 cups per gallon of water according to the [Dharma Trading Company Ice Dye instructions(1)][1]. OR  about 1 lb. Soda Ash per 4 oz. of dye is needed when garment dyeing OR 1lb. Soda Ash per 3 lbs of fabric as a pre-soak when tie-dyeing according to the information in the [Dharma Trading Company Soda Ash purchase area(2)][2].
 
-In my case I had 28oz of cotton fabric, so I needed 0.6 pounds of soda ash.
+In my case I had 14oz of cotton fabric, so I needed 0.3 pounds of soda ash.
 
 ## Steps
 1. Soak your dyeable fabric in the soda wash water for 15 minutes[(1)][1].
