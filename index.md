@@ -174,7 +174,7 @@ hidden:
 
 newsfeed:
     -
-        content: I passed my Qualifying exam! Officially a PhD candidate. Thanks to helpful members of my committee!!!
+        content: I passed my Qualifying exam! Officially a PhD candidate. <a href="/src/img/quals-committee.png">Huge thanks to the helpful members of my committee!!!</a>
         date: 7 May 2021
     -
         content: My first first-author paper was accepted to DIS 2021!! More details later...
