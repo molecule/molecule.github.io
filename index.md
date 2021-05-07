@@ -174,6 +174,9 @@ hidden:
 
 newsfeed:
     -
+        content: I passed my Qualifying exam! Officially a PhD candidate.
+        date: 7 May 2021
+    -
         content: My first first-author paper was accepted to DIS 2021!! More details later...
         date: 9 Apr 2021
     -
