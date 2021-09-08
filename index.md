@@ -174,6 +174,9 @@ hidden:
 
 newsfeed:
     -
+        content: Started my second internship at Microsoft. Beyond thrilled to be back.
+        date: 17 May 2021
+    -
         content: I passed my Qualifying exam! Officially a PhD candidate. <a href="/src/img/quals-committee.png">Huge thanks to the helpful members of my committee!!!</a>
         date: 7 May 2021
     -

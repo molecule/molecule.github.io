@@ -21,7 +21,7 @@ At first it was only major hikes: multi-day treks in Yosemite, for example. And 
 
 FINALLY, around 2015, my brother pointed out the obvious: if I was finally drinking enough water, *maybe dehydration wasn't the trigger?*
 
-This was a HUGE turning point. This made me completely re-analyze everything I thought I knew about my migraines. Re-thinking the triggers made me question everything I thought I knew about my own migraines, and I started really really carefully tracking, and doing little "experiments" to try and disambiguate potentially confounding triggers. For example, was it dehydration? Or was it bright sunlight? Was it squinting in the bright sunlight? Or looking down at the trail? Was it the food I always ate on hikes? Was it the long drive I typically took before a hike? 
+This was a HUGE turning point. This made me completely re-analyze all of my data. Re-thinking the triggers made me question everything I thought I knew about my own migraines, and I started really really carefully tracking, and doing little "experiments" to try and disambiguate potentially confounding triggers. For example, was it dehydration? Or was it bright sunlight? Was it squinting in the bright sunlight? Or looking down at the trail? Was it the food I always ate on hikes? Was it the long drive I typically took before a hike? 
 
 After about 2 years of careful notes and tracking, it was clear that my trigger was serious activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine, though.
 

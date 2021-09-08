@@ -123,19 +123,5 @@ I really enjoy finding unique forms of knowledge or creative process, and applyi
 
 [chi17cp]:/src/papers/IlluminationAesthetics-chi2017.pdf
 
-<!--> Remove to focus on cooler pubs.
-title: A Conversation with Actuators&#58; An Exploratory Design Environment for Hybrid Materials
-authors: César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, Eric Paulos.
-link: http://www.hybrid-ecologies.org/projects/32-a-conversation-with-actuators
-img: /src/img/dis19-cwa.jpg
-conf: ACM Conference on Tangible, Embedded, and Embodied Interaction
-conf-short: (TEI '19)
-conf-link: http://www.tei-conf.org/
-award:
-links: <a href="http://www.hybrid-ecologies.org/uploads/project/paper/32/teifp1109-torresA.pdf">Paper</a>
-video:
-desc:
-<-->
-
 <small> &copy; {{ site.time | date: '%Y' }} / [{{ site.author.name }}](/) / [license](/mit-license) / [email](mailto:{{ site.author.email }})</small>
 
