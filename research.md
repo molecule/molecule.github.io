@@ -11,8 +11,8 @@ submissions:
         conf-short: (DIS '21)
         conf-link: https://dis.acm.org/2021/
         award:
-        links: <a href="https://www.youtube.com/watch?v=MCJfjvKm13o">Video</a>
-        video: https://www.youtube.com/watch?v=MCJfjvKm13o
+        links: <a href="https://youtu.be/_P6WKr2dzXE">Video</a>
+        video: https://youtu.be/_P6WKr2dzXE
         desc: My first first-author paper. I'm so so proud of this project, and super excited about how this work came together. It was honestly a disaster at first. About two weeks after the show closed, I moved down to Santa Monica where my laptop (with all of the user data from the audience interviews/surveys/etc) was stolen. Then, a year later (March 2020) I decided to work with another theatre group to recreate the project....3 days later everything shut down for COVID-19. It took me another 6 months to slowly iterate on a draft about the design process, which eventually became this paper.
     -
         title: Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices
@@ -65,7 +65,7 @@ submissions:
         desc: The first research paper I wrote. Joined the team 3 weeks before the CHI deadline. My personal contribution involved running the user study. Jumping right into this project was an awesome way to get started with research. If you have a chance, I highly recommend getting involved with existing research when you start. I picked up a bunch of new skills and it really helped to get my hands dirty (so to speak) working on a research project. With only a few days before the deadline, César trained me in how to do the user study, which I ran. I was also responsible for synthesizing themes and writing the user study section of the paper (which was later specifically identified by reviewers as high quality).
     -
         title: AirConstellations&#58; In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
-        authors: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, Molly Jane Nicholas, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley.
+        authors: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley.
         link:
         img: /src/img/image-coming-soon.png
         conf:
@@ -95,11 +95,6 @@ submissions:
     <td><a href="{{ submish.link }}">{{ submish.title }}</a> {{ submish.authors }} <a href="{{ submish.conf-link }}">{{ submish.conf-short }}</a><br>{{submish.links}}</td>
     <td> <img src="{{ submish.award }}" style="width:50px"/> <small> {{submish.award-desc}}</small></td>
 </tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->
-<tr class=description>
-    <td></td>
-    <td>{{submish.desc}}</td>
-    <td></td>
-</tr>
 {% endfor %}
 </table> <!--end submission-->
 
