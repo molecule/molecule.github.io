@@ -200,33 +200,27 @@ rows:
         right: <h2 style="text-align:left">publications</h2>
     -
         left:
-        right: <p class="cv-italics">5 published papers, 7 under review</p>
+        right: <p class="cv-italics">8 published papers, 5 under review</p>
     -
         left: under review
-        right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, Janaki Vivrekar, and Eric Paulos. *both authors contributed equally.
+        right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, Janaki Vivrekar, and Eric Paulos. *both authors contributed equally. (C&C)
     -
         left:
-        right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, and Eric Paulos. *both authors contributed equally.
+        right: Sarah Sterman*, <b>Molly Jane Nicholas*</b>, and Eric Paulos. *both authors contributed equally. (CSCW)
     -
         left:
-        right: Sarah Sterman, <b>Molly Jane Nicholas</b>, many others, and Eric Paulos.
+        right: <b>Molly Jane Nicholas</b>, Payod Panda, Eyal Ofek, Mar Gonzalez-Franco, Ken Hinckley, Jaron Lanier, Sean Rintel. (CHI)
     -
         left:
-        right: <b>Molly Jane Nicholas</b>, Payod Panda, Eyal Ofek, Mar Gonzalez-Franco, Ken Hinckley, Jaron Lanier, Sean Rintel.
+        right: Payod Panda, Mar Gonzalez-Franco, <b>Molly Jane Nicholas</b>, Kori Inkpen, Eyal Ofek, Ross Cutler, Jaron Lanier. (GROUP)
     -
         left:
-        right: Payod Panda, Mar Gonzalez-Franco, <b>Molly Jane Nicholas</b>, Kori Inkpen, Eyal Ofek, Ross Cutler, Jaron Lanier.
-    -
-        left:
-        right: <b>Molly Jane Nicholas</b>, Brian Smith, and Rajan Vaish.
-    -
-        left:
-        right: Panda Payod, Mar Gonzalez-Franco, Kori Inkpen, <b>Molly Jane Nicholas</b>, Eyal Ofek, Ross Cutler, and Jaron Lanier.
+        right: Ye Yuan, Nathalie Riche, Nicolai Marquardt, <b>Molly Jane Nicholas</b>, Teddy Seyed, Hugo Romat, Bongshin Lee, Michel Pahud, Jonathan Goldstein, Rojin Vishkaie, Christian Holz, Ken Hinckley. (CHI)
     -
         left:
         right: <br>
     -
-        left: Human Factors in Computing Systems Community (ACM SIGCHI)
+        left: CHI (Human Factors in Computing Systems Community)
         right: (1) César Torres, Jasper O'Leary, <b>Molly Jane Nicholas,</b> and Eric Paulos. 2017. <a href="http://www.hybrid-ecologies.org/projects/20-illumination-aesthetics">Illumination Aesthetics&#58; Light as a Creative Material within Computational Design.</a> CHI'17. ACM, New York, NY, USA.
             <p class="cv-light">[<1% Best Paper Award, 25% acceptance]</p> 
             <p class="cv-bold">BEST PAPER AWARD</p>
@@ -246,21 +240,39 @@ rows:
         left:
         right: <br>
     -
-        left: Designing Interactive Systems Community (DIS)
+        left: DIS (Designing Interactive Systems)
+        right: (6) <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, and Eric Paulos. 2021. <a href="https://doi.org/10.1145/3461778.3462123">Expanding the Design Space for Technology-Mediated Theatre Experiences.</a>(DIS '21). ACM, New York, NY, USA, 2026–2038
+    -
+        left:
+        right: <br>
+    - 
+        left:
         right: (4) Cesar Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, and Eric Paulos. 2018. <a href="http://www.hybrid-ecologies.org/projects/25-guardians-of-practice">Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices.</a>(DIS '18). ACM, New York, NY, USA, 1259-1267.
             <p class="cv-light">[23% acceptance]</p>
     -
         left:
         right: <br>
     -
-        left: Tangible, Embedded, and Embodied Interaction (TEI)
+        left: TEI (Tangible, Embedded, and Embodied Interaction)
         right: (2) Christine Dierk, Sarah Sterman, <b>Molly Jane Nicholas</b>, and Eric Paulos. 2018. <a href="">HäirIÖ&#58; Human Hair as Interactive Material.</a> (TEI '18). ACM, New York, NY, USA, 148-157.
     -
         left:
         right: <br>
     -
         left: 
-        right: (5) César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. Conditionally accepted to TEI '19. ACM, New York, NY, USA.
+        right: (5) César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. (TEI '19). ACM, New York, NY, USA.
+    -
+        left:
+        right: <br>
+    -
+        left: UIST (User Interface Software and Technology)
+        right: (7) Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley. 2021. <a href="">AirConstellations - In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures</a> (UIST '21). ACM, New York, NY, USA, 148-157.
+    -
+        left:
+        right: <br>
+    -
+        left: CSCW (Computer Supported Cooperative Work)
+        right: (8) <b>Molly Jane Nicholas</b>, Brian Smith, Rajan Vaish. 2021. <a href="">Friendscope - Exploring In-the-Moment Experience Sharingon Camera Glasses via a Shared Camera</a> (CSCW '22). ACM, New York, NY, USA, 148-157.
     -
         left:
         right: <br>
@@ -346,7 +358,7 @@ rows:
         left: HCI Research
         right: Jessie Mindel (BCNM Research Fellow, 1 year)
     -
-        left: CS + Cognitive Science
+        left: HCI Research
         right: Arianna Ninh (BCNM Research Fellow, 2 years)
     -
         left: GPS
@@ -368,7 +380,7 @@ rows:
         right: <br>
     -
         left: special recognition for outstanding reviews
-        right: DIS 2020 (1), CSCW 2021 (2)
+        right: DIS 2020 (1), CSCW 2021 (2), IMWUT 2021 (1), DIS 2021 (1), UIST 2021 (1)
     -
         left:
         right: <br>
