@@ -93,6 +93,17 @@ rows:
         right: <p class="cv-bold">Research Intern</p>
                 <p class="cv-standard"><a href="https://www.microsoft.com/en-us/research/group/epic/">Microsoft Research</a> • Seattle, WA, USA</p>
                 <p class="cv-standard">Manager&#58; <a href="https://www.microsoft.com/en-us/research/people/kenh/">Ken Hinckley</a></p>
+                <p class="cv-standard">Mentor&#58; <a href="https://www.microsoft.com/en-us/research/people/margon/">Nicolai Marquardt</a></p>
+                <p class="cv-italics">Research</p>
+                <p class="cv-date">May 2021 - September 2021 </p>
+    -
+        left:
+        right: <br>
+    -
+        left:
+        right: <p class="cv-bold">Research Intern</p>
+                <p class="cv-standard"><a href="https://www.microsoft.com/en-us/research/group/epic/">Microsoft Research</a> • Seattle, WA, USA</p>
+                <p class="cv-standard">Manager&#58; <a href="https://www.microsoft.com/en-us/research/people/kenh/">Ken Hinckley</a></p>
                 <p class="cv-standard">Mentor&#58; <a href="https://www.microsoft.com/en-us/research/people/margon/">Mar Gonzalez-Franco</a></p>
                 <p class="cv-italics">Research</p>
                 <p class="cv-date">May 2020 - September 2020 </p>
