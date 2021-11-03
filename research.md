@@ -67,7 +67,7 @@ submissions:
         title: AirConstellations&#58; In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
         authors: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley.
         link:
-        img: /src/img/image-coming-soon.png
+        img: /src/img/air-constellations.png
         conf:
         conf-short: (UIST'21)
         conf-link: https://uist.acm.org/uist2021/

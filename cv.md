@@ -55,15 +55,16 @@ rows:
         right: <p class="cv-bold">Ph.D., Electrical Engineering and Computer Science </p>
                <p class="cv-standard">Designated Emphasis in <a href="http://bcnm.berkeley.edu/academic/designated-emphasis-program/">New Media</a></p>
                <p class="cv-italics">University of California, Berkeley, Berkeley, CA</p>
-               <p class="cv-date">Aug 2016 - (May 2022)</p>
                <p class="cv-standard">Advisor&#58; Eric Paulos (EECS)</p>
-    -   left:
+        far-right: <p class="cv-date">2016 - Present</p>
+    -   
+        left:
         right: <br>
     -
         left:
         right: <p class="cv-bold">Bachelor of Arts, Computer Science and Cognitive Science</p>
                <p class="cv-italics">University of California, Berkeley, Berkeley, CA</p>
-               <p class="cv-date">Aug 2011 - May 2014</p>
+        far-right: <p class="cv-date">2011 - 2014</p>
     -
         left:
         right: <br>
@@ -71,7 +72,7 @@ rows:
         left:
         right: <p class="cv-bold">Professional Certificate, Clown Conservatory</p> 
                 <p class="cv-italics">San Francisco Circus Center, San Francisco, CA</p>
-                <p class="cv-date">Aug 2007 - May 2009</p>
+        far-right: <p class="cv-date">2007 - 2009</p>
     -
         left:
         right: <br>
@@ -84,7 +85,7 @@ rows:
                 <p class="cv-standard"><a href="http://www.hybrid-ecologies.org/">Hybrid Ecologies Lab</a> • UC Berkeley, Berkeley, CA</p>
                 <p class="cv-standard">Advisor&#58; <a href="http://www.paulos.net/">Eric Paulos</a></p>
                 <p class="cv-italics">Electrical Engineering and Computer Sciences Department</p>
-                <p class="cv-date">Aug 2016 - Present</p>
+        far-right: <p class="cv-date">2016 - Present</p>
     -
         left:
         right: <br>
@@ -92,10 +93,8 @@ rows:
         left:
         right: <p class="cv-bold">Research Intern</p>
                 <p class="cv-standard"><a href="https://www.microsoft.com/en-us/research/group/epic/">Microsoft Research</a> • Seattle, WA, USA</p>
-                <p class="cv-standard">Manager&#58; <a href="https://www.microsoft.com/en-us/research/people/kenh/">Ken Hinckley</a></p>
-                <p class="cv-standard">Mentor&#58; <a href="https://www.microsoft.com/en-us/research/people/margon/">Nicolai Marquardt</a></p>
-                <p class="cv-italics">Research</p>
-                <p class="cv-date">May 2021 - September 2021 </p>
+                <p class="cv-standard">Advisors&#58; <a href="https://www.microsoft.com/en-us/research/people/kenh/">Ken Hinckley</a>, <a href="http://www.nicolaimarquardt.com/">Nicolai Marquardt</a></p>
+        far-right: <p class="cv-date">2021</p>
     -
         left:
         right: <br>
@@ -103,10 +102,8 @@ rows:
         left:
         right: <p class="cv-bold">Research Intern</p>
                 <p class="cv-standard"><a href="https://www.microsoft.com/en-us/research/group/epic/">Microsoft Research</a> • Seattle, WA, USA</p>
-                <p class="cv-standard">Manager&#58; <a href="https://www.microsoft.com/en-us/research/people/kenh/">Ken Hinckley</a></p>
-                <p class="cv-standard">Mentor&#58; <a href="https://www.microsoft.com/en-us/research/people/margon/">Mar Gonzalez-Franco</a></p>
-                <p class="cv-italics">Research</p>
-                <p class="cv-date">May 2020 - September 2020 </p>
+                <p class="cv-standard">Advisors&#58; <a href="https://www.microsoft.com/en-us/research/people/kenh/">Ken Hinckley</a>, <a href="https://www.microsoft.com/en-us/research/people/margon/">Mar Gonzalez-Franco</a></p>
+        far-right: <p class="cv-date">2020</p>
     -
         left:
         right: <br>
@@ -114,10 +111,8 @@ rows:
         left:
         right: <p class="cv-bold">Research Intern</p>
                 <p class="cv-standard"><a href="https://www.snap.com/en-US/">Snap, Inc.</a> • Santa Monica, CA, USA</p>
-                <p class="cv-standard">Manager&#58; <a href="http://www.rajanvaish.com/index.html">Rajan Vaish</a></p>
-                <p class="cv-standard">Mentor&#58; <a href="http://www.cs.columbia.edu/~brian/">Brian Smith</a></p>
-                <p class="cv-italics">Research</p>
-                <p class="cv-date">May 2019 - December 2019 </p>
+                <p class="cv-standard">Advisors&#58; <a href="http://www.rajanvaish.com/index.html">Rajan Vaish</a>, <a href="http://www.cs.columbia.edu/~brian/">Brian Smith</a></p>
+        far-right: <p class="cv-date">2019</p>
     -
         left:
         right: <br>
@@ -125,10 +120,9 @@ rows:
         left:
         right: <p class="cv-bold">Research Assistant and Lab Manager</p>
                 <p class="cv-standard"><a href="http://jacobs.berkeley.edu/">CogEvoDevo Lab</a> • UC Berkeley, Berkeley, CA</p>
-                <p class="cv-standard">Advisor&#58; <a href="https://vcresearch.berkeley.edu/faculty/lucia-f-jacobs">Lucia Jacobs</a></p>
-                <p class="cv-standard">Mentor&#58; <a href="http://catsandsquirrels.com/aboutme/">Mikel Delgado</a></p>
+                <p class="cv-standard">Advisors&#58; <a href="https://vcresearch.berkeley.edu/faculty/lucia-f-jacobs">Lucia Jacobs</a>, <a href="http://catsandsquirrels.com/aboutme/">Mikel Delgado</a></p>
                 <p class="cv-italics">Berkeley Psychology Department</p>
-                <p class="cv-date">Aug 2010 - Jan 2012</p>
+        far-right: <p class="cv-date">2010 - 2012</p>
     -
         left:
         right: <br>
@@ -138,7 +132,7 @@ rows:
                 <p class="cv-standard"><a href="https://www.humansleepscience.com/">Human Sleep Science Lab</a> • UC Berkeley, Berkeley, CA</p>
                 <p class="cv-standard">Advisor&#58; <a href="https://psychology.berkeley.edu/people/matthew-p-walker">Matt Walker</a> | Mentor <a href="https://www.linkedin.com/in/andrea-goldstein-piekarski-637322a3/">Andrea Goldstein-Piekarski</a></p>
                 <p class="cv-italics">Berkeley Psychology Department</p>
-                <p class="cv-date">Aug 2010 - Dec 2010</p>
+        far-right: <p class="cv-date">2010</p>
     -
         left:
         right: <br>
@@ -149,7 +143,7 @@ rows:
         left:
         right: <p class="cv-bold">Stage Manager</p>
                 <p class="cv-standard"><a href="http://www.lunfan.com/">Lunatique Fantastique</a> • Berkeley, CA</p>
-                <p class="cv-date">Oct 2017 - Dec 2017</p>
+        far-right: <p class="cv-date">2017</p>
     -
         left:
         right: <br>
@@ -157,7 +151,7 @@ rows:
         left:
         right: <p class="cv-bold">Engineer</p>
                 <p class="cv-standard">Qualcomm, Inc. - Research and Development • San Diego, CA</p>
-                <p class="cv-date">Jun 2014 – Aug 2016</p>
+        far-right: <p class="cv-date">2014 – 2016</p>
     -
         left:
         right: <br>
@@ -165,7 +159,7 @@ rows:
         left:
         right: <p class="cv-bold">Engineer Intern</p>
                 <p class="cv-standard">Qualcomm, Inc. - Research and Development • San Diego, CA</p>
-                <p class="cv-date">May 2013 - Aug 2013</p>
+        far-right: <p class="cv-date">2013</p>
     -
         left:
         right: <br>
@@ -173,7 +167,7 @@ rows:
         left:
         right: <p class="cv-bold">Puppeteer</p>
                 <p class="cv-standard">Bay Area Children’s Theatre • Berkeley, CA</p>
-                <p class="cv-date">Aug 2011 – Dec 2011</p>
+        far-right: <p class="cv-date">2011</p>
     -
         left:
         right: <br>
@@ -181,17 +175,17 @@ rows:
         left: volunteer positions
         right: <p class="cv-bold">Inventioneer</p>
                 <p class="cv-standard">Invention Lab, CITRIS, UC Berkeley • Berkeley, CA</p>
-                <p class="cv-date">Jan 2017-Present</p>
+        far-right: <p class="cv-date">2017-Present</p>
     -
         left: 
         right: <p class="cv-bold">Inventioneer</p>
                 <p class="cv-standard">Invention Lab, CITRIS, UC Berkeley • Berkeley, CA</p>
-                <p class="cv-date">April-June 2014</p>
+        far-right: <p class="cv-date">2014</p>
     -
         left: 
         right: <p class="cv-bold">Geek In Residence</p>
                 <p class="cv-standard">FabLab • San Diego, CA</p>
-                <p class="cv-date">Oct 2015-May 2016</p>
+        far-right: <p class="cv-date">2015 - 2016</p>
     -
         left:
         right: <br>
@@ -220,59 +214,29 @@ rows:
         left:
         right: <br>
     -
-        left: CHI (Human Factors in Computing Systems Community)
-        right: (1) César Torres, Jasper O'Leary, <b>Molly Jane Nicholas,</b> and Eric Paulos. 2017. <a href="http://www.hybrid-ecologies.org/projects/20-illumination-aesthetics">Illumination Aesthetics&#58; Light as a Creative Material within Computational Design.</a> CHI'17. ACM, New York, NY, USA.
-            <p class="cv-light">[<1% Best Paper Award, 25% acceptance]</p> 
-            <p class="cv-bold">BEST PAPER AWARD</p>
+        left: <img src="/src/img/image-coming-soon.png" style="width:90px"/>
+        right: <b>Molly Jane Nicholas</b>, Brian Smith, Rajan Vaish. 2021. <a href="">Friendscope - Exploring In-the-Moment Experience Sharingon Camera Glasses via a Shared Camera</a> In Proc. of CSCW '22, ACM Press (2022).
     -
-        left:
-        right: <br>
+        left: <img src="/src/img/air-constellations.png" style="width:90px"/>
+        right: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley. 2021. <a href="">AirConstellations - In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures</a> In Proc. of UIST '21, ACM Press (2021).
     -
-        left:
-        right: (3) Christine Dierk, <b>Molly Jane Nicholas</b>, and Eric Paulos. 2018. <a href="http://www.hybrid-ecologies.org/projects/24-alterwear">AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.</a> (CHI '18). ACM, New York, NY, USA
+        left: <img src="/src/img/theatre-teaser.png" style="width:90px"/>
+        right: <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, and Eric Paulos. 2021. <a href="https://doi.org/10.1145/3461778.3462123">Expanding the Design Space for Technology-Mediated Theatre Experiences.</a> In Proc. of DIS '21, ACM Press (2021).
     -
-        left:
-        right: <br>
+        left: <img src="/src/img/cwa-gif.gif" style="width:90px"/>
+        right: César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. In Proc. of TEI '19, ACM Press (2019).
     -
-        left:
-        right: (Workshop) Molly Jane Nicholas, Sarah Sterman, and Eric Paulos. CHI 2018. <a href="http://hcioutdoors.net/wp-content/uploads/2018/03/Nicholas-blurring-boundaries.pdf">Between Technology and Nature&#58; Blurring Boundaries in Outdoor HCI.</a>
+        left: <img src="/src/img/guardians-kiln-gods.jpg" style="width:90px"/>
+        right: César Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, and Eric Paulos. 2018. <a href="http://www.hybrid-ecologies.org/projects/25-guardians-of-practice">Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices.</a> In Proc. of DIS '18, ACM Press (2018). [23% acceptance]
     -
-        left:
-        right: <br>
+        left: <img src="/src/img/alterwear-square-gif.gif" style="width:90px"/>
+        right: Christine Dierk, <b>Molly Jane Nicholas</b>, and Eric Paulos. 2018. <a href="http://www.hybrid-ecologies.org/projects/24-alterwear">AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.</a> In Proc. of CHI '18, ACM Press (2018)
     -
-        left: DIS (Designing Interactive Systems)
-        right: (6) <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, and Eric Paulos. 2021. <a href="https://doi.org/10.1145/3461778.3462123">Expanding the Design Space for Technology-Mediated Theatre Experiences.</a>(DIS '21). ACM, New York, NY, USA, 2026–2038
+        left: <img src="/src/img/hairio-thumbnail.JPG" style="width:90px"/>
+        right: Christine Dierk, Sarah Sterman, <b>Molly Jane Nicholas</b>, and Eric Paulos. 2018. <a href="">HäirIÖ&#58; Human Hair as Interactive Material.</a> In Proc. of TEI '18, ACM Press (2018).
     -
-        left:
-        right: <br>
-    - 
-        left:
-        right: (4) Cesar Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, and Eric Paulos. 2018. <a href="http://www.hybrid-ecologies.org/projects/25-guardians-of-practice">Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices.</a>(DIS '18). ACM, New York, NY, USA, 1259-1267.
-            <p class="cv-light">[23% acceptance]</p>
-    -
-        left:
-        right: <br>
-    -
-        left: TEI (Tangible, Embedded, and Embodied Interaction)
-        right: (2) Christine Dierk, Sarah Sterman, <b>Molly Jane Nicholas</b>, and Eric Paulos. 2018. <a href="">HäirIÖ&#58; Human Hair as Interactive Material.</a> (TEI '18). ACM, New York, NY, USA, 148-157.
-    -
-        left:
-        right: <br>
-    -
-        left: 
-        right: (5) César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. (TEI '19). ACM, New York, NY, USA.
-    -
-        left:
-        right: <br>
-    -
-        left: UIST (User Interface Software and Technology)
-        right: (7) Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley. 2021. <a href="">AirConstellations - In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures</a> (UIST '21). ACM, New York, NY, USA, 148-157.
-    -
-        left:
-        right: <br>
-    -
-        left: CSCW (Computer Supported Cooperative Work)
-        right: (8) <b>Molly Jane Nicholas</b>, Brian Smith, Rajan Vaish. 2021. <a href="">Friendscope - Exploring In-the-Moment Experience Sharingon Camera Glasses via a Shared Camera</a> (CSCW '22). ACM, New York, NY, USA, 148-157.
+        left: <img src="/src/img/ia-thumbnail.jpg" style="width:90px"/>
+        right: César Torres, Jasper O'Leary, <b>Molly Jane Nicholas,</b> and Eric Paulos. 2017. <a href="http://www.hybrid-ecologies.org/projects/20-illumination-aesthetics">Illumination Aesthetics&#58; Light as a Creative Material within Computational Design.</a> In Proc. of CHI '17, ACM Press (2017)  <p class="cv-light">[<1% Best Paper Award, 25% acceptance]</p> <p class="cv-bold">BEST PAPER AWARD</p>
     -
         left:
         right: <br>
@@ -282,6 +246,9 @@ rows:
     -
         left:
         right: <a href="https://www.qualcomm.com/news/onq/2015/10/23/grace-hopper-conference-celebrates-women-computing">“Grace Hopper conference celebrates women in computing“</a>. Molly Jane Nicholas, Qualcomm, Inc., 23 October 2015.
+    -
+        left:
+        right: (Workshop) Molly Jane Nicholas, Sarah Sterman, and Eric Paulos. CHI 2018. <a href="http://hcioutdoors.net/wp-content/uploads/2018/03/Nicholas-blurring-boundaries.pdf">Between Technology and Nature&#58; Blurring Boundaries in Outdoor HCI.</a>
     -
         left: invited talks
         right: "Artivive&#58; Incorporating Augmented Reality into the arts. <b>Invited Speaker</b>, December 2019"
@@ -374,12 +341,12 @@ rows:
         right: <h2 style="text-align:left">service</h2>
     -
         left: reviews
-        right: 42 reviews total as of 2020. CHI ‘16 - '21,  DIS '16 - '21,  TEI '18 - ’19, C&C '19-'21.
+        right: 42 reviews total as of 2020. CHI ‘16 - '22,  DIS '16 - '21,  TEI '18 - ’19, C&C '19-'21.
     -
         left:
-        right: <br>
+        right: <b>special recognition for outstanding reviews</b> (7 total as of 2021)
     -
-        left: special recognition for outstanding reviews
+        left: 
         right: DIS 2020 (1), CSCW 2021 (2), IMWUT 2021 (1), DIS 2021 (1), UIST 2021 (1)
     -
         left:
@@ -429,12 +396,14 @@ rows:
     <table style="width:100%;">
     <tr>
     <th width="25%"></th>
-    <th width="75%"></th>
+    <th width="60%"></th>
+    <th width="15%"></th>
     </tr> <!-- end of header-->
     {% for row in page.rows %}
         <tr> 
             <td valign="top"><p class="cv-left">{{row.left}}</p></td>
             <td><p class="cv-standard">{{row.right}}</p></td>
+            <td><p>{{row.far-right}}</p></td>
         </tr>
     {% endfor %}
     </table>
