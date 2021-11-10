@@ -3,40 +3,47 @@ title: about
 layout: centered
 projects:
     -
-        title: Technology-Mediated Theatre Experiences
-        desc: DIS 2021 paper coming soon.
-        tags: [res]
-        imag: /src/img/theatre-teaser.png
-    -
         title: Kaleidoscope
         desc: Coming soon.
         tags: [res]
         imag: /src/img/kaleidoscope-gif.gif
         link: http://kaleidoscope.hybrid-ecologies.org/
     -
+        title: AirConstellations
+        desc:
+        tags: [res]
+        imag: /src/img/air-constellations.png
+        link: /src/papers/air-constellations.pdf
+    -
+        title: Technology-Mediated Theatre Experiences
+        desc: DIS 2021 paper coming soon.
+        tags: [res]
+        imag: /src/img/theatre-teaser.png
+        link: /src/papers/Theatre_DIS2021.pdf
+    -
         title: Conversations with Actuators
         desc: An Exploratory Design Environment for Hybrid Materials (TEI'19).
         tags: [res]
         imag: /src/img/cwa-gif.gif
-        link: http://www.hybrid-ecologies.org/projects/32-a-conversation-with-actuators
+        link: /src/papers/conversation-w-actuators.pdf
     -
         title: Guardians of History
         desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (DIS'18).
         tags: [res, cla]
         imag: /src/img/guardians-kiln-gods.jpg
-        link: /project/guardians
+        link: /src/papers/Guardians_of_Practice_dis2019.pdf
     - 
         title: AlterWear
         desc: Battery-Free Wearable Displays for Opportunistic Interactions (CHI'18).
         tags: [res, wear]
         imag: /src/img/alterwear-shoe-toe-only.png
-        link: /project/alterwear
+        link: /src/papers/AlterWear_chi2018.pdf
     -
         title: HäirIÖ
         desc: Human Hair as Interactive Material (TEI'18).
         tags: [res, wear]
         imag: /src/img/hairio-gif.gif
-        link: /project/hairio
+        link: /src/papers/HairIO-tei2018.pdf
     -
         title: E.O. 9066
         desc: A Lunatique Fantastique production about the internment of American citizens during WW2.
@@ -48,7 +55,7 @@ projects:
         desc: Light as a Creative Material within Computational Design (CHI'17)
         tags: [res, win]
         imag: /src/img/ia-thumbnail.jpg
-        link: /project/illumination-aesthetics
+        link: /src/papers/IlluminationAesthetics-chi2017.pdf
     -
         title: Qbadge
         desc: Arduinos are amazing devices, but even with the incredible community surrounding them, there still seems to be a huge lack of women interested in low-level programming...
@@ -173,6 +180,9 @@ hidden:
         link: /project/good-person
 
 newsfeed:
+    -
+        content: 
+        date: 
     -
         content: Started my second internship at Microsoft. Beyond thrilled to be back.
         date: 17 May 2021
