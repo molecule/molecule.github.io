@@ -334,6 +334,9 @@ rows:
         left: LAGSES Fellowship 
         right: Three scholars
     -
+        left: Equal Access to Application Assistance (EAAA) Program
+        right: Three scholars
+    -
         left:
         right: <br>
     -
