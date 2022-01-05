@@ -30,7 +30,7 @@ submissions:
         title: Friendscope&#58; Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
         authors: <b>Molly Jane Nicholas</b>, Brian A. Smith, Rajan Vaish
         link: https://arxiv.org/abs/2112.08460
-        img: /src/img/friendscope-crop03.jpeg
+        img: /src/img/friendscope-crop03.jpg
         conf: ACM Conference on Computer Supported Cooperative Work
         conf-short: (CSCW '22)
         conf-link: 

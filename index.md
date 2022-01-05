@@ -3,8 +3,14 @@ title: about
 layout: centered
 projects:
     -
+        title: Friendscope
+        desc: Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
+        tags: [res]
+        imag: /src/img/friendscope-crop03.jpg
+        link: https://arxiv.org/abs/2112.08460
+    -
         title: Kaleidoscope
-        desc: Coming soon.
+        desc: An online artist desk.
         tags: [res]
         imag: /src/img/kaleidoscope-gif.gif
         link: http://kaleidoscope.hybrid-ecologies.org/
@@ -16,7 +22,7 @@ projects:
         link: /src/papers/air-constellations.pdf
     -
         title: Technology-Mediated Theatre Experiences
-        desc: DIS 2021 paper coming soon.
+        desc: DIS 2021
         tags: [res]
         imag: /src/img/theatre-teaser.png
         link: /src/papers/Theatre_DIS2021.pdf
