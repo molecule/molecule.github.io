@@ -191,7 +191,10 @@ newsfeed:
         date: 18 Jan 2022
     -
         content: Proud to share <a href="https://twitter.com/FakePaperclips/status/1461776272854454274?s=20">I now have 8 outstanding reviews.</a>
-        date: 28 Nov 2021
+        date: 15 Dec 2021
+    -
+        content: Excited to share that <a href="https://arxiv.org/abs/2112.08460">my paper about compelling remote experiences on camera glasses was accepted to CSCW!</a>
+        date: 29 Nov 2021
     -
         content: Loved my MSR internship! So grateful to get to work with so many amazing people.
         date: 30 Aug 2021
@@ -202,7 +205,7 @@ newsfeed:
         content: I passed my Qualifying exam! Officially a PhD candidate. <a href="/src/img/quals-committee.png">Huge thanks to the helpful members of my committee!!!</a>
         date: 7 May 2021
     -
-        content: My first first-author paper was accepted to DIS 2021!! More details later...
+        content: <a href="/src/papers/Theatre_DIS2021.pdf">My first first-author paper (about incorporating technology into theatre) was accepted to DIS 2021!!</a>
         date: 9 Apr 2021
     -
         content: I just learned I've received <a href="https://twitter.com/FakePaperclips/status/1370131214430924803?s=20">recognition for writing three excellent reviews???</a> Why is this information <a href="https://new.precisionconference.com/reviewing_history">so hidden on the PCS website??</a>
