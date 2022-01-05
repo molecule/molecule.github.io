@@ -99,15 +99,6 @@ submissions:
 </table> <!--end submission-->
 
 
-# research
-A collection of research paths I find interesting
-
-### shared experiences
-I am particularly interested in how technology can enhance, augment, and support remote shared experiences through copresence and shared attention. In particular I enjoy considering the ways in which the ‘liveness’ of an experience affects those participating, and what aspects of ‘liveness’ are best mediated by technology.
-
-### creativity support tools
-I really enjoy finding unique forms of knowledge or creative process, and applying techniques and methods across disciplinary boundaries. How can the embodied knowledge of a puppeteer inform the design of robots?
-
 [tei18cp]:http://www.hybrid-ecologies.org/uploads/project/paper/23/p148-dierk.pdf
 [tei18-site]:https://tei.acm.org/2018/
 [tei18-video]:https://www.youtube.com/watch?v=8JV2D7gJ5HI
