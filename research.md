@@ -27,6 +27,18 @@ submissions:
         video:
         desc: One of my favorite research projects. Working on this shaped my thinking around all forms of creativity, and heavily influenced how I carry out research. This really sparked my interest in qualitative methods, and inspired me to imagine ways in which expertise from one creative practice can be imported into another. I helped with every aspect of this project, from original conception, study design, and interviews. 
     -
+        title: Friendscope&#58; Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
+        authors: <b>Molly Jane Nicholas</b>, Brian A. Smith, Rajan Vaish
+        link: https://arxiv.org/abs/2112.08460
+        img: /src/img/friendscope-crop03.jpeg
+        conf: ACM Conference on Computer Supported Cooperative Work
+        conf-short: (CSCW '22)
+        conf-link: 
+        award:
+        links: <a href="https://arxiv.org/abs/2112.08460">Paper</a>
+        video:
+        desc:
+    -
         title: AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.
         authors: Christine Dierk, <b>Molly Jane Nicholas</b>, Eric Paulos.
         link: http://www.hybrid-ecologies.org/projects
