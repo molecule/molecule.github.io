@@ -39,3 +39,6 @@ Hello, and welcome to CS61a! I took this class as an undergrad back in 2011 and 
 </tr><!--end resource-->
 {% endfor %}
 </table> <!--end resources-->
+
+### Links
+[61a Course Website](https://cs61a.org/)
