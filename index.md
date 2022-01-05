@@ -190,6 +190,9 @@ newsfeed:
         content: Really excited to teach CS61A!
         date: 18 Jan 2022
     -
+        content: Proud to share <a href="https://twitter.com/FakePaperclips/status/1461776272854454274?s=20">I now have 8 outstanding reviews.</a>
+        date: 28 Nov 2021
+    -
         content: Loved my MSR internship! So grateful to get to work with so many amazing people.
         date: 30 Aug 2021
     -
