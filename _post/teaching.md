@@ -13,6 +13,9 @@ resources:
 ### Molly's 61a page
 Hello, and welcome to CS61a! I took this class as an undergrad back in 2011 and really loved it, so I'm very happy to be here.
 
+### About me
+I'm a PhD student in CS here at Berkeley, and my research is in the sub-field of Human Computer Interaction. This means I like to think about how to design interesting, useful, and compelling user interfaces. Before I came to grad school, I worked on robots at Qualcomm down in San Diego. I didn't discover programming until I was a freshman in college in 2005. I took a bunch of classes (CS and others), then dropped out of school to become a professional performer. I eventually came back to finish my undergrad degree at Berkeley in 2011, which is when I took 61a with John DeNero.
+
 ### Logistics
 
 **Attendance form:** Link coming soon!
