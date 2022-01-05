@@ -4,25 +4,25 @@ layout: centered
 projects:
     -
         title: Friendscope
-        desc: Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
+        desc: Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera (CSCW '22)
         tags: [res]
         imag: /src/img/friendscope-crop03.jpg
         link: https://arxiv.org/abs/2112.08460
     -
         title: Kaleidoscope
-        desc: An online artist desk.
+        desc: An online artist's desk for CS160.
         tags: [res]
         imag: /src/img/kaleidoscope-gif.gif
         link: http://kaleidoscope.hybrid-ecologies.org/
     -
         title: AirConstellations
-        desc:
+        desc: (UIST '21)
         tags: [res]
         imag: /src/img/air-constellations.png
         link: /src/papers/air-constellations.pdf
     -
         title: Technology-Mediated Theatre Experiences
-        desc: DIS 2021
+        desc: (DIS 2021)
         tags: [res]
         imag: /src/img/theatre-teaser.png
         link: /src/papers/Theatre_DIS2021.pdf
@@ -187,8 +187,11 @@ hidden:
 
 newsfeed:
     -
-        content: 
-        date: 
+        content: Really excited to teach CS61A!
+        date: 18 Jan 2022
+    -
+        content: Loved my MSR internship! So grateful to get to work with so many amazing people.
+        date: 30 Aug 2021
     -
         content: Started my second internship at Microsoft. Beyond thrilled to be back.
         date: 17 May 2021
