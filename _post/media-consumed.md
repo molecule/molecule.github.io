@@ -4,6 +4,37 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 media:
     -
+        title: Encanto
+        review: SO FUN. Really excellent. AMAZING music. Gorgeous animation. Very rewatchable.
+        rating: 3
+        type: Movie
+        icon: noun-movie-138841.png
+    -
+        title: The Priory of the Orange Tree by Samantha Shannon
+        review: Everyone seems to love this book but me. Too much romance. I couldn't even bring myself to finish it.
+        rating: 1
+        type: Book
+        icon: noun-book-10732.png
+    -
+        title: Sabriel by Gareth Nix
+        review: A re-read from when I was a kid. Interesting world, nice characters. Writing feels a bit clunky at times.
+        rating: 2
+        type: Book
+        icon: noun-book-10732.png
+    -
+        title: Dune (book)
+        review: Immediately read this after I loved the movie. It's...fine?
+        rating: 1.5
+        type: Book
+        icon: noun-book-10732.png
+    -
+        title: Dune (2021 movie)
+        review: This movie is just vibes and you either get it or you don't.
+        rating: 3
+        link:
+        type: Movie
+        icon: noun-movie-138841.png
+    -
         title: Spinning Silver by Naomi Novik
         review: Unique retelling of the Rumpelstiltskin story but too YA for me.
         rating: 1.5
