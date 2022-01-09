@@ -806,20 +806,20 @@ A list of media I've consumed, with mini-reviews. There may be **spoilers** so p
             </tr>
         {% endfor %}
     </table>
-</div><!--end of TEST-->
+</div>
 
-<!-- ORIGINAL>
-<div>
-    <table>
-    {% for medium in page.media %}
-        <tr> 
-            <td><a href="{{medium.link}}">{{ medium.title }}</a></td>
-            <td>{{medium.rating}}</td>
-        </tr>
-        <tr> 
-            <td>{{medium.review}} <br><br></td>
-        </tr>
+### To Read List
+- Borne, by Jeff VanderMeer "surreal, up a notch from Annihilation"
+- Hyperion by Dan Simmons "humanity has spread to thousands of worlds, none more intriguing or dangerous as Hyperion. It's home to the Time Tombs, ageless structures which are mysteriously travelling backward through time, and guarding them is the terrifying creature known as the Shrike."
+- Redshirts by John Scalzi "In this comedic story, a new starship crew member realizes that his colleagues seem to die at an alarming rate."
+- The Dispossessed by Ursula K. Le Guin
+- A Princess of Mars by Edgar Rice Burroughs, book behind John Carter movie
+- The Fold by Peter Clines
+- Survival by Julie E. Czerneda "The author of this science-fiction tale is a real-life scientist. Specifically, she’s a biologist. This is perhaps why she is so good at creating realistic and fascinating alien species. This is a story of an inter-species conflict set in a realistic, well-crafted fictional universe."
+- 0 Veniss Underground by Jeff VanderMeer "This is not just a great story, but a great example of unique story telling. The city of Veniss is explored through the eyes of three different characters. These vastly different people each have a unique voice and perspective on things."
+- Wayfarer Series by Becky Chambers
+- CLOUD CUCKOO LAND BY ANTHONY DOERR "spectacular world-building, rhythmic prose, and deeply empathetic character development"
+- Kill Decision by Daniel Suarez
 
-    {% endfor %}
-    </table>
-</div><!--end of ORIGINAL-->
+
+
