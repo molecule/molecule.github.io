@@ -209,9 +209,9 @@ On bottom:
 
 On top:
 - Wool long underwear (Smartwool from REI)
-- Cashmere vest (gift from my Mother)
+- Cashmere vest (gift from my Mom)
 - Cashmere sweater (Goodwill find)
-- Fleece vest, worn around butt and lower back (made by my Mother)
+- Fleece vest, worn around butt and lower back (made by my Mom)
 - Silk scarf 
 - Down jacket (REI)
 - Windproof rain jacket (REI)
