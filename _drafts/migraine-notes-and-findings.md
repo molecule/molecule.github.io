@@ -25,7 +25,6 @@ This was a HUGE turning point. This made me completely re-analyze all of my data
 
 After about 2 years of careful notes and tracking, it was clear that my trigger was serious activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine, though.
 
-I messaged Seth about dehydration possibly not being the trigger in June of 2019, so maybe that's when I finally started questioning it?
 
 Twitter thread: https://twitter.com/FakePaperclips/status/1383606181189488641
 
