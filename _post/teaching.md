@@ -13,9 +13,9 @@ resources:
 Hello, and welcome to CS61a! I took this class as an undergrad back in 2011 and really loved it, so I'm very happy to be here.
 
 ### Inclusive Learning Statement
-Your success in this class is important to me. We will all need accommodations because we all learn differently. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course.
+Your success in this class is important to me. We will all need accommodations because we all learn differently. If there are aspects of this course that prevent you from learning or exclude you, please let me know, or [visit this calendar to make an appointment with our Student Support TA, Cooper Bedin.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUVzOUpFOXhkMElOfGRlZmF1bHR8MGE2NTQ0NWZiY2E1ZWZhNWYwNzk2YWEwMWU5MzllYWU) You can also reach them via email at at cooper.bedin@berkeley.edu. Together we’ll develop strategies to meet both your needs and the requirements of the course.
 
-I encourage you to visit the Office of Disability Services to determine how you could improve your learning as well. If you need official accommodations, you have a right to have these met. There are also a range of resources on campus, including the Writing Center, Tutoring Center, and Academic Advising Center.
+I encourage you to visit Berkeley's Disabled Students Program (DSP) to determine how you could improve your learning as well. If you need official accommodations, you have a right to have these met. There are also a range of resources on campus, including the Writing Center, Tutoring Center, and Academic Advising Center.
 
 ### My background
 I'm a PhD student in CS here at Berkeley, and my research is in the sub-field of Human Computer Interaction. This means I like to think about how to design interesting, useful, and compelling user interfaces. Before I came to grad school, I worked on robots at Qualcomm. I didn't discover programming until I was a freshman in college in 2005.
