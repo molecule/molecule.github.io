@@ -5,7 +5,7 @@ resources:
     -
         title: Discussion 0
         link:
-        summary: Welcome, introductions, logistics. We will be meeting for Discussion 0 on Thursday, 01/20 at TBD AM! All classes start Berkeley Time, so we will officially begin at TBD+10. You're welcome to join the link as early as TBD to say hello!
+        summary: Welcome, introductions, logistics. There is NO lab on Jan 18th.  We will be meeting for Discussion 0 on Thursday, 01/20 at 9:30 AM! All classes start Berkeley Time, so we will officially begin at 9:40am. You're welcome to join the link as early as 9:30 to say hello!
     -
 ---
 
@@ -23,7 +23,7 @@ I'm a PhD student in CS here at Berkeley, and my research is in the sub-field of
 
 **Discussion:** Thursdays 9:30-11am, Online (Zoom)
 
-**Office Hours:** Wednesdays 9-10am, Online. [Reserve a slot using this calendar link.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFONGtlVjcxSG05fGRlZmF1bHR8YjZhN2E0YTEwMDBmMjdjZThiM2QwZWViNjQ5N2Y5NTA)
+**Office Hours:** Online. (Link coming soon!)
 
 **Email:** molecule@berkeley.edu
 
@@ -46,7 +46,7 @@ I'm a PhD student in CS here at Berkeley, and my research is in the sub-field of
 
 ### Links
 - [61a Course Website](https://cs61a.org/)
-- [Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScyaVvvtFsLy_Zd-V3sdKcIkcd98GLPeitklv-WOue9oJwVHA/viewform)
+- [Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScyaVvvtFsLy_Zd-V3sdKcIkcd98GLPeitklv-WOue9oJwVHA/viewform) (I check this once a week)
 
 
 ### Land Acknowledgement
