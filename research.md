@@ -3,6 +3,30 @@ title: papers
 layout: page
 submissions:
     -
+        title: Friendscope&#58; Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
+        authors: <b>Molly Jane Nicholas</b>, Brian A. Smith, Rajan Vaish
+        link: https://arxiv.org/abs/2112.08460
+        img: /src/img/friendscope-crop03.jpg
+        conf: ACM Conference on Computer Supported Cooperative Work
+        conf-short: (CSCW '22)
+        conf-link: 
+        award:
+        links: <a href="https://arxiv.org/abs/2112.08460">Paper</a>
+        video:
+        desc:
+    -
+        title: AirConstellations&#58; In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
+        authors: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley.
+        link:
+        img: /src/img/air-constellations.png
+        conf:
+        conf-short: (UIST'21)
+        conf-link: https://uist.acm.org/uist2021/
+        award:
+        links:
+        video:
+        desc: An amazing project led by Nicolai Marquardt. This work is so inspiring, and I learned so much collaborating with all of these amazing researchers. I helped design some of the interaction techniques, and contributed to sections of the paper.
+    -
         title: Expanding the Design Space for Technology-Mediated Theatre Experiences
         authors: <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, Eric Paulos.
         link: https://dl.acm.org/doi/abs/10.1145/3461778.3462123
@@ -15,6 +39,18 @@ submissions:
         video: https://youtu.be/_P6WKr2dzXE
         desc: My first first-author paper. I'm so so proud of this project, and super excited about how this work came together. It was honestly a disaster at first. About two weeks after the show closed, I moved down to Santa Monica where my laptop (with all of the user data from the audience interviews/surveys/etc) was stolen. Then, a year later (March 2020) I decided to work with another theatre group to recreate the project....3 days later everything shut down for COVID-19. It took me another 6 months to slowly iterate on a draft about the design process, which eventually became this paper.
     -
+        title: A Conversation with Actuators&#58; An Exploratory Design Environment for Hybrid Materials
+        authors: César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, Eric Paulos.
+        link: http://www.hybrid-ecologies.org/projects/32-a-conversation-with-actuators
+        img: /src/img/dis19-cwa.jpg
+        conf: ACM Conference on Tangible, Embedded, and Embodied Interaction
+        conf-short: (TEI '19)
+        conf-link: http://www.tei-conf.org/
+        award:
+        links: <a href="http://www.hybrid-ecologies.org/uploads/project/paper/32/teifp1109-torresA.pdf">Paper</a>
+        video:
+        desc: 
+    -
         title: Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices
         authors: César Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, Eric Paulos.
         link: http://www.hybrid-ecologies.org/projects/25-guardians-of-practice
@@ -26,18 +62,6 @@ submissions:
         links: <a href="http://www.hybrid-ecologies.org/uploads/project/paper/25/Torres_et_al._-_2018_-_Guardians_of_Practice_A_Contextual_Inquiry_of_Fai.pdf">Paper</a>
         video:
         desc: One of my favorite research projects. Working on this shaped my thinking around all forms of creativity, and heavily influenced how I carry out research. This really sparked my interest in qualitative methods, and inspired me to imagine ways in which expertise from one creative practice can be imported into another. I helped with every aspect of this project, from original conception, study design, and interviews. 
-    -
-        title: Friendscope&#58; Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
-        authors: <b>Molly Jane Nicholas</b>, Brian A. Smith, Rajan Vaish
-        link: https://arxiv.org/abs/2112.08460
-        img: /src/img/friendscope-crop03.jpg
-        conf: ACM Conference on Computer Supported Cooperative Work
-        conf-short: (CSCW '22)
-        conf-link: 
-        award:
-        links: <a href="https://arxiv.org/abs/2112.08460">Paper</a>
-        video:
-        desc:
     -
         title: AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.
         authors: Christine Dierk, <b>Molly Jane Nicholas</b>, Eric Paulos.
@@ -75,18 +99,6 @@ submissions:
         links: <a href="http://www.hybrid-ecologies.org/uploads/project/paper/20/p6111-torres.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=tcaZyJqJElw">Video</a>
         video: https://www.youtube.com/watch?v=tcaZyJqJElw
         desc: The first research paper I wrote. Joined the team 3 weeks before the CHI deadline. My personal contribution involved running the user study. Jumping right into this project was an awesome way to get started with research. If you have a chance, I highly recommend getting involved with existing research when you start. I picked up a bunch of new skills and it really helped to get my hands dirty (so to speak) working on a research project. With only a few days before the deadline, César trained me in how to do the user study, which I ran. I was also responsible for synthesizing themes and writing the user study section of the paper (which was later specifically identified by reviewers as high quality).
-    -
-        title: AirConstellations&#58; In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
-        authors: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley.
-        link:
-        img: /src/img/air-constellations.png
-        conf:
-        conf-short: (UIST'21)
-        conf-link: https://uist.acm.org/uist2021/
-        award:
-        links:
-        video:
-        desc: An amazing project led by Nicolai Marquardt. This work is so inspiring, and I learned so much collaborating with all of these amazing researchers. I helped design some of the interaction techniques, and contributed to sections of the paper.
     -
 ---
 
