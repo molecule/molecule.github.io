@@ -7,7 +7,7 @@ image_path: /src/img/image-coming-soon.png
 
 Note, original was [here, but has since been taken down](https://web.archive.org/web/20130801000000*/http://forme-foryou.com/2011/08/the-only-chocolate-chip-cookie-i-will-ever-need-to-know-how-to-make-for-the-rest-of-my-life.html) so I'm saving this for posterity.
 
-## The Only Chocolate Chip Cookie You Will Ever Need to Know How to Make For The Rest of My Life
+## The Only Chocolate Chip Cookie You Will Ever Need to Know How to Make For The Rest of Your Life
 by Shirley Hendrickson, adapted from Leite Torres (Kate: I totally had this link and recipe wrong before, sorry about that!), copied here by Molly Jane Nicholas
 
 **Secret 1:** The use of a mix of cake flour and bread flour. Cake flour is finer, and bread flour has gluten, both important. Use them and no other.
