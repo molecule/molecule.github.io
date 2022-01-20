@@ -6,7 +6,7 @@ resources:
         title: Discussion 0
         notes: https://docs.google.com/presentation/d/1INvqbiY6oI3-vc1VoA1sjvi0x2HeZW2YCCTWCuxAvrs/edit?usp=sharing
         summary: Welcome, introductions, logistics. There is NO lab on Jan 18th.  We will be meeting for Discussion 0 on Thursday, 01/20 at 9:30 AM! All classes start Berkeley Time, so we will officially begin at 9:40am. You're welcome to join the link as early as 9:30 to say hello!
-        video: https://www.youtube.com/watch?v=CC_Y4zOUdcI&ab_channel=KazoWAR
+        video: https://berkeley.zoom.us/rec/share/fVprHYyxPywlqCVnMnMfRw1kexLcCLEMTc3zondvP3xkMfNarBEls0LewBxH9Dg9.CA1huYQNgMqQHOG1
 ---
 
 ### Molly's 61a page
@@ -36,16 +36,15 @@ I encourage you to visit Berkeley's Disabled Students Program (DSP) to determine
 ### Resources
 <table class='61a-resources' style="width:100%; border-spacing:1em;">
 <tr class="resources">
-    <th width="20%"></th>
+    <th width="30%"></th>
     <th width="70%"></th>
-    <th width="10%"></th>
 </tr> <!-- end column def-->
 
 {% for resource in page.resources %}
 <tr class="resources">
-    <td> <a href="{{resource.notes}}">{{ resource.title }}</a></td>
+    <td>Slides: <a href="{{resource.notes}}">{{ resource.title }}</a><br>
+    Video: <a href="{{resource.video}}">Link (password is in the slides)</a></td>
     <td>{{ resource.summary }}</td>
-    <td><a href="{{resource.video}}">Link to recorded mini lecture</a></td>
 </tr><!--end resource-->
 {% endfor %}
 </table> <!--end resources-->
