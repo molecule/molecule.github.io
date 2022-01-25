@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 01
+        notes: https://docs.google.com/presentation/d/1nzZ2E556JIYPitg9HqjlehrY9A1gkiwmBQuOCgL8E34/edit?usp=sharing
+        summary: Control, truthyness, falseyness, how to solve the Parsons problems.
+        video: 
+    -
         title: Discussion 0
         notes: https://docs.google.com/presentation/d/1INvqbiY6oI3-vc1VoA1sjvi0x2HeZW2YCCTWCuxAvrs/edit?usp=sharing
         summary: Welcome, introductions, logistics. There is NO lab on Jan 18th.  We will be meeting for Discussion 0 on Thursday, 01/20 at 9:30 AM! All classes start Berkeley Time, so we will officially begin at 9:40am. You're welcome to join the link as early as 9:30 to say hello!
