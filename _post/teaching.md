@@ -5,8 +5,8 @@ resources:
     -
         title: Lab 01
         notes: https://docs.google.com/presentation/d/1nzZ2E556JIYPitg9HqjlehrY9A1gkiwmBQuOCgL8E34/edit?usp=sharing
-        summary: Control, truthyness, falseyness, how to solve the Parsons problems.
-        video: 
+        summary: Control, truthyness, falseyness, Parsons problems walk-through at the end.
+        video: https://drive.google.com/file/d/1P9MA7-5E0L53P4asa9bX-mY5DnMh0_oD/view?usp=sharing
     -
         title: Discussion 0
         notes: https://docs.google.com/presentation/d/1INvqbiY6oI3-vc1VoA1sjvi0x2HeZW2YCCTWCuxAvrs/edit?usp=sharing
