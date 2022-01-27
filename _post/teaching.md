@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 01
+        notes: https://docs.google.com/presentation/d/1jI2iEGF5A41SBw2f8-k0WBsV_4HxMrN6vIGhEWA795c/edit?usp=sharing
+        summary: Control, while loops, print statements, debugging, fizzbuzz.
+        video: https://drive.google.com/file/d/1PIRaqGPz99KBUXguLdKelNA1ctcGsgVk/view?usp=sharing
+    -
         title: Lab 01
         notes: https://docs.google.com/presentation/d/1nzZ2E556JIYPitg9HqjlehrY9A1gkiwmBQuOCgL8E34/edit?usp=sharing
         summary: Control, truthyness, falseyness, Parsons problems walk-through at the end.
@@ -48,7 +53,7 @@ I encourage you to visit Berkeley's Disabled Students Program (DSP) to determine
 {% for resource in page.resources %}
 <tr class="resources">
     <td>Slides: <a href="{{resource.notes}}">{{ resource.title }}</a><br>
-    Video: <a href="{{resource.video}}">Link (password is in the slides)</a></td>
+    Video: <a href="{{resource.video}}">Link</a></td>
     <td>{{ resource.summary }}</td>
 </tr><!--end resource-->
 {% endfor %}
