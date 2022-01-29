@@ -5,7 +5,7 @@ resources:
     -
         title: Disc 01
         notes: https://docs.google.com/presentation/d/1jI2iEGF5A41SBw2f8-k0WBsV_4HxMrN6vIGhEWA795c/edit?usp=sharing
-        summary: Control, while loops, print statements, debugging, fizzbuzz.
+        summary: Control, while loops, print statements, debugging, fizzbuzz (great interview prep).
         video: https://drive.google.com/file/d/1PIRaqGPz99KBUXguLdKelNA1ctcGsgVk/view?usp=sharing
     -
         title: Lab 01
@@ -31,7 +31,9 @@ I encourage you to visit Berkeley's Disabled Students Program (DSP) to determine
 
 ### Logistics
 
-**Attendance:** Zoom will automatically track who attends each section.
+**Lab Attendance:** Zoom will automatically track who attends each section. If you will miss the lab, you have two options to get your participation point: 1) Complete the lab _before the start of lab_ and [complete this lab attendance form](https://docs.google.com/forms/d/e/1FAIpQLSfHedn-v3htHa7PnS1wIp7E1QW6dUX0Zoz8GJXQ0JS0aZilfg/viewform?fbzx=-8626112325156323470), or 2) Skip this lab and miss a chance to get a point. [You need to accrue 5 lab participation points throughout the semester](https://cs61a.org/articles/about/#grading), so you'll have other chances to earn that point.
+
+**Discussion Attendance:** Zoom will automatically track who attends each section. If you will miss discussion, you have two options to get your participation point: 1) Complete all the discussion activities _before Friday at 5pm_ and [complete this discussion attendance form](https://docs.google.com/forms/d/e/1FAIpQLSfHedn-v3htHa7PnS1wIp7E1QW6dUX0Zoz8GJXQ0JS0aZilfg/viewform?fbzx=-8626112325156323470), or 2) Skip this lab and miss a chance to get a point. [You need to accrue 5 lab participation points throughout the semester](https://cs61a.org/articles/about/#grading), so you'll have other chances to earn that point.
 
 **Lab:** Tuesdays 9:30-11am, Online (Zoom) [Check the schedule on the 61a site for the link](https://sections.cs61a.org/)
 
@@ -39,9 +41,9 @@ I encourage you to visit Berkeley's Disabled Students Program (DSP) to determine
 
 **Office Hours:** Online. [Check the schedule on the 61a site for the link](https://cs61a.org/office-hours/)
 
-**Email:** molecule@berkeley.edu (I will respond to Piazza much more quickly!)
+**Email:** molecule@berkeley.edu (Questions related to the course should be asked on Piazza)
 
-**Anonymous feedback form:** [Link](https://docs.google.com/forms/d/e/1FAIpQLScyaVvvtFsLy_Zd-V3sdKcIkcd98GLPeitklv-WOue9oJwVHA/viewform) (I will check this approximately once a week)
+**Anonymous feedback form:** [Link](https://docs.google.com/forms/d/e/1FAIpQLScyaVvvtFsLy_Zd-V3sdKcIkcd98GLPeitklv-WOue9oJwVHA/viewform) 
 
 ### Resources
 <table class='61a-resources' style="width:100%; border-spacing:1em;">
@@ -61,11 +63,13 @@ I encourage you to visit Berkeley's Disabled Students Program (DSP) to determine
 
 ### Links
 - [61a Course Website](https://cs61a.org/)
-- [Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScyaVvvtFsLy_Zd-V3sdKcIkcd98GLPeitklv-WOue9oJwVHA/viewform) (I will check this approximately once a week)
+- [Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScyaVvvtFsLy_Zd-V3sdKcIkcd98GLPeitklv-WOue9oJwVHA/viewform)
+- [Lab / Discussion Alternate Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSfHedn-v3htHa7PnS1wIp7E1QW6dUX0Zoz8GJXQ0JS0aZilfg/viewform?fbzx=-8626112325156323470)
 
 ### Participation:
 There are lots of ways to participate! Find one that works for you.
 
+- Contribute on Piazza! Asking and answering questions are both great ways to participate.
 - Take notes -- If you take great notes, I'd love to share them as part of our "discussion summary"!
 - Timekeeper -- help our discussions stay on track and end on time!
 - Ask questions -- asking questions during discussion and lab is a great way to participate.
