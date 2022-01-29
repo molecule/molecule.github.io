@@ -13,7 +13,6 @@ submissions:
         award:
         links: <a href="https://arxiv.org/abs/2112.08460">PDF</a>
         video:
-        desc:
     -
         title: AirConstellations&#58; In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
         authors: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley.
@@ -25,7 +24,6 @@ submissions:
         award:
         links: <a href="https://youtu.be/WVEEsiXM6d4">Video</a> | <a href="/src/papers/air-constellations.pdf">PDF</a>
         video: https://youtu.be/WVEEsiXM6d4
-        desc: An amazing project led by Nicolai Marquardt. This work is so inspiring, and I learned so much collaborating with all of these amazing researchers. I helped design some of the interaction techniques, and contributed to sections of the paper.
     -
         title: Expanding the Design Space for Technology-Mediated Theatre Experiences
         authors: <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, Eric Paulos.
@@ -37,7 +35,6 @@ submissions:
         award:
         links: <a href="https://youtu.be/_P6WKr2dzXE">Video</a> | <a href="/src/papers/Theatre_DIS2021.pdf">PDF</a>
         video: https://youtu.be/_P6WKr2dzXE
-        desc: My first first-author paper. I'm so so proud of this project, and super excited about how this work came together. It was honestly a disaster at first. About two weeks after the show closed, I moved down to Santa Monica where my laptop (with all of the user data from the audience interviews/surveys/etc) was stolen. Then, a year later (March 2020) I decided to work with another theatre group to recreate the project....3 days later everything shut down for COVID-19. It took me another 6 months to slowly iterate on a draft about the design process, which eventually became this paper.
     -
         title: A Conversation with Actuators&#58; An Exploratory Design Environment for Hybrid Materials
         authors: César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, Eric Paulos.
@@ -49,7 +46,6 @@ submissions:
         award:
         links: <a href="/src/papers/conversation-w-actuators.pdf">PDF</a>
         video:
-        desc: 
     -
         title: Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices
         authors: César Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, Eric Paulos.
@@ -60,8 +56,7 @@ submissions:
         conf-link: http://dis2018.org/
         award:
         links: <a href="/src/papers/Guardians_of_Practice_dis2019.pdf">PDF</a>
-        video:
-        desc: One of my favorite research projects. Working on this shaped my thinking around all forms of creativity, and heavily influenced how I carry out research. This really sparked my interest in qualitative methods, and inspired me to imagine ways in which expertise from one creative practice can be imported into another. I helped with every aspect of this project, from original conception, study design, and interviews. 
+        video: 
     -
         title: AlterWear&#58; Battery-Free Wearable Displays for Opportunistic Interactions.
         authors: Christine Dierk, <b>Molly Jane Nicholas</b>, Eric Paulos.
@@ -73,7 +68,6 @@ submissions:
         award:
         links: <a href="https://www.youtube.com/watch?v=J88p4Cf2DSs&t=1s">Video</a> | <a href="/src/papers/AlterWear_chi2018.pdf">PDF</a> 
         video: https://www.youtube.com/watch?v=J88p4Cf2DSs&t=1s
-        desc:
     -
         title: HäirIÖ&#58; Human Hair as an Interactive Material.
         authors: Christine Dierk, Sarah Sterman, <b>Molly Jane Nicholas</b>, Eric Paulos.
@@ -85,7 +79,6 @@ submissions:
         award: 
         links: <a href="https://www.youtube.com/watch?v=8JV2D7gJ5HI">Video</a> | <a href="/src/papers/HairIO-tei2018.pdf">PDF</a> | <a href="https://www.instructables.com/id/HairIO-Hair-As-Interactive-Material/">Instructable</a> | <a href="https://blog.hackster.io/hair-turned-into-an-interactive-medium-with-hairio-3c27cbcd4c23">Hackster article</a> | <a href="https://hackaday.com/2018/03/29/hairio-an-interactive-extension-of-the-self/">Hackaday article</a> | <a href="https://blog.arduino.cc/2018/03/20/these-interactive-hair-extensions-can-communicate-over-bluetooth/?utm_content=buffer0fd5e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">Arduino article</a>
         video: https://www.youtube.com/watch?v=8JV2D7gJ5HI
-        desc: This project started existence as a paper that Christie had been working on for a while. She invited Sarah and I to collaborate with her, and when the deadline was extended by two weeks, we did a major brainstorming session and re-did nearly the whole thing. As with many of our lab’s papers, this project was highly collaborative. Christie was the lead when it came to design decisions, but we all contributed to writing the code, designing the circuit, framing the paper, planning the user study, and writing the paper. I was primarily responsible for running and analyzing the user study. I also did the filming and editing of the video.
     -
         title: Illumination Aesthetics&#58; Light as a Creative Material within Computational Design.
         authors: César Torres, Jasper O’Leary, <b>Molly Jane Nicholas</b>, Eric Paulos.
@@ -98,7 +91,6 @@ submissions:
         award-desc: Best Paper Award
         links: <a href="https://www.youtube.com/watch?v=tcaZyJqJElw">Video</a> | <a href="/src/papers/IlluminationAesthetics-chi2017.pdf">PDF</a>
         video: https://www.youtube.com/watch?v=tcaZyJqJElw
-        desc: The first research paper I wrote. Joined the team 3 weeks before the CHI deadline. My personal contribution involved running the user study. Jumping right into this project was an awesome way to get started with research. If you have a chance, I highly recommend getting involved with existing research when you start. I picked up a bunch of new skills and it really helped to get my hands dirty (so to speak) working on a research project. With only a few days before the deadline, César trained me in how to do the user study, which I ran. I was also responsible for synthesizing themes and writing the user study section of the paper (which was later specifically identified by reviewers as high quality).
     -
 ---
 
