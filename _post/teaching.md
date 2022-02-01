@@ -5,22 +5,22 @@ resources:
     -
         title: Lab 02
         notes: https://docs.google.com/presentation/d/1nthEuRBlzICAfij3dxb1rGfDexXZ7GXkGZaiEY254uo/edit?usp=sharing
-        summary: Higher-order Functions, lambdas, currying.
+        summary: Higher-order Functions, lambdas, currying, applying environment diagrams. (2022-02-01) 
         video: https://drive.google.com/file/d/1nfqVcRL_s8755X_k7k4fKxXq1YjKDJaX/view?usp=sharing
     -
         title: Disc 01
         notes: https://docs.google.com/presentation/d/1jI2iEGF5A41SBw2f8-k0WBsV_4HxMrN6vIGhEWA795c/edit?usp=sharing
-        summary: Control, while loops, print statements, debugging, fizzbuzz (great interview prep).
+        summary: Control, while loops, print statements, debugging, fizzbuzz (great interview prep). (2022-01-27)
         video: https://drive.google.com/file/d/1PIRaqGPz99KBUXguLdKelNA1ctcGsgVk/view?usp=sharing
     -
         title: Lab 01
         notes: https://docs.google.com/presentation/d/1nzZ2E556JIYPitg9HqjlehrY9A1gkiwmBQuOCgL8E34/edit?usp=sharing
-        summary: Control, truthyness, falseyness, Parsons problems walk-through at the end.
+        summary: Control, truthyness, falseyness, Parsons problems walk-through at the end. (2022-01-25)
         video: https://drive.google.com/file/d/1P9MA7-5E0L53P4asa9bX-mY5DnMh0_oD/view?usp=sharing
     -
-        title: Discussion 0
+        title: Disc 00
         notes: https://docs.google.com/presentation/d/1INvqbiY6oI3-vc1VoA1sjvi0x2HeZW2YCCTWCuxAvrs/edit?usp=sharing
-        summary: Welcome, introductions, logistics. There is NO lab on Jan 18th.  We will be meeting for Discussion 0 on Thursday, 01/20 at 9:30 AM! All classes start Berkeley Time, so we will officially begin at 9:40am. You're welcome to join the link as early as 9:30 to say hello!
+        summary: Welcome, introductions, logistics. There is NO lab on Jan 18th.  We will be meeting for Discussion 0 on Thursday, 01/20 at 9:30 AM! All classes start Berkeley Time, so we will officially begin at 9:40am. You're welcome to join the link as early as 9:30 to say hello! (2022-01-20)
         video: https://berkeley.zoom.us/rec/share/fVprHYyxPywlqCVnMnMfRw1kexLcCLEMTc3zondvP3xkMfNarBEls0LewBxH9Dg9.CA1huYQNgMqQHOG1
 ---
 
