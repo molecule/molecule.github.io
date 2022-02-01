@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 02
+        notes: https://docs.google.com/presentation/d/1nthEuRBlzICAfij3dxb1rGfDexXZ7GXkGZaiEY254uo/edit?usp=sharing
+        summary: Higher-order Functions, lambdas, currying.
+        video: https://drive.google.com/file/d/1nfqVcRL_s8755X_k7k4fKxXq1YjKDJaX/view?usp=sharing
+    -
         title: Disc 01
         notes: https://docs.google.com/presentation/d/1jI2iEGF5A41SBw2f8-k0WBsV_4HxMrN6vIGhEWA795c/edit?usp=sharing
         summary: Control, while loops, print statements, debugging, fizzbuzz (great interview prep).
