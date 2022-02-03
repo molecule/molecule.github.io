@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 02
+        notes: https://docs.google.com/presentation/d/1155K-Pq3fZbsZABmAg4i5GjHuNJsDS6a6cKqu1Csdaw/edit?usp=sharing
+        summary: Environment diagrams, higher-order functions, lambdas, currying. (2022-02-03)
+        video: https://drive.google.com/file/d/1oSyQplu4IwxgbRiaPwTzCUDjsEWJFINx/view?usp=sharing
+    -
         title: Lab 02
         notes: https://docs.google.com/presentation/d/1nthEuRBlzICAfij3dxb1rGfDexXZ7GXkGZaiEY254uo/edit?usp=sharing
         summary: Higher-order Functions, lambdas, currying, applying environment diagrams. (2022-02-01) 
