@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 03
+        notes:
+        summary: No lab on Feb 8th! There is no lab this week because of the midterm. Good luck!
+        video: 
+    -
         title: Disc 02
         notes: https://docs.google.com/presentation/d/1155K-Pq3fZbsZABmAg4i5GjHuNJsDS6a6cKqu1Csdaw/edit?usp=sharing
         summary: Environment diagrams, higher-order functions, lambdas, currying. (2022-02-03)
