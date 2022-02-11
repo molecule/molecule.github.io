@@ -6,7 +6,7 @@ resources:
         title: Disc 03
         notes: https://docs.google.com/presentation/d/1sJbJZLEvUYKg01fUfdqHPKFHhH3UFYgacWtjqM3Z59U/edit?usp=sharing
         summary: Recursion. Yo dawg, I heard you like recursion, so I put a function call to your function inside your function.
-        video: https://drive.google.com/file/d/1qhjCvWjfglNwgvn8NNqtjldXhGkO-TSD/view?usp=sharing
+        video: https://drive.google.com/file/d/1qaxO6hXwp4GD2DcDp4er86bUQC4T72N3/view?usp=sharing
     -
         title: Lab 03
         notes:
