@@ -4,20 +4,27 @@ date: 2021-09-02
 image:
 submissions:
     -
-        submissionNum: 31
-        conference: DIS'22
-        subTitle: Secret Puppet Paper (Title redacted until work is published)
-        notes: This is part of my thesis. I'm sooo excited about it.
-        icon: /src/img/icon-noun_Question_727759.png
-        finalResult: 
-    -
-        submissionNum: 30
-        conference: DIS'22
+        submissionNum: 32
+        conference: CHIWORK'22
         subTitle: Secret VR Paper (Title redacted until work is published)
         secretTitle: Avatar
         notes: I'm just one of many co-authors on this project lead by a fellow intern at Microsoft.
         icon: /src/img/icon-noun_Question_727759.png
-        finalResult: Started life as submission 14. Resubmitted a heavily re-worked version to GROUP'22 (submission 25), then DIS '22 (this submission).
+        finalResult: Started life as submission 14. Resubmitted a heavily re-worked version to GROUP'22 (submission 25), then CHIWORK '22 (this submission).
+    -
+        submissionNum: 31
+        conference: DIS'22
+        subTitle: Secret Interaction Design Tool Paper (Title redacted until work is published)
+        notes: Another MSR project :)
+        icon: /src/img/icon-noun_Question_727759.png
+        finalResult:
+    -
+        submissionNum: 30
+        conference: DIS'22
+        subTitle: Secret Puppet Paper (Title redacted until work is published)
+        notes: This is part of my thesis. I'm sooo excited about it.
+        icon: /src/img/icon-noun_Question_727759.png
+        finalResult:
     -
         submissionNum: 29
         conference: DIS'22
@@ -39,14 +46,14 @@ submissions:
         subTitle: Secret Headphones Paper (Title redacted until work is published)
         notes: We thought we were really close with the last submission so we completely rewrote this and abandoned everything we had first discussed. Just kidding but also not really.
         icon: /src/img/icon-noun_X_1890803.png
-        finalResult: First submitted to DIS'21 (submission 18). Then significantly reworked (basically a new paper), and submitted to CHI'22 (this submission). Reworked AGAIN for DIS'22 (submission 29).
+        finalResult: First submitted to DIS'21 (submission 18). Then significantly reworked (basically a new paper), and submitted to CHI'22 (this submission). Reworked AGAIN for CHIWORK'22 (submission 32).
     -
         submissionNum: 26
         conference: CHI'22
         subTitle: Secret Workflow Paper (Title redacted until work is published)
         notes: I'm a co-author on this paper, lead by an awesome fellow intern at Microsoft.
-        icon: /src/img/icon-noun_Question_727759.png
-        finalResult: Got a revise-and-resubmit.
+        icon: /src/img/icon-noun_checkmark_364806.png
+        finalResult: Got a revise-and-resubmit at CHI'22, then after extensive work by the first author accepted!
     -
         submissionNum: 25
         conference: GROUP'22
@@ -54,7 +61,7 @@ submissions:
         secretTitle: AllTogether, Effect of Avatars in Hybrid Conferencing Environments
         notes: This paper has evolved - lots of co-authors with different home research methodologies, and finding the balance for everyone has been an interesting challenge! Also did you know that GROUP is not double-blind??
         icon: /src/img/icon-noun_X_1890803.png
-        finalResult: Started life as submission 14. Resubmitted a heavily re-worked version to GROUP'22 (this submission), then DIS '22 (submission 30).
+        finalResult: Started life as submission 14. Resubmitted a heavily re-worked version to GROUP'22 (this submission), then CHIWORK '22 (submission 32).
     -
         submissionNum: 24
         conference: UIST'21
