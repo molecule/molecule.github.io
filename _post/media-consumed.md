@@ -4,6 +4,12 @@ date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 media:
     -
+        title: The Tomorrow War
+        review: Not complete garbage!
+        rating: 1.5
+        type: Movie
+        icon: noun-movie-138841.png
+    -
         title: Encanto
         review: SO FUN. Really excellent. AMAZING music. Gorgeous animation. Very rewatchable.
         rating: 3
@@ -50,7 +56,7 @@ media:
         icon: noun-book-10732.png
     - 
         title: Darker Shade of Magic by V. E. Schwab
-        review: Promising but disappointing. The magic doesn't seem well thought-through. 
+        review: Promising but disappointing. The magic doesn't seem well thought-out. 
         rating: 1.5
         link:
         type: Book
@@ -78,14 +84,14 @@ media:
         icon: noun-book-10732.png
     -
         title: Fool's Errand by Robin Hobb
-        review: I wanted to love this but the character is so whiny and negative I just can't put myself through that again.
+        review: I wanted to love this but the character is so whiny and negative. I just can't put myself through that again.
         rating: 1
         link:
         type: Book
         icon: noun-book-10732.png
     -
         title: Legend of Korra
-        review: Great just to stay in touch with the world, but the characters don't have the same goofy charm as ATLA. Adults can be goofy too! Why won't they let adults and teenagers be goofy too?
+        review: Great just to stay in touch with the world, but the characters don't have the same goofy charm as ATLA. Adults can be goofy too! Why won't they let adults and teenagers be goofy too? Also the fighting animation is significantly worse.
         rating: 2
         link:
         type: Show
@@ -99,14 +105,14 @@ media:
         icon: noun-tv-642953.png
     -
         title: Queen's Thief series
-        review: The only books I read now.
+        review: I cannot emphasize enough how excellent this series is. Hands down without a doubt my favourite book series of all time.
         rating: 3
         link:
         type: Book
         icon: noun-book-10732.png
     -
         title: Lincoln in the Bardo
-        review: Such an unusual structure! So unique! Really compelling and emotionally deep story. Enjoyed it.
+        review: Such an unusual structure! So unique! Really compelling and emotionally deep story. Enjoyed it, but don't remember a thing about it 2 years later.
         rating: 2
         link:
         type: Book
@@ -120,7 +126,7 @@ media:
         icon: noun-movie-138841.png
     -
         title: Ancillary Justice, Mercy, and Sword, by Ann Leckie
-        review: MARVELOUS. Really unique character and world. Also unique approach to the plot. Instead of expanding outward with greater and bigger stakes, collapses inward with greater (but differen) stakes.
+        review: MARVELOUS. Really unique character and world. Also unique approach to the plot. Instead of expanding outward with bigger and bigger stakes, it collapses *inward* with bigger (but different) stakes.
         rating: 2
         link:
         type: Book
@@ -261,7 +267,7 @@ media:
     -
         title: The Matrix
         review: Almost every scene is iconic, even the little throwaway lines. I love this movie! Definitely wish they'd explored the philosophical ramifications more. Too bad they never made any sequels.
-        rating: 2
+        rating: 2.5
         link: https://www.alternateending.com/2010/07/blockbuster-history-mindfcking.html
         type: Movie
         icon: noun-movie-138841.png
@@ -302,14 +308,14 @@ media:
         icon: noun-movie-138841.png
     - 
         title: Mission Impossible 6
-        review: Honestly? The trailer was better! Just watch it and let your mind fill in the details, and it will be better than this movie.
+        review: Honestly? The trailer was better! Skip the movie; just watch the trailer and let your mind fill in the details, and it will be better than this movie.
         rating: 2
         link: https://www.alternateending.com/2018/07/mission-impossible-fallout-2018.html
         type: Movie
         icon: noun-movie-138841.png
     -
         title: Black Hawk Down
-        review: Such a cast! Ewan McGregor, Ian McEwan, Orlando Bloom, etc.
+        review: Such a cast! Ewan McGregor, Ian McEwan, Orlando Bloom, etc. I don't really enjoy war movies but this is fine.
         rating: 2
         link: 
         type: Movie
@@ -344,7 +350,7 @@ media:
         icon: noun-movie-138841.png
     - 
         title: Mamma Mia
-        review: I started this and kept expecting to turn it off. "Just a few more minutes...just a few more..." Best choreography in flippers I've seen since Jesus Christ Superstar.
+        review: I started this and kept expecting to turn it off. Best choreography in flippers I've seen since Jesus Christ Superstar.
         rating: 1.5
         link: https://www.alternateending.com/2008/07/the-loser-has-to-fall.html
         type: Movie
@@ -400,14 +406,14 @@ media:
         icon: noun-movie-138841.png
     - 
         title: The Incredibles
-        review: I love all Pixar. Animation quality hasn't held up over 14 years. I'm excited to see the new one and compare.
+        review: I love all Pixar. The animation quality of this one hasn't held up over the years but it's still very fun. I'm excited to see the new one and compare.
         rating: 2
         link: https://www.alternateending.com/2010/06/blockbuster-history-pixar-animation-studios.html
         type: Movie
         icon: noun-movie-138841.png
     -
         title: Ocean's 8
-        review: Mindy Kaling is a treasure. Anne Hathaway was great. Rihanna stole her scenes. First 10 mins were phenomenal, then the momentum hit a brick wall and never recovered speed (crucial for comedy), so it really dragged.
+        review: Mindy Kaling is a treasure. Anne Hathaway was great. Rihanna stole every scene she's in. First 10 mins were phenomenal, then the momentum hit a brick wall and never recovered speed (crucial for comedy), so it really dragged.
         rating: 2
         link: https://www.alternateending.com/2018/06/oceans-8-2018.html
         type: Movie
@@ -638,7 +644,7 @@ media:
         icon: noun-movie-138841.png
     -
         title: Interstellar
-        review: Meh. Can't BELIEVE they put not one, but THREE black outs in a motion picture.
+        review: Can't BELIEVE they put not one, but THREE black outs in a motion picture. Rewatching this during COVID is a very different experience. I fully understand the "non-reactions" people had to the disasters folding around them in a way I didn't before.
         rating: 2
         link: https://www.alternateending.com/2014/11/space-is-big-really-big-you-just-wont-believe-how-vastly-hugely-mindbogglingly-big-it-is.html
         type: Movie
@@ -680,7 +686,7 @@ media:
         icon: noun-movie-138841.png
     - 
         title: Kubo and the Two Strings
-        review: For some reason, the monkey's monologue before they enter the whale made me laugh harder than I've laughed in the last twenty years, at least. I can't explain it. This film is gorgeous and wonderful. This movie taught me that the only thing you need to do to make two characters seem to like each other is have them smile at each other. They can still have sassy banter! They can disagree! But occasional smiles is all it takes to escape the horrible "sitcom nastiness" so endemic to writing these days.
+        review: For some reason, the monkey's monologue before they enter the whale made me laugh harder than I have ever laughed in my life. We had to pause the movie for like 10 minutes while I recovered. I can't explain it. This film is gorgeous and wonderful. This movie taught me that the only thing you need to do to make two characters seem to like each other is have them smile at each other. They can still have sassy banter! They can disagree! But occasional smiles is all it takes to escape the horrible "sitcom nastiness" so endemic to writing these days.
         rating: 2.5
         link: https://www.alternateending.com/2016/08/if-you-look-away-even-for-an-instant-then-our-hero-will-surely-perish.html 
         type: Movie
