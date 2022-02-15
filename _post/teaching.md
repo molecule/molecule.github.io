@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 04
+        notes: https://docs.google.com/presentation/d/1ZyHRIMuRLqvbM6blVKTX-wzAs8fPMrT8kQ3cXklX_94/edit?usp=sharing
+        summary: Recursion, Tree Recursion.
+        video: https://drive.google.com/file/d/1QFh_he4sCqmQXHgMC_jVtWfIipBvrjaw/view?usp=sharing
+    -
         title: Disc 03
         notes: https://docs.google.com/presentation/d/1sJbJZLEvUYKg01fUfdqHPKFHhH3UFYgacWtjqM3Z59U/edit?usp=sharing
         summary: Recursion. Yo dawg, I heard you like recursion, so I put a function call to your function inside your function.
