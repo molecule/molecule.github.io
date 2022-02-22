@@ -3,6 +3,16 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 05
+        notes: https://docs.google.com/presentation/d/1U-4T0a8UgJJEzXF0fuHS6gbAdf57L3e6CZvzUwFQXBc/edit?usp=sharing
+        summary: Python Lists, Mutability
+        video: https://drive.google.com/file/d/13N2XRsUHtK6FwDeDHzVPT1VUnYTeuW0H/view?usp=sharing
+    -
+        title: Disc 04
+        notes: https://docs.google.com/presentation/d/1K745ANBEmpKBykecTpnmXsw8PPXuhs5lCwcOz-Zn4Js/edit?usp=sharing
+        summary: Recursion, Tree Recursion
+        video: https://drive.google.com/file/d/13MQUwBQxaHSNX2ps8Y1XNKiN8niJ7d8F/view?usp=sharing
+    -
         title: Lab 04
         notes: https://docs.google.com/presentation/d/1ZyHRIMuRLqvbM6blVKTX-wzAs8fPMrT8kQ3cXklX_94/edit?usp=sharing
         summary: Recursion, Tree Recursion.
