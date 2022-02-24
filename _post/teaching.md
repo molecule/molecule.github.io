@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 05
+        notes: https://docs.google.com/presentation/d/140R8j4D7EZ8Hiak7pzJ6bOVIUimxF8i_CsDJr12Gz8A/edit?usp=sharing
+        summary: Sequences, Mutability, Object-Oriented Programming
+        video: https://drive.google.com/file/d/13XeVsG4GjLbC6z-zqyEdx7N3ojNocRNh/view?usp=sharing
+    -
         title: Lab 05
         notes: https://docs.google.com/presentation/d/1U-4T0a8UgJJEzXF0fuHS6gbAdf57L3e6CZvzUwFQXBc/edit?usp=sharing
         summary: Python Lists, Mutability
