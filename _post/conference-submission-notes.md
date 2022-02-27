@@ -201,7 +201,7 @@ submissions:
         subTitle: A Conversation with Actuators; An Exploratory Design Environment for Hybrid Materials 
         notes: Recycled our paper from UIST 2018 - finally accepted! We did another user study to flesh out the world and expand our framework. I didn't help as much with this second round (mostly helped w the camera-ready and a bit with the video).
         icon: /src/img/icon-noun_checkmark_364806.png
-        finalResult: Accepted on first submission | <a href="/src/papers/conversation-w-actuators.pdf">PDF</a>
+        finalResult: Rejected from UIST, accepted on second attempt. | <a href="/src/papers/conversation-w-actuators.pdf">PDF</a>
     -
         submissionNum: 5
         conference: DIS'18
@@ -229,7 +229,7 @@ submissions:
         subTitle: Actuation Aesthetics; Expanding the Expressivity of Computational Materials in Time-based Mediums
         notes: Another César Torres collaboration. Ran a user study approximately.....four days before the deadline? This one was rough.
         icon: /src/img/icon-noun_X_1890803.png
-        finalResult: Accepted at TEI '19 (see Submission x)
+        finalResult: Accepted at TEI '19 (see Submission 6)
     -
         submissionNum: 1
         conference: CHI'17
