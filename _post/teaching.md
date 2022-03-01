@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 06
+        notes: https://docs.google.com/presentation/d/105HUMBfWdX5Fy7CTGTuBprESWuEfD__Bnr75dVZVAoI/edit?usp=sharing
+        summary: Object-Oriented Programming, String Representations
+        video: https://drive.google.com/file/d/1GtmBfek9d_oqInnH8Fk-4RWFRNq_dBq-/view?usp=sharing
+    -
         title: Disc 05
         notes: https://docs.google.com/presentation/d/140R8j4D7EZ8Hiak7pzJ6bOVIUimxF8i_CsDJr12Gz8A/edit?usp=sharing
         summary: Sequences, Mutability, Object-Oriented Programming
