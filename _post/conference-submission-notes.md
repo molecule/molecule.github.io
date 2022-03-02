@@ -246,6 +246,8 @@ Award: /src/img/icon-noun_779891.svg
 Check mark: /src/img/icon-noun_checkmark_364806.png
 -->
 
+This is a brief writeup of every "submission" I've made throughout my PhD. Some were accepted to become published papers right away, others have evolved over time and eventually been accepted as papers, others are still -- shall we say -- currently evolving.  I'm writing this with a few goals: 1) in the hopes of celebrating the submission (since that's the only part of the publication process I have control over) and 2) demystifying the publication cycle (and especially "failure") for others. This writeup was inspired by many others, including [Jeff Huang, who has presented a similar collection of 'paper journeys'](https://jeffhuang.com/struggle_for_each_paper/), [Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html), and [Matt Keeter](https://www.mattkeeter.com/projects/siggraph/#timeline). 
+
 <table class='submissions' style="width:100%">
 <thead>
   <tr>
