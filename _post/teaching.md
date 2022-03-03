@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 06
+        notes: https://docs.google.com/presentation/d/1dm1XRko1eQJO7J2Pm5hmWvJbRf2AYWsTppYYKqpTEGQ/edit?usp=sharing
+        summary: String Representations, Trees. The video link is a short but detailed walk-thru of the tree recursion problem Height from Discussion 6. If you want to watch <a href="https://drive.google.com/file/d/1ge5mCc4ZNGb09cJGwxKIrA7DoGIvkaas/view?usp=sharing">the rest of discussion 6, that link is here.</a>
+        video: https://drive.google.com/file/d/1gg8Xq6F4C4R16KqJB-J29Hah_O-ZYuhJ/view?usp=sharing
+    -
         title: Lab 06
         notes: https://docs.google.com/presentation/d/105HUMBfWdX5Fy7CTGTuBprESWuEfD__Bnr75dVZVAoI/edit?usp=sharing
         summary: Object-Oriented Programming, String Representations
