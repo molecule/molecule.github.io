@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 07
+        notes: https://docs.google.com/presentation/d/1ZtFSPsMyqPdHIRCHCESQOlwlE5JuyU06lOmJ_DvEKoM/edit?usp=sharing
+        summary: Mutable Trees, LinkedLists
+        video: https://drive.google.com/file/d/133Fv2FS8RC6A_3jj6tczucZeFCkfXhTm/view?usp=sharing
+    -
         title: Disc 06
         notes: https://docs.google.com/presentation/d/1dm1XRko1eQJO7J2Pm5hmWvJbRf2AYWsTppYYKqpTEGQ/edit?usp=sharing
         summary: String Representations, Trees. The video link is a short but detailed walk-thru of the tree recursion problem Height from Discussion 6. If you want to watch <a href="https://drive.google.com/file/d/1ge5mCc4ZNGb09cJGwxKIrA7DoGIvkaas/view?usp=sharing">the rest of discussion 6, that link is here.</a>
