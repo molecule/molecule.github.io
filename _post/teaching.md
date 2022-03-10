@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 07
+        notes: https://docs.google.com/presentation/d/1fxsIFb5WqojbI0vnU7zA1lIkMEvZCCfe4UM_aNqLMFs/edit?usp=sharing
+        summary: LinkedLists, Iterators, Generators
+        video: https://drive.google.com/file/d/13A7AsPjFO6BQpkk18w547QG9Gve1jgZJ/view?usp=sharing
+    -
         title: Lab 07
         notes: https://docs.google.com/presentation/d/1ZtFSPsMyqPdHIRCHCESQOlwlE5JuyU06lOmJ_DvEKoM/edit?usp=sharing
         summary: Mutable Trees, LinkedLists
