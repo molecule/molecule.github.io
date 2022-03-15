@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 08
+        notes: https://docs.google.com/presentation/d/1e_MakCX2kPbW4JEcftbL7KTFHheXeJ3hhY1uzJ_pBno/edit?usp=sharing
+        summary: Midterm 2 review
+        video: https://drive.google.com/file/d/14ArcfV_DgADIN6su12hnqLxYOK4jLqvx/view?usp=sharing
+    -
         title: Disc 07
         notes: https://docs.google.com/presentation/d/1fxsIFb5WqojbI0vnU7zA1lIkMEvZCCfe4UM_aNqLMFs/edit?usp=sharing
         summary: LinkedLists, Iterators, Generators
