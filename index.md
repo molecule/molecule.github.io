@@ -3,11 +3,17 @@ title: about
 layout: centered
 projects:
     -
+        title: Towards Creative Version Control
+        desc: (CSCW '22)
+        tags: [res]
+        imag: src/img/cscw22-cvcs.png
+        link: 
+    -
         title: Understanding Multi-Device Usage Paterns
         desc: Device Configurations, Fragmented Workflows (CHI '22)
         tags: [res]
         imag: /src/img/chi22-fragmented-workflows.png
-        link: src/papers/2022-chi-fragmented-workflows
+        link: /src/papers/2022-chi-fragmented-workflows.pdf
     -
         title: Friendscope
         desc: Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera (CSCW '22)
@@ -193,8 +199,20 @@ hidden:
 
 newsfeed:
     -
-        content: Really excited to teach CS61A!
+        content: Humbled to announce I won an Outstanding Graduate Student Instructor Award for teaching in CS61a!
+        date: 23 Mar 2022
+    -
+        content: A paper led by the amazing Irene Yuan (a fellow intern at MSR) got accepted to CHI! Well-deserved kudos to Irene and glad I could play a tiny role in getting it across the finish line :)
+        date: 08 Feb 2022
+    -
+        content: <a href="/post/conference-submission-notes/">Submitted another updated version of our creative practice paper to Creativity and Cognition.</a> Crossing fingers...5th time's the charm?
+        date: 24 Jan 2022
+    -
+        content: Really excited to teach CS61A! <a href="/post/teaching/">My teaching page is here.</a>
         date: 18 Jan 2022
+    -
+        content: Our paper about version control systems in creative practice was finally accepted! Only took 5 tries... (PDF link coming soon)
+        date: 17 Dec 2021
     -
         content: Proud to share <a href="https://twitter.com/FakePaperclips/status/1461776272854454274?s=20">I now have 8 outstanding reviews.</a>
         date: 15 Dec 2021
