@@ -3,6 +3,17 @@ title: papers
 layout: page
 submissions:
     -
+        title: Towards Creative Version Control
+        authors: Sarah Sterman, <b>Molly Jane Nicholas</b>, Eric Paulos
+        link: 
+        img: /src/img/2022-cscw-cvcs.png
+        conf: ACM Conference on Computer Supported Cooperative Work
+        conf-short: (CSCW '22)
+        conf-link: 
+        award:
+        links: 
+        video:
+    -
         title: Understanding Multi-Device Usage Paterns&#58; Physical Device Configurations and Fragmented Workflows
         authors: Ye (Irene) Yuan, Nathalie Riche, Nicolai Marquardt, <b>Molly Jane Nicholas</b>, Teddy Seyed, Hugo Romat, Bongshin Lee, Michel Pahud, Jonathan Goldstein, Rojin Vishkaie, Christian Holz, Ken Hinckley
         link: /src/papers/2022-chi-fragmented-workflows.pdf

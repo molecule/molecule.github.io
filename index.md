@@ -6,7 +6,7 @@ projects:
         title: Towards Creative Version Control
         desc: (CSCW '22)
         tags: [res]
-        imag: src/img/cscw22-cvcs.png
+        imag: src/img/2022-cscw-cvcs.png
         link: 
     -
         title: Understanding Multi-Device Usage Paterns
