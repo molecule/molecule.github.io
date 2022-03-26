@@ -268,7 +268,7 @@ rows:
         left: <img src="/src/img/2021-uist-air-constellations.png" style="width:90px"/>
         right: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley. 2021. <a href="/src/papers/2021-uist-air-constellations.pdf">AirConstellations - In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures</a> In Proc. of UIST '21, ACM Press (2021).
     -
-        left: <img src="/src/img/theatre-teaser.png" style="width:90px"/>
+        left: <img src="/src/img/2021-dis-theatre.png" style="width:90px"/>
         right: <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, and Eric Paulos. 2021. <a href="https://doi.org/10.1145/3461778.3462123">Expanding the Design Space for Technology-Mediated Theatre Experiences.</a> In Proc. of DIS '21, ACM Press (2021).
     -
         left: <img src="/src/img/cwa-gif.gif" style="width:90px"/>

@@ -36,7 +36,7 @@ projects:
         title: Technology-Mediated Theatre Experiences
         desc: (DIS 2021)
         tags: [res]
-        imag: /src/img/theatre-teaser.png
+        imag: /src/img/2021-dis-theatre.png
         link: /src/papers/2021-dis-theatre.pdf
     -
         title: Conversations with Actuators
