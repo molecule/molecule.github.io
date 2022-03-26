@@ -28,7 +28,7 @@ submissions:
         title: Friendscope&#58; Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
         authors: <b>Molly Jane Nicholas</b>, Brian A. Smith, Rajan Vaish
         link: /src/papers/2022-cscw-friendscope.pdf
-        img: /src/img/friendscope-crop03.jpg
+        img: /src/img/2022-cscw-friendscope.jpg
         conf: ACM Conference on Computer Supported Cooperative Work
         conf-short: (CSCW '22)
         conf-link: 
@@ -38,13 +38,13 @@ submissions:
     -
         title: AirConstellations&#58; In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
         authors: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley.
-        link: /src/papers/air-constellations.pdf
-        img: /src/img/air-constellations.png
+        link: /src/papers/2021-uist-air-constellations.pdf
+        img: /src/img/2021-uist-air-constellations.png
         conf:
         conf-short: (UIST'21)
         conf-link: https://uist.acm.org/uist2021/
         award:
-        links: <a href="https://youtu.be/WVEEsiXM6d4">Video</a> | <a href="/src/papers/air-constellations.pdf">PDF</a>
+        links: <a href="https://youtu.be/WVEEsiXM6d4">Video</a> | <a href="/src/papers/2021-uist-air-constellations.pdf">PDF</a>
         video: https://youtu.be/WVEEsiXM6d4
     -
         title: Expanding the Design Space for Technology-Mediated Theatre Experiences

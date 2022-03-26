@@ -68,7 +68,7 @@ submissions:
         subTitle: AirConstellations
         notes: An amazing project led by Nicolai Marquardt. This work is so inspiring, and I learned so much collaborating with all of these amazing researchers. I helped design some of the interaction techniques, and contributed to sections of the paper.
         icon: /src/img/icon-noun_checkmark_364806.png
-        finalResult: Accepted on first submission. | <a href="/src/papers/air-constellations.pdf">PDF</a>
+        finalResult: Accepted on first submission. | <a href="/src/papers/2021-uist-air-constellations.pdf">PDF</a>
     -
         submissionNum: 23
         conference: CSCW'22

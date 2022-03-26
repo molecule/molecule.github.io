@@ -18,7 +18,7 @@ projects:
         title: Friendscope
         desc: Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera (CSCW '22)
         tags: [res]
-        imag: /src/img/friendscope-crop03.jpg
+        imag: /src/img/2022-cscw-friendscope.jpg
         link: /src/papers/2022-cscw-friendscope.pdf
     -
         title: Kaleidoscope
@@ -30,8 +30,8 @@ projects:
         title: AirConstellations
         desc: (UIST '21)
         tags: [res]
-        imag: /src/img/air-constellations.png
-        link: /src/papers/air-constellations.pdf
+        imag: /src/img/2021-uist-air-constellations.png
+        link: /src/papers/2021-uist-air-constellations.pdf
     -
         title: Technology-Mediated Theatre Experiences
         desc: (DIS 2021)

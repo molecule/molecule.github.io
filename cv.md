@@ -36,14 +36,8 @@ rows:
         left:
         right: <br><br>
     -
-        left: research interests
-        right: <p class="cv-standard">Molly Jane Nicholas is particularly interested in how technology can enhance, augment, and support remote shared experiences through <i>copresence</i> and <i>shared attention</i>. In particular she thinks about how the ‘liveness’ of an experience affects those participating, and what aspects of ‘liveness’ are best mediated by technology.</p>
-    -
-        left:
-        right: <br>
-    -
         left: keywords
-        right: <p class="cv-standard">Human-Computer Interaction, Performance Studies, New Media, Creativity Support Tools, Maker Culture.</p>
+        right: <p class="cv-standard">Human-Computer Interaction, Performance Studies, New Media, Creativity Support Tools</p>
     -
         left: 
         right: <br>
@@ -54,7 +48,7 @@ rows:
         left:
         right: <p class="cv-bold">Ph.D., Electrical Engineering and Computer Science </p>
                <p class="cv-standard">Designated Emphasis in <a href="http://bcnm.berkeley.edu/academic/designated-emphasis-program/">New Media</a></p>
-               <p class="cv-italics">University of California, Berkeley, Berkeley, CA</p>
+               <p class="cv-italics">University of California - Berkeley, Berkeley, CA</p>
                <p class="cv-standard">Advisor&#58; Eric Paulos (EECS)</p>
         far-right: <p class="cv-date">2016 - Present</p>
     -   
@@ -63,7 +57,7 @@ rows:
     -
         left:
         right: <p class="cv-bold">Bachelor of Arts, Computer Science and Cognitive Science</p>
-               <p class="cv-italics">University of California, Berkeley, Berkeley, CA</p>
+               <p class="cv-italics">University of California - Berkeley, Berkeley, CA</p>
         far-right: <p class="cv-date">2011 - 2014</p>
     -
         left:
@@ -190,35 +184,89 @@ rows:
         left:
         right: <br>
     -
+        left: 
+        right: <h2 style="text-align:left">awards and fellowships</h2>
+    -
+        left: fellowships
+        right: <b>NSF Graduate Research Fellow</b>, 2018 “Wearable Interfaces Inspired by Performance Studies”
+    -
+        left:
+        right: <b>ARCS Scholar</b>, <a href="https://grad.berkeley.edu/news/headlines/honors-awards/arcs-student-celebration/">Jane Fuller Gillespie Memorial Scholar</a>, 2014
+    -
+        left:
+        right: <b>Snap Research Fellow</b>, 2019. <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Awarded</a> based on "the relevance and quality of their research, their technical and communication skills, and their understanding of how research initiatives can inspire future innovation at Snap."
+    -   
+        left: research awards
+        right: <b>Best Paper</b> ACM CHI'17, <a href="https://molecule.github.io/project/illumination-aesthetics/">Illumination Aesthetics</a>.
+    -
+        left: outstanding reviews
+        right: 1 recognition for Creativity & Cognition 2022
+    -
+        left:
+        right: 1 recognition for CSCW 2022
+    -
+        left: 
+        right: 2 recognitions for CHI 2022
+    -
+        left:
+        right: 1 recognition for UIST 2021
+    -
+        left:
+        right: 1 recogniiton for DIS 2021
+    -
+        left:
+        right: 1 recognition for IMWUT 2021
+    -
+        left:
+        right: 2 recognitions for CSCW 2021
+    -
+        left:
+        right: 1 recognition for DIS 2020
+    -
+        left: teaching awards
+        right: Outstanding Graduate Student Instructor (Spring 2022)
+    -
         left:
         right: <h2 style="text-align:left">publications</h2>
     -
         left:
-        right: <p class="cv-italics">8 published papers, 5 under review</p>
+        right: <p class="cv-italics">10 published papers, 5 under review</p>
     -
         left: under review
-        right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, Janaki Vivrekar, and Eric Paulos. *both authors contributed equally. (C&C)
+        right: <b>Molly Jane Nicholas*</b>, Eric Paulos. (DIS 22)
+    -
+        left: 
+        right: Sarah Sterman, <b>Molly Jane Nicholas*</b>, Janaki Vivrekar, Jessie Mindel, and Eric Paulos. *both authors contributed equally. (DIS 22)
+    -
+        left: 
+        right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, and Eric Paulos. *both authors contributed equally. (C&C 22)
     -
         left:
-        right: Sarah Sterman*, <b>Molly Jane Nicholas*</b>, and Eric Paulos. *both authors contributed equally. (CSCW)
+        right: <b>Molly Jane Nicholas</b>, David Ledo, Nicolai Marquardt, Michel Pahud, Nathalie Henry Riche, Hugo Romat, Christopher Collins, Rohan Kadekodi, Badrish Chandramouli, Ken Hinckley (DIS 22)
     -
         left:
-        right: <b>Molly Jane Nicholas</b>, Payod Panda, Eyal Ofek, Mar Gonzalez-Franco, Ken Hinckley, Jaron Lanier, Sean Rintel. (CHI)
+        right: Payod Panda, <b>Molly Jane Nicholas*</b>, Mar Gonzalez-Franco, Kori Inkpen, Eyal Ofek, Ross Cutler, Ken Hinckley, Jaron Lanier. (CHIWORK 22)
     -
         left:
-        right: Payod Panda, Mar Gonzalez-Franco, <b>Molly Jane Nicholas</b>, Kori Inkpen, Eyal Ofek, Ross Cutler, Jaron Lanier. (GROUP)
-    -
-        left:
-        right: Ye Yuan, Nathalie Riche, Nicolai Marquardt, <b>Molly Jane Nicholas</b>, Teddy Seyed, Hugo Romat, Bongshin Lee, Michel Pahud, Jonathan Goldstein, Rojin Vishkaie, Christian Holz, Ken Hinckley. (CHI)
+        right: Payod Panda, <b>Molly Jane Nicholas</b>, David Nguyen, Mar Gonzalez-Franco, Michel Pahud, Jaron Lanier, Ken Hinckley, Sean Rintel, Eyal Ofek. (DIS 22)
     -
         left:
         right: <br>
     -
-        left: <img src="/src/img/image-coming-soon.png" style="width:90px"/>
-        right: <b>Molly Jane Nicholas</b>, Brian Smith, Rajan Vaish. 2021. <a href="">Friendscope - Exploring In-the-Moment Experience Sharingon Camera Glasses via a Shared Camera</a> In Proc. of CSCW '22, ACM Press (2022).
+        left: published
+        right: 
     -
-        left: <img src="/src/img/air-constellations.png" style="width:90px"/>
-        right: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley. 2021. <a href="">AirConstellations - In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures</a> In Proc. of UIST '21, ACM Press (2021).
+        left: <img src="/src/img/2022-cscw-cvcs.png" style="width:90px"/>
+        right: Sarah Sterman, <b>Molly Jane Nicholas</b>, Eric Paulos. <a href="">Towards Creative Version Control</a> In Proc. of CSCW '22, ACM Press (2022).
+    -
+        left: <img src="/src/img/2022-chi-fragmented-workflows.png" style="width:90px"/>
+        right: Ye Yuan, Nathalie Riche, Nicolai Marquardt, <b>Molly Jane Nicholas</b>, Teddy Seyed, Hugo Romat, Bongshin Lee, Michel Pahud, Jonathan Goldstein, Rojin Vishkaie, Christian Holz, Ken Hinckley. <a href="/src/papers/2022-chi-fragmented-workflows.pdf">Understanding Multi-Device Usage Paterns - Device Configurations, Fragmented Workflows</a> In Proc. of CHI '22, ACM Press (2022)
+    -
+        left: <img src="/src/img/2022-cscw-friendscope.jpg" style="width:90px"/>
+        right: <b>Molly Jane Nicholas</b>, Brian Smith, Rajan Vaish. 2021. <a href="/src/papers/2022-cscw-friendscope.pdf">Friendscope - Exploring In-the-Moment Experience Sharingon Camera Glasses via a Shared Camera</a> In Proc. of CSCW '22, ACM Press (2022).
+    -
+        left: <img src="/src/img/2021-uist-air-constellations.png" style="width:90px"/>
+        right: Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, <b>Molly Jane Nicholas</b>, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A. S. Buxton, Ken Hinckley. 2021. <a href="/src/papers/2021-uist-air-constellations.pdf">AirConstellations - In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures</a> In Proc. of UIST '21, ACM Press (2021).
     -
         left: <img src="/src/img/theatre-teaser.png" style="width:90px"/>
         right: <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, and Eric Paulos. 2021. <a href="https://doi.org/10.1145/3461778.3462123">Expanding the Design Space for Technology-Mediated Theatre Experiences.</a> In Proc. of DIS '21, ACM Press (2021).
@@ -286,8 +334,11 @@ rows:
         left:
         right: <h2 style="text-align:left">teaching</h2>
     -
+        left: Jan 2022
+        right: <b>Graduate Student Instructor (CS61a)</b>, Undergraduate level intro to CS, structure and interpretation of computer programs, UC Berkeley [800 students, 65 in my section].
+    -
         left: Jan 2020
-        right: <b>Graduate Student Instructor (Critical Making)</b>, Graduate-level course, UC Berkeley [28 participants].
+        right: <b>Graduate Student Instructor (Critical Making)</b>, Graduate-level course, UC Berkeley [28 students].
     -
         left: Nov 2019
         right: <b>Workshop lead (Authoring Augmented Reality)</b>, Faculty and Staff continuing education, UC Berkeley [7 participants].
@@ -332,10 +383,10 @@ rows:
         right: Three scholars.
     -
         left: LAGSES Fellowship 
-        right: Three scholars
+        right: Three scholars.
     -
         left: Equal Access to Application Assistance (EAAA) Program
-        right: Three scholars
+        right: Three scholars.
     -
         left:
         right: <br>
@@ -344,13 +395,10 @@ rows:
         right: <h2 style="text-align:left">service</h2>
     -
         left: reviews
-        right: 42 reviews total as of 2020. CHI ‘16 - '22,  DIS '16 - '21,  TEI '18 - ’19, C&C '19-'21.
+        right: 74 reviews total as of 2022
     -
         left:
-        right: <b>special recognition for outstanding reviews</b> (7 total as of 2021)
-    -
-        left: 
-        right: DIS 2020 (1), CSCW 2021 (2), IMWUT 2021 (1), DIS 2021 (1), UIST 2021 (1)
+        right: <b>special recognition for outstanding reviews</b> (10 total as of 2022)
     -
         left:
         right: <br>
@@ -372,22 +420,6 @@ rows:
     -
         left:
         right: <br>
-    -
-        left: 
-        right: <h2 style="text-align:left">awards and fellowships</h2>
-    -
-        left: Fellowships
-        right: <b>NSF Graduate Research Fellow</b>, 2018 “Wearable Interfaces Inspired by Performance Studies”
-    -
-        left:
-        right: <b>ARCS Scholar</b>, <a href="https://grad.berkeley.edu/news/headlines/honors-awards/arcs-student-celebration/">Jane Fuller Gillespie Memorial Scholar</a>, 2014
-    -
-        left:
-        right: <b>Snap Research Fellow</b>, 2019. <a href="http://bcnm.berkeley.edu/news-research/2956/molly-nicholas-receives-snap-fellowship">Awarded</a> based on "the relevance and quality of their research, their technical and communication skills, and their understanding of how research initiatives can inspire future innovation at Snap."
-
-    -   
-        left: Research Awards
-        right: <b>Best Paper</b> ACM CHI'17, <a href="https://molecule.github.io/project/illumination-aesthetics/">Illumination Aesthetics</a>.
     -
 
 
