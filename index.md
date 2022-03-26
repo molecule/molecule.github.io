@@ -3,6 +3,12 @@ title: about
 layout: centered
 projects:
     -
+        title: Understanding Multi-Device Usage Paterns
+        desc: Device Configurations, Fragmented Workflows (CHI '22)
+        tags: [res]
+        imag: /src/img/chi22-fragmented-workflows.png
+        link: src/papers/2022-chi-fragmented-workflows
+    -
         title: Friendscope
         desc: Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera (CSCW '22)
         tags: [res]
