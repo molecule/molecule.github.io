@@ -202,6 +202,9 @@ newsfeed:
         content: Humbled to announce I won an Outstanding Graduate Student Instructor Award for teaching in CS61a!
         date: 23 Mar 2022
     -
+        content: Got my 10th outstanding review recognition.
+        date: 13 Mar 2022
+    -
         content: A paper led by the amazing Irene Yuan (a fellow intern at MSR) got accepted to CHI! Well-deserved kudos to Irene and glad I could play a tiny role in getting it across the finish line :)
         date: 08 Feb 2022
     -

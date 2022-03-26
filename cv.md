@@ -233,10 +233,10 @@ rows:
         right: <p class="cv-italics">10 published papers, 5 under review</p>
     -
         left: under review
-        right: <b>Molly Jane Nicholas*</b>, Eric Paulos. (DIS 22)
+        right: <b>Molly Jane Nicholas</b>, Eric Paulos. (DIS 22)
     -
         left: 
-        right: Sarah Sterman, <b>Molly Jane Nicholas*</b>, Janaki Vivrekar, Jessie Mindel, and Eric Paulos. *both authors contributed equally. (DIS 22)
+        right: Sarah Sterman*, <b>Molly Jane Nicholas*</b>, Janaki Vivrekar, Jessie Mindel, and Eric Paulos. *both authors contributed equally. (DIS 22)
     -
         left: 
         right: <b>Molly Jane Nicholas*</b>, Sarah Sterman*, and Eric Paulos. *both authors contributed equally. (C&C 22)
