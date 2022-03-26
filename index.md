@@ -37,7 +37,7 @@ projects:
         desc: (DIS 2021)
         tags: [res]
         imag: /src/img/theatre-teaser.png
-        link: /src/papers/Theatre_DIS2021.pdf
+        link: /src/papers/2021-dis-theatre.pdf
     -
         title: Conversations with Actuators
         desc: An Exploratory Design Environment for Hybrid Materials (TEI'19).
@@ -229,7 +229,7 @@ newsfeed:
         content: I passed my Qualifying exam! Officially a PhD candidate. <a href="/src/img/quals-committee.png">Huge thanks to the helpful members of my committee!!!</a>
         date: 7 May 2021
     -
-        content: <a href="/src/papers/Theatre_DIS2021.pdf">My first first-author paper (about incorporating technology into theatre) was accepted to DIS 2021!!</a>
+        content: <a href="/src/papers/2021-dis-theatre.pdf">My first first-author paper (about incorporating technology into theatre) was accepted to DIS 2021!!</a>
         date: 9 Apr 2021
     -
         content: I just learned I've received <a href="https://twitter.com/FakePaperclips/status/1370131214430924803?s=20">recognition for writing three excellent reviews???</a> Why is this information <a href="https://new.precisionconference.com/reviewing_history">so hidden on the PCS website??</a>

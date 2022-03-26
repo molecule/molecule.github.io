@@ -49,13 +49,13 @@ submissions:
     -
         title: Expanding the Design Space for Technology-Mediated Theatre Experiences
         authors: <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, Eric Paulos.
-        link: /src/papers/Theatre_DIS2021.pdf
+        link: /src/papers/2021-dis-theatre.pdf
         img: /src/img/theatre-teaser.png
         conf: Designing Interactive Systems Conference
         conf-short: (DIS '21)
         conf-link: https://dis.acm.org/2021/
         award:
-        links: <a href="https://youtu.be/_P6WKr2dzXE">Video</a> | <a href="/src/papers/Theatre_DIS2021.pdf">PDF</a>
+        links: <a href="https://youtu.be/_P6WKr2dzXE">Video</a> | <a href="/src/papers/2021-dis-theatre.pdf">PDF</a>
         video: https://youtu.be/_P6WKr2dzXE
     -
         title: A Conversation with Actuators&#58; An Exploratory Design Environment for Hybrid Materials

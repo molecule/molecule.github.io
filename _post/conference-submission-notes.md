@@ -120,7 +120,7 @@ submissions:
         subTitle: Expanding the Design Space of Technology-Mediated Theatre Experiences paper.
         notes: My first first-author paper. I'm so so proud of this project, and super excited about how this work came together. It was honestly a disaster at first. About two weeks after the show closed, I moved down to Santa Monica where my laptop (with all of the user data from the audience interviews/surveys/etc) was stolen. Then, a year later (March 2020) I decided to work with another theatre group to recreate the project....3 days later everything shut down for COVID-19. It took me another 6 months to slowly iterate on a draft about the design process, which eventually became this paper.  
         icon: /src/img/icon-noun_checkmark_364806.png
-        finalResult: Accepted on first submission | <a href="/src/papers/Theatre_DIS2021.pdf">PDF</a>
+        finalResult: Accepted on first submission | <a href="/src/papers/2021-dis-theatre.pdf">PDF</a>
     -
         submissionNum: 16
         conference: DIS'21
