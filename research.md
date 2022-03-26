@@ -11,7 +11,7 @@ submissions:
         conf-short: (CSCW '22)
         conf-link: 
         award:
-        links: 
+        links: (PDF Forthcoming)
         video:
     -
         title: Understanding Multi-Device Usage Paterns&#58; Physical Device Configurations and Fragmented Workflows
@@ -27,13 +27,13 @@ submissions:
     -
         title: Friendscope&#58; Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
         authors: <b>Molly Jane Nicholas</b>, Brian A. Smith, Rajan Vaish
-        link: https://arxiv.org/abs/2112.08460
+        link: /src/papers/2022-cscw-friendscope.pdf
         img: /src/img/friendscope-crop03.jpg
         conf: ACM Conference on Computer Supported Cooperative Work
         conf-short: (CSCW '22)
         conf-link: 
         award:
-        links: <a href="https://arxiv.org/abs/2112.08460">PDF</a>
+        links: <a href="/src/papers/2022-cscw-friendscope.pdf">PDF</a> | <a href="https://arxiv.org/abs/2112.08460">ArXiv</a>
         video:
     -
         title: AirConstellations&#58; In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
@@ -122,16 +122,21 @@ submissions:
 
 <table class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
-    <th width="10%"></th>
+    <th width="20%"></th>
     <th width="80%"></th>
-    <th width="10%"></th>
 </tr> <!-- end column def-->
 
 {% for submish in page.submissions %}
 <tr class="submish">
-    <td> <a href="{{submish.video}}"><img src="{{ submish.img }}" style="width:90px"/></a></td>
-    <td><a href="{{ submish.link }}">{{ submish.title }}</a> {{ submish.authors }} <a href="{{ submish.conf-link }}">{{ submish.conf-short }}</a><br>{{submish.links}}</td>
-    <td> <img src="{{ submish.award }}" style="width:50px"/> <small> {{submish.award-desc}}</small></td>
+    <tr>
+    <td><a href="{{submish.link}}"><img src="{{ submish.img }}" style="width:130px"/></a>
+    </td>
+    <td colspan="3" style="font size=+2">
+        <a href="{{ submish.link }}"><large>{{ submish.title }}</large> </a> <br>
+        {{ submish.authors }} <a href="{{ submish.conf-link }}">{{ submish.conf-short }}</a> <br>
+        {{submish.links}}
+    </td>
+    </tr>
 </tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->
 {% endfor %}
 </table> <!--end submission-->

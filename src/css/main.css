@@ -311,6 +311,10 @@ small { font-size: .5rem}
 
 medium { font-size: 0.7rem}
 
+large { font-size: 1.2rem}
+
+enormous { font-size: 4rem}
+
 /* Images */
 .clearfix {
   overflow: auto;

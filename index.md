@@ -19,7 +19,7 @@ projects:
         desc: Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera (CSCW '22)
         tags: [res]
         imag: /src/img/friendscope-crop03.jpg
-        link: https://arxiv.org/abs/2112.08460
+        link: /src/papers/2022-cscw-friendscope.pdf
     -
         title: Kaleidoscope
         desc: An online artist's desk for CS160.
