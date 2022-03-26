@@ -12,7 +12,7 @@ projects:
         title: Understanding Multi-Device Usage Paterns
         desc: Device Configurations, Fragmented Workflows (CHI '22)
         tags: [res]
-        imag: /src/img/chi22-fragmented-workflows.png
+        imag: /src/img/2022-chi-fragmented-workflows.png
         link: /src/papers/2022-chi-fragmented-workflows.pdf
     -
         title: Friendscope

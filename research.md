@@ -3,6 +3,17 @@ title: papers
 layout: page
 submissions:
     -
+        title: Understanding Multi-Device Usage Paterns&#58; Physical Device Configurations and Fragmented Workflows
+        authors: Ye (Irene) Yuan, Nathalie Riche, Nicolai Marquardt, <b>Molly Jane Nicholas</b>, Teddy Seyed, Hugo Romat, Bongshin Lee, Michel Pahud, Jonathan Goldstein, Rojin Vishkaie, Christian Holz, Ken Hinckley
+        link: /src/papers/2022-chi-fragmented-workflows.pdf
+        img: /src/img/2022-chi-fragmented-workflows.png
+        conf: ACM Conference on Human Factors in Computing Systems
+        conf-short: (CHI '22)
+        conf-link:
+        award:
+        links: <a href="/src/papers/2022-chi-fragmented-workflows.pdf">PDF</a>
+        video:
+    -
         title: Friendscope&#58; Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera
         authors: <b>Molly Jane Nicholas</b>, Brian A. Smith, Rajan Vaish
         link: https://arxiv.org/abs/2112.08460
