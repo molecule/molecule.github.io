@@ -272,7 +272,7 @@ rows:
         right: <b>Molly Jane Nicholas</b>, Stephanie Claudino Daffara, and Eric Paulos. 2021. <a href="https://doi.org/10.1145/3461778.3462123">Expanding the Design Space for Technology-Mediated Theatre Experiences.</a> In Proc. of DIS '21, ACM Press (2021).
     -
         left: <img src="/src/img/cwa-gif.gif" style="width:90px"/>
-        right: César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. In Proc. of TEI '19, ACM Press (2019).
+        right: César Torres, <b>Molly Jane Nicholas</b>, Sangyeon Lee, and Eric Paulos. 2019. A Conversation with Actuators&#58; An Exploratory Environment for Hybrid Materials. In Proc. of TEI '19, ACM Press (2019). [25% acceptance]
     -
         left: <img src="/src/img/guardians-kiln-gods.jpg" style="width:90px"/>
         right: César Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, and Eric Paulos. 2018. <a href="http://www.hybrid-ecologies.org/projects/25-guardians-of-practice">Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices.</a> In Proc. of DIS '18, ACM Press (2018). [23% acceptance]
