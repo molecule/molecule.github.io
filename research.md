@@ -133,7 +133,8 @@ submissions:
     </td>
     <td colspan="3" style="font size=+2">
         <a href="{{ submish.link }}"><large>{{ submish.title }}</large> </a> <br>
-        {{ submish.authors }} <a href="{{ submish.conf-link }}">{{ submish.conf-short }}</a> <br>
+        {{ submish.authors }} <br>
+        <a href="{{ submish.conf-link }}">{{ submish.conf-short }}</a> <br>
         {{submish.links}}
     </td>
     </tr>
