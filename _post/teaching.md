@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 10
+        notes: https://docs.google.com/presentation/d/1-TbP73AsSa60KNGt5C5y-d_Vv5ll-Zz7zhAthV-OCBM/edit?usp=sharing
+        summary: Scheme
+        video: https://drive.google.com/file/d/1B0F8sAydTfy2dTwnTkWUTDf0IjtMdnF1/view?usp=sharing
+    -
         title: Lab 08
         notes: https://docs.google.com/presentation/d/1e_MakCX2kPbW4JEcftbL7KTFHheXeJ3hhY1uzJ_pBno/edit?usp=sharing
         summary: Midterm 2 review
