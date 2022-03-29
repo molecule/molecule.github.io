@@ -199,14 +199,14 @@ hidden:
 
 newsfeed:
     -
+        content: Got my 11th outstanding review recognition. 3 DIS review cycles in a row babyyyy.
+        date: 29 Mar 2022
+    -
         content: Oh dang, the creative practice paper was finally accepted! More info about this C&C paper coming soon...
         date: 29 Mar 2022
     -
         content: Humbled to announce I won an Outstanding Graduate Student Instructor Award for teaching in CS61a!
         date: 23 Mar 2022
-    -
-        content: Got my 10th outstanding review recognition.
-        date: 13 Mar 2022
     -
         content: A paper led by the amazing Irene Yuan (a fellow intern at MSR) got accepted to CHI! Well-deserved kudos to Irene and glad I could play a tiny role in getting it across the finish line :)
         date: 08 Feb 2022
