@@ -199,6 +199,9 @@ hidden:
 
 newsfeed:
     -
+        content: Oh dang, the creative practice paper was finally accepted! More info about this C&C paper coming soon...
+        date: 29 Mar 2022
+    -
         content: Humbled to announce I won an Outstanding Graduate Student Instructor Award for teaching in CS61a!
         date: 23 Mar 2022
     -
