@@ -3,8 +3,8 @@ title: about
 layout: centered
 projects:
     -
-        title: Creative and Motivational Strategies Used by Expert Creative Practitioners
-        desc: (C&C '22)
+        title: Creative and Motivational Strategies 
+        desc: Used by Expert Creative Practitioners (C&C '22)
         tags: [res]
         imag: src/img/2022-cnc-heuristics.png
         link:
@@ -15,7 +15,7 @@ projects:
         imag: src/img/2022-cscw-cvcs.png
         link: 
     -
-        title: Understanding Multi-Device Usage Paterns
+        title: Multi-Device Usage Paterns
         desc: Device Configurations, Fragmented Workflows (CHI '22)
         tags: [res]
         imag: /src/img/2022-chi-fragmented-workflows.png
@@ -39,8 +39,8 @@ projects:
         imag: /src/img/2021-uist-air-constellations.png
         link: /src/papers/2021-uist-air-constellations.pdf
     -
-        title: Technology-Mediated Theatre Experiences
-        desc: (DIS 2021)
+        title: Technology-Mediated Theatre
+        desc: (DIS '21)
         tags: [res]
         imag: /src/img/2021-dis-theatre.png
         link: /src/papers/2021-dis-theatre.pdf
