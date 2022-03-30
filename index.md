@@ -3,6 +3,12 @@ title: about
 layout: centered
 projects:
     -
+        title: Creative and Motivational Strategies Used by Expert Creative Practitioners
+        desc: (C&C '22)
+        tags: [res]
+        imag: src/img/2022-cnc-heuristics.png
+        link:
+    -
         title: Towards Creative Version Control
         desc: (CSCW '22)
         tags: [res]
