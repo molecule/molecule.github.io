@@ -35,11 +35,11 @@ submissions:
     - 
         submissionNum: 28
         conference: CnC'22
-        subTitle: Secret creativity paper (Title redacted until work is published)
+        subTitle: Creative and Motivational Strategies Used by Expert Creative Practitioners
         secretTitle: Heuristics
         notes: I may have finally figured out what it is I'm trying to say. It also turns out that what I'm trying to say is something that's interesting to the folks at CnC, so I have fairly high hopes for this one.
-        icon: /src/img/icon-noun_Question_727759.png
-        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (this submission).
+        icon: /src/img/icon-noun_checkmark_364806.png
+        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
     -
         submissionNum: 27
         conference: CHI'22
@@ -50,7 +50,7 @@ submissions:
     -
         submissionNum: 26
         conference: CHI'22
-        subTitle: Secret Workflow Paper (Title redacted until work is published)
+        subTitle: Understanding Multi-Device Usage Paterns; Physical Device Configurations and Fragmented Workflows
         notes: I'm a co-author on this paper, lead by an awesome fellow intern at Microsoft.
         icon: /src/img/icon-noun_checkmark_364806.png
         finalResult: Got a revise-and-resubmit at CHI'22, then after extensive work by the first author accepted!
@@ -72,10 +72,10 @@ submissions:
     -
         submissionNum: 23
         conference: CSCW'22
-        subTitle: Secret Creativity Project (Title redacted until work is published) 
+        subTitle: Creative Strategies and Heuristics in Creative Professionals 
         notes: I honestly knew in my heart that CSCW wasn't the right place for this paper. However, we got super lucky with the reviewers and one gave us absolutely incredible, thoughtful, detailed feedback.
         icon: /src/img/icon-noun_X_1890803.png
-        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW where one was accepted (submission 21) and the other rejected (this submission). CnC'22 will probably be the last attempt (submission 28).
+        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
     -
         submissionNum: 22
         conference: CSCW'22
@@ -134,7 +134,7 @@ submissions:
         subTitle: Creative Heuristics in the Wild
         notes: Significantly reworked versions of the rejected CHI'21 paper (submission x), now split into two papers. We were consistently getting feedback that the story was too messy but we had so much cool stuff to talk about so we wrote two full papers each with an entirely separate focus. R4 - 2, R3 - 1.5, R1 - 3, R2 - 2.5.
         icon: /src/img/icon-noun_X_1890803.png
-        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 16 and this submission), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28).
+        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
     -
         submissionNum: 14
         conference: CHI'21
@@ -149,7 +149,7 @@ submissions:
         subTitle: “It’s not garbage if I can evolve on it”; The Shifting Purposes, Goals, and Re-Uses of Artifacts in Diverse Creative Practices
         notes: Significantly reworked draft of submission 10 that had been rejected from DIS'20. We completely changed the structure and re-wrote it three times in the week leading up to the deadline. We were SO proud of it and hoped the reviewers would love it as much as we did! Spoiler - they did not. MetaReviewer R4 - 2.5; R1 (2AC) - 3; R5 - 2.5; R2 - 3; R3 - 2. We did get this encouraging note though - "This paper was discussed extensively during the PC meeting and the ultimately had a 3rd AC added to the review." It feels nice to know your paper was under discussion.
         icon: /src/img/icon-noun_X_1890803.png
-        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (this submission). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28).
+        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
     -
         submissionNum: 12
         conference: CHI'21
@@ -170,7 +170,7 @@ submissions:
         subTitle: Investment vs Catalyst; A Design Ethnography of Documentation in Creative Practices
         notes: We LOVED this project and I think our love blinded us to the faults in our draft. Looking over the draft now, it's clear we didn't know what story we wanted to tell, and just dumped a bunch of semi-organized user quotes on the readers. Rejected!
         icon: /src/img/icon-noun_X_1890803.png
-        finalResult: Started life in 2019 (this submission), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). 
+        finalResult: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
     -
         submissionNum: 9
         conference: ISWC'19
