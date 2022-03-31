@@ -15,7 +15,7 @@ projects:
         imag: src/img/2022-cscw-cvcs.png
         link: 
     -
-        title: Multi-Device Usage Paterns
+        title: Multi-Device Usage Patterns
         desc: Device Configurations, Fragmented Workflows (CHI '22)
         tags: [res]
         imag: /src/img/2022-chi-fragmented-workflows.png
