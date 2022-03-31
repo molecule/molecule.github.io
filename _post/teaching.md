@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 10
+        notes: https://docs.google.com/presentation/d/1ysC4fYOjH9LZBV7iXfr6A2r2B-HQoDhupWuGvFcTkAg/edit?usp=sharing
+        summary: Scheme, Scheme Lists
+        video: https://drive.google.com/file/d/1GFjBlb7mdQmH_2VmhDCnzoT0IKUr-6nM/view?usp=sharing
+    -
         title: Lab 10
         notes: https://docs.google.com/presentation/d/1-TbP73AsSa60KNGt5C5y-d_Vv5ll-Zz7zhAthV-OCBM/edit?usp=sharing
         summary: Scheme
