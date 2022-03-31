@@ -221,7 +221,7 @@ ul { list-style-type: square; }
 .page,
 .post {
   margin-bottom: 4em;
-  max-width: 40rem;
+  max-width: 80rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left: auto;
