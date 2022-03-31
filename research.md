@@ -132,10 +132,10 @@ submissions:
     <td><a href="{{submish.link}}"><img src="{{ submish.img }}" style="width:130px"/></a>
     </td>
     <td colspan="3" style="font size=+2">
-        <a href="{{ submish.link }}"><large>{{ submish.title }}</large> </a> <br>
-        {{ submish.authors }} <br>
-        <a href="{{ submish.conf-link }}">{{ submish.conf-short }}</a> <br>
-        {{submish.links}}
+        <large>{{ submish.title }}</large> <br>
+        <medium>{{ submish.authors }}</medium> <br>
+        <medium><a href="{{ submish.conf-link }}">{{ submish.conf-short }}</a></medium> <br>
+        <medium>{{submish.links}}</medium>
     </td>
     </tr>
 </tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->
