@@ -3,6 +3,42 @@ layout: post
 date: 2018-06-17
 image: https://github.com/molecule/molecule.github.io/blob/master/src/img/roses/thornless-kathleen-harrop.png
 media:
+    - 
+        title: Lady of Mazes by Karl Schroeder
+        review: Also fun! Better to read for the ideas / concepts than the writing / characters though.
+        rating: 2
+        type: Book
+        icon: noun-book-10732.png
+    -   
+        title: Ventus by Karl Schroeder
+        review: Pretty fun and unique Sci-Fi! Enjoyable.
+        rating: 2
+        type: Book
+        icon: noun-book-10732.png
+    -
+        title: Garfield Spiderman Series
+        review: Honestly? PHENOMENAL. Tobey's choices as Peter don't make a LOT of sense (but I get what he was going for), but his Spidey is EXCELLENT. And the chemistry he has with Emma Stone awakened something in me no movie star ever has. LOVE the slow evolution to more general vigilantism.
+        rating: 2.5
+        type: Movie
+        icon: noun-movie-138841.png
+    -  
+        title: Tobey Spiderman Series
+        review: Fun! Tobey is actually so adorable as Peter Parker. The switch to wise-cracking Spidey doesn't totally make sense to me, though - feels jarring and rushed.
+        rating: 2
+        type: Movie
+        icon: noun-movie-138841.png
+    -   
+        title: Ocean's 13
+        review: I had never seen this until now. Awful.
+        rating: 1
+        type: Movie
+        icon: noun-movie-138841.png
+    -   
+        title: Ocean's 12
+        review: Felt more like a behind-the-scenes than a movie.
+        rating: 1.5
+        type: Movie
+        icon: noun-movie-138841.png
     -
         title: The Tomorrow War
         review: Not complete garbage!
@@ -56,7 +92,7 @@ media:
         icon: noun-book-10732.png
     - 
         title: Darker Shade of Magic by V. E. Schwab
-        review: Promising but disappointing. The magic doesn't seem well thought-out. 
+        review: Promising but disappointing. The magic doesn't seem well thought-out. I think I'm spoiled by Brandy Sandy.
         rating: 1.5
         link:
         type: Book
@@ -84,7 +120,7 @@ media:
         icon: noun-book-10732.png
     -
         title: Fool's Errand by Robin Hobb
-        review: I wanted to love this but the character is so whiny and negative. I just can't put myself through that again.
+        review: I wanted to love this but the character is so whiny and negative. I know better than to put myself through that again after Wheel of Time.
         rating: 1
         link:
         type: Book
@@ -295,7 +331,7 @@ media:
     -
         title: BlacKKKlansman
         review: Who was this movie for?
-        rating: 2
+        rating: 1.5
         link: 
         type: Movie
         icon: noun-movie-138841.png
@@ -644,7 +680,7 @@ media:
         icon: noun-movie-138841.png
     -
         title: Interstellar
-        review: Can't BELIEVE they put not one, but THREE black outs in a motion picture. Rewatching this during COVID is a very different experience. I fully understand the "non-reactions" people had to the disasters folding around them in a way I didn't before.
+        review: Can't BELIEVE they put not one, but THREE black outs in a motion picture. Rewatching this during COVID is a very different experience. I fully understand the "non-reactions" people had to the disasters unfolding around them in a way I didn't before.
         rating: 2
         link: https://www.alternateending.com/2014/11/space-is-big-really-big-you-just-wont-believe-how-vastly-hugely-mindbogglingly-big-it-is.html
         type: Movie
