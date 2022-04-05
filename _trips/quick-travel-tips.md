@@ -72,3 +72,9 @@ Jhorna ("Waterfall" or "Fountain")
 
 #### Swedish
 Jofridh (pronounced "Yo-frith")
+
+#### Italian
+Tullia
+Lucia
+Luciana
+Chiara
