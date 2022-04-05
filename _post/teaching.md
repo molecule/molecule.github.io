@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 11
+        notes: https://docs.google.com/presentation/d/1YgQ7w6JTWIi6UpJliicDIu2Yq9NgedtN-oKTi3g__pg/edit?usp=sharing
+        summary: Interpreters
+        video: https://drive.google.com/file/d/1GoMeJROJG_KydyE4v9IjUz_Y_LobjL7b/view?usp=sharing
+    -
         title: Disc 10
         notes: https://docs.google.com/presentation/d/1ysC4fYOjH9LZBV7iXfr6A2r2B-HQoDhupWuGvFcTkAg/edit?usp=sharing
         summary: Scheme, Scheme Lists
