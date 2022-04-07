@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 11
+        notes: https://docs.google.com/presentation/d/1R_dCzcW_tMTPQnAiV3ePEbT17F2F0m3I1qYkDi1QdPQ/edit?usp=sharing
+        summary: Interpreters, Tail recursion
+        video: https://drive.google.com/file/d/1SSyWLXFFshWphVxidODwbUEoJyVE6sp_/view?usp=sharing
+    -
         title: Lab 11
         notes: https://docs.google.com/presentation/d/1YgQ7w6JTWIi6UpJliicDIu2Yq9NgedtN-oKTi3g__pg/edit?usp=sharing
         summary: Interpreters
