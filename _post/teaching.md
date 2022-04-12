@@ -156,13 +156,6 @@ I encourage you to visit Berkeley's Disabled Students Program (DSP) to determine
 - [Anonymous Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScyaVvvtFsLy_Zd-V3sdKcIkcd98GLPeitklv-WOue9oJwVHA/viewform)
 - [Lab / Discussion Alternate Attendance Form](https://docs.google.com/forms/d/e/1FAIpQLSfHedn-v3htHa7PnS1wIp7E1QW6dUX0Zoz8GJXQ0JS0aZilfg/viewform?fbzx=-8626112325156323470)
 
-### Participation:
-There are lots of ways to participate! Find one that works for you.
-
-- Contribute on Piazza! Asking and answering questions are both great ways to participate.
-- Take notes -- If you take great notes, I'd love to share them as part of our "discussion summary"!
-- Timekeeper -- help our discussions stay on track and end on time!
-- Ask questions -- asking questions during discussion and lab is a great way to participate.
 
 ### My background
 I'm a PhD student in CS here at Berkeley, and my research is in the sub-field of Human Computer Interaction. This means I like to think about how to design interesting, useful, and compelling user interfaces. Before I came to grad school, I worked on robots at Qualcomm. I didn't discover programming until I was a freshman in college in 2005.
