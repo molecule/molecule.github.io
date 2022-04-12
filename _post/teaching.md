@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 12
+        notes: https://docs.google.com/presentation/d/1ObF8Wl-ZVc7Xf22pAxqwKxrlYya0eIpF9L7WdBLt9us/edit?usp=sharing
+        summary: Scheme Data Abstraction
+        video: https://drive.google.com/file/d/10MRgzjrl__CzYcM_CZ-1BU5crsI_ayql/view?usp=sharing
+    -
         title: Disc 11
         notes: https://docs.google.com/presentation/d/1R_dCzcW_tMTPQnAiV3ePEbT17F2F0m3I1qYkDi1QdPQ/edit?usp=sharing
         summary: Interpreters, Tail recursion
