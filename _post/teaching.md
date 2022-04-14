@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 12
+        notes: https://docs.google.com/presentation/d/1PXHxUI4GDwNQ4sJHlLOLRu1OlVqspkA-yvqKnkSOXRY/edit?usp=sharing
+        summary: Programs as Data
+        video: https://drive.google.com/file/d/14W13jK-VEbXortgFSV_DSui4UNQTbjep/view?usp=sharing
+    -
         title: Lab 12
         notes: https://docs.google.com/presentation/d/1ObF8Wl-ZVc7Xf22pAxqwKxrlYya0eIpF9L7WdBLt9us/edit?usp=sharing
         summary: Scheme Data Abstraction
