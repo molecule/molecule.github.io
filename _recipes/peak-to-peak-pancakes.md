@@ -2,7 +2,7 @@
 title: Peak to Peak Pancakes
 layout: recipe
 description: Also known as "dutch babies" these are the best pancakes in the world.
-image_path: /src/img/peak-to-peak.jpg
+image_path: /src/img/recipes/peak-to-peak.jpg
 ---
 
 #### Ingredients

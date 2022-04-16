@@ -2,7 +2,7 @@
 title: Simple Shortbread
 layout: recipe
 description: Crunchy, buttery, melt in your mouth. Another family heirloom recipe, this simple recipe is the perfect shortbread!
-image_path: /src/img/simple-shortbread.jpg
+image_path: /src/img/recipes/simple-shortbread.jpg
 ---
 
 #### Ingredients

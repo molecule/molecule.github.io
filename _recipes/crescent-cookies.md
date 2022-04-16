@@ -2,7 +2,7 @@
 title: Crescent Cookies
 layout: recipe
 description: Buttery, nutty cookies. A family heirloom recipe, these were my favourite Christmas cookies baked by my great-aunts Irene and Lillian. This recipe is a combination of their classic, with a few updates from the Cook's Illustrated version. The original was made with hazelnuts (a Czech favourite), but pecans or walnuts are also wonderful with pecans being a particular favourite.
-image_path: /src/img/crescent-cookies.jpg
+image_path: /src/img/recipes/crescent-cookies.jpg
 ---
 
 #### Ingredients
