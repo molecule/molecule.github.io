@@ -2,7 +2,7 @@
 title: Chocolate Chip Cookies
 layout: recipe
 description: Actually the best chocolate chip cookie recipe of all time.
-image_path: /src/img/image-coming-soon.png
+image_path: /src/img/recipes/cookies.jpeg
 ---
 
 Note, original was [here, but has since been taken down](https://web.archive.org/web/20130801000000*/http://forme-foryou.com/2011/08/the-only-chocolate-chip-cookie-i-will-ever-need-to-know-how-to-make-for-the-rest-of-my-life.html) so I'm saving this for posterity.
