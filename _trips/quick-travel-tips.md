@@ -78,3 +78,6 @@ Tullia
 Lucia
 Luciana
 Chiara
+
+## Countries I've Visited For at Least a Day
+Czech Republic, Germany, France, the UK, Sweden, Bangladesh, Nepal, Thailand, Vietnam, Cambodia, Japan, Singapore, Malaysia, China, Egypt, Mexico, Canada.
