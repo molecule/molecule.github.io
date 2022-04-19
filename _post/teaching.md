@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 13
+        notes: https://docs.google.com/presentation/d/1RG8_PbHV_kN4nKwAJNrlE49CVKkXUEpbUzWLn7WYcdQ/edit?usp=sharing
+        summary: Regular Expressions
+        video: https://drive.google.com/file/d/1Yp_tbVNVyxZ4WxtQbLBJVt7saDkAcUIK/view?usp=sharing
+    -
         title: Disc 12
         notes: https://docs.google.com/presentation/d/1PXHxUI4GDwNQ4sJHlLOLRu1OlVqspkA-yvqKnkSOXRY/edit?usp=sharing
         summary: Programs as Data
