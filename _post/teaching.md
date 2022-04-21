@@ -5,7 +5,7 @@ resources:
     -
         title: Disc 13
         notes: https://docs.google.com/presentation/d/1FuOqwEnic6DD1tWZpyn0K6Kf6NvhIZxFnZAuY5EAer0/edit?usp=sharing
-        summary: Regular Expressions, BNF
+        summary: Regular Expressions, BNF (Note that I react to the news of the ongoing campus threat in the video recording, which may be upsetting)
         video: https://drive.google.com/file/d/1kfpGH5FrC9j8rXujiLtdohxY-EESBVF5/view?usp=sharing
     -
         title: Lab 13
