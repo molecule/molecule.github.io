@@ -205,8 +205,8 @@ hidden:
 
 newsfeed:
     -
-        content: Got my 11th outstanding review recognition. 3 DIS review cycles in a row babyyyy.
-        date: 29 Mar 2022
+        content: Got my 12th outstanding review recognition. 3 DIS review cycles in a row babyyyy.
+        date: 21 Apr 2022
     -
         content: Oh dang, the creative practice paper was finally accepted! More info about this C&C paper coming soon...
         date: 29 Mar 2022
