@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 13
+        notes: https://docs.google.com/presentation/d/1FuOqwEnic6DD1tWZpyn0K6Kf6NvhIZxFnZAuY5EAer0/edit?usp=sharing
+        summary: Regular Expressions, BNF
+        video: https://drive.google.com/file/d/1kfpGH5FrC9j8rXujiLtdohxY-EESBVF5/view?usp=sharing
+    -
         title: Lab 13
         notes: https://docs.google.com/presentation/d/1RG8_PbHV_kN4nKwAJNrlE49CVKkXUEpbUzWLn7WYcdQ/edit?usp=sharing
         summary: Regular Expressions
