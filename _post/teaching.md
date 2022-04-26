@@ -3,9 +3,14 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Lab 14
+        notes: https://docs.google.com/presentation/d/1NtWIDgOoV9M41SaqgR3k_ytgLANTb-wG8QNoAuQLhjc/edit?usp=sharing
+        summary: Final review
+        video: https://drive.google.com/file/d/1uB7Ubfk2g9QNBSmxZtpCIR8YDPTy5_3s/view?usp=sharing
+    -
         title: Disc 13
         notes: https://docs.google.com/presentation/d/1FuOqwEnic6DD1tWZpyn0K6Kf6NvhIZxFnZAuY5EAer0/edit?usp=sharing
-        summary: Regular Expressions, BNF (Note that I react to the news of the ongoing campus threat in the video recording, which may be upsetting)
+        summary: Regular Expressions, BNF (Note that I react to the news of the ongoing campus threat in the video recording)
         video: https://drive.google.com/file/d/1kfpGH5FrC9j8rXujiLtdohxY-EESBVF5/view?usp=sharing
     -
         title: Lab 13
