@@ -3,6 +3,11 @@ layout: post
 date: 2022-01-05
 resources:
     -
+        title: Disc 14
+        notes: https://docs.google.com/presentation/d/1N5hzW-rtREi2KnDXyHdbq8t_c1n7m3HVll_gSC89Nxc/edit?usp=sharing
+        summary: Final review
+        video: https://drive.google.com/file/d/1ze38jxVXmC6aEvwXTjWnyQqMNG5dwxXL/view?usp=sharing
+    -
         title: Lab 14
         notes: https://docs.google.com/presentation/d/1NtWIDgOoV9M41SaqgR3k_ytgLANTb-wG8QNoAuQLhjc/edit?usp=sharing
         summary: Final review <a href="https://drive.google.com/file/d/1uHRH-7mgPZKsky1yTAn64opp9iky3vVI/view?usp=sharing">Zipped version of video, try this if the video link doesn't work</a>
