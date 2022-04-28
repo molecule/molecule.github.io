@@ -5,7 +5,7 @@ resources:
     -
         title: Lab 14
         notes: https://docs.google.com/presentation/d/1NtWIDgOoV9M41SaqgR3k_ytgLANTb-wG8QNoAuQLhjc/edit?usp=sharing
-        summary: Final review
+        summary: Final review <a href="https://drive.google.com/file/d/1uHRH-7mgPZKsky1yTAn64opp9iky3vVI/view?usp=sharing">Zipped version of video, try this if the video link doesn't work</a>
         video: https://drive.google.com/file/d/1uB7Ubfk2g9QNBSmxZtpCIR8YDPTy5_3s/view?usp=sharing
     -
         title: Disc 13
