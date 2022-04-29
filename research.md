@@ -10,7 +10,8 @@ submissions:
         conf: ACM Proceedings on Creativity and Cognition
         conf-short: (C&C '22)
         conf-link: 
-        award:
+        award: /src/img/icon-noun_779891.svg
+        award-desc: Best Paper Award
         links: (PDF Forthcoming)
         video:
         desc:  Through interviews with expert practitioners in diverse domains including performance, craft, engi- neering, and design, we identify four strategies for managing aspects of the creative process, including  metacognition, emotional affect, task motivation, and working style. These strategies are 1) Strategic Forgetting, 2) Mode Switching, 3) Embodying Process, and 4) Aestheticizing.
@@ -158,7 +159,8 @@ submissions:
         <medium>{{ submish.authors }}</medium> <br>
         <medium><a href="{{ submish.conf-link }}">{{ submish.conf-short }}</a></medium> <br>
         <medium>{{submish.desc}}</medium> <br>
-        <medium>{{submish.links}}</medium>
+        <medium>{{submish.links}}</medium> <br>
+        <medium>{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/></medium><br>
     </td>
     </tr>
 </tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->

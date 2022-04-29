@@ -205,6 +205,9 @@ hidden:
 
 newsfeed:
     -
+        content: Our paper about creative and motivational strategies used by experts across diverse fields won a Best Paper award at C&C!!
+        date: 29 Apr 2022
+    -
         content: Got my 12th outstanding review recognition. 3 DIS review cycles in a row babyyyy.
         date: 21 Apr 2022
     -
