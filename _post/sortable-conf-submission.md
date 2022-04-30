@@ -113,10 +113,9 @@ projects:
         <medium>{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/></medium><br>
     </td>
     <td>
-        <medium><a href="">SELECT</a></medium>
         <div class="project-tags"> {% for tag in submish.tags %} 
             <div class="tag {{tag}}">{{tag}}</div>
-            {% endfor %}</div>
+            {% endfor %}
         </div>
     </td>
     </tr>
