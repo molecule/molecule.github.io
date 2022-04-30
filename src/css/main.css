@@ -109,6 +109,7 @@ ul { list-style-type: square; }
   border: 1px solid #000;
 }
 
+/* http://jsfiddle.net/RFFy9/ */
 tr:hover {
   background-color: #ddd5f7;
   color: #000000;
@@ -116,6 +117,7 @@ tr:hover {
 
 td a { 
     display: block;
+    padding: 16px;
 }
 
 

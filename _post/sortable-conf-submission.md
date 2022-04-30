@@ -11,6 +11,8 @@ submissions:
         secretTitle: Heuristics
         authors: <b>Molly Jane Nicholas</b>, Sarah Sterman, Eric Paulos
         img: /src/img/2022-cnc-heuristics.png
+        award: /src/img/icon-noun_779891.svg
+        award-desc: Best Paper Award
         notes: I may have finally figured out what it is I'm trying to say. It also turns out that what I'm trying to say is something that's interesting to the folks at CnC, so I have fairly high hopes for this one. UPDATE - accepted AND won a Best Paper award!! This is absolutely the best version of this paper that has existed, and sending it to the right conference really matters.
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
         finalResult: C&C'22, Best Paper award | PDF Forthcoming
@@ -70,12 +72,15 @@ submissions:
         {% if submish.icon %}<img src="{{ submish.icon }}" style="width:100px"/>{% endif %}
     </td>
     <td colspan="3" style="font size=+2; ">
-        <large>{{ submish.title }}</large> <br>
-        <medium>{{ submish.authors }}</medium> <br>
-        <medium>{{submish.notes}}</medium> <br>
-        <medium>{{submish.links}}</medium> <br>
-        <medium>Final Result: {{ submish.conference }}</medium> <br>
-        <medium>{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/></medium><br>
+        <large><a href="">{{ submish.title}}</a></large> <br>
+        <medium><a href="">{{ submish.authors}}</a></medium> <br>
+        <medium><a href="">{{submish.notes}}</a></medium> <br>
+        <medium><a href="">{{submish.links}}</a></medium> <br>
+        <medium><a href="">Final Result: {{ submish.conference }}</a></medium> <br>
+        <medium><a href="">{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/></a>
+    </td>
+    <td>
+        <medium><a href="">SELECT</a></medium>
     </td>
     </tr>
 </tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->
