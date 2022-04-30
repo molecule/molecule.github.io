@@ -100,6 +100,8 @@
   $projectTags.forEach(attachTagListener);
   $submissions.forEach(attachTagListener);
 
+
+  //  https://www.geeksforgeeks.org/how-to-access-tr-element-from-table-using-javascript/
   document.getElementById('submissions')
     .addEventListener('click', function (item) {
         console.log("item:", item)
