@@ -16,7 +16,7 @@ submissions:
         notes: I may have finally figured out what it is I'm trying to say. It also turns out that what I'm trying to say is something that's interesting to the folks at CnC, so I have fairly high hopes for this one. UPDATE - accepted AND won a Best Paper award!! This is absolutely the best version of this paper that has existed, and sending it to the right conference really matters.
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
         finalResult: C&C'22, Best Paper award | PDF Forthcoming
-        tags: [res]
+        tags: [pub28]
     -
         submissionNum: 31
         conference: DIS'22
@@ -24,7 +24,7 @@ submissions:
         notes: Another MSR project :)
         icon: /src/img/icon-noun_X_1890803.png
         finalResult: Work is ongoing...
-        tags: [win]
+        tags: [flurgh]
     -
         submissionNum: 23
         conference: CSCW'22
@@ -33,7 +33,7 @@ submissions:
         icon: /src/img/icon-noun_X_1890803.png
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
         finalResult: C&C'22, Best Paper award | PDF Forthcoming
-        tag: 28
+        tags: [pub28]
     -
         submissionNum: 21
         conference: CSCW'21
@@ -86,7 +86,7 @@ projects:
   <span class="tag wee">weekend projects</span>
   <span class="tag wear">wearable</span>
   <span class="tag win">award-winning</span>
-  <span class="tag per">performances</span>
+  <span class="tag pub28">pub28</span>
 </div>
 
 <table id='submissions' class='submissions' style="width:100%; border-spacing:1em;">
@@ -96,7 +96,7 @@ projects:
 </tr> <!-- end column def-->
 
 {% for submish in page.submissions %}
-<tr class="submish">
+<tr id="submish" class="submish">
     <tr>
     <td>{% if submish.img %}<a href="{{submish.link}}"><img src="{{ submish.img }}" style="width:150px"/></a>{% endif %}
         {% if submish.icon %}<img src="{{ submish.icon }}" style="width:100px"/>{% endif %}

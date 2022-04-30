@@ -14,8 +14,8 @@
       $details = $id('project_details'),
       $title = $id('project_details_title'),
       $description = $id('project_details_description');
-      console.log("title: ", $title)
-      console.log("projectInfo: ", $projectInfo)
+      console.log("tags: ", $tags)
+      console.log("projectTags: ", $projectTags)
       console.log("submissionsParent: ", $submissionsParent)
       console.log("submissions: ", $submissions)
 
@@ -64,6 +64,7 @@
 
   function attachTagListener($tag) {
     var tagName = getTagName($tag);
+    console.log("tagName: ", tagName)
     $tag.addEventListener('click', function() {
       if (tagName === activeTagName) {
         clearActiveTagName();
@@ -75,9 +76,17 @@
 
   $tags.forEach(attachTagListener);
   $projectTags.forEach(attachTagListener);
+  $submissions.forEach(attachTagListener);
 
   document.getElementById('submissions')
     .addEventListener('click', function (item) {
+        console.log("item:", item)
+        console.log("item.lastElementChild:", item.path[0].nextElementSibling.lastElementChild)
+        var tag = item.path[0].nextElementSibling.lastElementChild.lastElementChild
+        console.log("tag: ", tag)
+        console.log("tag.classList: ", tag.classList)
+        console.log("tag.classList[0]: ", tag.classList[1])
+        setActiveTagName(tag.classList[1])
 
         // To get tr tag 
         // In the row where we click
@@ -90,12 +99,16 @@
         //    row_value += " | ";
         //}
         //alert(row_value);
-        console.log("row: ", row)
+        console.log("row ", row)
+        console.log("row.classList ", row.classList)
+        if (row.$tag.contains('active'))
+          console.log("active taggggg", row.$tag)
         // Toggle the highlight
         if (row.classList.contains('selected'))
             row.classList.remove('selected');
         else
             row.classList.add('selected');
+            //TODO: Remove highlight for all the other rows...
     });
 
   // DETAILS BOX
