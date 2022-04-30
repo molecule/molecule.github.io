@@ -24,7 +24,7 @@ submissions:
         notes: Another MSR project :)
         icon: /src/img/icon-noun_X_1890803.png
         finalResult: Work is ongoing...
-        tags: [flurgh]
+        tags: [pub31]
     -
         submissionNum: 23
         conference: CSCW'22
@@ -42,6 +42,7 @@ submissions:
         icon: /src/img/icon-noun_checkmark_364806.png
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (this submission) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). Total rejections before acceptance - 3. 
         finalResult: CSCW'21
+        tags: [pub28]
     -
         submissionNum: 16
         conference: DIS'21
@@ -50,6 +51,7 @@ submissions:
         icon: /src/img/icon-noun_X_1890803.png
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and this submission), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28).
         finalResult: CSCW'21
+        tags: [pub28]
     -
         submissionNum: 15
         conference: DIS'21
@@ -58,6 +60,7 @@ submissions:
         icon: /src/img/icon-noun_X_1890803.png
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
         finalResult: C&C'22, Best Paper award | PDF Forthcoming
+        tags: [pub28]
 
 projects:
     -
@@ -84,7 +87,7 @@ projects:
   <span class="tag res">research</span>
   <span class="tag cla">class project</span>
   <span class="tag wee">weekend projects</span>
-  <span class="tag wear">wearable</span>
+  <span class="tag pub31">pub31</span>
   <span class="tag win">award-winning</span>
   <span class="tag pub28">pub28</span>
 </div>
@@ -114,7 +117,7 @@ projects:
         <div class="project-tags"> {% for tag in submish.tags %} 
             <div class="tag {{tag}}">{{tag}}</div>
             {% endfor %}</div>
-  </div>
+        </div>
     </td>
     </tr>
 </tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->

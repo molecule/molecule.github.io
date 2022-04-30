@@ -31,19 +31,37 @@
     var projectTagSelector = '.project-tags > .tag.' + tagName;
     $$(projectTagSelector).forEach(function($tag) {
       $tag.classList.remove('active');
-      var $wrapper = $tag.parentNode.parentNode.parentNode.parentNode;
+      var $wrapper = $tag.parentNode.parentNode.parentNode;
       $wrapper.classList.remove(tagName);
+    });
+    $projectTags.forEach(function($otherTag) {
+      //console.log("$otherTag.className: ", $otherTag.className)
+      //console.log("$otherTag.classList[1]: ", $otherTag.classList[1])
+      if ($otherTag.classList[1] != tagName) {
+        console.log("this is another tag: ", $otherTag)
+        //$otherTag.parentNode.parentNode.classList.add('hide')
+        console.log("$otherTag.parentNode...", $otherTag.parentNode.parentNode.parentNode.classList.remove('hide'))
+      }
     });
   }
 
   function activateTag(tagName) {
     console.log("activate Tag!", tagName)
     var tagSelector = '#tags > .tag.' + tagName;
+    $projectTags.forEach(function($otherTag) {
+      //console.log("$otherTag.className: ", $otherTag.className)
+      //console.log("$otherTag.classList[1]: ", $otherTag.classList[1])
+      if ($otherTag.classList[1] != tagName) {
+        console.log("this is another tag: ", $otherTag)
+        //$otherTag.parentNode.parentNode.classList.add('hide')
+        console.log("$otherTag.parentNode...", $otherTag.parentNode.parentNode.parentNode.classList.add('hide'))
+      }
+    });
     $(tagSelector).classList.add('active');
     var projectTagSelector = '.project-tags > .tag.' + tagName;
     $$(projectTagSelector).forEach(function($tag) {
       $tag.classList.add('active');
-      var $wrapper = $tag.parentNode.parentNode.parentNode.parentNode;
+      var $wrapper = $tag.parentNode.parentNode.parentNode;
       console.log("wrapper: ", $wrapper)
       $wrapper.classList.add(tagName);
     });
@@ -101,8 +119,6 @@
         //alert(row_value);
         console.log("row ", row)
         console.log("row.classList ", row.classList)
-        if (row.$tag.contains('active'))
-          console.log("active taggggg", row.$tag)
         // Toggle the highlight
         if (row.classList.contains('selected'))
             row.classList.remove('selected');
