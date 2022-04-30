@@ -115,11 +115,6 @@ tr:hover {
   color: #000000;
 }
 
-td a { 
-    display: block;
-    padding: 16px;
-}
-
 table {
   border-collapse: collapse;
   border-spacing: 0;
