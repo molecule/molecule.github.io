@@ -26,6 +26,7 @@
   }
 
   function deactivateTag(tagName) {
+    console.log("DEactivate Tag-----------", tagName)
     var tagSelector = '#tags > .tag.' + tagName;
     $(tagSelector).classList.remove('active');
     var projectTagSelector = '.project-tags > .tag.' + tagName;
@@ -40,7 +41,8 @@
       if ($otherTag.classList[1] != tagName) {
         console.log("this is another tag: ", $otherTag)
         //$otherTag.parentNode.parentNode.classList.add('hide')
-        console.log("$otherTag.parentNode...", $otherTag.parentNode.parentNode.parentNode.classList.remove('hide'))
+        console.log("$otherTag.parentNode...", $otherTag.parentNode.parentNode.parentNode)
+        $otherTag.parentNode.parentNode.parentNode.classList.remove('hide')
       }
     });
   }
@@ -48,15 +50,6 @@
   function activateTag(tagName) {
     console.log("activate Tag!", tagName)
     var tagSelector = '#tags > .tag.' + tagName;
-    $projectTags.forEach(function($otherTag) {
-      //console.log("$otherTag.className: ", $otherTag.className)
-      //console.log("$otherTag.classList[1]: ", $otherTag.classList[1])
-      if ($otherTag.classList[1] != tagName) {
-        console.log("this is another tag: ", $otherTag)
-        //$otherTag.parentNode.parentNode.classList.add('hide')
-        console.log("$otherTag.parentNode...", $otherTag.parentNode.parentNode.parentNode.classList.add('hide'))
-      }
-    });
     $(tagSelector).classList.add('active');
     var projectTagSelector = '.project-tags > .tag.' + tagName;
     $$(projectTagSelector).forEach(function($tag) {
@@ -64,6 +57,17 @@
       var $wrapper = $tag.parentNode.parentNode.parentNode;
       console.log("wrapper: ", $wrapper)
       $wrapper.classList.add(tagName);
+    });
+    // hide the rows associated with other tags
+    $projectTags.forEach(function($otherTag) {
+      //console.log("$otherTag.className: ", $otherTag.className)
+      //console.log("$otherTag.classList[1]: ", $otherTag.classList[1])
+      if ($otherTag.classList[1] != tagName) {
+        console.log("this is another tag: ", $otherTag)
+        //$otherTag.parentNode.parentNode.classList.add('hide')
+        console.log("$otherTag.parentNode...", $otherTag.parentNode.parentNode.parentNode)
+        $otherTag.parentNode.parentNode.parentNode.classList.add('hide')
+      }
     });
   }
 
@@ -104,7 +108,6 @@
         console.log("tag: ", tag)
         console.log("tag.classList: ", tag.classList)
         console.log("tag.classList[0]: ", tag.classList[1])
-        setActiveTagName(tag.classList[1])
 
         // To get tr tag 
         // In the row where we click
@@ -120,11 +123,14 @@
         console.log("row ", row)
         console.log("row.classList ", row.classList)
         // Toggle the highlight
-        if (row.classList.contains('selected'))
+        if (row.classList.contains('selected')) {
             row.classList.remove('selected');
-        else
+            clearActiveTagName(tag.classList[1])
+        } else {
             row.classList.add('selected');
+            setActiveTagName(tag.classList[1])
             //TODO: Remove highlight for all the other rows...
+        }
     });
 
   // DETAILS BOX
