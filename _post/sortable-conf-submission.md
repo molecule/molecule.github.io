@@ -72,16 +72,14 @@ submissions:
         {% if submish.icon %}<img src="{{ submish.icon }}" style="width:100px"/>{% endif %}
     </td>
     <td colspan="3" style="font size=+2; ">
-        <large><a href="">{{ submish.title}}</a></large> <br>
-        <medium><a href="">{{ submish.authors}}</a></medium> <br>
-        <medium><a href="">{{submish.notes}}</a></medium> <br>
-        <medium><a href="">{{submish.links}}</a></medium> <br>
-        <medium><a href="">Final Result: {{ submish.conference }}</a></medium> <br>
-        <medium><a href="">{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/></a>
+        <large>{{ submish.title }}</large> <br>
+        <medium>{{ submish.authors }}</medium> <br>
+        <medium>{{submish.notes}}</medium> <br>
+        <medium>{{submish.links}}</medium> <br>
+        <medium>Final Result: {{ submish.conference }}</medium> <br>
+        <medium>{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/>
     </td>
-    <td>
-        <medium><a href="">SELECT</a></medium>
-    </td>
+    <td><medium><a href="">SELECT</a></medium></td>
     </tr>
 </tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->
 {% endfor %}
