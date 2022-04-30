@@ -115,6 +115,10 @@ tr:hover {
   color: #000000;
 }
 
+tr.selected {
+  background-color: red;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0;

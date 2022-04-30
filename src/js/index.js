@@ -6,6 +6,8 @@
       activeTagName = null,
       $tags = $$('#tags > .tag'),
       $projectsParent = $id('projects'),
+      $submissionsParent = $id('submissions'),
+      $submissions = $$('#submissions > .submish')
       $projects = $$('#projects > .project'),
       $projectInfo = $('.project-info'),
       $projectTags = $$('.project-tags > .tag'),
@@ -14,6 +16,9 @@
       $description = $id('project_details_description');
       console.log("title: ", $title)
       console.log("projectInfo: ", $projectInfo)
+      console.log("submissionsParent: ", $submissionsParent)
+      console.log("submissions: ", $submissions)
+
 
   // TAG SELECTION
   function getTagName($tag) {
@@ -26,7 +31,7 @@
     var projectTagSelector = '.project-tags > .tag.' + tagName;
     $$(projectTagSelector).forEach(function($tag) {
       $tag.classList.remove('active');
-      var $wrapper = $tag.parentNode.parentNode;
+      var $wrapper = $tag.parentNode.parentNode.parentNode.parentNode;
       $wrapper.classList.remove(tagName);
     });
   }
@@ -38,7 +43,7 @@
     var projectTagSelector = '.project-tags > .tag.' + tagName;
     $$(projectTagSelector).forEach(function($tag) {
       $tag.classList.add('active');
-      var $wrapper = $tag.parentNode.parentNode;
+      var $wrapper = $tag.parentNode.parentNode.parentNode.parentNode;
       console.log("wrapper: ", $wrapper)
       $wrapper.classList.add(tagName);
     });
@@ -70,6 +75,28 @@
 
   $tags.forEach(attachTagListener);
   $projectTags.forEach(attachTagListener);
+
+  document.getElementById('submissions')
+    .addEventListener('click', function (item) {
+
+        // To get tr tag 
+        // In the row where we click
+        var row = item.path[1];
+
+        
+        //var row_value = "";
+        //for (var j = 0; j < row.cells.length; j++) {
+        //    row_value += row.cells[j].innerHTML;
+        //    row_value += " | ";
+        //}
+        //alert(row_value);
+        console.log("row: ", row)
+        // Toggle the highlight
+        if (row.classList.contains('selected'))
+            row.classList.remove('selected');
+        else
+            row.classList.add('selected');
+    });
 
   // DETAILS BOX
 

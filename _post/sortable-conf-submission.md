@@ -89,7 +89,7 @@ projects:
   <span class="tag per">performances</span>
 </div>
 
-<table class='submissions' style="width:100%; border-spacing:1em;">
+<table id='submissions' class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
     <th width="20%"></th>
     <th width="80%"></th>
