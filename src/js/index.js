@@ -90,8 +90,9 @@
     var j = getInsertBeforeIndex(i);
     console.log("adding listener to each project: ", j, i)
     var offsetClass = getOffsetClass(i % 3);
+    console.log("$project: ", $project)
     $project.addEventListener('click', function() {
-      console.log("$project: ", $project)
+      console.log("inside $project: ", $project)
       var title = $project.querySelector('.project-info').textContent;
       var description = $project.querySelector('.project-description').innerHTML;
       console.log("title: ", title)

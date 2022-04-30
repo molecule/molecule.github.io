@@ -16,7 +16,7 @@ submissions:
         notes: I may have finally figured out what it is I'm trying to say. It also turns out that what I'm trying to say is something that's interesting to the folks at CnC, so I have fairly high hopes for this one. UPDATE - accepted AND won a Best Paper award!! This is absolutely the best version of this paper that has existed, and sending it to the right conference really matters.
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
         finalResult: C&C'22, Best Paper award | PDF Forthcoming
-        parent:
+        tags: [res]
     -
         submissionNum: 31
         conference: DIS'22
@@ -24,6 +24,7 @@ submissions:
         notes: Another MSR project :)
         icon: /src/img/icon-noun_X_1890803.png
         finalResult: Work is ongoing...
+        tags: [win]
     -
         submissionNum: 23
         conference: CSCW'22
@@ -32,7 +33,7 @@ submissions:
         icon: /src/img/icon-noun_X_1890803.png
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
         finalResult: C&C'22, Best Paper award | PDF Forthcoming
-        parent: 28
+        tag: 28
     -
         submissionNum: 21
         conference: CSCW'21
@@ -57,7 +58,36 @@ submissions:
         icon: /src/img/icon-noun_X_1890803.png
         journey: Started life in 2019 (submission 10), then heavily reworked for CHI'20 (submission 13). Split into two papers with a different focus (submission 15 and 16), which went through revisions rounds at CSCW'21 where one was accepted (submission 21) and the other rejected (submission 23). CnC'22 will probably be the last attempt (submission 28). FINALLY accepted!! 5th time's the charm.
         finalResult: C&C'22, Best Paper award | PDF Forthcoming
+
+projects:
+    -
+        title: Guardians
+        desc: (coming soon to DIS 2018)
+        tags: [res]
+        imag: /src/img/guardians-pic.png
+        link: http://cearto.com/projects/guardians
+    - 
+        title: AlterWear
+        desc: Battery-Free Wearable Displays for Opportunistic Interactions (Presented at CHI 2019)
+        tags: [res, wear]
+        imag: /src/img/alterwear-shoe-toe-only.png
+        link: /project/alterwear
+    -
+        title: Häiriö
+        desc: Human Hair as Interactive Material (Presented at TEI 2018)
+        tags: [res, wear]
+        imag: /src/img/hairio-gif.gif
+        link: /project/hairio
 ---
+
+<div id="tags">
+  <span class="tag res">research</span>
+  <span class="tag cla">class project</span>
+  <span class="tag wee">weekend projects</span>
+  <span class="tag wear">wearable</span>
+  <span class="tag win">award-winning</span>
+  <span class="tag per">performances</span>
+</div>
 
 <table class='submissions' style="width:100%; border-spacing:1em;">
 <tr class="submish">
@@ -79,8 +109,69 @@ submissions:
         <medium>Final Result: {{ submish.conference }}</medium> <br>
         <medium>{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/></medium><br>
     </td>
-    <td><medium><a href="">SELECT</a></medium></td>
+    <td>
+        <medium><a href="">SELECT</a></medium>
+        <div class="project-tags"> {% for tag in submish.tags %} 
+            <div class="tag {{tag}}">{{tag}}</div>
+            {% endfor %}</div>
+  </div>
+    </td>
     </tr>
 </tr><!--end submish <td><a href="{{ submish.link }}">{{ submish.outcome }} </a></td>-->
 {% endfor %}
 </table> <!--end submission-->
+
+
+<div id='projects'>
+{% for submish in page.submissions %}
+<div class="project">
+  <a href="{{ submish.conf-link }}">
+  <div class="project-wrapper">
+    <img src="{{ submish.img }}" class="project-image"/>
+    <div class="project-info">
+        <h4>{{ submish.title }} </h4>
+        <small>{{ submish.notes }}</small>
+    </div>
+  <div class="project-tags">
+    {% for tag in submish.tags %} <div class="tag {{tag}}">{{tag}}</div>
+    {% endfor %}</div>
+  </div>
+  <div class="project-description"> {{project.description}} </div>
+    </a>
+</div>
+
+<div id="project_details">
+    <div id="project_details_title">{{ submish.title }}</div>
+    <div id="project_details_description">{{ submish.notes }}</div>
+</div>
+{% endfor %}
+</div>
+
+<div id='projects'>
+{% for project in page.projects %}
+<div class="project">
+  <a href="{{ project.link }}">
+  <div class="project-wrapper">
+    <img src="{{ project.imag }}" class="project-image"/>
+    <div class="project-info">
+        <h4>{{ project.title }} </h4>
+        <small>{{ project.desc }}</small>
+    </div>
+  <div class="project-tags">
+    {% for tag in project.tags %} <div class="tag {{tag}}">{{tag}}</div>
+    {% endfor %}</div>
+  </div>
+  <div class="project-description"> {{project.description}} </div>
+    </a>
+</div>
+
+<div id="project_details">
+    <div id="project_details_title">{{ project.title }}</div>
+    <div id="project_details_description">{{ project.description }}</div>
+</div>
+{% endfor %}
+</div>
+
+
+
+<script src="/src/js/index.js"> </script>
