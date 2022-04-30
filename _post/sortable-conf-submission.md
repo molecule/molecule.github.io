@@ -16,6 +16,13 @@ submissions:
         finalResult: C&C'22, Best Paper award | PDF Forthcoming
         parent:
     -
+        submissionNum: 31
+        conference: DIS'22
+        title: Secret Interaction Design Tool Paper (Title redacted until work is published)
+        notes: Another MSR project :)
+        icon: /src/img/icon-noun_X_1890803.png
+        finalResult: Work is ongoing...
+    -
         submissionNum: 23
         conference: CSCW'22
         title: Creative Strategies and Heuristics in Creative Professionals 
@@ -62,12 +69,12 @@ submissions:
     <td>{% if submish.img %}<a href="{{submish.link}}"><img src="{{ submish.img }}" style="width:150px"/></a>{% endif %}
         {% if submish.icon %}<img src="{{ submish.icon }}" style="width:100px"/>{% endif %}
     </td>
-    <td colspan="3" style="font size=+2">
+    <td colspan="3" style="font size=+2; ">
         <large>{{ submish.title }}</large> <br>
         <medium>{{ submish.authors }}</medium> <br>
         <medium>{{submish.notes}}</medium> <br>
         <medium>{{submish.links}}</medium> <br>
-        <medium>Final Result: <a href="{{ submish.conf-link }}">{{ submish.conference }}</a></medium> <br>
+        <medium>Final Result: {{ submish.conference }}</medium> <br>
         <medium>{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/></medium><br>
     </td>
     </tr>

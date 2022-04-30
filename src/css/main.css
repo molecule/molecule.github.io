@@ -108,6 +108,17 @@ ul { list-style-type: square; }
   background-size:     cover;
   border: 1px solid #000;
 }
+
+tr:hover {
+  background-color: #ddd5f7;
+  color: #000000;
+}
+
+td a { 
+    display: block;
+}
+
+
 /* SCROLLABLE NEWS REEL?  source: https://stackoverflow.com/questions/1906469/align-right-in-a-table-cell-with-css/45249847#45249847 */
 
 .timeline table {
