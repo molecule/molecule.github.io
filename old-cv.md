@@ -3,6 +3,10 @@ title: resume
 layout: page
 ---
 
+Molly Jane Nicholas is an award-winning researcher with experience in both qualitative and quantitative research methods. Her research investigates opportunities and challenges at the intersection of performance and technology. She draws together expertise from performing practitioners, scholarship from the world of performance studies, and deployed functional prototypes as part of her work designing computational systems to support diverse forms of "performance". Previously, she worked as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. Since then, she has enjoyed research internships at Snap and Microsoft. She has also been a dancer, worked as a puppeteer with Liebe Wetzel's Lunatique Fantastique, and trained circus arts at the Clown Conservatory. Molly Jane received her B.A. in 2014 from the University of California, Berkeley with a double major in Computer Science and Cognitive Science.
+
+  the connections between communication mediums (e.g., spoken audio, multiple video sources, text transcripts) to enable people to fully participate in and better work with digital communication. As a systems researcher in Human-Computer Interaction, I embed machine learning technologies (e.g., NLU, NLG) into new human interactions that I then deploy to test. Using my systems, remote content creators more effectively collaborate, video authors efficiently create accessible descriptions for blind users, and instructors help students to learn and retain key points. To inform future systems that capture what is important to domain experts and people with disabilities, I conduct and collaborate on in-depth qualitative (e.g., AAC communication, memes) and quantitative studies (e.g., 360° Video, VR Saliency). My long term research goal is to make communication more effective and accessible to all.
+
 # molly jane nicholas
 
 <div style="float: right; text-align:center; width:240px; padding:5px; font-size:8px; line-height:8px">
