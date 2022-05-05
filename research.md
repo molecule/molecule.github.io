@@ -5,14 +5,14 @@ submissions:
     -
         title: Creative and Motivational Strategies Used by Expert Creative Practitioners
         authors: <b>Molly Jane Nicholas</b>, Sarah Sterman, Eric Paulos
-        link:
+        link: /src/papers/2022-cc-creative-strategies.pdf
         img: /src/img/2022-cnc-heuristics.png
         conf: ACM Proceedings on Creativity and Cognition
         conf-short: (C&C '22)
-        conf-link: 
+        conf-link: https://cc.acm.org/2022/
         award: /src/img/icon-noun_779891.svg
         award-desc: Best Paper Award
-        links: (PDF Forthcoming)
+        links: <a href="/src/papers/2022-cc-creative-strategies.pdf">PDF</a>
         video:
         desc:  Through interviews with expert practitioners in diverse domains including performance, craft, engi- neering, and design, we identify four strategies for managing aspects of the creative process, including  metacognition, emotional affect, task motivation, and working style. These strategies are 1) Strategic Forgetting, 2) Mode Switching, 3) Embodying Process, and 4) Aestheticizing.
     -

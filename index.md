@@ -7,7 +7,7 @@ projects:
         desc: Used by Expert Creative Practitioners (C&C '22)
         tags: [res]
         imag: src/img/2022-cnc-heuristics.png
-        link:
+        link: src/papers/2022-cc-creative-strategies.pdf
     -
         title: Towards Creative Version Control
         desc: (CSCW '22)
@@ -205,7 +205,7 @@ hidden:
 
 newsfeed:
     -
-        content: Our paper about creative and motivational strategies used by experts across diverse fields won a Best Paper award at C&C!!
+        content: <a href="src/papers/2022-cc-creative-strategies.pdf">Our paper about creative and motivational strategies used by experts across diverse fields</a> won a Best Paper award at C&C!!
         date: 29 Apr 2022
     -
         content: Got my 12th outstanding review recognition. 3 DIS review cycles in a row babyyyy.
