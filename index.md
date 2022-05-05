@@ -334,6 +334,9 @@ newsfeed:
         content: All 6 of the papers submitted from our lab were rejected from CHI! Our worst year ever but of course grad school is a marathon not a sprint so onward to the next thing :)
         date: 14 Dec 2018
     -
+        content: <a href="/src/img/lab-group-pic-bubblewrap.jpeg">Enjoying being a part of the Hybrid Ecologies Lab</a> :)
+        date: 6 Dec 2018
+    -
         content: Our work on creating a conversational profile for actuators that was previously not accepted to UIST was just accepted to TEI!
         date: 20 Nov 2018
     -
