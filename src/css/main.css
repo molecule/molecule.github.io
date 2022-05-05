@@ -116,7 +116,7 @@ tr:hover {
 }
 
 tr.selected {
-  background-color: red;
+  background-color: #af99f7;
 }
 
 table {
@@ -533,11 +533,56 @@ code.highlighter-rouge {
   background-color: #F8CC81;
   border-color: #a35229;
 }
-.tag.pub28 {
-  color: #fff9e5;
-  background-color: #EEA198;
-  border-color: #fdc001;
+
+.tag.friendscope {
+  color: #572d09;
+  background-color: #FFFC00;
+  border: 3px solid #FFFC00;
 }
+.tag.friendscope:hover {
+  border: 3px solid #ff8400;
+}
+.tag.friendscope.active {
+  border: 3px solid #ff8400;
+}
+.tag.friendscope.active:hover {
+  border: 3px solid #FFFC00;
+  
+}
+
+.tag.theatre {
+  color: #2b7267;
+  background-color: #03fed8;
+  border: 3px solid #03fed8;
+}
+.tag.theatre:hover {
+  border: 3px solid #02a48c;
+}
+.tag.theatre.active {
+  border: 3px solid #02a48c;
+}
+.tag.theatre.active:hover {
+  border: 3px solid #03fed8;
+}
+
+.tag.process {
+  color: #fff9e5;
+  background-color: #df1abb;
+  border: 3px solid #df1abb;
+}
+.tag.process:hover {
+  border: 3px solid #731963;
+}
+.tag.process.active {
+  border: 3px solid #731963;
+}
+.tag.process.active:hover {
+  border: 3px solid #df1abb;
+}
+
+
+
+
 .tag.wear {
   color: #FFC7DD;
   background-color: #CD83A0;
