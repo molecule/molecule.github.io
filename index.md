@@ -205,7 +205,7 @@ hidden:
 
 newsfeed:
     -
-        content: I am very excited to share that I've graduated!! There's a 3rd Dr. Nicholas in the family now (but the others actually help people).
+        content: I am very excited to share that I've graduated with my PhD!
         date: 13 May 2022
     -
         content: <a href="src/papers/2022-cc-creative-strategies.pdf">Our paper about creative and motivational strategies used by experts across diverse fields</a> won a Best Paper award at C&C!!
