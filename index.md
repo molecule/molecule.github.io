@@ -205,6 +205,9 @@ hidden:
 
 newsfeed:
     -
+        content: I am very excited to share that I've graduated!! There's a 3rd Dr. Nicholas in the family now (but the others actually help people).
+        date: 13 May 2022
+    -
         content: <a href="src/papers/2022-cc-creative-strategies.pdf">Our paper about creative and motivational strategies used by experts across diverse fields</a> won a Best Paper award at C&C!!
         date: 29 Apr 2022
     -
@@ -457,7 +460,7 @@ newsfeed:
         </div>
     </div>
     <div style="float:left; width:70%; padding:20px">
-        <p> Molly Jane Nicholas is an award-winning researcher with experience in both qualitative and quantitative research methods. She is passionate about using data-driven insights to design usable and compelling interfaces. She is experienced with a range of research methods including contextual inquiry, photo content analysis, in-depth interviews and survey research. During her Ph.D. in Human Computer Interaction, she was honoured to be supported by the <a href="https://www.arcsfoundation.org/">ARCS foundation</a> and the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a> Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. Since then, she has enjoyed research internships at Snap and Microsoft (reach out if you have questions!). She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. in 2014 from the University of California, Berkeley with a double major in Computer Science and Cognitive Science.
+        <p> Molly Jane Nicholas is an award-winning researcher with experience in both qualitative and quantitative research methods. She is passionate about drawing from research literature, best practice, and user feedback to design usable and compelling interfaces. She is experienced with a range of research methods including contextual inquiry, in-depth interviews and survey research. During her Ph.D. in Human Computer Interaction, she was honoured to be supported by the <a href="https://www.arcsfoundation.org/">ARCS foundation</a> and the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=245024&org=NSF&from=news">NSF GRFP.</a> Previously, she worked for two years as a Software Engineer at Qualcomm, where she developed FIRST Robotics’ new robotics platform. Since then, she has enjoyed research internships at Microsoft and Snap (reach out if you have questions!). She has also been a dancer, worked as a puppeteer with <a href="http://www.lunfan.com/">Liebe Wetzel's Lunatique Fantastique</a>, and trained circus arts at the <a href="http://circuscenter.org/clown">Clown Conservatory</a>.  Molly Jane received her B.A. in 2014 from the University of California, Berkeley with a double major in Computer Science and Cognitive Science.
         </p>
     </div>
 </div>

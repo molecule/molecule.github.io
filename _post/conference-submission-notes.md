@@ -148,7 +148,7 @@ Click on a submission (or a submission tag) to see all the other related drafts.
         <medium>{{ submish.authors }}</medium> <br>
         <medium>{{submish.notes}}</medium> <br>
         <medium>{{submish.links}}</medium> <br>
-        <medium>Final Result: {{ submish.conference }}</medium> <br>
+        <medium>Final Result: {{ submish.conference }} | <a href="submish.pdf">PDF</a></medium> <br>
         <medium>{{submish.award-desc}}<img src="{{ submish.award }}" style="width:20px; border:0; margin:0"/></medium><br>
     </td>
     <td>
