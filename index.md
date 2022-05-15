@@ -48,25 +48,25 @@ projects:
         title: Conversations with Actuators
         desc: An Exploratory Design Environment for Hybrid Materials (TEI'19).
         tags: [res]
-        imag: /src/img/cwa-gif.gif
+        imag: /src/img/2019-tei-cwa-gif.gif
         link: /src/papers/conversation-w-actuators.pdf
     -
         title: Guardians of History
         desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (DIS'18).
         tags: [res, cla]
-        imag: /src/img/guardians-kiln-gods.jpg
+        imag: /src/img/2018-dis-guardians-kiln-gods.jpg
         link: /src/papers/Guardians_of_Practice_dis2019.pdf
     - 
         title: AlterWear
         desc: Battery-Free Wearable Displays for Opportunistic Interactions (CHI'18).
         tags: [res, wear]
-        imag: /src/img/alterwear-shoe-toe-only.png
+        imag: /src/img/2018-chi-alterwear-shoe-toe-only.png
         link: /src/papers/AlterWear_chi2018.pdf
     -
         title: HäirIÖ
         desc: Human Hair as Interactive Material (TEI'18).
         tags: [res, wear]
-        imag: /src/img/hairio-gif.gif
+        imag: /src/img/2018-tei-hairio-gif.gif
         link: /src/papers/HairIO-tei2018.pdf
     -
         title: E.O. 9066
@@ -78,7 +78,7 @@ projects:
         title: Illumination Aesthetics
         desc: Light as a Creative Material within Computational Design (CHI'17)
         tags: [res, win]
-        imag: /src/img/ia-thumbnail.jpg
+        imag: /src/img/2017-chi-ia-thumbnail.jpg
         link: /src/papers/IlluminationAesthetics-chi2017.pdf
     -
         title: Qbadge

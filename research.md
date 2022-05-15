@@ -91,7 +91,7 @@ submissions:
         title: Guardians of Practice&#58; A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices
         authors: César Torres, Sarah Sterman, <b>Molly Jane Nicholas</b>, Richard Lin, Eric Pai, Eric Paulos.
         link: /src/papers/Guardians_of_Practice_dis2019.pdf
-        img: /src/img/guardians-kiln-gods.jpg
+        img: /src/img/2018-dis-guardians-kiln-gods.jpg
         conf: ACM Conference on Designing Interactive Systems
         conf-short: (DIS '18)
         conf-link: http://dis2018.org/
@@ -127,7 +127,7 @@ submissions:
         title: Illumination Aesthetics&#58; Light as a Creative Material within Computational Design.
         authors: César Torres, Jasper O’Leary, <b>Molly Jane Nicholas</b>, Eric Paulos.
         link: /src/papers/IlluminationAesthetics-chi2017.pdf
-        img: /src/img/ia-thumbnail.jpg
+        img: /src/img/2017-chi-ia-thumbnail.jpg
         conf: ACM Conference on Human Factors in Computing Systems
         conf-short: (CHI '17)
         conf-link: https://chi2017.acm.org/
