@@ -13,7 +13,7 @@ projects:
         desc: (CSCW '22)
         tags: [res]
         imag: src/img/2022-cscw-cvcs.png
-        link: 
+        link: /src/papers/2022-05-25-cvcs-preprint.pdf
     -
         title: Multi-Device Usage Patterns
         desc: Device Configurations, Fragmented Workflows (CHI '22)

@@ -18,7 +18,7 @@ submissions:
     -
         title: Towards Creative Version Control
         authors: Sarah Sterman, <b>Molly Jane Nicholas</b>, Eric Paulos
-        link: 
+        link: /src/papers/2022-05-25-cvcs-preprint.pdf
         img: /src/img/2022-cscw-cvcs.png
         conf: ACM Conference on Computer Supported Cooperative Work
         conf-short: (CSCW '22)
