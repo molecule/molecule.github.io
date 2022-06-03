@@ -10,7 +10,7 @@ submissions:
         conf: ACM Proceedings on Creativity and Cognition
         conf-short: (C&C '22)
         conf-link: https://cc.acm.org/2022/
-        award: /src/img/icon-noun_779891.svg
+        award: /src/img/noun-trophy-355128.svg
         award-desc: Best Paper Award
         links: <a href="/src/papers/2022-cc-creative-strategies.pdf">PDF</a>
         video:
@@ -131,7 +131,7 @@ submissions:
         conf: ACM Conference on Human Factors in Computing Systems
         conf-short: (CHI '17)
         conf-link: https://chi2017.acm.org/
-        award: /src/img/icon-noun_779891.svg
+        award: /src/img/noun-trophy-355128.svg
         award-desc: Best Paper Award
         links: <a href="https://www.youtube.com/watch?v=tcaZyJqJElw">Video</a> | <a href="/src/papers/IlluminationAesthetics-chi2017.pdf">PDF</a>
         video: https://www.youtube.com/watch?v=tcaZyJqJElw
