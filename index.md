@@ -208,7 +208,7 @@ newsfeed:
         content: I am very excited to share that I've graduated with my PhD!
         date: 13 May 2022
     -
-        content: <a href="src/papers/2022-cc-creative-strategies.pdf">Our paper about creative and motivational strategies used by experts across diverse fields</a> won a Best Paper award at C&C!!
+        content: <a href="src/papers/2022-cc-creative-strategies.pdf">Our paper about creative and motivational strategies used by experts across diverse fields</a> won the Best Paper award at C&C!!
         date: 29 Apr 2022
     -
         content: Got my 12th outstanding review recognition. 3 DIS review cycles in a row babyyyy.
