@@ -4,25 +4,25 @@ layout: centered
 projects:
     -
         title: Creative and Motivational Strategies 
-        desc: Used by Expert Creative Practitioners (C&C '22)
+        desc: Click for C&C '22 paper PDF.
         tags: [res]
         imag: src/img/2022-cnc-heuristics.png
         link: src/papers/2022-cc-creative-strategies.pdf
     -
         title: Towards Creative Version Control
-        desc: (CSCW '22)
+        desc: Click for CSCW '22 paper PDF.
         tags: [res]
         imag: src/img/2022-cscw-cvcs.png
         link: /src/papers/2022-05-25-cvcs-preprint.pdf
     -
         title: Multi-Device Usage Patterns
-        desc: Device Configurations, Fragmented Workflows (CHI '22)
+        desc: Click for CHI '22 paper PDF.
         tags: [res]
         imag: /src/img/2022-chi-fragmented-workflows.png
         link: /src/papers/2022-chi-fragmented-workflows.pdf
     -
         title: Friendscope
-        desc: Exploring In-the-Moment Experience Sharing on Camera Glasses via a Shared Camera (CSCW '22)
+        desc: Click for CSCW '22 paper PDF.
         tags: [res]
         imag: /src/img/2022-cscw-friendscope.jpg
         link: /src/papers/2022-cscw-friendscope.pdf
@@ -34,55 +34,55 @@ projects:
         link: http://kaleidoscope.hybrid-ecologies.org/
     -
         title: AirConstellations
-        desc: (UIST '21)
+        desc: Click for UIST '21 paper PDF.
         tags: [res]
         imag: /src/img/2021-uist-air-constellations.png
         link: /src/papers/2021-uist-air-constellations.pdf
     -
         title: Technology-Mediated Theatre
-        desc: (DIS '21)
+        desc: Click for DIS '21 paper PDF.
         tags: [res]
         imag: /src/img/2021-dis-theatre.png
         link: /src/papers/2021-dis-theatre.pdf
     -
         title: Conversations with Actuators
-        desc: An Exploratory Design Environment for Hybrid Materials (TEI'19).
+        desc: Click for TEI'19 paper PDF.
         tags: [res]
         imag: /src/img/2019-tei-cwa-gif.gif
         link: /src/papers/conversation-w-actuators.pdf
     -
         title: Guardians of History
-        desc: A Contextual Inquiry of Failure-Mitigation Strategies within Creative Practices (DIS'18).
+        desc: Click for DIS'18 paper PDF.
         tags: [res, cla]
         imag: /src/img/2018-dis-guardians-kiln-gods.jpg
         link: /src/papers/Guardians_of_Practice_dis2019.pdf
     - 
         title: AlterWear
-        desc: Battery-Free Wearable Displays for Opportunistic Interactions (CHI'18).
+        desc: Click for CHI'18 paper PDF.
         tags: [res, wear]
         imag: /src/img/2018-chi-alterwear-shoe-toe-only.png
         link: /src/papers/AlterWear_chi2018.pdf
     -
         title: HäirIÖ
-        desc: Human Hair as Interactive Material (TEI'18).
+        desc: Click for TEI'18 paper PDF.
         tags: [res, wear]
         imag: /src/img/2018-tei-hairio-gif.gif
         link: /src/papers/HairIO-tei2018.pdf
     -
         title: E.O. 9066
-        desc: A Lunatique Fantastique production about the internment of American citizens during WW2.
+        desc: A found object puppetry production about the internment of American citizens during WW2, by Lunatique Fantastique.
         tags: [per]
         imag: /src/img/eo9066-two-kids.jpg
         link: /project/eo-9066
     -
         title: Illumination Aesthetics
-        desc: Light as a Creative Material within Computational Design (CHI'17)
+        desc: Click for CHI'17 paper PDF.
         tags: [res, win]
         imag: /src/img/2017-chi-ia-thumbnail.jpg
         link: /src/papers/IlluminationAesthetics-chi2017.pdf
     -
         title: Qbadge
-        desc: Arduinos are amazing devices, but even with the incredible community surrounding them, there still seems to be a huge lack of women interested in low-level programming...
+        desc: A wacky arduino project I was lucky enough to do at Qualcomm. Click for more info.
         tags: [wee, win, wear]
         imag: /src/img/qbadge.jpg
         link: /project/qbadge
@@ -106,25 +106,25 @@ projects:
         link: /project/infrared-receiver
     -
         title: Photo Wall
-        desc: Personal project
+        desc: House decorations with my Dad's photography.
         tags: [wee]
         imag: /src/img/photo-wall.jpg
         link: /project/photo-wall
     -
         title: sketchboard
-        desc: Critical Making
+        desc: Critical Making class project
         tags: [cla]
         imag: /src/img/sketchboard-underbelly.jpg
         link: /project/sketchboard
     -
         title: adVenture
-        desc: Critical Making
+        desc: Critical Making class project
         tags: [cla]
         imag: /src/img/adventure.jpg
         link: /project/adventure
     -
         title: 24 Second Food + Fitness
-        desc: Critical Making
+        desc: Critical Making class project
         tags: [cla]
         imag: /src/img/24-second-food-and-fitness.jpg
         link: /project/food-and-fitness
