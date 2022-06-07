@@ -13,7 +13,8 @@ projects:
         desc: Click for CSCW '22 paper PDF.
         tags: [res]
         imag: src/img/2022-cscw-cvcs.png
-        link: /src/papers/2022-05-25-cvcs-preprint.pdf
+        link:
+        linkForLater: /src/papers/2022-05-25-cvcs-preprint.pdf
     -
         title: Multi-Device Usage Patterns
         desc: Click for CHI '22 paper PDF.
