@@ -3,6 +3,12 @@ title: about
 layout: centered
 projects:
     -
+        title: Puppeteering for Animators
+        desc: Preprint of puppet project.
+        tags: [res]
+        imag: src/img/puppetjig-basic-demo-sqrish.gif
+        link: https://arxiv.org/pdf/2207.11357.pdf
+    -
         title: Creative and Motivational Strategies 
         desc: Click for C&C '22 paper PDF.
         tags: [res]
