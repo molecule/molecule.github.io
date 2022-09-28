@@ -212,7 +212,7 @@ hidden:
 
 newsfeed:
     -
-        content: Working as a Researcher at <a href="https://www.figma.com/">Figma!</a>
+        content: Started work as a Researcher at <a href="https://www.figma.com/">Figma!</a>
         date: 26 Sept 2022
     -
         content: I am very excited to share that I've graduated with my PhD!
