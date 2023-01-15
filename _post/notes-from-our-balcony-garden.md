@@ -137,6 +137,18 @@ roses:
         
 ---
 
+#### Clumping Bamboo
+
+|Name|Height|Diameter|Description|Light|Image|
+|---|---|---|---|---|
+|Bambusa Multiplex Hedge Bamboo| In warmer areas of CA: 15'-25'| | <a href="https://mayagardensinc.com/products/bambusa-multiplex?_pos=3&_sid=d36cec574&_ss=r">Great screen or hedge.</a> | Full sun | [Imgur](https://imgur.com/2vvWkY4) |
+|Borinda boliana| 18-24 | | <a href="https://www.bamboogarden.com/bamboo/borinda-boliana">One of the fastest growing and possibly largest. feathery green leaves and gracefully arching canes</a> | <a href="https://www.bamboogarden.com/bamboo/borinda-boliana">Tolerates a fair amount of sun but prefers afternoon shade, especially in warmer climates.</a> ||
+|Borinda lushiensis|25'| 1.5 inches | <a href="">requires a sheltered and partially shady area to look its best. A mild West coast climate, such as the San Francisco Bay area, would be ideal if the plant is given adequate wind protection.</a> ||[Imgur](https://imgur.com/yrGncbC)| 
+|Bambusa textilis|15-30 feet| 2" | <a href="https://www.suncrestnurseries.com/plantdisplaypage.php?id=bambt">many arching culms; open sprays of rather stiff, deep green leaves above</a> | Sun or light shade | [Imgur](https://imgur.com/nDHsm93) |
+|Bambusa tuldoides|15-40 feet| 2"?| <a href="https://www.suncrestnurseries.com/plantdisplaypage.php?id=bambtul">The limiting factor for this species is winter temperature.</a> | Sun or light shade | [Imgur](https://imgur.com/fnwg5Me) |
+|Bambusa oldhamii|50'|| <a href="https://www.suncrestnurseries.com/plantdisplaypage.php?id=bambo">clumping giant timber bamboo</a> | Sun or light shade | [Imgur](https://imgur.com/iZ5BBQp) |
+
+
 #### Kiwis
 - Hardy Kiwis grow fast and do well in containers! [[src](https://savvygardening.com/growing-kiwi-fruit/)]
 - Need male and female plants.
