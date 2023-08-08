@@ -21,35 +21,74 @@ date: 2018-07-15
     - 9 
     - 10
 
+# How do you figure out how to treat your migraines
+Step 1: You MUST identify your triggers. If you're not 100% certain about your triggers, keep careful notes. Common triggers include foods, stress, sleep disruptions, weather, so track all of those on a daily basis.
+Step 2: Talk with a migraine specialist. You deserve to live pain-free and have migraines that are well-managed. More than 3 per month is unreasonable.
+Step 3: Experiment with medications. Here's the list of what I tried or heard of:
+- Extremely high dose of ibuprofen
+- Excedrin migraine
+- Esgic pill
+- Nose spray (esgic I think?)
+- Caffeine
+- Daith ear piercing
+- Botox
+- Massages
+- Acupuncture
+- Cymbalta
+- Topiramate
+- Propranolol
+- Neurofeedback
+- CBD
+- Low-histamine diet
+- Gluten-free diet
+
 
 # My migraine history
 
 ## Menstrual migraines
 I got my very first migraine at the tender age of 13. I remember sitting in class and being VERY confused about why half of my vision was gone. Things got worse from there, and I spent the rest of the afternoon curled up in a ball, blocking my eyes from the light until my parents could come pick me up. Later a doctor would explain to me this was an "aura", and it would become a monthly occurrence. 
 
-These menstrual migraines were brutal until I turned ~25. They'd knock me out for an entire day, unable to move, in too much pain to sleep, nauseous, in absolute misery. I remember once begging my Mom to shoot me to end the pain. Over time the pain diminished, until I was in my late 20s, when they "weren't that bad". No medication really seemed to help them anyway, so I just became accustomed to powering through them. I wouldn't even skip work, just wear sunglasses indoors. I do not recommend doing this. Even if you only get a migraine 1-2x a month, it's absolutely worth finding a medication that helps. Eventually I figured out that Exedrin migraine relieved some of the headache pain.
+These menstrual migraines were brutal until I turned ~25. They'd knock me out for an entire day, unable to move, in too much pain to sleep, nauseous, in absolute misery. I remember once begging my Mom to shoot me to end the pain. Over time the pain diminished, until I was in my late 20s, when they "weren't that bad". No medication really seemed to help them anyway, so I just became accustomed to powering through them. I wouldn't even skip work, just wear sunglasses indoors. I do not recommend doing this. Even if you only get a migraine 1-2x a month, it's absolutely worth finding a medication or lifestyle change that helps. Eventually I figured out that Exedrin migraine relieved some of the headache pain (this stopped working after a few years).
 
-## Activity-induced migraines
-Around 2014 I started getting more frequent migraines. They were very different from my menstrual migraines. I'd get light sensitivity, but no headache, and extreme nausea such that I would actually vomiting. It took me nearly 2 years to realize they were migraines at all since I had never thrown up from a migraine before. At first I actually thought I was getting food poisoning, despite the fact that we were all eating the same food and I was the only one having issues.
+## Identifying my trigger
+Around 2014 I started getting more frequent migraines. At first they were very different from my menstrual migraines. I'd get light sensitivity, but no headache, and extreme nausea such that I would actually vomit. It took me nearly 2 years to realize they were migraines at all since I had never thrown up from a migraine before, and there was no headache. At first I actually thought I was getting food poisoning, despite the fact that we were all eating the same food and I was the only one having issues.
 
-At first it was only major hikes: multi-day treks in Yosemite, for example. And it wasn't EVERY activity - I could weight-lift at the gym just fine, and gentle hikes were also ok. In 2018, I remember hoping that a 16-mile cross-country ski trip wouldn't trigger a migraine (it did). So that was 4 years of not understanding what was going on.
+At first it was only major hikes: multi-day treks in Yosemite, for example. And it wasn't EVERY activity - I could weight-lift at the gym just fine, and gentle hikes were also ok. In 2018, I remember hoping that a 16-mile cross-country ski trip wouldn't trigger a migraine (it did). That makes 4 years of not understanding what my triggers were.
 
-Since I had only gotten menstraul migraines up until that point, I didn't understand WHY I was getting migraines on hikes, and for about two years I assumed I just wasn't drinking enough water, and the dehydration was my trigger. (In those days, I NEVER drank enough water, so it was very easy to believe that this was my trigger). For 6 months I'd diligently drain multiple liters on a hike, only to end up shivering in my closet at the end, laid low by another migraine. 
+Even after I figured out they were migraines, I had only gotten menstraul migraines up until that point and I didn't understand WHY I was getting migraines on hikes. For about two years I assumed I just wasn't drinking enough water, and the dehydration was my trigger. (In those days, I NEVER drank enough water, so it was very easy to believe that this was my trigger). For 6 months I'd diligently drain multiple liters on a hike, only to end up shivering in my closet at the end, laid low by another migraine. 
 
 FINALLY, around 2015, my brother pointed out the obvious: if I was finally drinking enough water, *maybe dehydration wasn't the trigger?*
 
-This was a HUGE turning point. This made me completely re-analyze all of my data. Re-thinking the triggers made me question everything I thought I knew about my own migraines, and I started really really carefully tracking, and doing little "experiments" to try and disambiguate potentially confounding triggers. For example, was it dehydration? Or was it bright sunlight? Was it squinting in the bright sunlight? Or my neck position as I looked down at the trail? Was it the food I always ate on hikes? Was it the long drive I typically took before a hike? 
+This was a HUGE turning point. This made me completely re-analyze all of my assumptions up to that point. Re-thinking the triggers made me question everything I thought I knew about my own migraines, and I started really really carefully tracking, and doing little "experiments" to try and disambiguate potentially confounding triggers. For example, I got migraines after every hike. I usually hike on sunny days, so was it bright sunlight? Was it squinting in the bright sunlight? Was it something about my sunglasses (which I'd only wear on hikes) or my sunhat? Or the backpack I'd carry? Or my neck position as I looked down at the trail? Was it the food I always ate on hikes? Was it the long drive I typically took before a hike? Was it the altitude change driving to/from a hike?
 
-After about 2 years of careful notes and tracking, it was clear that my trigger was serious cardio activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine.
+It was not bright sunlight - hiking on a cloudy day, or in the evening would also trigger a migraine.
+I could wear sunglasses, a hat, and a scarf around my face to block the sun and minimize squinting and still get a migraine. And I could sit at home and squint and not get a migraine.
+Sunglasses, hat, backback or not I'd get a migraine.
+I have the same neck position while walking on a flat surface and I wouldn't get a migraine.
+Doing an intense hike in my neighborhood (no altitude change) still triggered a migraine, a relaxed hike in Colorado did not.
 
-Twitter thread: https://twitter.com/FakePaperclips/status/1383606181189488641
+After about 2 years of careful notes and tracking, it was clear that my trigger was serious cardio activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine. A very short burst of running (like one block to catch a bus) would trigger a migraine. 
 
 ## Migraine specialist number 1
-When I started tracking, it became horrifyingly clear how many migraines I was having: 9 per month. With each migraine lasting 2-3 days, this was clearly unsustainable. I finally spoke with a migraine specialist, who ruled out other neurological issues. We discussed lifestyle changes and medication options. For some reason, I was always really hesitant to take any medication to treat my migraines. I preferred to white knuckle it through the pain, and hope it would magically go away each time (it never did). He suggested beta blockers (which sound scary). I said no, because they have a common side effect of lowering your blood pressure. I already blacked out every time I stood up - which at the time I thought was caused by low blood pressure - so I opted to not take those. The other option was Topiramate, an anti-seizure medication which can sometimes be effective for migraines. A typical dose for topiramate is something like 3 pills in the morning and 3 at night. 
+When I started tracking, it became horrifyingly clear how many migraines I was having: 9 per month. With each migraine lasting 2-3 days, this was clearly unsustainable. I finally spoke with a migraine specialist, who ruled out other neurological issues. We discussed lifestyle changes and medication options. For some reason, I was always really hesitant to take any medication to treat my migraines. I preferred to white knuckle it through the pain, and hope it would magically go away each time (it never did). He suggested beta blockers (which sound scary). I said no, because they have a common side effect of lowering your blood pressure. I already blacked out every time I stood up - which at the time I thought was caused by low blood pressure - so I opted to not take those. The other option was Topiramate, an anti-seizure medication which can sometimes be effective for migraines. A typical dose for topiramate is something like 3 pills in the morning and 3 at night, which at the time really freaked me out. I refused it. Since lifestyle changes had brought me down from 9 per month to 5 per month, I convinced myself I didn't need any medication.
 
+## Migraine specialist number 2
+In the summer of 2019 I had a summer internship, where I had to work a regular 9-5 job in an office. The need to show up and collaborate on a daily basis really highlighted my disability - I was barely able to do the basics. I made another appointment with a migraine specialist, and was prescribed Cymbalta, an old type of antidrepressent which can sometimes work for migraines. The side effects at first were brutal - I had a headache non-stop, couldn't sleep, had horrible nightmares, and just felt awful for about 3 weeks. But I was desperate, so I pushed through. This medication worked ok for maybe 8 months. I was able to slowly ramp up my gym activities, and got to the point where a gentle walk to the beach would not trigger a migraine. I was able to slowly walk around campus (but got a handicapped parking permit to make it easier to get to work since walking aross hilly campus would still trigger a migraine).
 
-## Migraines (and what to do about them).
+Then COVID hit in March of 2020, and all of the gyms closed. In those early days, I didn't know what was safe and what wasn't and basically stayed home for 3 weeks, resetting all my progress. When I tried to do normal activity again, I had severley regressed. By April 2020 I was unable to climb stairs, or walk down the block - both would trigger a migraine.
 
+At this point I became virtually housebound since our house was only accessible by climbing 80 steep stairs. 
+
+## Migraine specialist number 3
+Finally I met my saviour. Dr. Ellis took an extensive history. Notably she zeroed into the "exertional" element of my issue. We took my HR during the call, which showed my resting HR as 115. This was a big red flag for her.
+
+She recommended I avoid my triggers for 3 weeks, and then we'd taper me off the Cymbalta (which was HORRIBLE) and start on a very low dose of topiramate. During that 3 week break, I barely left the chair. Unfortunately, this was a big mistake. It's not possible to completely avoid physical activity, and resting just lowered the threshold for what would trigger a migraine. 2 weeks in, I triggered a migraine from changing the sheets, and another from hanging IKEA curtains after washing them. 
+
+This seemed normal to me, but she was concerned, so recommended I get evaluated for something called "POTS" (postural orthostatic tachycardia syndrome).
+
+Next I bought a heart rate monitor, which let me identify specifically: If my HR exceeds 145BPM for more than a few minutes, I am virtually guaranteed to get a migraine. Additionally, my resting HR was extremely high (100), my HR would go up and stay up any time I was standing (130-140), and would spike if I bent over (175-180) or walked up stairs. Several cardiologist appointments later and I was officially diagnosed with POTS.
+
+We immediately tapered me off the topiramate, and started with a low dose of propranolol, a medication that helps to control heart rate. This was the beginning of well-managed migraines for me.
 
 
 ## POTS
@@ -75,6 +114,8 @@ Step 9: Find Interval Pace: Anything higher than your greatest race pace value (
 https://dropitlikeitspots.com/modified-levine-protocol/
 
 # Research
+
+Much of this wasn't terribly relevant for me, but maybe it will help someone else!
 
 ## Exertional migraine info
 ``` 
@@ -200,3 +241,5 @@ Protocols:
 [3]:https://behavioralandbrainfunctions.biomedcentral.com/articles/10.1186/1744-9081-6-9
 
 TO READ: https://americanmigrainefoundation.org/resource-library/understanding-migrainefiling-for-medical-disability-a-guide-for-migraine-patients/
+
+Twitter thread: https://twitter.com/FakePaperclips/status/1383606181189488641
