@@ -4,11 +4,22 @@ date: 2018-07-15
 ---
 # My current migraine status
 - ~1 migraine day per month
-- Triggered by physical activity around my period
-- Symptoms are light and sound sensitivity, nausea, headache, ears popping, neck / shoulder tightness.
+- Triggered by physical activity, especially around my period
+- Symptoms are light- and sound-sensitivity, nausea, headache, ears popping, neck / shoulder tightness.
 - Prescription medications: I take 60mg of extended release propranolol daily, and 100mg of Ubrelvy as a rescue med if a migraine starts
 - Supplements: I take 1300mg of evening primrose oil, 400mg of magnesium malate in the AM, 400 mg of magnesium glycinate in the evening, 400mg of Riboflavin (Vitamin B2), and a ton of electrolytes in pill form.
 - Behaviour: The key is to stay consistent with exercise. I have to get at least 8000 steps per day. I can skip 2 days in a row, but if I skip 3 I'm guaranteed to get a mgiraine. If I'm going on a more strenuous activity, I take 440mg of naproxen immediately in advance to prevent the migraine. I also stay consistent with sleep, hydration, eating, and stress.
+- Pain scale: 
+    - 1 - No symptoms
+    - 2 - Slight symptoms
+    - 3
+    - 4 - Need to focus on something in order to ignore symptoms
+    - 5 - No amount of focus will distract me from symptoms
+    - 6
+    - 7 
+    - 8 - Extreme pain, vomiting
+    - 9 
+    - 10
 
 
 # My migraine history
