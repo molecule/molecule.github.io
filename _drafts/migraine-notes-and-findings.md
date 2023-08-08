@@ -2,8 +2,14 @@
 layout: post
 date: 2018-07-15
 ---
+# My current migraine status
+- ~1 migraine day per month
+- Triggered by physical activity around my period
+- Symptoms are light and sound sensitivity, nausea, headache, ears popping, neck / shoulder tightness.
+- Prescription medications: I take 60mg of extended release propranolol daily, and 100mg of Ubrelvy as a rescue med if a migraine starts
+- Supplements: I take 1300mg of evening primrose oil, 400mg of magnesium malate in the AM, 400 mg of magnesium glycinate in the evening, 400mg of Riboflavin (Vitamin B2), and a ton of electrolytes in pill form.
+- Behaviour: The key is to stay consistent with exercise. I have to get at least 8000 steps per day. I can skip 2 days in a row, but if I skip 3 I'm guaranteed to get a mgiraine. If I'm going on a more strenuous activity, I take 440mg of naproxen immediately in advance to prevent the migraine. I also stay consistent with sleep, hydration, eating, and stress.
 
-TO READ: https://americanmigrainefoundation.org/resource-library/understanding-migrainefiling-for-medical-disability-a-guide-for-migraine-patients/
 
 # My migraine history
 
@@ -13,20 +19,26 @@ I got my very first migraine at the tender age of 13. I remember sitting in clas
 These menstrual migraines were brutal until I turned ~25. They'd knock me out for an entire day, unable to move, in too much pain to sleep, nauseous, in absolute misery. I remember once begging my Mom to shoot me to end the pain. Over time the pain diminished, until I was in my late 20s, when they "weren't that bad". No medication really seemed to help them anyway, so I just became accustomed to powering through them. I wouldn't even skip work, just wear sunglasses indoors. I do not recommend doing this. Even if you only get a migraine 1-2x a month, it's absolutely worth finding a medication that helps. Eventually I figured out that Exedrin migraine relieved some of the headache pain.
 
 ## Activity-induced migraines
-Around 2014 I started getting more frequent migraines. They were very different from my menstrual migraines - at first I didn't even realize that they were migraines. The light sensitivity was the same, which is how I realized they were migraines at all, but I also started throwing up. Since I had never thrown up from a migraine before I actually thought I was getting food poisoning, despite the fact that we were all eating the same food and I was the only one having issues.
+Around 2014 I started getting more frequent migraines. They were very different from my menstrual migraines. I'd get light sensitivity, but no headache, and extreme nausea such that I would actually vomiting. It took me nearly 2 years to realize they were migraines at all since I had never thrown up from a migraine before. At first I actually thought I was getting food poisoning, despite the fact that we were all eating the same food and I was the only one having issues.
 
-I couldn't figure out WHY I was getting migraines on hikes, and for about two years I assumed I just wasn't drinking enough water, and the dehydration was my trigger. (In those days, I NEVER drank enough water, so it was very easy to believe that this was my trigger). For 6 months I'd diligently drain multiple liters on a hike, only to end up shivering in my closet at the end, laid low by another migraine. 
+At first it was only major hikes: multi-day treks in Yosemite, for example. And it wasn't EVERY activity - I could weight-lift at the gym just fine, and gentle hikes were also ok. In 2018, I remember hoping that a 16-mile cross-country ski trip wouldn't trigger a migraine (it did). So that was 4 years of not understanding what was going on.
 
-At first it was only major hikes: multi-day treks in Yosemite, for example. And it wasn't EVERY activity. I remember hoping that a 16-mile cross-country ski trip I took in 2018 wouldn't trigger a migraine (it did). So that was 4 years of not understanding what was going on.
+Since I had only gotten menstraul migraines up until that point, I didn't understand WHY I was getting migraines on hikes, and for about two years I assumed I just wasn't drinking enough water, and the dehydration was my trigger. (In those days, I NEVER drank enough water, so it was very easy to believe that this was my trigger). For 6 months I'd diligently drain multiple liters on a hike, only to end up shivering in my closet at the end, laid low by another migraine. 
 
 FINALLY, around 2015, my brother pointed out the obvious: if I was finally drinking enough water, *maybe dehydration wasn't the trigger?*
 
-This was a HUGE turning point. This made me completely re-analyze all of my data. Re-thinking the triggers made me question everything I thought I knew about my own migraines, and I started really really carefully tracking, and doing little "experiments" to try and disambiguate potentially confounding triggers. For example, was it dehydration? Or was it bright sunlight? Was it squinting in the bright sunlight? Or looking down at the trail? Was it the food I always ate on hikes? Was it the long drive I typically took before a hike? 
+This was a HUGE turning point. This made me completely re-analyze all of my data. Re-thinking the triggers made me question everything I thought I knew about my own migraines, and I started really really carefully tracking, and doing little "experiments" to try and disambiguate potentially confounding triggers. For example, was it dehydration? Or was it bright sunlight? Was it squinting in the bright sunlight? Or my neck position as I looked down at the trail? Was it the food I always ate on hikes? Was it the long drive I typically took before a hike? 
 
-After about 2 years of careful notes and tracking, it was clear that my trigger was serious activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine, though.
-
+After about 2 years of careful notes and tracking, it was clear that my trigger was serious cardio activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine.
 
 Twitter thread: https://twitter.com/FakePaperclips/status/1383606181189488641
+
+## Migraine specialist number 1
+When I started tracking, it became horrifyingly clear how many migraines I was having: 9 per month. With each migraine lasting 2-3 days, this was clearly unsustainable. I finally spoke with a migraine specialist, who ruled out other neurological issues. We discussed lifestyle changes and medication options. For some reason, I was always really hesitant to take any medication to treat my migraines. I preferred to white knuckle it through the pain, and hope it would magically go away each time (it never did). He suggested beta blockers (which sound scary). I said no, because they have a common side effect of lowering your blood pressure. I already blacked out every time I stood up - which at the time I thought was caused by low blood pressure - so I opted to not take those. The other option was Topiramate, an anti-seizure medication which can sometimes be effective for migraines. A typical dose for topiramate is something like 3 pills in the morning and 3 at night. 
+
+
+## Migraines (and what to do about them).
+
 
 
 ## POTS
@@ -50,9 +62,6 @@ Step 8: Find race pace: Multiply .95 by MaxHR: 184 * .95 = 175
 Step 9: Find Interval Pace: Anything higher than your greatest race pace value (but not more than your MaxHR!). 175 - 184
 
 https://dropitlikeitspots.com/modified-levine-protocol/
-
-
-## Migraines (and what to do about them).
 
 # Research
 
@@ -178,3 +187,5 @@ Protocols:
 [1]:https://link.springer.com/article/10.1007/s10484-008-9060-3
 [2]:https://www.ncbi.nlm.nih.gov/pubmed/17084028
 [3]:https://behavioralandbrainfunctions.biomedcentral.com/articles/10.1186/1744-9081-6-9
+
+TO READ: https://americanmigrainefoundation.org/resource-library/understanding-migrainefiling-for-medical-disability-a-guide-for-migraine-patients/
