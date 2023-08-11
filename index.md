@@ -3,7 +3,7 @@ title: about
 layout: centered
 projects:
     -
-        title: Dev Mode
+        title: Figma's Dev Mode
         desc: A browser inspector for your Figma design file.
         tags: []
         imag: /src/img/dev-mode-icon.png
