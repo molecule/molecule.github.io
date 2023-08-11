@@ -1,7 +1,33 @@
 ---
 layout: post
-date: 2018-07-15
+date: 2023-08-10
 ---
+
+# How to treat your migraines
+**Step 1:** You MUST identify your triggers. If you're not 100% certain about your triggers, keep careful notes. Common triggers include foods, stress, sleep disruptions, environmental pressure changes, etc. so track all of those on a daily basis.
+
+**Step 2:** Talk with a migraine specialist. You deserve to live pain-free and have migraines that are well-managed. More than 3 per month is unreasonable. I cannot emphasize this enough: the more you let your migraines go untreated, the worse they will get. Prioritize managing them!
+
+**Step 3:** Experiment with medications. I had to try 90% of the things on the following list to find the combination that worked for me. Here's the list of what I tried or heard of - it's worth continuing to experiment until you can find the thing that works for you:
+- Extremely high dose of ibuprofen
+- Excedrin migraine
+- Esgic
+- Nose spray (forget the active ingredient here)
+- Caffeine
+- Daith ear piercing
+- Botox
+- Massages
+- Acupuncture
+- Cymbalta
+- Topiramate
+- Propranolol
+- Neurofeedback
+- CBD
+- Low-histamine diet
+- Gluten-free diet
+- Ubrelvy
+- Triptans (sumatriptan, rizatriptan, naratriptan, etc.)
+
 # My current migraine status
 - ~1 migraine day per month
 - Triggered by physical activity, especially around my period
@@ -22,28 +48,6 @@ date: 2018-07-15
     - 10
 
 I call out of work starting at level 5.
-
-# How do you figure out how to treat your migraines
-Step 1: You MUST identify your triggers. If you're not 100% certain about your triggers, keep careful notes. Common triggers include foods, stress, sleep disruptions, weather, so track all of those on a daily basis.
-Step 2: Talk with a migraine specialist. You deserve to live pain-free and have migraines that are well-managed. More than 3 per month is unreasonable.
-Step 3: Experiment with medications. I had to try 90% of the things on the following list to find the combination that worked for me. Here's the list of what I tried or heard of - it's worth continuing to experiment until you can find the thing that works for you:
-- Extremely high dose of ibuprofen
-- Excedrin migraine
-- Esgic
-- Nose spray (forget the active ingredient here)
-- Caffeine
-- Daith ear piercing
-- Botox
-- Massages
-- Acupuncture
-- Cymbalta
-- Topiramate
-- Propranolol
-- Neurofeedback
-- CBD
-- Low-histamine diet
-- Gluten-free diet
-
 
 # My migraine history
 
@@ -95,24 +99,30 @@ We immediately tapered me off the topiramate, and started with a low dose of pro
 
 
 ## POTS
+Here are some notes and blogs I found helpful when I got diagnosed with POTS
+
 https://chronicallysalty.com/2018/12/17/athletes-with-dysautonomia-tips-and-tricks-to-battling-pots/
 
 https://chronicallysalty.com/2019/03/06/the-levine-protocol-what-it-is-and-how-it-helps-pots/
 
 https://betterbythebeat.com/the-levine-protocol-for-exercising-with-pots/
 
+This is the best exercise program - it took me from completely housebound to able to walk a mile at a normal pace in about 9 months:
+
 https://www.dysautonomiainternational.org/pdf/CHOP_Modified_Dallas_POTS_Exercise_Program.pdf
 
+I did not like the Levine protocol, but here is information about it:
+
 https://betterbythebeat.com/how-to-calculate-your-levine-protocol-training-paces/
-Step 1: Find your Max Heart Rate (MaxHR): 220 – your age = 220 - 36 = 184
-Step 2: Find Heart Rate Reserve (HRR): MaxHR – supine resting HR = 184 - 84 = 100
-Step 3: Multiple HRR by .75 (75% of HRR): 100 * .75 = 75.
-Step 4: Find Mid-Maximal Steady State (MSS) HR: 75% of HRR + Resting HR = 75 + 84 = 159
-Step 5: Find MSS pace: 5 bpm +/- MSS HR: 154 - 164
-Step 6: Find base pace: Subtract 20 bpm from low end of MSS pace range: 154 - 20 = 134
-Step 7: Find recovery pace: Less than your lowest base pace HR: < 134
-Step 8: Find race pace: Multiply .95 by MaxHR: 184 * .95 = 175
-Step 9: Find Interval Pace: Anything higher than your greatest race pace value (but not more than your MaxHR!). 175 - 184
+- Step 1: Find your Max Heart Rate (MaxHR): 220 – your age = 220 - 36 = 184
+- Step 2: Find Heart Rate Reserve (HRR): MaxHR – supine resting HR = 184 - 84 = 100
+- Step 3: Multiple HRR by .75 (75% of HRR): 100 * .75 = 75.
+- Step 4: Find Mid-Maximal Steady State (MSS) HR: 75% of HRR + Resting HR = 75 + 84 = 159
+- Step 5: Find MSS pace: 5 bpm +/- MSS HR: 154 - 164
+- Step 6: Find base pace: Subtract 20 bpm from low end of MSS pace range: 154 - 20 = 134
+- Step 7: Find recovery pace: Less than your lowest base pace HR: < 134
+- Step 8: Find race pace: Multiply .95 by MaxHR: 184 * .95 = 175
+- Step 9: Find Interval Pace: Anything higher than your greatest race pace value (but not more than your MaxHR!). 175 - 184
 
 https://dropitlikeitspots.com/modified-levine-protocol/
 
