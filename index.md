@@ -3,17 +3,17 @@ title: about
 layout: centered
 projects:
     -
-        title:
-        desc:
-        tags:
-        imag:
-        link:
+        title: Dev Mode
+        desc: A browser inspector for your Figma design file.
+        tags: []
+        imag: /src/img/dev-mode-icon.png
+        link: https://www.figma.com/blog/introducing-dev-mode/
     -
-        title:
-        desc:
-        tags:
-        imag:
-        link:
+        title: Beyond Audio
+        desc: Towards a Design Space of Headphones as a Site for Interaction and Sensing
+        tags: [res]
+        imag: /src/img/2023-dis-beyond-audio-icon.png
+        link: /src/papers/2023-dis-beyond-audio.pdf
     -
         title: Kaleidoscope
         desc: A Reflective Documentation Tool for a User Interface Design Course
