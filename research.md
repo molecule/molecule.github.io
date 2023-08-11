@@ -3,6 +3,32 @@ title: papers
 layout: page
 submissions:
     -
+        title: Beyond Audio&#58; Towards a Design Space of Headphones as a Site for Interaction and Sensing
+        authors: Payod Panda, <b>Molly Jane Nicholas</b>, David Nguyen, Eyal Ofek, Michel Pahud, Sean Rintel, Mar Gonzalez-Franco, Ken Hinckley, Jaron Lanier
+        link: /src/papers/2023-dis-beyond-audio.pdf
+        img: /src/img/2023-dis-beyond-audio-icon.png
+        conf: Designing Interactive Systems Conference
+        conf-short: (DIS '23)
+        conf-link: https://dis.acm.org/2023/
+        award: /src/img/noun-trophy-355128.svg
+        award-desc: Best Paper Award
+        links: <a href="/src/papers/2023-dis-beyond-audio.pdf">PDF</a> | <a href="https://www.youtube.com/watch?v=rouu4zHe1cc&ab_channel=ACMSIGCHI">Video</a> | <a href="https://www.microsoft.com/en-us/research/publication/beyond-audio-towards-a-design-space-of-headphones-as-a-site-for-interaction-and-sensing/">Microsoft Blog post</a> | <a href="https://www.microsoft.com/en-us/research/blog/thinking-beyond-audio-augmenting-headphones-for-everyday-digital-interactions/">Microsoft Research Blog Post</a> | <a href="https://www.bigtechwire.com/2023/07/18/revolutionizing-everyday-interactions-microsoft-research-takes-headphones-beyond-audio-with-sensor-enhancement/">Big Tech Wire article</a>
+        video: https://www.youtube.com/watch?v=rouu4zHe1cc&ab_channel=ACMSIGCHI
+        desc: We explore the potential of headphones as a general-purpose input device for both foreground motion-gestures as well as background sensing of user activity.
+    -
+        title: Kaleidoscope&#58; A Reflective Documentation Tool for a User Interface Design Course
+        authors: Sarah Sterman, <b>Molly Jane Nicholas</b>, Janaki Vivrekar, Jessica R. Mindel, Eric Paulos
+        link: /src/papers/2023-chi-kaleidoscope.pdf
+        img: /src/img/2023-chi-kaleidoscope-icon.png
+        conf: ACM Conference on Human Factors in Computing Systems
+        conf-short: (CHI '23)
+        conf-link: https://chi2023.acm.org/
+        award: /src/img/noun-trophy-355128.svg
+        award-desc: Best Paper Award
+        links: <a href="/src/papers/2023-chi-kaleidoscope.pdf">PDF</a> | <a href="https://www.youtube.com/watch?v=lbThxSyM3Ds&ab_channel=ACMSIGCHI">Video</a>
+        video: https://www.youtube.com/watch?v=lbThxSyM3Ds&ab_channel=ACMSIGCHI
+        desc: Documentation can support design work and create opportunities for learning and reflection. We explore how a novel documentation tool for a remote interaction design course provides insight into design process and integrates strategies from expert practice to support studio-style collaboration and reflection. 
+    -
         title: Escapement&#58; A Tool for Interactive Prototyping with Video via Sensor-Mediated Abstraction of Time
         authors: <b>Molly Jane Nicholas</b>, Nicolai Marquardt, Michel Pahud, Nathalie Riche, Hugo Romat, Christopher Collins, David Ledo, Rohan Kadekodi, Badrish Chandramouli, Ken Hinckley
         link: /src/papers/2023-chi-escapement.pdf
