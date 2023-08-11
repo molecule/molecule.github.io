@@ -47,7 +47,7 @@ date: 2023-08-10
     - 9 
     - 10
 
-I call out of work starting at level 5.
+I call out of work starting at level 5. I haven't gone above an 8 since starting Propranolol.
 
 # My migraine history
 
