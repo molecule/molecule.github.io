@@ -15,11 +15,11 @@ projects:
         imag:
         link:
     -
-        title:
-        desc:
-        tags:
-        imag:
-        link:
+        title: Kaleidoscope
+        desc: A Reflective Documentation Tool for a User Interface Design Course
+        tags: [res]
+        imag: /src/img/2023-chi-kaleidoscope-icon.png
+        link: /src/papers/2023-chi-kaleidoscope.pdf
     -
         title: Escapement
         desc: A Tool for Interactive Prototyping with Video via Sensor-Mediated Abstraction of Time
