@@ -3,6 +3,30 @@ title: about
 layout: centered
 projects:
     -
+        title:
+        desc:
+        tags:
+        imag:
+        link:
+    -
+        title:
+        desc:
+        tags:
+        imag:
+        link:
+    -
+        title:
+        desc:
+        tags:
+        imag:
+        link:
+    -
+        title: Escapement
+        desc: A Tool for Interactive Prototyping with Video via Sensor-Mediated Abstraction of Time
+        tags: [res]
+        imag: /src/img/2023-chi-escapement-icon.png
+        link: /src/papers/2023-chi-escapement.pdf
+    -
         title: Puppeteering for Animators
         desc: Preprint of puppet project.
         tags: [res]
