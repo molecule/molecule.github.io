@@ -212,6 +212,9 @@ hidden:
 
 newsfeed:
     -
+        content: Here's <a href="https://www.figma.com/blog/introducing-dev-mode/">one of the projects I'm working on at Figma.</a> We're helping developers and designers collaborate
+        date: 20 June 2023
+    -
         content: Started work as a Researcher at <a href="https://www.figma.com/">Figma!</a>
         date: 26 Sept 2022
     -
