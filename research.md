@@ -3,6 +3,20 @@ title: papers
 layout: page
 submissions:
     -
+        title: Escapement&#58; A Tool for Interactive Prototyping with Video via Sensor-Mediated Abstraction of Time
+        authors: <b>Molly Jane Nicholas</b>, Nicolai Marquardt, Michel Pahud, Nathalie Riche, Hugo Romat, Christopher Collins, David Ledo, Rohan Kadekodi, Badrish Chandramouli, Ken Hinckley
+        link: /src/papers/2023-chi-escapement.pdf
+        img: /src/img/2023-chi-escapement-icon.png
+        conf: ACM Conference on Human Factors in Computing Systems
+        conf-short: (CHI '23)
+        conf-link: https://chi2023.acm.org/
+        award:
+        award-desc:
+        links: <a href="/src/papers/2023-chi-escapement.pdf">PDF</a>
+        video:
+        desc: We introduce "Escapement", a tool that embodies core concept of sensor-mediated abstraction of time for quickly generating video-based interactive prototypes of screen-based applications, share the results of observations of long-term usage of video-escapement techniques with experienced interaction designers, and articulate design choices for supporting a reflective, iterative, and open-ended creative design process.
+
+    -
         title: Creative and Motivational Strategies Used by Expert Creative Practitioners
         authors: <b>Molly Jane Nicholas</b>, Sarah Sterman, Eric Paulos
         link: /src/papers/2022-cc-creative-strategies.pdf
@@ -24,7 +38,7 @@ submissions:
         conf-short: (CSCW '22)
         conf-link: 
         award:
-        links: (PDF Forthcoming)
+        links: <a href="src/papers/2021-cscw-towards-creative-version-control.pdf">PDF</a>
         video:
         desc: An exploration of version control tools and history information management in creative practices. We identify four key considerations for version control in creative work. 1) using versions as a palette of materials, 2) providing confidence and freedom to explore, 3) leveraging low-fidelity version capture, and 4) reflecting on and reusing versions across long time scales. We discuss how these themes can provide insight into future designs and uses of version control systems.
     -
