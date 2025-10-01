@@ -8,44 +8,49 @@ date: 2023-08-10
 
 **Step 2:** Talk with a migraine specialist. You deserve to live pain-free and have migraines that are well-managed. More than 3 per month is unreasonable. I cannot emphasize this enough: the more you let your migraines go untreated, the worse they will get. Prioritize managing them!
 
-**Step 3:** Experiment with medications. I had to try 90% of the things on the following list to find the combination that worked for me. Here's the list of what I tried or heard of - it's worth continuing to experiment until you can find the thing that works for you:
-- Extremely high dose of ibuprofen
+**Step 3:** Experiment with medications. I just brute-forced my way through an extensive (and ever-growing list) to try to find the combination that worked for me. Here's the list of what I tried or heard of - it's worth continuing to experiment until you can find the thing that works for you:
+- Extremely high dose of ibuprofen (like 1000mg)
 - Excedrin migraine
 - Esgic
 - Nose spray (forget the active ingredient here)
 - Caffeine
-- Daith ear piercing
-- Botox
 - Massages
 - Acupuncture
 - Cymbalta
 - Topiramate
-- Propranolol
+- Propranolol (tried 10mg, 20mg, and 60mg extended release)
+- Clonidine HCI
 - Neurofeedback
-- CBD
 - Low-histamine diet
 - Gluten-free diet
 - Ubrelvy
+- Magnesium (malate, glycinate)
 - Triptans (sumatriptan, rizatriptan, naratriptan, etc.)
 
-# My current migraine status
-- ~1 migraine day per month
-- Triggered by physical activity, especially around my period
-- Symptoms are light- and sound-sensitivity, nausea, headache, ears popping, neck / shoulder tightness.
-- Prescription medications: I take 60mg of extended release propranolol daily, and 100mg of Ubrelvy as a rescue med if a migraine starts
-- Supplements: I take 1300mg of evening primrose oil, 400mg of magnesium malate in the AM, 400 mg of magnesium glycinate in the evening, 400mg of Riboflavin (Vitamin B2), and a ton of electrolytes (mostly salt) in pill form.
-- Behaviour: The key is to stay consistent with exercise. I have to get at least 8000 steps per day. I can skip 2 days in a row, but if I skip 3 I'm guaranteed to get a migraine when I start exercising again the 4th day. If I'm going on a more strenuous activity like a long hike, I take 440mg of naproxen immediately in advance to prevent the migraine. I also stay consistent with sleep, hydration, eating, and stress.
-- Pain scale: 
-    - 1 - No symptoms
-    - 2 - Slight symptoms
-    - 3
-    - 4 - Need to focus on something in order to ignore symptoms
-    - 5 - No amount of focus will distract me from symptoms
-    - 6
-    - 7 
-    - 8 - Extreme pain, vomiting
-    - 9 
-    - 10
+Things I didn't try, but would have if I hadn't found something that worked.
+- CBD
+- Daith ear piercing
+- Botox
+
+# My current migraine status (2025)
+- ~4 migraines per month, but very few that actually cause problems. (i.e., I get a migraine, but my rescue medication makes it magically go away). I maybe get 1 every 2 months that are "really bad". I have vomited from a migraine twice in the last 3 years.
+- Triggers: by physical activity (specifically high heart rate) especially around my period.
+- Symptoms are nausea, headache, light-sensitivity, sound-sensitivity, ears popping, neck / shoulder tightness.
+- Prescription medications: I take 0.1mg of Clonidine HCI daily (preventative), and 100mg of Ubrelvy as a rescue med if a migraine starts.
+- Supplements: I take 1300mg of evening primrose oil, 400 mg of magnesium glycinate in the evening, 400mg of Riboflavin (Vitamin B2), 180mg of Allegra (fexofenadine hydrochloride), and a ton mostly salt in pill form.
+- Behaviour: I don't really track my steps anymore - I no longer have to. I basically feel normal! If I'm going on a more strenuous activity like a long or very intense hike, I take 440mg of naproxen immediately in advance to prevent the migraine. I also stay consistent with sleep, hydration, eating, and stress.
+
+Current pain scale: 
+- 1 - No symptoms
+- 2 - Slight symptoms
+- 3
+- 4 - Need to focus on something in order to ignore symptoms
+- 5 - No amount of focus will distract me from symptoms
+- 6
+- 7 
+- 8 - Extreme pain, vomiting
+- 9 
+- 10
 
 I call out of work starting at level 5. I haven't gone above an 8 since starting Propranolol.
 
@@ -67,26 +72,45 @@ FINALLY, around 2015, my brother pointed out the obvious: if I was finally drink
 
 This was a HUGE turning point. This made me completely re-analyze all of my assumptions up to that point. Re-thinking the triggers made me question everything I thought I knew about my own migraines, and I started really really carefully tracking, and doing little "experiments" to try and disambiguate potentially confounding triggers. For example, I got migraines after every hike. I usually hike on sunny days, so was it bright sunlight? Was it squinting in the bright sunlight? Was it something about my sunglasses (which I'd only wear on hikes) or my sunhat? Or the backpack I'd carry? Or my neck position as I looked down at the trail? Was it the food I always ate on hikes? Was it the long drive I typically took before a hike? Was it the altitude change driving to/from a hike?
 
-It was not bright sunlight - hiking on a cloudy day, or in the evening would also trigger a migraine.
-I could wear sunglasses, a hat, and a scarf around my face to block the sun and minimize squinting and still get a migraine. And I could sit at home and squint and not get a migraine.
-Sunglasses, hat, backback or not I'd get a migraine on a hike.
-I have the same neck position while walking on a flat surface and I wouldn't get a migraine.
-Doing an intense hike in my neighborhood (no altitude change, no drive) still triggered a migraine, a relaxed hike in Colorado did not.
-Eating my "hiking snacks" at home: no migraine. Not eating hiking snacks on a hike: migraine.
+- It was not bright sunlight - hiking on a cloudy day, or in the evening would also trigger a migraine.
+- I could wear sunglasses, a hat, and a scarf around my face to block the sun and minimize squinting and still get a migraine. And I could sit at home and squint and not get a migraine.
+- Sunglasses, hat, backback or not I'd get a migraine on a hike.
+- I have the same neck position while walking on a flat surface and I wouldn't get a migraine.
+- Doing an intense hike in my neighborhood (no altitude change, no drive) still triggered a migraine, a relaxed hike in Colorado did not.
+- Eating my "hiking snacks" at home: no migraine. Not eating hiking snacks on a hike: migraine.
 
-After about 2 years of careful notes and tracking, it was clear that my trigger was serious cardio activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine. A very short burst of running (like one block to catch a bus) would trigger a migraine. 
+A particularly weird data point: no matter what I was doing, if I took diamox, I wouldn't get a migraine.
 
-## Migraine specialist number 1
-When I started tracking, it became horrifyingly clear how many migraines I was having: 9 per month. With each migraine lasting 2-3 days, this was clearly unsustainable. I finally spoke with a migraine specialist, who ruled out other neurological issues. We discussed lifestyle changes and medication options. For some reason, I was always really hesitant to take any medication to treat my migraines. I preferred to white knuckle it through the pain, and hope it would magically go away each time (it never did). He suggested beta blockers (which sounded scary). I said no, because they have a common side effect of lowering your blood pressure. I already blacked out every time I stood up - which at the time I thought was caused by low blood pressure - so I opted to not take those. The other option was Topiramate, an anti-seizure medication which can sometimes be effective for migraines. A typical dose for topiramate is something like 3 pills in the morning and 3 at night, which at the time really freaked me out. I refused it. Since lifestyle changes had brought me down from 9 per month to 5 per month, I convinced myself I didn't need any medication.
+After about 2 years of careful notes and tracking, it was clear that my trigger was: serious cardio activity, including major hikes. Even walking the steep hill home from campus would trigger a migraine. A very short burst of running (like one block to catch a bus) would trigger a migraine. 
 
-## Migraine specialist number 2
-In the summer of 2019 I had a summer internship, where I had to work a regular 9-5 job in an office. The need to show up and collaborate on a daily basis really highlighted my disability - I was barely able to fulfill this minimal obligation because I got so many migraines. I made another appointment with a different migraine specialist. I got an MRI to rule out any tumours or other issues (scans were clear), and was prescribed Cymbalta, an old type of antidrepressent which can sometimes work for migraines. The side effects at first were brutal - I had a headache non-stop, couldn't sleep, had horrible nightmares, and just felt awful for about 3 weeks. But I was desperate, so I pushed through. This medication worked ok for maybe 8 months. I was able to slowly ramp up my gym activities, and got to the point where a gentle walk to the beach would not trigger a migraine. I was able to slowly walk around campus (but got a handicapped parking permit to make it easier to get to work since walking across hilly campus in time to attend my classes would still trigger a migraine).
+## Migraine specialist number 1 (2016-2019)
+Once I started seriously tracking, it became horrifyingly clear how many migraines I was having: 9 per month. With each migraine lasting 2-3 days, this was clearly unsustainable. I finally spoke with a migraine specialist, who ruled out other neurological issues. We discussed lifestyle changes and medication options. For some reason, I was always really hesitant to take any medication to treat my migraines. I preferred to white knuckle it through the pain, and hope it would magically go away each time (it never did). He suggested beta blockers (which sounded scary). I said no, because they have a common side effect of lowering your blood pressure. I already blacked out every time I stood up - which at the time I thought was caused by low blood pressure - so I opted to not take those. The other option was Topiramate, an anti-seizure medication which can sometimes be effective for migraines. A typical dose for topiramate is something like 3 pills in the morning and 3 at night, which at the time really freaked me out. I refused it. Since lifestyle changes had brought me down from 9 per month to 5 per month, I convinced myself I didn't need any medication.
 
-Then COVID hit in March of 2020, and all of the gyms closed. In those early days, I didn't know what was safe and what wasn't and basically stayed home for 3 weeks, resetting all my progress. When I tried to do normal activity again, I had severley regressed. By April 2020 I was unable to climb stairs, or walk down the block - both would trigger a migraine.
+My pain scale at this point looked like this:
 
-At this point I became virtually housebound since our house was only accessible by climbing 80 steep stairs. 
+- Pain scale: 
+    - 1 - No symptoms
+    - 2 - Light headache, nausea, light-sensitivity
+    - 3 - Strong headache, nausea, light-sensitivity
+    - 4 - Extreme pain, vomiting
+    - 5 
+    - 6
+    - 7 
+    - 8 
+    - 9 
+    - 10
 
-## Migraine specialist number 3
+In case you can't tell, my pain scale was basically binary. I mean if 0 is "no pain" and 1 is "a lot of pain"....that's not normal. AND: I was almost never at a 0. I essentially had a migraine all the time. I'm sure I don't need to tell you that this was unreasonable. Unfortunately, it seemed totally normal to me at the time. I would only call out of work if I was activevly vomiting. I vividly remember working in the lab with a "level 3", and I'd take a break from working with my collaborator to clutch my head on the floor. My collaborator was rightly horrified, and suggested I go home. But, because level 3 was so normal to me, I couldn't even imagine going home / not working. A common phrase at this point in my life: ``If I stopped working every time I had a migraine, I'd never do any work''. Uh...yeah - that's a red flag to treat your migraines, NOT encouragement to power through them. But there we were.
+
+## Migraine specialist number 2 (2019-2019)
+In the summer of 2019 I had a summer internship, where I had to work a regular 9-5 job in an office. The need to show up and collaborate on a daily basis really highlighted my disability - I was barely able to fulfill this basic obligation because I got so many migraines. In desperation, I made another appointment with a different migraine specialist. I got an MRI to rule out any tumours or other issues (because "exertional migraines" are apparently a red flag for tumors, but my scans were clear), and was prescribed Cymbalta, an old type of antidrepressent which can sometimes work for migraines. The side effects at first were brutal - I had a headache non-stop, couldn't sleep, had horrible nightmares, and just felt awful for about 3 weeks. But I was desperate, so I pushed through. This medication worked ok for maybe 8 months. I was able to slowly ramp up my gym activities, and got to the point where a gentle walk to the beach would not trigger a migraine. I was able to slowly walk around campus. Unfortunately, walking at a normal pace would still trigger a migraine. I got a temporary handicapped parking permit to make it easier to get around since walking across hilly campus would still trigger a migraine.
+
+Then COVID hit in March of 2020, and all of the gyms closed. In those early days, when none of us knew what was safe and what wasn't in terms of COVID, I basically stayed home for 3 weeks, resetting all my progress. When I tried to do normal activity again, I had severely regressed. By April 2020 I was unable to climb stairs, or walk down the block - both would trigger a migraine.
+
+At this point I became completely housebound since our house was only accessible by climbing 80 steep stairs. 
+
+
+## Migraine specialist number 3 (2021-2025)
 Finally I met my saviour. Dr. Ellis took an extensive history. Notably she zeroed into the "exertional" element of my issue. We took my HR during the call, which showed my resting HR as 115. This was a big red flag for her.
 
 She recommended I avoid my triggers for 3 weeks, and then we'd taper me off the Cymbalta (the taper experience was HORRIBLE) and start on a very low dose of topiramate. During that 3 week break, I barely left my chair at home. Unfortunately, "avoiding my triggers" was a big mistake. It's not possible to completely avoid physical activity, and resting just lowered the threshold for what would trigger a migraine. 2 weeks in, I triggered a migraine from changing the sheets, and another from hanging IKEA curtains after washing them. 
@@ -95,7 +119,14 @@ This seemed normal to me, but she was concerned, so recommended I get evaluated 
 
 Next I bought a heart rate monitor, which let me identify specifically: If my HR exceeds 145BPM for more than a few minutes, I am virtually guaranteed to get a migraine. Additionally, my resting HR was extremely high (100), my HR would go up and stay up any time I was standing (130-140), and would spike if I bent over (175-180) or walked up stairs. Several cardiologist appointments later and I was officially diagnosed with POTS. This explained why weight lifting didn't trigger a migraine even though it is intense "activity" - my HR doesn't go up when I'm pumping iron, but speed-walking for a block my HR will skyrocket and give me an instant migraine.
 
-We immediately tapered me off the topiramate, and started with a low dose of propranolol, a medication that helps to control heart rate. This was the beginning of well-managed migraines for me. You can read above for my current migraine status.
+We immediately tapered me off the topiramate, and started with a low dose of propranolol (10mg, 3x/day), a medication that helps to control heart rate. This was the beginning of well-managed migraines for me. You can read above for my current migraine status. Eventually, I increased to 20mg 3x/day, and then 60mg extended release. This got me through 2025 and literally saved my life.
+
+At this point, I also had to be extremely strict with my behaviour. The key was to stay consistent with exercise. I have to get at least 8000 steps per day. I can skip 2 days in a row, but if I skip 3 I'm guaranteed to get a migraine when I start exercising again the 4th day. I can't vary from my daily rate of 8k steps by more than 2k (e.g., if I only get 5000 steps in a day, then I'll get a migraine if I go back to 8k the next day: at most I could go back to 7k). If I'm going on a more strenuous activity like a long hike, I take 440mg of naproxen immediately in advance to prevent the migraine. I also stay consistent with sleep, hydration, eating, and stress.
+
+Eventually, I went back to my migraine doctor because I was pretty tired of having to be so strict with my activity. That got me to my current medication regimen (see above).
+
+## Migraine specialist number 4 (2025-Present)
+Unfortunately, Dr. Ellis left the country / semi-retired (happy for her!), so I'm about to start with Dr. Victor Wang. We'll see how it goes!
 
 
 ## POTS
