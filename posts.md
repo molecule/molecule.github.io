@@ -2,9 +2,20 @@
 layout: page
 title: posts
 ---
+
+# trips
+Trip reports
+<ul class="trip-list">
+{% for trip in site.trips reversed %}
+<li>
+<a class="trip-link" href="{{ trip.url | prepend: site.baseurl }}">
+{{ trip.title }}</a> - {{ trip.description | truncate: 160 }}
+</li>
+{% endfor %}
+</ul>
+
 # posts
 Click below for various blog posts I've written.
-
 <ul class="post-list">
 {% for post in site.post reversed %}
 <li>
@@ -22,17 +33,6 @@ A collection of my favourite recipes.
 <li>
 <a class="recipe-link" href="{{ recipe.url | prepend: site.baseurl }}">
 {{ recipe.title }}</a> - {{ recipe.description | truncate: 160 }}
-</li>
-{% endfor %}
-</ul>
-
-# trips
-Trip reports
-<ul class="trip-list">
-{% for trip in site.trips reversed %}
-<li>
-<a class="trip-link" href="{{ trip.url | prepend: site.baseurl }}">
-{{ trip.title }}</a> - {{ trip.description | truncate: 160 }}
 </li>
 {% endfor %}
 </ul>
