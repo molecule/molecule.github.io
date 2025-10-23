@@ -260,8 +260,14 @@ hidden:
 
 newsfeed:
     -
+        content: We visited Switzerland! <a href="https://www.molecule.github.io/trips/switzerland/">Check out our trip report here</a>
+        date: 9 Sept 2025
+    -
         content: Here's <a href="https://www.figma.com/blog/introducing-dev-mode/">one of the projects I'm working on at Figma.</a> We're helping developers and designers collaborate
         date: 20 June 2023
+    -
+        content: Holy cow we bought a house.
+        date: 7 Nov 2022
     -
         content: Started work as a Researcher at <a href="https://www.figma.com/">Figma!</a>
         date: 26 Sept 2022
