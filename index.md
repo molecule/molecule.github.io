@@ -2,6 +2,12 @@
 title: about
 layout: centered
 projects:
+    - 
+        title: Visiting Switzerland
+        desc: Hikes, glacial lakes, and mountain huts.
+        tags: []
+        imag: /src/img/schweiz/schweiz-icon.jpeg
+        link: https://www.molecule.github.io/trips/switzerland/
     -
         title: Figma's Dev Mode
         desc: A browser inspector for your Figma design file.
