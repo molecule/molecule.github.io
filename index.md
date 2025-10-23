@@ -106,6 +106,12 @@ projects:
         imag: /src/img/2018-chi-alterwear-shoe-toe-only.png
         link: /src/papers/AlterWear_chi2018.pdf
     -
+        title: Visiting Sweden
+        desc: Cross-country skiing to mountain huts.
+        tags: []
+        imag: /src/img/sweden/sweden-icon.jpg
+        link: https://www.molecule.github.io/trips/northern-lights-in-northern-sweden/
+    -
         title: HäirIÖ
         desc: Click for TEI'18 paper PDF.
         tags: [res, wear]
