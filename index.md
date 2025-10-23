@@ -21,6 +21,12 @@ projects:
         imag: /src/img/2023-dis-beyond-audio-icon.png
         link: /src/papers/2023-dis-beyond-audio.pdf
     -
+        title: Visiting Italy
+        desc: Hikes, and mountain huts.
+        tags: []
+        imag: /src/img/italia/dolomites-icon.jpg
+        link: https://www.molecule.github.io/trips/italia-dolomites/
+    -
         title: Kaleidoscope
         desc: A Reflective Documentation Tool for a User Interface Design Course
         tags: [res]
