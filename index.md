@@ -94,6 +94,12 @@ projects:
         imag: /src/img/2019-tei-cwa-gif.gif
         link: /src/papers/conversation-w-actuators.pdf
     -
+        title: Cross-country Yosemite
+        desc: Cross-country skiing to the gift shop.
+        tags: []
+        imag: /src/img/yosemite/2018-25/yosemite-icon.jpg
+        link: https://www.molecule.github.io/trips/yosemite-glacier-point-ski-trip/
+    -
         title: Guardians of History
         desc: Click for DIS'18 paper PDF.
         tags: [res, cla]
