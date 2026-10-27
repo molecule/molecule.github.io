@@ -2,6 +2,12 @@
 title: about
 layout: centered
 projects:
+    -
+        title: Visiting India
+        desc: Temples, shopping, and historic sites
+        tags: []
+        imag: /src/img/india/jaipur-stepwell-4.jpg
+        link: https://www.molecule.github.io/trips/india/
     - 
         title: Visiting Switzerland
         desc: Hikes, glacial lakes, and mountain huts.
@@ -259,6 +265,9 @@ hidden:
         link: /project/good-person
 
 newsfeed:
+    -
+        content: I went to India! <a href="https:www.molecule.github.io/trips/india/">Check out my trip report here</a>
+        date: 22 Oct 2026
     -
         content: We visited Switzerland! <a href="https://www.molecule.github.io/trips/switzerland/">Check out our trip report here</a>
         date: 9 Sept 2025
