@@ -266,7 +266,7 @@ hidden:
 
 newsfeed:
     -
-        content: I went to India! <a href="https:www.molecule.github.io/trips/india/">Check out my trip report here</a>
+        content: I went to India! <a href="https://www.molecule.github.io/trips/india/">Check out my trip report here</a>
         date: 22 Oct 2026
     -
         content: We visited Switzerland! <a href="https://www.molecule.github.io/trips/switzerland/">Check out our trip report here</a>
