@@ -266,10 +266,10 @@ hidden:
 
 newsfeed:
     -
-        content: I went to India! <a href="https://www.molecule.github.io/trips/india/">Check out my trip report here</a>
+        content: I went to India! <a href="/trips/india/">Check out my trip report here</a>
         date: 22 Oct 2026
     -
-        content: We visited Switzerland! <a href="https://www.molecule.github.io/trips/switzerland/">Check out our trip report here</a>
+        content: We visited Switzerland! <a href="/trips/switzerland/">Check out our trip report here</a>
         date: 9 Sept 2025
     -
         content: Here's <a href="https://www.figma.com/blog/introducing-dev-mode/">one of the projects I'm working on at Figma.</a> We're helping developers and designers collaborate
